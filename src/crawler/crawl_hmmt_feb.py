@@ -45,18 +45,38 @@ def fetch_text(url: str) -> str:
 
 
 def parse_name_team(tail: str) -> tuple[str, str]:
-    """Parse 'Name (Team)' or empty string into (name, team). Handles nested parens in team (e.g. 'Essential Academy1 (Unranked *)')."""
+    """
+    Parse 'Name (Team)' or empty string into (name, team).
+    Handles:
+    - Nested parens in team (e.g. 'Essential Academy1 (Unranked *)')
+    - Parens inside the name (e.g. 'Yibo(Tom) Zhang (Florida Beaches)')
+    """
     tail = tail.strip()
     if not tail:
         return "", ""
-    # Format is "Name (Team)" where Team can contain nested parens. Use first "(" and last ")".
-    if tail.endswith(")"):
-        first_open = tail.find("(")
-        if first_open >= 0:
-            name = tail[:first_open].strip().rstrip()
-            team = tail[first_open + 1 : -1].strip()
-            return name, team
-    return tail, ""
+    if not tail.endswith(")"):
+        return tail, ""
+
+    # Find the '(' that matches the final ')', correctly handling nested parens.
+    depth = 0
+    open_idx = -1
+    for i in range(len(tail) - 1, -1, -1):
+        c = tail[i]
+        if c == ")":
+            depth += 1
+        elif c == "(":
+            depth -= 1
+            if depth == 0:
+                open_idx = i
+                break
+
+    if open_idx == -1:
+        # Unbalanced parens; fall back to treating whole tail as name.
+        return tail, ""
+
+    name = tail[:open_idx].strip()
+    team = tail[open_idx + 1 : -1].strip()
+    return name, team
 
 
 def extract_individual_section(text: str) -> list[str]:
