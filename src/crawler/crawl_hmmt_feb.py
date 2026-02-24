@@ -131,19 +131,23 @@ def load_existing_students_and_teams(
 ) -> tuple[
     dict[tuple[str, str], int],
     dict[str, int],
-    list[tuple[int, str, int, str]],
+    list[tuple[int, str, str, str]],
     list[tuple[int, str]],
     int,
     int,
+    dict[int, str],
 ]:
     """
     Load existing students.csv and teams.csv if present.
-    Returns (student_key_to_id, team_name_to_id, student_list, team_list, next_sid, next_tid).
-    student_key_to_id: (student_name, team_name) -> student_id (one entry per (name, team) for each team in student's team_ids).
-    student_list entries: (student_id, student_name, team_ids_str, alias); team_ids_str is e.g. "1" or "1|5".
+    Returns (student_key_to_id, team_name_to_id, student_list, team_list, next_sid, next_tid, team_id_to_associated).
+
+    - student_key_to_id: (student_name, team_name) -> student_id (one entry per (name, team) for each team in student's team_ids).
+    - student_list entries: (student_id, student_name, team_ids_str, alias); team_ids_str is e.g. "1" or "1|5".
+    - team_id_to_associated: team_id -> associated_team_ids string (e.g. "1|32|73"), if present in teams.csv.
     """
     team_id_to_name: dict[int, str] = {}
     team_name_to_id: dict[str, int] = {}
+    team_id_to_associated: dict[int, str] = {}
     student_list: list[tuple[int, str, str, str]] = []
     student_key_to_id: dict[tuple[str, str], int] = {}
     next_sid, next_tid = 1, 1
@@ -151,12 +155,18 @@ def load_existing_students_and_teams(
     if teams_path.exists():
         with open(teams_path, encoding="utf-8") as f:
             r = csv.DictReader(f)
+            fieldnames = r.fieldnames or []
+            has_associated = "associated_team_ids" in fieldnames
             for row in r:
                 tid = int(row["team_id"])
                 tname = (row.get("team_name") or "").strip()
                 team_id_to_name[tid] = tname
                 if tname:
                     team_name_to_id[tname] = tid
+                if has_associated:
+                    assoc_raw = (row.get("associated_team_ids") or "").strip()
+                    if assoc_raw:
+                        team_id_to_associated[tid] = assoc_raw
                 next_tid = max(next_tid, tid + 1)
 
     if students_path.exists():
@@ -172,14 +182,51 @@ def load_existing_students_and_teams(
                 team_ids_str = "|".join(str(int(x.strip())) for x in str(team_ids_raw).split("|") if x.strip())
                 alias = (row.get("alias") or "").strip()
                 student_list.append((sid, name, team_ids_str, alias))
+
+                # For each team the student already has, register keys for all
+                # associated teams in the same group so that future crawls
+                # (e.g. LV Fire vs Lehigh Valley Fire vs Lehigh Valley Ice,
+                # or Thomas Jefferson A vs TJ-A) map to the SAME student id.
                 for tid_str in team_ids_str.split("|"):
-                    tname = team_id_to_name.get(int(tid_str), "")
-                    if tname or tid_str:
-                        student_key_to_id[(name, tname)] = sid
+                    tid_str = tid_str.strip()
+                    if not tid_str:
+                        continue
+                    try:
+                        tid = int(tid_str)
+                    except ValueError:
+                        continue
+
+                    # Build the full set of associated team_ids for this tid.
+                    assoc_ids: set[int] = {tid}
+                    assoc_raw = (team_id_to_associated.get(tid) or "").strip()
+                    if assoc_raw:
+                        for tok in assoc_raw.split("|"):
+                            tok = tok.strip()
+                            if not tok:
+                                continue
+                            try:
+                                assoc_ids.add(int(tok))
+                            except ValueError:
+                                continue
+
+                    # Register (name, team_name) for every team in the group.
+                    for assoc_tid in assoc_ids:
+                        tname = (team_id_to_name.get(assoc_tid) or "").strip()
+                        if tname or assoc_tid:
+                            student_key_to_id[(name, tname)] = sid
+
                 next_sid = max(next_sid, sid + 1)
 
     team_list = [(tid, tname) for tname, tid in sorted(team_name_to_id.items(), key=lambda x: x[1])]
-    return student_key_to_id, team_name_to_id, student_list, team_list, next_sid, next_tid
+    return (
+        student_key_to_id,
+        team_name_to_id,
+        student_list,
+        team_list,
+        next_sid,
+        next_tid,
+        team_id_to_associated,
+    )
 
 
 def build_teams_and_students(
@@ -188,16 +235,41 @@ def build_teams_and_students(
     existing_team_name_to_id: dict[str, int],
     existing_student_list: list[tuple[int, str, str, str]],
     existing_team_list: list[tuple[int, str]],
+    existing_team_id_to_associated: dict[int, str],
     next_sid: int,
     next_tid: int,
-) -> tuple[list[tuple[int, str]], list[tuple[int, str, str, str]], dict[tuple[str, str], int]]:
+) -> tuple[
+    list[tuple[int, str]],
+    list[tuple[int, str, str, str]],
+    dict[tuple[str, str], int],
+    dict[int, str],
+]:
     """
     Merge parsed results with existing students/teams. Reuse existing (name, team) -> student_id.
     No team alias: (name, team_name) identifies the student. student_list: (sid, name, team_ids_str, alias).
+
+    Returns (team_list, student_list, student_key_to_id, team_id_to_associated).
     """
     student_key_to_id = dict(existing_student_key_to_id)
     team_name_to_id = dict(existing_team_name_to_id)
-    new_students: list[tuple[int, str, str, str]] = []
+    team_id_to_associated = dict(existing_team_id_to_associated)
+    # Work with mutable per-student team-id sets so we can grow team_ids
+    # for existing students when they appear on additional (associated) teams.
+    sid_to_name_alias: dict[int, tuple[str, str]] = {}
+    sid_to_team_ids: dict[int, set[int]] = {}
+    for sid, name, team_ids_str, alias in existing_student_list:
+        sid_to_name_alias[sid] = (name, alias)
+        teams: set[int] = set()
+        for tid_str in str(team_ids_str).split("|"):
+            tid_str = tid_str.strip()
+            if not tid_str:
+                continue
+            try:
+                teams.add(int(tid_str))
+            except ValueError:
+                continue
+        sid_to_team_ids[sid] = teams
+
     new_team_names: set[str] = set()
 
     for row in parsed:
@@ -208,34 +280,67 @@ def build_teams_and_students(
             continue  # do not create teams or students with empty team name
         key = (name, team)
         if key not in student_key_to_id:
-            student_key_to_id[key] = next_sid
+            # New (name, team) combination → possibly new team, definitely new student id.
             if team not in team_name_to_id:
                 team_name_to_id[team] = next_tid
                 next_tid += 1
                 new_team_names.add(team)
             tid = team_name_to_id[team]
-            new_students.append((next_sid, name, str(tid), ""))
+
+            student_key_to_id[key] = next_sid
+            sid = next_sid
             next_sid += 1
+
+            # Initialise structures for this brand-new student.
+            sid_to_name_alias[sid] = (name, "")
+            sid_to_team_ids.setdefault(sid, set())
+        else:
+            # Existing student; just look up ids.
+            sid = student_key_to_id[key]
+            if team not in team_name_to_id:
+                # Shouldn't normally happen, but be defensive.
+                team_name_to_id[team] = next_tid
+                next_tid += 1
+                new_team_names.add(team)
+            tid = team_name_to_id[team]
+
+        # Ensure this student's team_ids contains the full associated group
+        # for this team id (e.g. LV Fire / Lehigh Valley Fire / Lehigh Valley Ice).
+        teams = sid_to_team_ids.setdefault(sid, set())
+        assoc_ids: set[int] = set()
+        assoc_ids.add(tid)
+        assoc_raw = (team_id_to_associated.get(tid) or "").strip()
+        if assoc_raw:
+            for tok in assoc_raw.split("|"):
+                tok = tok.strip()
+                if not tok:
+                    continue
+                try:
+                    assoc_ids.add(int(tok))
+                except ValueError:
+                    continue
+        teams.update(assoc_ids)
 
     team_list = list(existing_team_list)
     for tname in sorted(new_team_names, key=lambda t: team_name_to_id[t]):
-        team_list.append((team_name_to_id[tname], tname))
-    student_list = existing_student_list + new_students
-    # Only keep teams that are still used by at least one student (team_ids can be "1" or "1|5")
-    used_team_ids: set[int] = set()
-    for row in student_list:
-        for tid_str in row[2].split("|"):
-            if tid_str.strip():
-                used_team_ids.add(int(tid_str))
-    tid_to_name = {tid: tname for tname, tid in team_name_to_id.items()}
-    # Only include teams that have a name (never write a team without a name)
-    team_list = [
-        (tid, tid_to_name[tid])
-        for tid in sorted(used_team_ids)
-        if tid in tid_to_name and (tid_to_name[tid] or "").strip()
-    ]
+        tid = team_name_to_id[tname]
+        team_list.append((tid, tname))
+        # Preserve existing associated_team_ids where present; new teams default to empty.
+        if tid not in team_id_to_associated:
+            team_id_to_associated[tid] = ""
 
-    return team_list, student_list, student_key_to_id
+    # Rebuild student_list from the aggregated sid → teams mapping.
+    student_list: list[tuple[int, str, str, str]] = []
+    for sid in sorted(sid_to_name_alias.keys()):
+        name, alias = sid_to_name_alias[sid]
+        teams = sid_to_team_ids.get(sid, set())
+        team_ids_str = "|".join(str(tid) for tid in sorted(teams)) if teams else ""
+        student_list.append((sid, name, team_ids_str, alias))
+
+    # Do NOT drop "unused" teams: keep the full mapping of team ids and names
+    # so that team ids remain stable across crawls, which is important for
+    # features like associated_team_ids and for hand-curated associations.
+    return team_list, student_list, student_key_to_id, team_id_to_associated
 
 
 def main() -> None:
@@ -270,15 +375,22 @@ def main() -> None:
         existing_team_list,
         next_sid,
         next_tid,
+        existing_team_id_to_associated,
     ) = load_existing_students_and_teams(students_path, teams_path)
     print(f"Loaded {len(existing_student_list)} existing students, {len(existing_team_list)} existing teams")
 
-    team_list, student_list, key_to_sid = build_teams_and_students(
+    (
+        team_list,
+        student_list,
+        key_to_sid,
+        team_id_to_associated,
+    ) = build_teams_and_students(
         parsed_named,
         existing_key_to_sid,
         existing_team_name_to_id,
         existing_student_list,
         existing_team_list,
+        existing_team_id_to_associated,
         next_sid,
         next_tid,
     )
@@ -287,10 +399,11 @@ def main() -> None:
     # Write teams.csv and students.csv (merged)
     with open(teams_path, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["team_id", "team_name"])
+        w.writerow(["team_id", "team_name", "associated_team_ids"])
         for team_id, team_name in team_list:
             if (team_name or "").strip():
-                w.writerow([team_id, team_name])
+                assoc = (team_id_to_associated.get(team_id) or "").strip()
+                w.writerow([team_id, team_name, assoc])
     print("Wrote", teams_path)
 
     with open(students_path, "w", newline="", encoding="utf-8") as f:

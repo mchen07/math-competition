@@ -1,72 +1,82 @@
-team_id,team_name
-1,LV Fire
-2,San Diego A1
-3,PEA Chestnuts
-4,Utah Arches
-5,Leading Aces Academy 1
-6,MN gold
-7,Washington Gold 1
-8,All Aces Dream
-9,AlphaStar Academy AIR
-10,Thomas Jefferson High School for Science and Technology A
-11,No Coast Best Coast
-12,NC School of Science & Math - Team alpha
-13,St. Mark's School of Texas Team M
-14,Phillips Academy 1778
-15,Texas Momentum B
-16,AlphaStar Academy FIRE
-17,QingLong
-18,Harker Omega
-19,Florida Alligators
-20,Washington Gold 2
-21,Bonnie Branch Math Circle Delta
-22,Individuals 1
-23,Cardigans
-24,Texas Momentum A
-25,Ohio ARML B
-26,Lexington Alpha
-27,Random Math Team Blue
-28,121NH
-29,Upstate New York Math Team
-30,Motown All-Stars-A
-31,Georgia Mathletes A
-32,Lehigh Valley Fire
-33,Essential Academy1 (Unranked *)
-34,Motown All-Stars
-35,BaiHu
-36,ORIGINAL
-37,Ohio ARML A
-38,Southern California Areteem
-39,Think Team A
-40,nGnu Unscrambled
-41,IowaCity
-42,PRISMS Falcons
-43,Connecticut Cyborgs
-44,Beijing Loong
-45,Bergen County Academies Team 1
-46,Individuals 4
-47,Individuals 6
-48,Exeter Red
-49,Tin Man
-50,Cougars B
-51,Florida Beaches
-52,Mathsyyds
-53,Individuals 7
-54,MG VARNA A
-55,Colorado Mathletes
-56,WWP A
-57,Hotchkiss Indigo
-58,Retro Salad
-59,San Diego A2
-60,Random Math Team A
-61,Yu's Alligator
-62,KGSEA Math Circle B
-63,PEA Lion
-64,Pentagon Hexagon Oregon A
-65,Montgomery County Team 1
-66,Pirates A
-67,Mix BG
-68,Poolesville Magnet High School Math Team A
-69,Gunn Black
-70,No Coast Best Coast 2
-71,PEA Red
+team_id,team_name,associated_team_ids
+1,LV Fire,1|32|73
+2,San Diego A1,
+3,PEA Chestnuts,
+4,Utah Arches,
+5,Leading Aces Academy 1,
+6,MN gold,
+7,Washington Gold 1,
+8,All Aces Dream,
+9,AlphaStar Academy AIR,
+10,Thomas Jefferson High School for Science and Technology A,10|72
+11,No Coast Best Coast,
+12,NC School of Science & Math - Team alpha,
+13,St. Mark's School of Texas Team M,
+14,Phillips Academy 1778,
+15,Texas Momentum B,
+16,AlphaStar Academy FIRE,
+17,QingLong,
+18,Harker Omega,
+19,Florida Alligators,
+20,Washington Gold 2,
+21,Bonnie Branch Math Circle Delta,
+22,Individuals 1,
+23,Cardigans,
+24,Texas Momentum A,
+25,Ohio ARML B,
+26,Lexington Alpha,
+27,Random Math Team Blue,
+28,121NH,
+29,Upstate New York Math Team,
+30,Motown All-Stars-A,
+31,Georgia Mathletes A,
+32,Lehigh Valley Fire,1|32|73
+33,Essential Academy1 (Unranked *),
+34,Motown All-Stars,
+35,BaiHu,
+36,ORIGINAL,
+37,Ohio ARML A,
+38,Southern California Areteem,
+39,Think Team A,
+40,nGnu Unscrambled,
+41,IowaCity,
+42,PRISMS Falcons,
+43,Connecticut Cyborgs,
+44,Beijing Loong,
+45,Bergen County Academies Team 1,
+46,Individuals 4,
+47,Individuals 6,
+48,Exeter Red,
+49,Tin Man,
+50,Cougars B,
+51,Florida Beaches,
+52,Mathsyyds,
+53,Individuals 7,
+54,MG VARNA A,
+55,Colorado Mathletes,
+56,WWP A,
+57,Hotchkiss Indigo,
+58,Retro Salad,
+59,San Diego A2,
+60,Random Math Team A,
+61,Yu's Alligator,
+62,KGSEA Math Circle B,
+63,PEA Lion,
+64,Pentagon Hexagon Oregon A,
+65,Montgomery County Team 1,
+66,Pirates A,
+67,Mix BG,
+68,Poolesville Magnet High School Math Team A,
+69,Gunn Black,
+70,No Coast Best Coast 2,
+71,PEA Red,
+72,TJ-A,10|72
+73,Lehigh Valley Ice,1|32|73
+74,Random Math Team C,
+75,Motown All Stars,
+76,Western Mass ARML Stars,
+77,Orange County Math Circle BrawlphaStars,
+78,MN All-State Math Team 1 - Gold,
+79,EddieSolo,
+80,Pleasanton A,
+81,Burgas A,
