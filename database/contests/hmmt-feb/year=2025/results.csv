@@ -1,8 +1,8 @@
 student_id,student_name,year,rank,total_score,algebra_score,geometry_score,combinatorics_score
 1,Alexander Wang,2025,1,116.64,48.97,37.08,30.59
-52,Aiden Yuchan Jung  (Essential Academy1 (Unranked *)),2025,0,103.72,44.53,39.23,19.96
+52,Aiden Yuchan Jung,2025,0,103.72,44.53,39.23,19.96
 53,Xiaohan Zhang,2025,2,94.11,39.16,29.64,25.31
-54,HyunWoo Choi (Essential Academy1 (Unranked *)),2025,0,93.91,23.09,37.08,33.74
+54,HyunWoo Choi,2025,0,93.91,23.09,37.08,33.74
 2,Bryan Sicheng Guo,2025,3,93.85,31.59,37.08,25.17
 55,Zongshu Wu,2025,4,86.58,34.8,29.59,22.19
 56,Channing Yang,2025,5,83.53,39.18,34.03,10.32

@@ -49,12 +49,13 @@ def parse_name_team(tail: str) -> tuple[str, str]:
     tail = tail.strip()
     if not tail:
         return "", ""
-    # Find the last "(" so team can contain ")" e.g. "Essential Academy1 (Unranked *)"
-    last_open = tail.rfind("(")
-    if last_open >= 0 and tail.endswith(")"):
-        name = tail[:last_open].strip().rstrip()
-        team = tail[last_open + 1 : -1].strip()
-        return name, team
+    # Format is "Name (Team)" where Team can contain nested parens. Use first "(" and last ")".
+    if tail.endswith(")"):
+        first_open = tail.find("(")
+        if first_open >= 0:
+            name = tail[:first_open].strip().rstrip()
+            team = tail[first_open + 1 : -1].strip()
+            return name, team
     return tail, ""
 
 
