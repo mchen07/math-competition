@@ -6018,6 +6018,16 @@
           "state": "Virginia",
           "rank": "42",
           "grade": "7"
+        },
+        {
+          "contest": "MATHCOUNTS National",
+          "year": "2021",
+          "contest_slug": "mathcounts-national",
+          "state": "Virginia",
+          "student_name": "Alexander Gu",
+          "grade": "8",
+          "city": "Fairfax",
+          "school": "Frost Middle School"
         }
       ]
     },
@@ -15758,23 +15768,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        }
-      ]
-    },
-    {
-      "id": 305,
-      "name": "Alexander Gu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Virginia",
-          "student_name": "Alexander Gu",
-          "grade": "8",
-          "city": "Fairfax",
-          "school": "Frost Middle School"
         }
       ]
     },
