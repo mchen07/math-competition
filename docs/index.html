@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Math Competition — Student Records</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <h1>Math Competition Records</h1>
+    <p class="tagline">Search by student name to view competition history</p>
+  </header>
+
+  <main class="main">
+    <div class="search-wrap">
+      <label for="search" class="sr-only">Search by student name</label>
+      <input
+        type="search"
+        id="search"
+        class="search-input"
+        placeholder="Type a student name…"
+        autocomplete="off"
+        aria-describedby="search-hint"
+      >
+      <span id="search-hint" class="search-hint" aria-live="polite"></span>
+    </div>
+
+    <div id="results" class="results"></div>
+    <div id="empty" class="empty-state" hidden>
+      <p>No students match your search. Try a different name or partial name.</p>
+    </div>
+    <div id="loading" class="loading" aria-live="polite">Loading data…</div>
+  </main>
+
+  <footer class="footer">
+    <p>Data from <code>math-competition</code> database. Re-run <code>scripts/build_search_data.py</code> to refresh.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
