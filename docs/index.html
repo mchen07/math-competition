@@ -13,6 +13,15 @@
   <header class="header">
     <h1>Math Competition Records</h1>
     <p class="tagline">Search by student name to view competition history</p>
+    <button type="button" id="contest-list-trigger" class="contest-list-trigger" aria-expanded="false" aria-haspopup="true" aria-controls="contest-list-popover">Contests in this database</button>
+    <div id="contest-list-popover" class="contest-list-popover" hidden role="dialog" aria-labelledby="contest-list-popover-title">
+      <div class="contest-list-popover-inner">
+        <h2 id="contest-list-popover-title" class="contest-list-popover-title">Contests in this database</h2>
+        <div id="contest-list" class="contest-list"></div>
+        <button type="button" class="contest-list-popover-close" aria-label="Close">×</button>
+      </div>
+      <div class="contest-list-popover-backdrop" aria-hidden="true"></div>
+    </div>
   </header>
 
   <main class="main">

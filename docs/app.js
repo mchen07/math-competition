@@ -7,6 +7,7 @@
   var emptyEl = document.getElementById("empty");
   var loadingEl = document.getElementById("loading");
   var hintEl = document.getElementById("search-hint");
+  var contestListEl = document.getElementById("contest-list");
 
   function setLoading(busy) {
     loadingEl.setAttribute("aria-busy", busy ? "true" : "false");
@@ -151,6 +152,66 @@
     );
   }
 
+  function renderContestList() {
+    if (!contestListEl) return;
+    var contests = data.contests || {};
+    var yearsBySlug = {};
+    var students = data.students || [];
+    for (var s = 0; s < students.length; s++) {
+      var recs = students[s].records || [];
+      for (var r = 0; r < recs.length; r++) {
+        var slug = recs[r].contest_slug;
+        if (!slug) continue;
+        if (!yearsBySlug[slug]) yearsBySlug[slug] = {};
+        yearsBySlug[slug][recs[r].year] = true;
+      }
+    }
+    var slugs = [];
+    for (var k in contests) if (Object.prototype.hasOwnProperty.call(contests, k)) slugs.push(k);
+    slugs.sort();
+    var parts = [];
+    for (var i = 0; i < slugs.length; i++) {
+      var slug = slugs[i];
+      var c = contests[slug];
+      var name = (c && c.contest_name) ? c.contest_name : slug;
+      var years = [];
+      if (yearsBySlug[slug]) {
+        for (var y in yearsBySlug[slug]) if (Object.prototype.hasOwnProperty.call(yearsBySlug[slug], y)) years.push(y);
+        years.sort(function (a, b) { return b.localeCompare(a, undefined, { numeric: true }); });
+      }
+      var nameAndYears = name + (years.length ? " (" + years.join(", ") + ")" : "");
+      if (c && c.website) {
+        parts.push("<a href=\"" + escapeHtml(c.website) + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"contest-list-link\">" + escapeHtml(nameAndYears) + "</a>");
+      } else {
+        parts.push("<span class=\"contest-list-item\">" + escapeHtml(nameAndYears) + "</span>");
+      }
+    }
+    contestListEl.innerHTML = parts.length ? parts.join("<span class=\"contest-list-sep\"> · </span>") : "";
+  }
+
+  function bindContestListPopover() {
+    var trigger = document.getElementById("contest-list-trigger");
+    var popover = document.getElementById("contest-list-popover");
+    var closeBtn = popover && popover.querySelector(".contest-list-popover-close");
+    var backdrop = popover && popover.querySelector(".contest-list-popover-backdrop");
+    if (!trigger || !popover) return;
+
+    function open() {
+      popover.hidden = false;
+      trigger.setAttribute("aria-expanded", "true");
+    }
+    function close() {
+      popover.hidden = true;
+      trigger.setAttribute("aria-expanded", "false");
+    }
+
+    trigger.addEventListener("click", function () {
+      if (popover.hidden) open(); else close();
+    });
+    if (closeBtn) closeBtn.addEventListener("click", close);
+    if (backdrop) backdrop.addEventListener("click", close);
+  }
+
   function runSearch() {
     var query = (searchEl && searchEl.value) ? searchEl.value.trim() : "";
     emptyEl.hidden = true;
@@ -187,6 +248,8 @@
       .then(function (json) {
         data = json;
         setLoading(false);
+        renderContestList();
+        bindContestListPopover();
         runSearch();
       })
       .catch(function (err) {
