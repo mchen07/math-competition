@@ -33,9 +33,10 @@ def humanize_contest(slug: str) -> str:
     return " ".join(out)
 
 
-def load_contests() -> dict:
-    """Load contests.csv -> { folder_name: { contest_name, description, website } }."""
+def load_contests():
+    """Load contests.csv -> ({ folder_name: { contest_name, description, website } }, [folder_name order])."""
     by_slug = {}
+    order = []
     if not CONTESTS_CSV.exists():
         return by_slug
     with open(CONTESTS_CSV, newline="", encoding="utf-8") as f:
@@ -44,12 +45,14 @@ def load_contests() -> dict:
             folder = (row.get("folder_name") or "").strip()
             if not folder:
                 continue
+            if folder not in by_slug:
+                order.append(folder)
             by_slug[folder] = {
                 "contest_name": (row.get("contest_name") or "").strip(),
                 "description": (row.get("description") or "").strip(),
                 "website": (row.get("website") or "").strip(),
             }
-    return by_slug
+    return by_slug, order
 
 
 def load_students() -> dict:
@@ -91,7 +94,7 @@ def collect_result_files() -> list:
 
 def main() -> None:
     students = load_students()
-    contests = load_contests()
+    contests, contest_order = load_contests()
     records_by_id = {}
     contest_year_files = {}  # slug -> { year -> filename }
 
@@ -155,6 +158,7 @@ def main() -> None:
             "students": result_students,
             "contests": contests,
             "contest_year_files": contest_year_files,
+            "contest_order": contest_order,
         }, f, indent=2, ensure_ascii=False)
 
     print(f"Wrote {len(result_students)} students with records to {OUTPUT_JSON}")

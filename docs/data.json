@@ -27445,6 +27445,21 @@
     }
   ],
   "contests": {
+    "imo": {
+      "contest_name": "IMO",
+      "description": "International Mathematical Olympiad. Official results by country and year.",
+      "website": "https://www.imo-official.org/"
+    },
+    "amo": {
+      "contest_name": "USAMO",
+      "description": "USA Mathematical Olympiad. Top-tier national math olympiad for high school students.",
+      "website": "https://www.maa.org/math-competitions/usamo"
+    },
+    "jmo": {
+      "contest_name": "USAJMO",
+      "description": "USA Junior Mathematical Olympiad. National math olympiad for younger high school students.",
+      "website": "https://www.maa.org/math-competitions/usajmo"
+    },
     "hmmt-feb": {
       "contest_name": "HMMT February",
       "description": "Annual February Harvard-MIT Mathematics Tournament. Overall individual scores from the Algebra, Geometry, and Combinatorics rounds.",
@@ -27490,11 +27505,6 @@
       "description": "Number Theory subject test at PUMaC.",
       "website": "https://pumac.princeton.edu/"
     },
-    "mathcounts-national": {
-      "contest_name": "MATHCOUNTS National",
-      "description": "MATHCOUNTS National Competition. National middle school mathematics competition; results for the national level.",
-      "website": "https://www.mathcounts.org/"
-    },
     "mathcounts-national-rank": {
       "contest_name": "MATHCOUNTS National — Rankings",
       "description": "National-level rankings for the MATHCOUNTS competition series.",
@@ -27519,21 +27529,6 @@
       "contest_name": "CMIMC - Geometry",
       "description": "Geometry subject test at CMIMC.",
       "website": "https://cmimc.math.cmu.edu/math"
-    },
-    "imo": {
-      "contest_name": "IMO",
-      "description": "International Mathematical Olympiad. Official results by country and year.",
-      "website": "https://www.imo-official.org/"
-    },
-    "amo": {
-      "contest_name": "USAMO",
-      "description": "USA Mathematical Olympiad. Top-tier national math olympiad for high school students.",
-      "website": "https://www.maa.org/math-competitions/usamo"
-    },
-    "jmo": {
-      "contest_name": "USAJMO",
-      "description": "USA Junior Mathematical Olympiad. National math olympiad for younger high school students.",
-      "website": "https://www.maa.org/math-competitions/usajmo"
     }
   },
   "contest_year_files": {
@@ -27623,5 +27618,24 @@
       "2024": "results_A.csv",
       "2025": "results_A.csv"
     }
-  }
+  },
+  "contest_order": [
+    "imo",
+    "amo",
+    "jmo",
+    "hmmt-feb",
+    "hmmt-feb-algebra-number-theory",
+    "hmmt-feb-geometry",
+    "hmmt-feb-combo",
+    "pumac",
+    "pumac-algebra",
+    "pumac-combinator",
+    "pumac-geometry",
+    "pumac-number-theory",
+    "mathcounts-national-rank",
+    "cmimc",
+    "cmimc-algebra",
+    "cmimc-comb",
+    "cmimc-geometry"
+  ]
 }

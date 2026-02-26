@@ -1,4 +1,7 @@
 folder_name,contest_name,description,website
+imo,IMO,International Mathematical Olympiad. Official results by country and year.,https://www.imo-official.org/
+amo,USAMO,USA Mathematical Olympiad. Top-tier national math olympiad for high school students.,https://www.maa.org/math-competitions/usamo
+jmo,USAJMO,USA Junior Mathematical Olympiad. National math olympiad for younger high school students.,https://www.maa.org/math-competitions/usajmo
 hmmt-feb,HMMT February,"Annual February Harvard-MIT Mathematics Tournament. Overall individual scores from the Algebra, Geometry, and Combinatorics rounds.",https://www.hmmt.org/
 hmmt-feb-algebra-number-theory,HMMT February — Algebra & Number Theory,Algebra and Number Theory subject test at the February HMMT.,https://www.hmmt.org/
 hmmt-feb-geometry,HMMT February — Geometry,Geometry subject test at the February HMMT.,https://www.hmmt.org/
@@ -8,13 +11,9 @@ pumac-algebra,PUMaC — Algebra,Algebra subject test at PUMaC.,https://pumac.pri
 pumac-combinator,PUMaC — Combinatorics,Combinatorics subject test at PUMaC.,https://pumac.princeton.edu/
 pumac-geometry,PUMaC — Geometry,Geometry subject test at PUMaC.,https://pumac.princeton.edu/
 pumac-number-theory,PUMaC — Number Theory,Number Theory subject test at PUMaC.,https://pumac.princeton.edu/
-mathcounts-national,MATHCOUNTS National,"MATHCOUNTS National Competition. National middle school mathematics competition; results for the national level.",https://www.mathcounts.org/
 mathcounts-national-rank,MATHCOUNTS National — Rankings,National-level rankings for the MATHCOUNTS competition series.,https://www.mathcounts.org/
 cmimc,CMIMC,"Carnegie Mellon Informatics and Mathematics Competition. Annual math contest at CMU with individual and team rounds.",https://cmimc.math.cmu.edu/math
 cmimc-algebra,CMIMC - Algebra and Number Theory,Algebra and Number Theory subject test at CMIMC.,https://cmimc.math.cmu.edu/math
 cmimc-comb,CMIMC - Combinatorics and Computer Science,Combinatorics and Computer Science subject test at CMIMC.,https://cmimc.math.cmu.edu/math
 cmimc-geometry,CMIMC - Geometry,Geometry subject test at CMIMC.,https://cmimc.math.cmu.edu/math
-imo,IMO,International Mathematical Olympiad. Official results by country and year.,https://www.imo-official.org/
-amo,USAMO,USA Mathematical Olympiad. Top-tier national math olympiad for high school students.,https://www.maa.org/math-competitions/usamo
-jmo,USAJMO,USA Junior Mathematical Olympiad. National math olympiad for younger high school students.,https://www.maa.org/math-competitions/usajmo
 

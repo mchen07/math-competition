@@ -59,6 +59,18 @@
     return arr.sort();
   }
 
+  function compareContestSlugs(a, b) {
+    var orderMap = data && data.contest_order_map ? data.contest_order_map : null;
+    if (orderMap) {
+      var hasA = Object.prototype.hasOwnProperty.call(orderMap, a);
+      var hasB = Object.prototype.hasOwnProperty.call(orderMap, b);
+      if (hasA && hasB) return orderMap[a] - orderMap[b];
+      if (hasA && !hasB) return -1;
+      if (!hasA && hasB) return 1;
+    }
+    return a.localeCompare(b);
+  }
+
   function renderRecordRow(record, allKeys) {
     var cells = [
       "<td class=\"num\">", escapeHtml(record.year || ""), "</td>"
@@ -97,7 +109,7 @@
     }
     var slugs = [];
     for (var s in bySlug) if (Object.prototype.hasOwnProperty.call(bySlug, s)) slugs.push(s);
-    slugs.sort();
+    slugs.sort(compareContestSlugs);
     return { bySlug: bySlug, slugs: slugs };
   }
 
@@ -172,7 +184,7 @@
     }
     var slugs = [];
     for (var k in contests) if (Object.prototype.hasOwnProperty.call(contests, k)) slugs.push(k);
-    slugs.sort();
+    slugs.sort(compareContestSlugs);
     var parts = [];
     var githubBase = "https://github.com/x-du/math-competition/blob/main/database/contests/";
     for (var i = 0; i < slugs.length; i++) {
@@ -312,6 +324,17 @@
       })
       .then(function (json) {
         data = json;
+        var order = json.contest_order || [];
+        var orderMap = {};
+        if (order && order.length) {
+          for (var i = 0; i < order.length; i++) {
+            var slug = order[i];
+            if (slug != null && orderMap[slug] == null) {
+              orderMap[slug] = i;
+            }
+          }
+        }
+        data.contest_order_map = orderMap;
         setLoading(false);
         renderContestList();
         renderTopStudentsByRecords();
