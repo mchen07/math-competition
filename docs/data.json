@@ -281,16 +281,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Jersey",
-          "student_name": "Alexander Wang",
-          "grade": "8",
-          "city": "Millburn",
-          "school": "Millburn Middle School"
-        },
-        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -309,16 +299,6 @@
           "state": "New Jersey",
           "rank": "4",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Jersey",
-          "student_name": "Alexander Wang",
-          "grade": "7",
-          "city": "Millburn",
-          "school": "Millburn Middle School"
         }
       ]
     },
@@ -815,16 +795,6 @@
           "grade": "7"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Utah",
-          "student_name": "Liam Reddy",
-          "grade": "7",
-          "city": "Sandy",
-          "school": "Waterford School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -832,16 +802,6 @@
           "state": "Utah",
           "rank": "3",
           "grade": "6"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Utah",
-          "student_name": "Liam Reddy",
-          "grade": "6",
-          "city": "Sandy",
-          "school": "Waterford School"
         }
       ]
     },
@@ -1358,16 +1318,6 @@
           "state": "California",
           "rank": "32",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "California",
-          "student_name": "Jonathan Du",
-          "grade": "8",
-          "city": "Los Altos",
-          "school": "Bullis Charter School"
         }
       ]
     },
@@ -1591,16 +1541,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Virginia",
-          "student_name": "Ruilin Wang",
-          "grade": "8",
-          "city": "Fairfax",
-          "school": "Frost Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -1608,16 +1548,6 @@
           "state": "Virginia",
           "rank": "22",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Virginia",
-          "student_name": "Ruilin Wang",
-          "grade": "7",
-          "city": "Fairfax",
-          "school": "Frost Middle School"
         }
       ]
     },
@@ -1660,16 +1590,6 @@
           "student_name": "Dou Lai",
           "state": "Illinois",
           "award": "Honorable Mention"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Illinois",
-          "student_name": "Dou Lai",
-          "grade": "7",
-          "city": "Chicago",
-          "school": "Whitney Young Academic Center School"
         }
       ]
     },
@@ -1841,16 +1761,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "North Carolina",
-          "student_name": "Alan Cheng",
-          "grade": "8",
-          "city": "Cary",
-          "school": "Mills Park Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -1858,16 +1768,6 @@
           "state": "North Carolina",
           "rank": "53",
           "grade": "6"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "North Carolina",
-          "student_name": "Alan Cheng",
-          "grade": "7",
-          "city": "Cary",
-          "school": "Mills Park Middle School"
         }
       ]
     },
@@ -2954,16 +2854,6 @@
           "state": "California",
           "rank": "Q",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "California",
-          "student_name": "Rohan Garg",
-          "grade": "8",
-          "city": "Pleasanton",
-          "school": "Harvest Park Middle School"
         }
       ]
     },
@@ -3334,16 +3224,6 @@
           "state": "Virginia",
           "rank": "44",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Virginia",
-          "student_name": "Patrick Du",
-          "grade": "7",
-          "city": "Fairfax",
-          "school": "Frost Middle School"
         }
       ]
     },
@@ -3619,16 +3499,6 @@
           "state": "Texas",
           "rank": "19",
           "grade": "6"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Texas",
-          "student_name": "Roger Zhen",
-          "grade": "6",
-          "city": "Friendswood",
-          "school": "Westbrook Intermediate School"
         }
       ]
     },
@@ -3837,16 +3707,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Ohio",
-          "student_name": "Jiahe Liu",
-          "grade": "8",
-          "city": "Beachwood",
-          "school": "Beachwood Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -3854,16 +3714,6 @@
           "state": "Massachusetts",
           "rank": "7",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Massachusetts",
-          "student_name": "Jiahe Liu",
-          "grade": "7",
-          "city": "Arlington",
-          "school": "Ottoson Middle School"
         }
       ]
     },
@@ -4038,16 +3888,6 @@
           "state": "Massachusetts",
           "rank": "29",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Massachusetts",
-          "student_name": "William Hua",
-          "grade": "8",
-          "city": "Lexington",
-          "school": "Jonas Clarke Middle School"
         }
       ]
     },
@@ -4963,16 +4803,6 @@
           "state": "Florida",
           "rank": "16",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Florida",
-          "student_name": "Aaryan Vaishya",
-          "grade": "8",
-          "city": "Tampa",
-          "school": "Williams Middle Magnet School"
         }
       ]
     },
@@ -5094,16 +4924,6 @@
           "state": "Texas",
           "rank": "48",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Texas",
-          "student_name": "Ray Zhao",
-          "grade": "7",
-          "city": "Round",
-          "school": "Rock Walsh Middle School"
         }
       ]
     },
@@ -5243,16 +5063,6 @@
           "grade": "7"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Georgia",
-          "student_name": "Varun Gadi",
-          "grade": "7",
-          "city": "Alpharetta",
-          "school": "Fulton Science Academy"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -5260,16 +5070,6 @@
           "state": "Georgia",
           "rank": "28",
           "grade": "6"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Georgia",
-          "student_name": "Varun Gadi",
-          "grade": "6",
-          "city": "Alpharetta",
-          "school": "Fulton Science Academy"
         }
       ]
     },
@@ -6115,16 +5915,6 @@
           "state": "Michigan",
           "rank": "13",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Michigan",
-          "student_name": "Henry Jiang",
-          "grade": "8",
-          "city": "Beverly",
-          "school": "Hills Detroit Country Day Middle School"
         }
       ]
     },
@@ -6297,16 +6087,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Jersey",
-          "student_name": "Evan Fan",
-          "grade": "8",
-          "city": "Basking Ridge",
-          "school": "William Annin Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -6314,16 +6094,6 @@
           "state": "New Jersey",
           "rank": "23",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Jersey",
-          "student_name": "Evan Fan",
-          "grade": "7",
-          "city": "Basking",
-          "school": "Ridge William Annin Middle School"
         }
       ]
     },
@@ -6530,16 +6300,6 @@
           "state": "Massachusetts",
           "rank": "14",
           "grade": "6"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Massachusetts",
-          "student_name": "Selena Ge",
-          "grade": "6",
-          "city": "Westford",
-          "school": "Blanchard Middle School"
         }
       ]
     },
@@ -6591,16 +6351,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Texas",
-          "student_name": "Andrew Shen",
-          "grade": "7",
-          "city": "Sugar Land",
-          "school": "Sartartia Middle School"
         }
       ]
     },
@@ -6778,16 +6528,6 @@
           "state": "Virginia",
           "rank": "42",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Virginia",
-          "student_name": "Alexander Gu",
-          "grade": "8",
-          "city": "Fairfax",
-          "school": "Frost Middle School"
         }
       ]
     },
@@ -6967,26 +6707,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Florida",
-          "student_name": "Kevin Liu",
-          "grade": "8",
-          "city": "Parkland",
-          "school": "Westglades Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Pennsylvania",
-          "student_name": "Kevin Liu",
-          "grade": "8",
-          "city": "State College",
-          "school": "Mount Nittany Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -6994,16 +6714,6 @@
           "state": "Florida",
           "rank": "52",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Florida",
-          "student_name": "Kevin Liu",
-          "grade": "7",
-          "city": "Parkland",
-          "school": "Westglades Middle School"
         }
       ]
     },
@@ -7142,16 +6852,6 @@
           "state": "New York",
           "rank": "5",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New York",
-          "student_name": "Andrew Carratu",
-          "grade": "8",
-          "city": "Little Neck",
-          "school": "Louis Pasteur Middle School"
         }
       ]
     },
@@ -7228,16 +6928,6 @@
           "student_name": "Kiran Reddy",
           "rank": "50",
           "score": "19.89"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Utah",
-          "student_name": "Kiran Reddy",
-          "grade": "8",
-          "city": "Sandy",
-          "school": "Waterford School"
         }
       ]
     },
@@ -7512,16 +7202,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Texas",
-          "student_name": "Lerchen Zhong",
-          "grade": "8",
-          "city": "Austin",
-          "school": "Canyon Vista Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -7529,16 +7209,6 @@
           "state": "Texas",
           "rank": "14",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Texas",
-          "student_name": "Lerchen Zhong",
-          "grade": "7",
-          "city": "Austin",
-          "school": "Canyon Vista Middle School"
         }
       ]
     },
@@ -7663,16 +7333,6 @@
           "state": "California",
           "rank": "18",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "California",
-          "student_name": "Angela Liu",
-          "grade": "8",
-          "city": "San Jose",
-          "school": "The Harker School"
         }
       ]
     },
@@ -7777,26 +7437,6 @@
           "state": "Iowa",
           "rank": "22",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Iowa",
-          "student_name": "Edward Li",
-          "grade": "8",
-          "city": "Coralville",
-          "school": "Northwest Junior High School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Iowa",
-          "student_name": "Edward Li",
-          "grade": "7",
-          "city": "Coralville",
-          "school": "Northwest Junior High School"
         }
       ]
     },
@@ -8060,26 +7700,6 @@
           "state": "Connecticut",
           "rank": "53",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Connecticut",
-          "student_name": "Vikram Sarkar",
-          "grade": "8",
-          "city": "Westport",
-          "school": "Coleytown Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Connecticut",
-          "student_name": "Vikram Sarkar",
-          "grade": "7",
-          "city": "Westport",
-          "school": "Coleytown Middle School"
         }
       ]
     },
@@ -8448,16 +8068,6 @@
           "state": "New Jersey",
           "rank": "21",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Jersey",
-          "student_name": "Andrew Lin",
-          "grade": "8",
-          "city": "Pennington",
-          "school": "Timberlane Middle School"
         }
       ]
     },
@@ -8568,16 +8178,6 @@
           "state": "New Jersey",
           "rank": "1",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Jersey",
-          "student_name": "Marvin Mao",
-          "grade": "8",
-          "city": "Englewood",
-          "school": "Cliffs Davidson Academy"
         }
       ]
     },
@@ -8911,26 +8511,6 @@
           "algebra_score": "20.96",
           "geometry_score": "25.17",
           "combinatorics_score": "25.17"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Alabama",
-          "student_name": "Eric Wang",
-          "grade": "8",
-          "city": "Vestavia Hills",
-          "school": "Louis Pizitz Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Colorado",
-          "student_name": "Eric Wang",
-          "grade": "8",
-          "city": "Fort Collins",
-          "school": "Kinard Core Knowledge Middle School"
         }
       ]
     },
@@ -9059,16 +8639,6 @@
           "state": "California",
           "rank": "16",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "California",
-          "student_name": "Rohan Bodke",
-          "grade": "8",
-          "city": "Sunnyvale",
-          "school": "Cupertino Middle School"
         }
       ]
     },
@@ -9565,16 +9135,6 @@
           "state": "Illinois",
           "rank": "43",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Illinois",
-          "student_name": "Jonathan He",
-          "grade": "8",
-          "city": "Lincolnshire",
-          "school": "Daniel Wright Junior High School"
         }
       ]
     },
@@ -9626,16 +9186,6 @@
           "state": "California",
           "rank": "33",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "California",
-          "student_name": "Feodor Yevtushenko",
-          "grade": "8",
-          "city": "Irvine",
-          "school": "Rancho San Joaquin Middle School"
         }
       ]
     },
@@ -10468,16 +10018,6 @@
           "state": "Michigan",
           "rank": "25",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Michigan",
-          "student_name": "Brian Zhang",
-          "grade": "8",
-          "city": "Northville",
-          "school": "Meads Mill Middle School"
         }
       ]
     },
@@ -12416,16 +11956,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Louisiana",
-          "student_name": "Kevin Zhao",
-          "grade": "8",
-          "city": "Shreveport",
-          "school": "Caddo Parish Middle Magnet School"
-        },
-        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -12905,16 +12435,6 @@
           "state": "Washington",
           "rank": "28",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Washington",
-          "student_name": "Mingyue Yang",
-          "grade": "8",
-          "city": "Bellevue",
-          "school": "Tyee Middle School"
         }
       ]
     },
@@ -13493,16 +13013,6 @@
           "rank": "25",
           "total_score": "2.534",
           "finals_score": "3"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Kentucky",
-          "student_name": "Michael Chen",
-          "grade": "7",
-          "city": "Louisville",
-          "school": "Meyzeek Middle School"
         }
       ]
     },
@@ -14435,16 +13945,6 @@
           "p6": "0",
           "p7": "1",
           "p8": "0"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "West Virginia",
-          "student_name": "Ryan Karim",
-          "grade": "7",
-          "city": "Morgantown",
-          "school": "Suncrest Middle School"
         }
       ]
     },
@@ -14871,16 +14371,6 @@
           "state": "Massachusetts",
           "rank": "C",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Massachusetts",
-          "student_name": "Adam Ge",
-          "grade": "7",
-          "city": "Westford",
-          "school": "Blanchard Middle School"
         }
       ]
     },
@@ -15203,16 +14693,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Utah",
-          "student_name": "Juntian Deng",
-          "grade": "8",
-          "city": "Salt Lake City",
-          "school": "Challenger School-SLC"
         }
       ]
     },
@@ -15286,26 +14766,6 @@
           "state": "District of Columbia",
           "rank": "49",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "District of Columbia",
-          "student_name": "Arnav Iyengar",
-          "grade": "7",
-          "city": "Washington, DC",
-          "school": "Hardy Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "District of Columbia",
-          "student_name": "Arnav Iyengar",
-          "grade": "6",
-          "city": "Washington, DC",
-          "school": "Hardy Middle School"
         }
       ]
     },
@@ -15503,16 +14963,6 @@
           "state": "New York",
           "rank": "34",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New York",
-          "student_name": "Kylan Huang",
-          "grade": "8",
-          "city": "New York",
-          "school": "Avenues: The World School"
         }
       ]
     },
@@ -15694,16 +15144,6 @@
           "state": "New Jersey",
           "rank": "54",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Jersey",
-          "student_name": "Maitian Sha",
-          "grade": "8",
-          "city": "West Windsor",
-          "school": "Thomas Grover Middle School"
         }
       ]
     },
@@ -15989,16 +15429,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Oregon",
-          "student_name": "Anshul Mantri",
-          "grade": "7",
-          "city": "Portland",
-          "school": "Tumwater Middle School"
         }
       ]
     },
@@ -16097,16 +15527,6 @@
           "state": "Michigan",
           "rank": "52",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Michigan",
-          "student_name": "Calvin Garces",
-          "grade": "8",
-          "city": "Ada City",
-          "school": "High/Middle School"
         }
       ]
     },
@@ -16483,16 +15903,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Iowa",
-          "student_name": "Catherine Xu",
-          "grade": "8",
-          "city": "Coralville",
-          "school": "Northwest Junior High School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -16500,16 +15910,6 @@
           "state": "Iowa",
           "rank": "33",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Iowa",
-          "student_name": "Catherine Xu",
-          "grade": "7",
-          "city": "Coralville",
-          "school": "Northwest Junior High School"
         }
       ]
     },
@@ -16711,16 +16111,6 @@
           "rank": "34",
           "total_score": "2.608",
           "finals_score": "9"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Virginia",
-          "student_name": "Sophia Hou",
-          "grade": "8",
-          "city": "Falls Church",
-          "school": "Longfellow Middle School"
         }
       ]
     },
@@ -16774,16 +16164,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Pennsylvania",
-          "student_name": "Aaron Le",
-          "grade": "8",
-          "city": "State College",
-          "school": "Mount Nittany Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -16791,16 +16171,6 @@
           "state": "Pennsylvania",
           "rank": "20",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Pennsylvania",
-          "student_name": "Aaron Le",
-          "grade": "7",
-          "city": "State College Park",
-          "school": "Forest Middle School"
         }
       ]
     },
@@ -16868,16 +16238,6 @@
           "state": "Florida",
           "rank": "35",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Florida",
-          "student_name": "Andrew Xing",
-          "grade": "8",
-          "city": "Gainesville",
-          "school": "Abraham Lincoln Middle School"
         }
       ]
     },
@@ -17266,16 +16626,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "State Department",
-          "student_name": "Daniel Lu",
-          "grade": "8",
-          "city": "Singapore",
-          "school": "Singapore American School"
         }
       ]
     },
@@ -17817,16 +17167,6 @@
           "state": "New York",
           "rank": "26",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New York",
-          "student_name": "Steven Lou",
-          "grade": "8",
-          "city": "New York",
-          "school": "Nest+M School"
         }
       ]
     },
@@ -18313,16 +17653,6 @@
           "state": "Maryland",
           "rank": "38",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Maryland",
-          "student_name": "Jeremy Yang",
-          "grade": "7",
-          "city": "Ellicott City",
-          "school": "Burleigh Manor Middle School"
         }
       ]
     },
@@ -18541,16 +17871,6 @@
           "state": "Washington",
           "rank": "17",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Washington",
-          "student_name": "Amy Cui",
-          "grade": "8",
-          "city": "Seattle",
-          "school": "Lakeside Middle School"
         }
       ]
     },
@@ -19015,16 +18335,6 @@
           "student_name": "Brandon Cai",
           "rank": "24",
           "score": "23.17"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Pennsylvania",
-          "student_name": "Brandon Cai",
-          "grade": "8",
-          "city": "Allentown",
-          "school": "Springhouse Middle School"
         }
       ]
     },
@@ -19212,16 +18522,6 @@
           "state": "Minnesota",
           "rank": "C",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Minnesota",
-          "student_name": "Eric Ding",
-          "grade": "6",
-          "city": "Rochester",
-          "school": "Kellogg Middle School"
         }
       ]
     },
@@ -19429,16 +18729,6 @@
           "student_name": "Rithik Gumpu",
           "rank": "29",
           "score": "20.82"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Jersey",
-          "student_name": "Rithik Gumpu",
-          "grade": "8",
-          "city": "Plainsboro",
-          "school": "Community Middle School"
         }
       ]
     },
@@ -19618,16 +18908,6 @@
           "award": "Honors"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Illinois",
-          "student_name": "Victor Chen",
-          "grade": "8",
-          "city": "Chicago",
-          "school": "University of Chicago Laboratory School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -19635,16 +18915,6 @@
           "state": "Illinois",
           "rank": "51",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Illinois",
-          "student_name": "Victor Chen",
-          "grade": "7",
-          "city": "Chicago",
-          "school": "University Of Chicago Laboratory School"
         }
       ]
     },
@@ -19686,16 +18956,6 @@
           "state": "Georgia",
           "rank": "36",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Georgia",
-          "student_name": "Akshaj Arora",
-          "grade": "6",
-          "city": "Johns Creek",
-          "school": "River Trail Middle School"
         }
       ]
     },
@@ -19879,26 +19139,6 @@
           "state": "Maryland",
           "rank": "27",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Maryland",
-          "student_name": "Albert Lu",
-          "grade": "8",
-          "city": "Silver Spring",
-          "school": "Takoma Park Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Maryland",
-          "student_name": "Albert Lu",
-          "grade": "7",
-          "city": "Silver Spring",
-          "school": "Takoma Park Middle School"
         }
       ]
     },
@@ -20030,16 +19270,6 @@
           "student_name": "Royce Yao",
           "state": "Arizona",
           "award": "Silver"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Arizona",
-          "student_name": "Royce Yao",
-          "grade": "8",
-          "city": "Tucson",
-          "school": "Basis Tucson North"
         }
       ]
     },
@@ -20150,16 +19380,6 @@
           "state": "Tennessee",
           "rank": "35",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Tennessee",
-          "student_name": "Justin Guo",
-          "grade": "7",
-          "city": "Nashville",
-          "school": "Montgomery Bell Academy"
         }
       ]
     },
@@ -20472,16 +19692,6 @@
           "state": "Texas",
           "rank": "41",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Texas",
-          "student_name": "Guanjie Lu",
-          "grade": "6",
-          "city": "Dallas",
-          "school": "St. Mark's School"
         }
       ]
     },
@@ -21015,16 +20225,6 @@
           "state": "Texas",
           "rank": "40",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Texas",
-          "student_name": "Aiden Wen",
-          "grade": "7",
-          "city": "Austin",
-          "school": "Noel Grisham Middle School"
         }
       ]
     },
@@ -21587,16 +20787,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Alabama",
-          "student_name": "Allan Yuan",
-          "grade": "8",
-          "city": "Hoover",
-          "school": "Simmons Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -21604,135 +20794,6 @@
           "state": "Alabama",
           "rank": "6",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Alabama",
-          "student_name": "Allan Yuan",
-          "grade": "7",
-          "city": "Hoover",
-          "school": "Simmons Middle School"
-        }
-      ]
-    },
-    {
-      "id": 467,
-      "name": "Timothy Li",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Alabama",
-          "student_name": "Timothy Li",
-          "grade": "8",
-          "city": "Vestavia",
-          "school": "Hills Louis Pizitz Middle School"
-        }
-      ]
-    },
-    {
-      "id": 468,
-      "name": "Cuewon Kim",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Alabama",
-          "student_name": "Cuewon Kim",
-          "grade": "8",
-          "city": "Vestavia",
-          "school": "Hills Liberty Park Middle School"
-        }
-      ]
-    },
-    {
-      "id": 469,
-      "name": "Mina Hu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Alabama",
-          "student_name": "Mina Hu",
-          "grade": "7",
-          "city": "Vestavia",
-          "school": "Hills Louis Pizitz Middle School"
-        }
-      ]
-    },
-    {
-      "id": 470,
-      "name": "Xiling E Tanner",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Alaska",
-          "student_name": "Xiling E Tanner",
-          "grade": "6",
-          "city": "Kenai",
-          "school": "Kenai Middle School"
-        }
-      ]
-    },
-    {
-      "id": 471,
-      "name": "Xinlan A Tanner",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Alaska",
-          "student_name": "Xinlan A Tanner",
-          "grade": "8",
-          "city": "Kenai",
-          "school": "Kenai Middle School"
-        }
-      ]
-    },
-    {
-      "id": 472,
-      "name": "Ulysses Escobar",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Alaska",
-          "student_name": "Ulysses Escobar",
-          "grade": "8",
-          "city": "Anchorage",
-          "school": "Steller Secondary School"
-        }
-      ]
-    },
-    {
-      "id": 473,
-      "name": "Wyatt Beardsley",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Alaska",
-          "student_name": "Wyatt Beardsley",
-          "grade": "7",
-          "city": "Fairbanks",
-          "school": "Fairbanks BEST Homeschool"
         }
       ]
     },
@@ -21757,16 +20818,6 @@
           "state": "Arizona",
           "rank": "19",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Arizona",
-          "student_name": "Benjamin Jeter",
-          "grade": "8",
-          "city": "Phoenix",
-          "school": "Jeter Academy"
         }
       ]
     },
@@ -21790,26 +20841,6 @@
           "student_name": "Owen Zhou",
           "state": "Arizona",
           "award": "Honorable Mention"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Arizona",
-          "student_name": "Owen Zhou",
-          "grade": "8",
-          "city": "Scottsdale",
-          "school": "Basis Scottsdale"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Arizona",
-          "student_name": "Owen Zhou",
-          "grade": "7",
-          "city": "Scottsdale",
-          "school": "Basis Scottsdale"
         }
       ]
     },
@@ -21826,111 +20857,6 @@
           "state": "Arizona",
           "rank": "45",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Arizona",
-          "student_name": "Johnny Yu",
-          "grade": "8",
-          "city": "Tucson",
-          "school": "Basis Tucson North Ling"
-        }
-      ]
-    },
-    {
-      "id": 477,
-      "name": "Victor Long",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Arizona",
-          "student_name": "Victor Long",
-          "grade": "8",
-          "city": "Chandler",
-          "school": "BASIS Chandler"
-        }
-      ]
-    },
-    {
-      "id": 478,
-      "name": "Arya Waikar",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Arkansas",
-          "student_name": "Arya Waikar",
-          "grade": "8",
-          "city": "Bentonville",
-          "school": "Washington Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 479,
-      "name": "Aakash Bhattacharyya",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Arkansas",
-          "student_name": "Aakash Bhattacharyya",
-          "grade": "8",
-          "city": "Little Rock",
-          "school": "LISA Academy West Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Arkansas",
-          "student_name": "Aakash Bhattacharyya",
-          "grade": "7",
-          "city": "Little",
-          "school": "Rock Lisa Academy West Middle School"
-        }
-      ]
-    },
-    {
-      "id": 480,
-      "name": "Chirag Samantaroy",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Arkansas",
-          "student_name": "Chirag Samantaroy",
-          "grade": "7",
-          "city": "Bentonville",
-          "school": "Fulbright Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 481,
-      "name": "Eric Tang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Arkansas",
-          "student_name": "Eric Tang",
-          "grade": "7",
-          "city": "Little Rock",
-          "school": "Pinnacle View Middle School"
         }
       ]
     },
@@ -21979,26 +20905,6 @@
           "state": "California",
           "rank": "15",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "California",
-          "student_name": "David Zhang",
-          "grade": "8",
-          "city": "San Ramon",
-          "school": "Windemere Ranch Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Utah",
-          "student_name": "David Zhang",
-          "grade": "8",
-          "city": "Salt Lake City",
-          "school": "West High School"
         }
       ]
     },
@@ -22023,16 +20929,6 @@
           "state": "California",
           "rank": "11",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "California",
-          "student_name": "Lawson Wang",
-          "grade": "7",
-          "city": "Saratoga",
-          "school": "Redwood Middle School"
         }
       ]
     },
@@ -22049,16 +20945,6 @@
           "state": "Colorado",
           "rank": "37",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Colorado",
-          "student_name": "Abhinav Krishna",
-          "grade": "8",
-          "city": "Denver",
-          "school": "Challenge School"
         }
       ]
     },
@@ -22091,43 +20977,6 @@
           "state": "Colorado",
           "rank": "50",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Colorado",
-          "student_name": "Joshua Liu",
-          "grade": "7",
-          "city": "Denver",
-          "school": "Challenge School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Colorado",
-          "student_name": "Joshua Liu",
-          "grade": "6",
-          "city": "Denver",
-          "school": "Challenge School"
-        }
-      ]
-    },
-    {
-      "id": 486,
-      "name": "Ethan Lou",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Colorado",
-          "student_name": "Ethan Lou",
-          "grade": "8",
-          "city": "Centennial",
-          "school": "Cherry Creek Elevation"
         }
       ]
     },
@@ -22160,291 +21009,6 @@
           "state": "Connecticut",
           "rank": "10",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Connecticut",
-          "student_name": "Kyle Zhang",
-          "grade": "8",
-          "city": "New Haven",
-          "school": "Hopkins School"
-        }
-      ]
-    },
-    {
-      "id": 488,
-      "name": "Leon Jiang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Connecticut",
-          "student_name": "Leon Jiang",
-          "grade": "8",
-          "city": "Hamden",
-          "school": "Hamden Hall Country Day School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Connecticut",
-          "student_name": "Leon Jiang",
-          "grade": "7",
-          "city": "Hamden",
-          "school": "Hamden Hall Country Day School"
-        }
-      ]
-    },
-    {
-      "id": 489,
-      "name": "Enya Yu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Connecticut",
-          "student_name": "Enya Yu",
-          "grade": "7",
-          "city": "Newtown",
-          "school": "Housatonic Valley Waldorf School"
-        }
-      ]
-    },
-    {
-      "id": 490,
-      "name": "Yanming Huang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Delaware",
-          "student_name": "Yanming Huang",
-          "grade": "8",
-          "city": "Wilmington",
-          "school": "Henry C Conrad Middle School"
-        }
-      ]
-    },
-    {
-      "id": 491,
-      "name": "Jai Thacker",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Delaware",
-          "student_name": "Jai Thacker",
-          "grade": "7",
-          "city": "Newark",
-          "school": "Independence School"
-        }
-      ]
-    },
-    {
-      "id": 492,
-      "name": "Grace Yang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Delaware",
-          "student_name": "Grace Yang",
-          "grade": "8",
-          "city": "Wilmington",
-          "school": "Ps Dupont Middle School"
-        }
-      ]
-    },
-    {
-      "id": 493,
-      "name": "Bhavin Yarlagadda",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Delaware",
-          "student_name": "Bhavin Yarlagadda",
-          "grade": "8",
-          "city": "Wilmington",
-          "school": "Ps Dupont Middle School"
-        }
-      ]
-    },
-    {
-      "id": 494,
-      "name": "Nicolas Treland",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Department of Defense",
-          "student_name": "Nicolas Treland",
-          "grade": "8",
-          "city": "Korea",
-          "school": "Humphreys Middle School"
-        }
-      ]
-    },
-    {
-      "id": 495,
-      "name": "Frank Petty",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Department of Defense",
-          "student_name": "Frank Petty",
-          "grade": "8",
-          "city": "Japan",
-          "school": "Yokota Middle School"
-        }
-      ]
-    },
-    {
-      "id": 496,
-      "name": "Kyle Koehler",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Department of Defense",
-          "student_name": "Kyle Koehler",
-          "grade": "8",
-          "city": "Germany",
-          "school": "Ramstein Middle School"
-        }
-      ]
-    },
-    {
-      "id": 497,
-      "name": "Catherine Perez",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Department of Defense",
-          "student_name": "Catherine Perez",
-          "grade": "8",
-          "city": "Germany",
-          "school": "Ramstein Middle School"
-        }
-      ]
-    },
-    {
-      "id": 498,
-      "name": "Alex Acosta",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "District of Columbia",
-          "student_name": "Alex Acosta",
-          "grade": "8",
-          "city": "Washington, DC",
-          "school": "St Albans School"
-        }
-      ]
-    },
-    {
-      "id": 499,
-      "name": "Lucas Qi",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "District of Columbia",
-          "student_name": "Lucas Qi",
-          "grade": "8",
-          "city": "Washington, DC",
-          "school": "Georgetown Day School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "District of Columbia",
-          "student_name": "Lucas Qi",
-          "grade": "7",
-          "city": "Washington, DC",
-          "school": "Georgetown Day School"
-        }
-      ]
-    },
-    {
-      "id": 500,
-      "name": "Andrew Liu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "District of Columbia",
-          "student_name": "Andrew Liu",
-          "grade": "8",
-          "city": "Washington, DC",
-          "school": "St Albans School"
-        }
-      ]
-    },
-    {
-      "id": 501,
-      "name": "Philip Matchev",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Florida",
-          "student_name": "Philip Matchev",
-          "grade": "8",
-          "city": "Gainesville",
-          "school": "Abraham Lincoln Middle School"
-        }
-      ]
-    },
-    {
-      "id": 502,
-      "name": "Jayden Lang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Florida",
-          "student_name": "Jayden Lang",
-          "grade": "7",
-          "city": "Parkland",
-          "school": "Westglades Middle School"
         }
       ]
     },
@@ -22461,16 +21025,6 @@
           "state": "Georgia",
           "rank": "8",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Georgia",
-          "student_name": "Stephen Yang",
-          "grade": "8",
-          "city": "Atlanta",
-          "school": "Pace Academy"
         }
       ]
     },
@@ -22497,16 +21051,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Georgia",
-          "student_name": "Samanyu Ganesh",
-          "grade": "8",
-          "city": "Atlanta",
-          "school": "Westminster Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -22514,196 +21058,6 @@
           "state": "Georgia",
           "rank": "43",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Georgia",
-          "student_name": "Samanyu Ganesh",
-          "grade": "7",
-          "city": "Atlanta",
-          "school": "Westminster Middle School"
-        }
-      ]
-    },
-    {
-      "id": 505,
-      "name": "Sai Palireddy",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Georgia",
-          "student_name": "Sai Palireddy",
-          "grade": "8",
-          "city": "Cumming",
-          "school": "South Forsyth Middle School"
-        }
-      ]
-    },
-    {
-      "id": 506,
-      "name": "Justin Park",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Guam",
-          "student_name": "Justin Park",
-          "grade": "8",
-          "city": "Barrigada",
-          "school": "Science is Fun & Awesome Learning Acad. Charter School"
-        }
-      ]
-    },
-    {
-      "id": 507,
-      "name": "Zunaid Jafar",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Guam",
-          "student_name": "Zunaid Jafar",
-          "grade": "8",
-          "city": "Barrigada",
-          "school": "Harvest Christian Academy"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Guam",
-          "student_name": "Zunaid Jafar",
-          "grade": "7",
-          "city": "Barrigada",
-          "school": "Harvest Christian Academy"
-        }
-      ]
-    },
-    {
-      "id": 508,
-      "name": "Brian Hwang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Guam",
-          "student_name": "Brian Hwang",
-          "grade": "7",
-          "city": "Upper Tumon",
-          "school": "St. John's School"
-        }
-      ]
-    },
-    {
-      "id": 509,
-      "name": "Dylan Chong",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Guam",
-          "student_name": "Dylan Chong",
-          "grade": "8",
-          "city": "Upper Tumon",
-          "school": "St. John's School"
-        }
-      ]
-    },
-    {
-      "id": 510,
-      "name": "Keisuke Kwong",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Hawaii",
-          "student_name": "Keisuke Kwong",
-          "grade": "8",
-          "city": "Honolulu",
-          "school": "Washington Middle School"
-        }
-      ]
-    },
-    {
-      "id": 511,
-      "name": "Ashley Hong",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Hawaii",
-          "student_name": "Ashley Hong",
-          "grade": "8",
-          "city": "Honolulu",
-          "school": "Punahou School"
-        }
-      ]
-    },
-    {
-      "id": 512,
-      "name": "Ryan Eto",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Hawaii",
-          "student_name": "Ryan Eto",
-          "grade": "8",
-          "city": "Honolulu",
-          "school": "Iolani School"
-        }
-      ]
-    },
-    {
-      "id": 513,
-      "name": "Nicholas Biega",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Hawaii",
-          "student_name": "Nicholas Biega",
-          "grade": "8",
-          "city": "Honolulu",
-          "school": "Iolani School"
-        }
-      ]
-    },
-    {
-      "id": 514,
-      "name": "James Wei",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Idaho",
-          "student_name": "James Wei",
-          "grade": "8",
-          "city": "Meridian",
-          "school": "Virtual School"
         }
       ]
     },
@@ -22720,16 +21074,6 @@
           "state": "Idaho",
           "rank": "55",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Idaho",
-          "student_name": "Vishal Suresh",
-          "grade": "8",
-          "city": "Boise",
-          "school": "East Junior High School"
         }
       ]
     },
@@ -22745,43 +21089,6 @@
           "student_name": "Bryan Li",
           "state": "Massachusetts",
           "award": "Honorable Mention"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Idaho",
-          "student_name": "Bryan Li",
-          "grade": "8",
-          "city": "Boise",
-          "school": "East Junior High School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Idaho",
-          "student_name": "Bryan Li",
-          "grade": "7",
-          "city": "Boise",
-          "school": "East Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 517,
-      "name": "Jalen Lu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Idaho",
-          "student_name": "Jalen Lu",
-          "grade": "8",
-          "city": "Boise",
-          "school": "Boise Online School"
         }
       ]
     },
@@ -22798,50 +21105,6 @@
           "state": "Illinois",
           "rank": "12",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Illinois",
-          "student_name": "Nate Maydanchik",
-          "grade": "8",
-          "city": "Oak Brook",
-          "school": "Butler Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 519,
-      "name": "Andrew J Bukowski",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Illinois",
-          "student_name": "Andrew J Bukowski",
-          "grade": "8",
-          "city": "Lisle",
-          "school": "Kennedy Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 520,
-      "name": "Angela Ho",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Illinois",
-          "student_name": "Angela Ho",
-          "grade": "7",
-          "city": "Lincolnshire",
-          "school": "Daniel Wright Junior High School"
         }
       ]
     },
@@ -22858,16 +21121,6 @@
           "state": "Indiana",
           "rank": "46",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Indiana",
-          "student_name": "Michael Qian",
-          "grade": "8",
-          "city": "Carmel",
-          "school": "Clay Middle School"
         }
       ]
     },
@@ -22893,26 +21146,6 @@
           "state": "Indiana",
           "rank": "39",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Indiana",
-          "student_name": "Edward Chen",
-          "grade": "7",
-          "city": "Carmel",
-          "school": "Carmel Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Indiana",
-          "student_name": "Edward Chen",
-          "grade": "6",
-          "city": "Carmel",
-          "school": "Carmel Middle School"
         }
       ]
     },
@@ -22929,26 +21162,6 @@
           "state": "Indiana",
           "rank": "36",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Indiana",
-          "student_name": "Jennifer Hu",
-          "grade": "8",
-          "city": "Indianapolis",
-          "school": "Sycamore School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Indiana",
-          "student_name": "Jennifer Hu",
-          "grade": "7",
-          "city": "Carmel",
-          "school": "Clay Middle School"
         }
       ]
     },
@@ -22965,325 +21178,6 @@
           "state": "Indiana",
           "rank": "38",
           "grade": "6"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Indiana",
-          "student_name": "Om Patel",
-          "grade": "8",
-          "city": "West Lafayette",
-          "school": "Battle Ground Middle School"
-        }
-      ]
-    },
-    {
-      "id": 525,
-      "name": "Richard Yang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Iowa",
-          "student_name": "Richard Yang",
-          "grade": "8",
-          "city": "Coralville",
-          "school": "Northwest Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 526,
-      "name": "Siray Zhu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Iowa",
-          "student_name": "Siray Zhu",
-          "grade": "8",
-          "city": "Ames",
-          "school": "Ames Middle School"
-        }
-      ]
-    },
-    {
-      "id": 527,
-      "name": "Arnesh Sharma",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Kansas",
-          "student_name": "Arnesh Sharma",
-          "grade": "8",
-          "city": "Overland",
-          "school": "Park Pleasant Ridge Middle School"
-        }
-      ]
-    },
-    {
-      "id": 528,
-      "name": "Medha Goli",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Kansas",
-          "student_name": "Medha Goli",
-          "grade": "8",
-          "city": "Overland",
-          "school": "Park Lakewood Middle School"
-        }
-      ]
-    },
-    {
-      "id": 529,
-      "name": "John Schafer",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Kansas",
-          "student_name": "John Schafer",
-          "grade": "8",
-          "city": "Leawood",
-          "school": "Nativity Parish School"
-        }
-      ]
-    },
-    {
-      "id": 530,
-      "name": "Sriram Srinivasa Kalki",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Kansas",
-          "student_name": "Sriram Srinivasa Kalki",
-          "grade": "8",
-          "city": "Overland",
-          "school": "Park Overland Trail Middle School"
-        }
-      ]
-    },
-    {
-      "id": 531,
-      "name": "Nihal Jacob",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Kentucky",
-          "student_name": "Nihal Jacob",
-          "grade": "8",
-          "city": "Crestwood",
-          "school": "South Oldham Middle School"
-        }
-      ]
-    },
-    {
-      "id": 532,
-      "name": "Victoria Fu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Kentucky",
-          "student_name": "Victoria Fu",
-          "grade": "8",
-          "city": "Louisville",
-          "school": "Meyzeek Middle School"
-        }
-      ]
-    },
-    {
-      "id": 533,
-      "name": "Sri Vulava",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Kentucky",
-          "student_name": "Sri Vulava",
-          "grade": "7",
-          "city": "Louisville",
-          "school": "Meyzeek Middle School"
-        }
-      ]
-    },
-    {
-      "id": 534,
-      "name": "Aryan Agahtehrani",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Kentucky",
-          "student_name": "Aryan Agahtehrani",
-          "grade": "8",
-          "city": "Louisville",
-          "school": "Kentucky Country Day School"
-        }
-      ]
-    },
-    {
-      "id": 535,
-      "name": "Alex Pan",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Louisiana",
-          "student_name": "Alex Pan",
-          "grade": "8",
-          "city": "Baton",
-          "school": "Rouge Glasgow Middle School"
-        }
-      ]
-    },
-    {
-      "id": 536,
-      "name": "Varun Gala",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Louisiana",
-          "student_name": "Varun Gala",
-          "grade": "8",
-          "city": "Baton",
-          "school": "Rouge Glasgow Middle School"
-        }
-      ]
-    },
-    {
-      "id": 537,
-      "name": "Kevin Zheng",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Louisiana",
-          "student_name": "Kevin Zheng",
-          "grade": "8",
-          "city": "Baton",
-          "school": "Rouge Catholic High School"
-        }
-      ]
-    },
-    {
-      "id": 538,
-      "name": "Ishan Kunada",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Louisiana",
-          "student_name": "Ishan Kunada",
-          "grade": "8",
-          "city": "Lafayette",
-          "school": "Paul Breaux Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Louisiana",
-          "student_name": "Ishan Kunada",
-          "grade": "7",
-          "city": "Lafayette",
-          "school": "Paul Breaux Middle School"
-        }
-      ]
-    },
-    {
-      "id": 539,
-      "name": "Alex Ren",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Maine",
-          "student_name": "Alex Ren",
-          "grade": "7",
-          "city": "Bar Harbor",
-          "school": "Ren Homeschool"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Maine",
-          "student_name": "Alex Ren",
-          "grade": "6",
-          "city": "Bar",
-          "school": "Harbor Conners Emerson School"
-        }
-      ]
-    },
-    {
-      "id": 540,
-      "name": "Asa Tussing",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Maine",
-          "student_name": "Asa Tussing",
-          "grade": "8",
-          "city": "Portland",
-          "school": "Lincoln Middle School"
-        }
-      ]
-    },
-    {
-      "id": 541,
-      "name": "Samson Cournane",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Maine",
-          "student_name": "Samson Cournane",
-          "grade": "7",
-          "city": "Hampden",
-          "school": "Maine Virtual Academy"
         }
       ]
     },
@@ -23300,16 +21194,6 @@
           "state": "Maryland",
           "rank": "9",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Maryland",
-          "student_name": "Yunyi Ling",
-          "grade": "8",
-          "city": "Rockville",
-          "school": "Robert Frost Middle School"
         }
       ]
     },
@@ -23326,16 +21210,6 @@
           "state": "Maryland",
           "rank": "47",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Maryland",
-          "student_name": "Jason Youm",
-          "grade": "8",
-          "city": "Potomac",
-          "school": "Herbert Hoover Middle School"
         }
       ]
     },
@@ -23359,16 +21233,6 @@
           "student_name": "Ivy Guo",
           "state": "Maryland",
           "award": "Bronze"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Maryland",
-          "student_name": "Ivy Guo",
-          "grade": "8",
-          "city": "Rockville",
-          "school": "Robert Frost Middle School"
         }
       ]
     },
@@ -23384,50 +21248,6 @@
           "student_name": "Matthew Qian",
           "state": "Massachusetts",
           "award": "Bronze"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Massachusetts",
-          "student_name": "Matthew Qian",
-          "grade": "8",
-          "city": "Acton",
-          "school": "R J Grey Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 546,
-      "name": "Rohith Raghavan",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Massachusetts",
-          "student_name": "Rohith Raghavan",
-          "grade": "8",
-          "city": "Sharon",
-          "school": "Sharon Middle School"
-        }
-      ]
-    },
-    {
-      "id": 547,
-      "name": "Yuan Zhuang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Massachusetts",
-          "student_name": "Yuan Zhuang",
-          "grade": "8",
-          "city": "Sudbury",
-          "school": "Ephraim Curtis Middle School"
         }
       ]
     },
@@ -23444,33 +21264,6 @@
           "state": "Michigan",
           "rank": "30",
           "grade": "6"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Michigan",
-          "student_name": "Michael Lu",
-          "grade": "8",
-          "city": "Bloomfield",
-          "school": "Hills Bloomfield Hills Middle School"
-        }
-      ]
-    },
-    {
-      "id": 549,
-      "name": "Elita You",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Michigan",
-          "student_name": "Elita You",
-          "grade": "8",
-          "city": "Ann",
-          "school": "Arbor Slauson Middle School"
         }
       ]
     },
@@ -23495,16 +21288,6 @@
           "state": "Minnesota",
           "rank": "28",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Minnesota",
-          "student_name": "Austin Wang",
-          "grade": "6",
-          "city": "North",
-          "school": "Oaks Chippewa Middle School"
         }
       ]
     },
@@ -23521,148 +21304,6 @@
           "state": "Minnesota",
           "rank": "51",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Minnesota",
-          "student_name": "Sneha Kundu",
-          "grade": "8",
-          "city": "Plymouth",
-          "school": "Wayzata Central Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Minnesota",
-          "student_name": "Sneha Kundu",
-          "grade": "7",
-          "city": "Plymouth",
-          "school": "Wayzata Central Middle School"
-        }
-      ]
-    },
-    {
-      "id": 552,
-      "name": "Kevin Qiu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Minnesota",
-          "student_name": "Kevin Qiu",
-          "grade": "8",
-          "city": "Plymouth",
-          "school": "Wayzata Central Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Minnesota",
-          "student_name": "Kevin Qiu",
-          "grade": "7",
-          "city": "Plymouth",
-          "school": "Wayzata Central Middle School"
-        }
-      ]
-    },
-    {
-      "id": 553,
-      "name": "Jinu Lee",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Minnesota",
-          "student_name": "Jinu Lee",
-          "grade": "8",
-          "city": "Moorhead",
-          "school": "Horizon Middle School"
-        }
-      ]
-    },
-    {
-      "id": 554,
-      "name": "Ryan Wu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Mississippi",
-          "student_name": "Ryan Wu",
-          "grade": "8",
-          "city": "Madison",
-          "school": "Madison Middle School"
-        }
-      ]
-    },
-    {
-      "id": 555,
-      "name": "Grant Zhang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Mississippi",
-          "student_name": "Grant Zhang",
-          "grade": "8",
-          "city": "Oxford",
-          "school": "Oxford Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Mississippi",
-          "student_name": "Grant Zhang",
-          "grade": "7",
-          "city": "Oxford",
-          "school": "Oxford Middle School"
-        }
-      ]
-    },
-    {
-      "id": 556,
-      "name": "Hadley Green",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Mississippi",
-          "student_name": "Hadley Green",
-          "grade": "8",
-          "city": "Oxford",
-          "school": "Oxford Home"
-        }
-      ]
-    },
-    {
-      "id": 557,
-      "name": "Brantley Denson",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Mississippi",
-          "student_name": "Brantley Denson",
-          "grade": "8",
-          "city": "Jackson",
-          "school": "Jackson Preparatory School"
         }
       ]
     },
@@ -23697,16 +21338,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Missouri",
-          "student_name": "Aaron Lin",
-          "grade": "8",
-          "city": "Saint Louis",
-          "school": "Ladue Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -23714,33 +21345,6 @@
           "state": "Missouri",
           "rank": "29",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Missouri",
-          "student_name": "Aaron Lin",
-          "grade": "7",
-          "city": "Saint",
-          "school": "Louis Ladue Middle School"
-        }
-      ]
-    },
-    {
-      "id": 559,
-      "name": "Lucas Zhang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Missouri",
-          "student_name": "Lucas Zhang",
-          "grade": "8",
-          "city": "Ellisville",
-          "school": "Crestview Middle School"
         }
       ]
     },
@@ -23765,304 +21369,6 @@
           "state": "Missouri",
           "rank": "50",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Maryland",
-          "student_name": "Alex Wang",
-          "grade": "8",
-          "city": "Germantown",
-          "school": "Roberto Clemente Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Missouri",
-          "student_name": "Alex Wang",
-          "grade": "8",
-          "city": "Saint Louis",
-          "school": "Ladue Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Missouri",
-          "student_name": "Alex Wang",
-          "grade": "7",
-          "city": "Saint",
-          "school": "Louis Ladue Middle School"
-        }
-      ]
-    },
-    {
-      "id": 561,
-      "name": "Anthony Zhao",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Missouri",
-          "student_name": "Anthony Zhao",
-          "grade": "8",
-          "city": "Saint Louis",
-          "school": "Ladue Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Missouri",
-          "student_name": "Anthony Zhao",
-          "grade": "7",
-          "city": "Saint",
-          "school": "Louis Ladue Middle School"
-        }
-      ]
-    },
-    {
-      "id": 562,
-      "name": "Brendan Cowie",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Montana",
-          "student_name": "Brendan Cowie",
-          "grade": "8",
-          "city": "Missoula",
-          "school": "Washington Middle School"
-        }
-      ]
-    },
-    {
-      "id": 563,
-      "name": "Adam Bukowski",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Montana",
-          "student_name": "Adam Bukowski",
-          "grade": "7",
-          "city": "Bozeman",
-          "school": "Headwaters Academy"
-        }
-      ]
-    },
-    {
-      "id": 564,
-      "name": "Eli LeBaron",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Montana",
-          "student_name": "Eli LeBaron",
-          "grade": "8",
-          "city": "Billings",
-          "school": "Ben Steele Middle School"
-        }
-      ]
-    },
-    {
-      "id": 565,
-      "name": "Dylan Jolliffe",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Montana",
-          "student_name": "Dylan Jolliffe",
-          "grade": "8",
-          "city": "Missoula",
-          "school": "Washington Middle School"
-        }
-      ]
-    },
-    {
-      "id": 566,
-      "name": "Viet Lai",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Nebraska",
-          "student_name": "Viet Lai",
-          "grade": "7",
-          "city": "Lincoln",
-          "school": "Hazel G. Scott Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Nebraska",
-          "student_name": "Viet Lai",
-          "grade": "6",
-          "city": "Lincoln",
-          "school": "Hazel G. Scott Middle School"
-        }
-      ]
-    },
-    {
-      "id": 567,
-      "name": "Haamiz Humayun Kabir",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Nebraska",
-          "student_name": "Haamiz Humayun Kabir",
-          "grade": "8",
-          "city": "Omaha",
-          "school": "Peter Kiewit Middle School"
-        }
-      ]
-    },
-    {
-      "id": 568,
-      "name": "Niloufar Kholmatov",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Nebraska",
-          "student_name": "Niloufar Kholmatov",
-          "grade": "7",
-          "city": "Lincoln",
-          "school": "Lux Middle School"
-        }
-      ]
-    },
-    {
-      "id": 569,
-      "name": "Ha Quach",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Nebraska",
-          "student_name": "Ha Quach",
-          "grade": "7",
-          "city": "Lincoln",
-          "school": "Hazel G. Scott Middle School"
-        }
-      ]
-    },
-    {
-      "id": 570,
-      "name": "Evan Lim",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Nevada",
-          "student_name": "Evan Lim",
-          "grade": "8",
-          "city": "Reno",
-          "school": "Davidson Academy"
-        }
-      ]
-    },
-    {
-      "id": 571,
-      "name": "Alexander Weaver",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Nevada",
-          "student_name": "Alexander Weaver",
-          "grade": "7",
-          "city": "Reno",
-          "school": "Davidson Academy"
-        }
-      ]
-    },
-    {
-      "id": 572,
-      "name": "Shelly Yang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Nevada",
-          "student_name": "Shelly Yang",
-          "grade": "8",
-          "city": "Reno",
-          "school": "Davidson Academy"
-        }
-      ]
-    },
-    {
-      "id": 573,
-      "name": "Akshansh Chauhan",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Nevada",
-          "student_name": "Akshansh Chauhan",
-          "grade": "8",
-          "city": "Reno",
-          "school": "Davidson Academy"
-        }
-      ]
-    },
-    {
-      "id": 574,
-      "name": "Vaibhav Rastogi",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Hampshire",
-          "student_name": "Vaibhav Rastogi",
-          "grade": "8",
-          "city": "Concord",
-          "school": "Rastogi Home School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Hampshire",
-          "student_name": "Vaibhav Rastogi",
-          "grade": "7",
-          "city": "Concord",
-          "school": "Rastogi Home School"
         }
       ]
     },
@@ -24087,155 +21393,6 @@
           "state": "New Hampshire",
           "rank": "41",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Hampshire",
-          "student_name": "Pratham Mukewar",
-          "grade": "8",
-          "city": "Nashua",
-          "school": "Academy for Science and Design"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Hampshire",
-          "student_name": "Pratham Mukewar",
-          "grade": "7",
-          "city": "Nashua",
-          "school": "Academy"
-        }
-      ]
-    },
-    {
-      "id": 576,
-      "name": "David Cong",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Hampshire",
-          "student_name": "David Cong",
-          "grade": "8",
-          "city": "Bedford",
-          "school": "Ross A Lurgio Middle School"
-        }
-      ]
-    },
-    {
-      "id": 577,
-      "name": "Vedant Patil",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Hampshire",
-          "student_name": "Vedant Patil",
-          "grade": "8",
-          "city": "Nashua",
-          "school": "Elm Street Middle School"
-        }
-      ]
-    },
-    {
-      "id": 578,
-      "name": "Akilan Sankaran",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Mexico",
-          "student_name": "Akilan Sankaran",
-          "grade": "8",
-          "city": "Albuquerque",
-          "school": "Albuquerque Academy"
-        }
-      ]
-    },
-    {
-      "id": 579,
-      "name": "Hiro Jau",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Mexico",
-          "student_name": "Hiro Jau",
-          "grade": "8",
-          "city": "Albuquerque",
-          "school": "Desert Ridge Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Mexico",
-          "student_name": "Hiro Jau",
-          "grade": "7",
-          "city": "Albuquerque",
-          "school": "Desert Ridge Middle School"
-        }
-      ]
-    },
-    {
-      "id": 580,
-      "name": "Kyuryeon Kim",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Mexico",
-          "student_name": "Kyuryeon Kim",
-          "grade": "8",
-          "city": "Albuquerque",
-          "school": "Desert Ridge Middle School"
-        }
-      ]
-    },
-    {
-      "id": 581,
-      "name": "Iorwen Ouyang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New Mexico",
-          "student_name": "Iorwen Ouyang",
-          "grade": "8",
-          "city": "Albuquerque",
-          "school": "Desert Ridge Middle School"
-        }
-      ]
-    },
-    {
-      "id": 582,
-      "name": "Shirley Xiong",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New York",
-          "student_name": "Shirley Xiong",
-          "grade": "8",
-          "city": "Stony Brook",
-          "school": "Robert Cushman Murphy Junior High School"
         }
       ]
     },
@@ -24252,135 +21409,6 @@
           "state": "New York",
           "rank": "34",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "New York",
-          "student_name": "Rohan Sastry",
-          "grade": "8",
-          "city": "New York",
-          "school": "The Speyer Legacy School"
-        }
-      ]
-    },
-    {
-      "id": 584,
-      "name": "Raymond Ge",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "North Carolina",
-          "student_name": "Raymond Ge",
-          "grade": "7",
-          "city": "Morrisville",
-          "school": "Sterling Montessori Charter School"
-        }
-      ]
-    },
-    {
-      "id": 585,
-      "name": "Anthony Yang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "North Carolina",
-          "student_name": "Anthony Yang",
-          "grade": "8",
-          "city": "Charlotte",
-          "school": "Randolph IB Middle School"
-        }
-      ]
-    },
-    {
-      "id": 586,
-      "name": "Mu Jett",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "North Carolina",
-          "student_name": "Mu Jett",
-          "grade": "8",
-          "city": "Chapel Hill",
-          "school": "Smith Middle School"
-        }
-      ]
-    },
-    {
-      "id": 587,
-      "name": "Cady Wang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "North Dakota",
-          "student_name": "Cady Wang",
-          "grade": "8",
-          "city": "Fargo",
-          "school": "Discovery Middle School"
-        }
-      ]
-    },
-    {
-      "id": 588,
-      "name": "Andrew Ternes",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "North Dakota",
-          "student_name": "Andrew Ternes",
-          "grade": "8",
-          "city": "Devils",
-          "school": "Lake St. Joseph Catholic School"
-        }
-      ]
-    },
-    {
-      "id": 589,
-      "name": "Malory Kemp",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "North Dakota",
-          "student_name": "Malory Kemp",
-          "grade": "7",
-          "city": "Cavalier",
-          "school": "Cavalier Public School"
-        }
-      ]
-    },
-    {
-      "id": 590,
-      "name": "Dahlia Atanasova",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "North Dakota",
-          "student_name": "Dahlia Atanasova",
-          "grade": "8",
-          "city": "Fargo",
-          "school": "Ben Franklin Middle School"
         }
       ]
     },
@@ -24397,16 +21425,6 @@
           "state": "Ohio",
           "rank": "39",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Ohio",
-          "student_name": "Devin Lim",
-          "grade": "8",
-          "city": "Solon",
-          "school": "Solon Middle School"
         }
       ]
     },
@@ -24423,216 +21441,6 @@
           "state": "Ohio",
           "rank": "54",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Ohio",
-          "student_name": "Emir Naduvil",
-          "grade": "8",
-          "city": "Solon",
-          "school": "Solon Middle School"
-        }
-      ]
-    },
-    {
-      "id": 593,
-      "name": "Harshita Ganga",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Ohio",
-          "student_name": "Harshita Ganga",
-          "grade": "8",
-          "city": "Mason",
-          "school": "Mason Middle School"
-        }
-      ]
-    },
-    {
-      "id": 594,
-      "name": "Reese Zong",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Ohio",
-          "student_name": "Reese Zong",
-          "grade": "8",
-          "city": "Plain City",
-          "school": "Eversole Run Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Ohio",
-          "student_name": "Reese Zong",
-          "grade": "7",
-          "city": "Dublin",
-          "school": "Dublin Grizzell Middle School"
-        }
-      ]
-    },
-    {
-      "id": 595,
-      "name": "Aiden Kim",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Oklahoma",
-          "student_name": "Aiden Kim",
-          "grade": "8",
-          "city": "Stillwater",
-          "school": "Stillwater Junior High School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Oklahoma",
-          "student_name": "Aiden Kim",
-          "grade": "7",
-          "city": "Stillwater",
-          "school": "Stillwater Middle School"
-        }
-      ]
-    },
-    {
-      "id": 596,
-      "name": "Ethan Li",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Oklahoma",
-          "student_name": "Ethan Li",
-          "grade": "8",
-          "city": "Norman",
-          "school": "Whittier Middle School"
-        }
-      ]
-    },
-    {
-      "id": 597,
-      "name": "Nityant Chandupatla",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Oklahoma",
-          "student_name": "Nityant Chandupatla",
-          "grade": "8",
-          "city": "Edmond",
-          "school": "Gopal Homeschool"
-        }
-      ]
-    },
-    {
-      "id": 598,
-      "name": "Justin Burns",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Oklahoma",
-          "student_name": "Justin Burns",
-          "grade": "8",
-          "city": "Tulsa",
-          "school": "Metro Christian Academy"
-        }
-      ]
-    },
-    {
-      "id": 599,
-      "name": "Kai Yamashita",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Oregon",
-          "student_name": "Kai Yamashita",
-          "grade": "7",
-          "city": "Corvallis",
-          "school": "Ashbrook Independent School"
-        }
-      ]
-    },
-    {
-      "id": 600,
-      "name": "Justin Xia",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Oregon",
-          "student_name": "Justin Xia",
-          "grade": "8",
-          "city": "Portland",
-          "school": "Stoller Middle School"
-        }
-      ]
-    },
-    {
-      "id": 601,
-      "name": "Shreyan Paliwal",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Oregon",
-          "student_name": "Shreyan Paliwal",
-          "grade": "8",
-          "city": "Portland",
-          "school": "Willamette Valley Academy"
-        }
-      ]
-    },
-    {
-      "id": 602,
-      "name": "Yaseen Arifin",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Oregon",
-          "student_name": "Yaseen Arifin",
-          "grade": "8",
-          "city": "Beaverton",
-          "school": "Meadow Park Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Oregon",
-          "student_name": "Yaseen Arifin",
-          "grade": "7",
-          "city": "Beaverton",
-          "school": "Meadow Park Middle School"
         }
       ]
     },
@@ -24657,179 +21465,6 @@
           "state": "Pennsylvania",
           "rank": "46",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Pennsylvania",
-          "student_name": "Aidan Le",
-          "grade": "8",
-          "city": "State College",
-          "school": "Mount Nittany Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Pennsylvania",
-          "student_name": "Aidan Le",
-          "grade": "7",
-          "city": "State College Park",
-          "school": "Forest Middle School"
-        }
-      ]
-    },
-    {
-      "id": 604,
-      "name": "Joseph Widjaja",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Pennsylvania",
-          "student_name": "Joseph Widjaja",
-          "grade": "8",
-          "city": "Wexford",
-          "school": "Marshall Middle School"
-        }
-      ]
-    },
-    {
-      "id": 605,
-      "name": "Nirvana Rosabella Marrero Tiodang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Puerto Rico",
-          "student_name": "Nirvana Rosabella Marrero Tiodang",
-          "grade": "8",
-          "city": "Carolina",
-          "school": "Saint Francis School"
-        }
-      ]
-    },
-    {
-      "id": 606,
-      "name": "Jake Taubman",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Puerto Rico",
-          "student_name": "Jake Taubman",
-          "grade": "8",
-          "city": "Dorado",
-          "school": "Tasis School"
-        }
-      ]
-    },
-    {
-      "id": 607,
-      "name": "Rania Marrero Al-Attar",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Puerto Rico",
-          "student_name": "Rania Marrero Al-Attar",
-          "grade": "8",
-          "city": "San Juan",
-          "school": "Saint Johns School"
-        }
-      ]
-    },
-    {
-      "id": 608,
-      "name": "Sergey Sachko",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Puerto Rico",
-          "student_name": "Sergey Sachko",
-          "grade": "8",
-          "city": "Caguas",
-          "school": "Cimatec School"
-        }
-      ]
-    },
-    {
-      "id": 609,
-      "name": "Ruoyu Gao",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Rhode Island",
-          "student_name": "Ruoyu Gao",
-          "grade": "8",
-          "city": "Barrington",
-          "school": "Barrington Middle School"
-        }
-      ]
-    },
-    {
-      "id": 610,
-      "name": "Siddharth Gupta",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Rhode Island",
-          "student_name": "Siddharth Gupta",
-          "grade": "7",
-          "city": "Barrington",
-          "school": "Barrington Middle School"
-        }
-      ]
-    },
-    {
-      "id": 611,
-      "name": "Samuel Licht",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Rhode Island",
-          "student_name": "Samuel Licht",
-          "grade": "7",
-          "city": "Providence",
-          "school": "Moses Brown School"
-        }
-      ]
-    },
-    {
-      "id": 612,
-      "name": "William Bruno",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Rhode Island",
-          "student_name": "William Bruno",
-          "grade": "8",
-          "city": "Providence",
-          "school": "Wheeler School"
         }
       ]
     },
@@ -24847,16 +21482,6 @@
           "award": "Honorable Mention"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "South Carolina",
-          "student_name": "Brandon Xu",
-          "grade": "8",
-          "city": "Greenville",
-          "school": "Sterling School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -24864,16 +21489,6 @@
           "state": "South Carolina",
           "rank": "32",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "South Carolina",
-          "student_name": "Brandon Xu",
-          "grade": "7",
-          "city": "Greenville",
-          "school": "Sterling School"
         }
       ]
     },
@@ -24892,16 +21507,6 @@
           "grade": "7"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "South Carolina",
-          "student_name": "Anthony Zou",
-          "grade": "7",
-          "city": "Lexington",
-          "school": "Meadow Glen Middle School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -24909,138 +21514,6 @@
           "state": "South Carolina",
           "rank": "49",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "South Carolina",
-          "student_name": "Anthony Zou",
-          "grade": "6",
-          "city": "Lexington",
-          "school": "Meadow Glen Middle School"
-        }
-      ]
-    },
-    {
-      "id": 615,
-      "name": "Ruideng Zhong",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "South Carolina",
-          "student_name": "Ruideng Zhong",
-          "grade": "8",
-          "city": "Clemson",
-          "school": "R. C. Edwards Middle School"
-        }
-      ]
-    },
-    {
-      "id": 616,
-      "name": "William Wang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "South Carolina",
-          "student_name": "William Wang",
-          "grade": "8",
-          "city": "Irmo",
-          "school": "Dutch Fork Middle School"
-        }
-      ]
-    },
-    {
-      "id": 617,
-      "name": "Ernest Ting",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "South Dakota",
-          "student_name": "Ernest Ting",
-          "grade": "8",
-          "city": "Brookings",
-          "school": "George S Mickelson Middle School"
-        }
-      ]
-    },
-    {
-      "id": 618,
-      "name": "Joseph Michna",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "South Dakota",
-          "student_name": "Joseph Michna",
-          "grade": "8",
-          "city": "Brookings",
-          "school": "George S. Mickelson Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "South Dakota",
-          "student_name": "Joseph Michna",
-          "grade": "7",
-          "city": "Brookings",
-          "school": "George S Mickelson Middle School"
-        }
-      ]
-    },
-    {
-      "id": 619,
-      "name": "Vedant Sharan",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "South Dakota",
-          "student_name": "Vedant Sharan",
-          "grade": "8",
-          "city": "Brookings",
-          "school": "George S. Mickelson Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "South Dakota",
-          "student_name": "Vedant Sharan",
-          "grade": "7",
-          "city": "Brookings",
-          "school": "George S Mickelson Middle School"
-        }
-      ]
-    },
-    {
-      "id": 620,
-      "name": "Caleb Mayrose",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "South Dakota",
-          "student_name": "Caleb Mayrose",
-          "grade": "8",
-          "city": "Vermillion",
-          "school": "Vermillion Middle School"
         }
       ]
     },
@@ -25059,16 +21532,6 @@
           "grade": "8"
         },
         {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "State Department",
-          "student_name": "Sebastian Chase",
-          "grade": "8",
-          "city": "Hong Kong",
-          "school": "Hong Kong International School"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -25076,16 +21539,6 @@
           "state": "State Department",
           "rank": "24",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "State Department",
-          "student_name": "Sebastian Chase",
-          "grade": "7",
-          "city": "Hong Kong",
-          "school": "Hong Kong International School"
         }
       ]
     },
@@ -25102,284 +21555,6 @@
           "state": "State Department",
           "rank": "27",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "State Department",
-          "student_name": "Josh Shin",
-          "grade": "8",
-          "city": "Singapore",
-          "school": "Singapore American School"
-        }
-      ]
-    },
-    {
-      "id": 623,
-      "name": "Lexing Huang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "State Department",
-          "student_name": "Lexing Huang",
-          "grade": "8",
-          "city": "China",
-          "school": "International School"
-        }
-      ]
-    },
-    {
-      "id": 624,
-      "name": "Amy Yu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Tennessee",
-          "student_name": "Amy Yu",
-          "grade": "8",
-          "city": "Memphis",
-          "school": "White Station Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Tennessee",
-          "student_name": "Amy Yu",
-          "grade": "7",
-          "city": "Memphis",
-          "school": "White Station Middle School"
-        }
-      ]
-    },
-    {
-      "id": 625,
-      "name": "Alan Z Cheng",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Tennessee",
-          "student_name": "Alan Z Cheng",
-          "grade": "8",
-          "city": "Memphis",
-          "school": "Memphis University School"
-        }
-      ]
-    },
-    {
-      "id": 626,
-      "name": "William C Peng",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Tennessee",
-          "student_name": "William C Peng",
-          "grade": "8",
-          "city": "Nashville",
-          "school": "Montgomery Bell Academy"
-        }
-      ]
-    },
-    {
-      "id": 627,
-      "name": "Annie X Wu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Tennessee",
-          "student_name": "Annie X Wu",
-          "grade": "8",
-          "city": "Memphis",
-          "school": "White Station Middle School"
-        }
-      ]
-    },
-    {
-      "id": 628,
-      "name": "Mingchuan Cheng",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Utah",
-          "student_name": "Mingchuan Cheng",
-          "grade": "8",
-          "city": "Salt Lake City",
-          "school": "West High School"
-        }
-      ]
-    },
-    {
-      "id": 629,
-      "name": "Yuyang Zhang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Vermont",
-          "student_name": "Yuyang Zhang",
-          "grade": "8",
-          "city": "South Burlington",
-          "school": "F H Tuttle Middle School"
-        }
-      ]
-    },
-    {
-      "id": 630,
-      "name": "Jacob Graham",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Vermont",
-          "student_name": "Jacob Graham",
-          "grade": "8",
-          "city": "Bristol",
-          "school": "Mount Abraham Union Middle School"
-        }
-      ]
-    },
-    {
-      "id": 631,
-      "name": "Emma Xia",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Vermont",
-          "student_name": "Emma Xia",
-          "grade": "8",
-          "city": "South Burlington",
-          "school": "F H Tuttle Middle School"
-        }
-      ]
-    },
-    {
-      "id": 632,
-      "name": "Cameron Stultz",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Vermont",
-          "student_name": "Cameron Stultz",
-          "grade": "8",
-          "city": "Essex",
-          "school": "Junction Albert D Lawton Intermediate School"
-        }
-      ]
-    },
-    {
-      "id": 633,
-      "name": "Tanmay Totwani",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Virgin Islands",
-          "student_name": "Tanmay Totwani",
-          "grade": "8",
-          "city": "Saint Thomas",
-          "school": "Antilles School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Virgin Islands",
-          "student_name": "Tanmay Totwani",
-          "grade": "7",
-          "city": "Saint Thomas",
-          "school": "Antilles School"
-        }
-      ]
-    },
-    {
-      "id": 634,
-      "name": "Eli Blondeau",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Virgin Islands",
-          "student_name": "Eli Blondeau",
-          "grade": "7",
-          "city": "Saint Thomas",
-          "school": "Antilles School"
-        }
-      ]
-    },
-    {
-      "id": 635,
-      "name": "Meher Makhijani",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Virgin Islands",
-          "student_name": "Meher Makhijani",
-          "grade": "7",
-          "city": "Saint Thomas",
-          "school": "Antilles School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Virgin Islands",
-          "student_name": "Meher Makhijani",
-          "grade": "6",
-          "city": "Saint Thomas",
-          "school": "Antilles School"
-        }
-      ]
-    },
-    {
-      "id": 636,
-      "name": "Marina Lin",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Virginia",
-          "student_name": "Marina Lin",
-          "grade": "8",
-          "city": "Falls",
-          "school": "Church Longfellow Middle School"
         }
       ]
     },
@@ -25404,16 +21579,6 @@
           "state": "Virginia",
           "rank": "36",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Virginia",
-          "student_name": "Angeline Zhao",
-          "grade": "8",
-          "city": "Falls Church",
-          "school": "Longfellow Middle School"
         }
       ]
     },
@@ -25437,16 +21602,6 @@
           "student_name": "Owen Zhang",
           "state": "Washington",
           "award": "Silver"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Washington",
-          "student_name": "Owen Zhang",
-          "grade": "8",
-          "city": "Bellevue",
-          "school": "Odle Middle School"
         }
       ]
     },
@@ -25463,16 +21618,6 @@
           "state": "Washington",
           "rank": "56",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Washington",
-          "student_name": "Alon Ragoler",
-          "grade": "8",
-          "city": "Redmond",
-          "school": "Evergreen Middle School"
         }
       ]
     },
@@ -25489,16 +21634,6 @@
           "state": "Washington",
           "rank": "2",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Washington",
-          "student_name": "Bohan Yao",
-          "grade": "8",
-          "city": "Redmond",
-          "school": "Timberline Middle School"
         }
       ]
     },
@@ -25531,104 +21666,6 @@
           "state": "Washington",
           "rank": "31",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Washington",
-          "student_name": "Hongning Wang",
-          "grade": "8",
-          "city": "Redmond",
-          "school": "Evergreen Middle School"
-        }
-      ]
-    },
-    {
-      "id": 642,
-      "name": "Austin Luo",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "West Virginia",
-          "student_name": "Austin Luo",
-          "grade": "8",
-          "city": "Morgantown",
-          "school": "Suncrest Middle School"
-        }
-      ]
-    },
-    {
-      "id": 643,
-      "name": "Joyce Hu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "West Virginia",
-          "student_name": "Joyce Hu",
-          "grade": "8",
-          "city": "Morgantown",
-          "school": "Suncrest Middle School"
-        }
-      ]
-    },
-    {
-      "id": 644,
-      "name": "Sanketh Guppi",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "West Virginia",
-          "student_name": "Sanketh Guppi",
-          "grade": "8",
-          "city": "Morgantown",
-          "school": "Suncrest Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "West Virginia",
-          "student_name": "Sanketh Guppi",
-          "grade": "7",
-          "city": "Morgantown",
-          "school": "Suncrest Middle School"
-        }
-      ]
-    },
-    {
-      "id": 645,
-      "name": "Caden Yao",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "West Virginia",
-          "student_name": "Caden Yao",
-          "grade": "7",
-          "city": "Morgantown",
-          "school": "Suncrest Middle School"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "West Virginia",
-          "student_name": "Caden Yao",
-          "grade": "6",
-          "city": "Morgantown",
-          "school": "Suncrest Middle School"
         }
       ]
     },
@@ -25653,16 +21690,6 @@
           "state": "Wisconsin",
           "rank": "50",
           "grade": "6"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Wisconsin",
-          "student_name": "Kartik Ramachandrula",
-          "grade": "8",
-          "city": "Brookfield",
-          "school": "Wisconsin Hills Middle School"
         }
       ]
     },
@@ -25678,16 +21705,6 @@
           "student_name": "Joshua Wang",
           "state": "Wisconsin",
           "award": "Bronze"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Wisconsin",
-          "student_name": "Joshua Wang",
-          "grade": "8",
-          "city": "Brookfield",
-          "school": "Wisconsin Hills Middle School"
         }
       ]
     },
@@ -25704,203 +21721,6 @@
           "state": "Wisconsin",
           "rank": "44",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Wisconsin",
-          "student_name": "Jeremy Li",
-          "grade": "8",
-          "city": "De Pere",
-          "school": "De Pere Middle School"
-        }
-      ]
-    },
-    {
-      "id": 649,
-      "name": "Harry Jin",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Wisconsin",
-          "student_name": "Harry Jin",
-          "grade": "8",
-          "city": "Middleton",
-          "school": "Kromrey Middle School"
-        }
-      ]
-    },
-    {
-      "id": 650,
-      "name": "Jonathan Oler",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Wyoming",
-          "student_name": "Jonathan Oler",
-          "grade": "8",
-          "city": "Laramie",
-          "school": "Laramie Middle School"
-        }
-      ]
-    },
-    {
-      "id": 651,
-      "name": "Paul J Baxter",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Wyoming",
-          "student_name": "Paul J Baxter",
-          "grade": "8",
-          "city": "Evanston",
-          "school": "Evanston Middle School"
-        }
-      ]
-    },
-    {
-      "id": 652,
-      "name": "Dexter Opps",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Wyoming",
-          "student_name": "Dexter Opps",
-          "grade": "8",
-          "city": "Powell",
-          "school": "Powell Middle School"
-        }
-      ]
-    },
-    {
-      "id": 653,
-      "name": "Michael Mahoney",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Wyoming",
-          "student_name": "Michael Mahoney",
-          "grade": "8",
-          "city": "Gillette",
-          "school": "Sage Valley Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 654,
-      "name": "Albert Chen",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Alabama",
-          "student_name": "Albert Chen",
-          "grade": "8",
-          "city": "Birmingham",
-          "school": "Alabama School of Fine Arts"
-        }
-      ]
-    },
-    {
-      "id": 655,
-      "name": "Tina Gao",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Alabama",
-          "student_name": "Tina Gao",
-          "grade": "8",
-          "city": "Vestavia Hills",
-          "school": "Louis Pizitz Middle School"
-        }
-      ]
-    },
-    {
-      "id": 656,
-      "name": "Xiling Tanner",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Alaska",
-          "student_name": "Xiling Tanner",
-          "grade": "7",
-          "city": "Kenai",
-          "school": "Kenai Middle School"
-        }
-      ]
-    },
-    {
-      "id": 657,
-      "name": "Kevin Zhang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Alaska",
-          "student_name": "Kevin Zhang",
-          "grade": "6",
-          "city": "Anchorage",
-          "school": "Rogers Park Elementary School"
-        }
-      ]
-    },
-    {
-      "id": 658,
-      "name": "Brooke Peng",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Alaska",
-          "student_name": "Brooke Peng",
-          "grade": "6",
-          "city": "Anchorage",
-          "school": "Rogers Park Elementary School"
-        }
-      ]
-    },
-    {
-      "id": 659,
-      "name": "Alex Nemeth",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Alaska",
-          "student_name": "Alex Nemeth",
-          "grade": "8",
-          "city": "Anchorage",
-          "school": "Romig Middle School"
         }
       ]
     },
@@ -25934,84 +21754,6 @@
           "state": "Arizona",
           "rank": "37",
           "grade": "6"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Arizona",
-          "student_name": "Quentin Hill",
-          "grade": "6",
-          "city": "Tucson",
-          "school": "Basis Tucson North"
-        }
-      ]
-    },
-    {
-      "id": 661,
-      "name": "Abigail Qiu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Arizona",
-          "student_name": "Abigail Qiu",
-          "grade": "8",
-          "city": "Chandler",
-          "school": "Basis Chandler"
-        }
-      ]
-    },
-    {
-      "id": 662,
-      "name": "Sumedh Kalyankar",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Arkansas",
-          "student_name": "Sumedh Kalyankar",
-          "grade": "8",
-          "city": "Fayetteville",
-          "school": "Woodland Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 663,
-      "name": "Patrick Jiang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Arkansas",
-          "student_name": "Patrick Jiang",
-          "grade": "8",
-          "city": "Fayetteville",
-          "school": "Woodland Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 664,
-      "name": "Justin Wang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Arkansas",
-          "student_name": "Justin Wang",
-          "grade": "7",
-          "city": "Fayetteville",
-          "school": "Woodland Junior High School"
         }
       ]
     },
@@ -26044,16 +21786,6 @@
           "state": "California",
           "rank": "31",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "California",
-          "student_name": "Sohil Rathi",
-          "grade": "8",
-          "city": "San Jose",
-          "school": "Joaquin Miller Middle School"
         }
       ]
     },
@@ -26086,16 +21818,6 @@
           "state": "Colorado",
           "rank": "C",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Colorado",
-          "student_name": "Shruti Arun",
-          "grade": "8",
-          "city": "Greenwood Village",
-          "school": "Campus Middle School"
         }
       ]
     },
@@ -26111,203 +21833,6 @@
           "student_name": "Alex Zhang",
           "state": "Ontario",
           "award": "Canada"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Colorado",
-          "student_name": "Alex Zhang",
-          "grade": "7",
-          "city": "Golden",
-          "school": "Manning School"
-        }
-      ]
-    },
-    {
-      "id": 668,
-      "name": "Naomi Huang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Colorado",
-          "student_name": "Naomi Huang",
-          "grade": "8",
-          "city": "Greenwood Village",
-          "school": "Campus Middle School"
-        }
-      ]
-    },
-    {
-      "id": 669,
-      "name": "Shaurya Ranjan",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Connecticut",
-          "student_name": "Shaurya Ranjan",
-          "grade": "8",
-          "city": "South Windsor",
-          "school": "Timothy Edwards Middle School"
-        }
-      ]
-    },
-    {
-      "id": 670,
-      "name": "Sohan Javeri",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Connecticut",
-          "student_name": "Sohan Javeri",
-          "grade": "6",
-          "city": "Greenwich",
-          "school": "Central Middle School"
-        }
-      ]
-    },
-    {
-      "id": 671,
-      "name": "Kabir Goyal",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Delaware",
-          "student_name": "Kabir Goyal",
-          "grade": "8",
-          "city": "Newark",
-          "school": "Independence School"
-        }
-      ]
-    },
-    {
-      "id": 672,
-      "name": "Miles Zhang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Delaware",
-          "student_name": "Miles Zhang",
-          "grade": "8",
-          "city": "Hockessin",
-          "school": "HB Dupont Middle School"
-        }
-      ]
-    },
-    {
-      "id": 673,
-      "name": "Rajat Bhaskaran",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Delaware",
-          "student_name": "Rajat Bhaskaran",
-          "grade": "7",
-          "city": "Wilmington",
-          "school": "Ps Dupont Middle School"
-        }
-      ]
-    },
-    {
-      "id": 674,
-      "name": "Aditya Rustagi",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Delaware",
-          "student_name": "Aditya Rustagi",
-          "grade": "8",
-          "city": "Newark",
-          "school": "Independence School"
-        }
-      ]
-    },
-    {
-      "id": 675,
-      "name": "Darren Zhuang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Department of Defense",
-          "student_name": "Darren Zhuang",
-          "grade": "8",
-          "city": "Germany",
-          "school": "Wiesbaden Middle School"
-        }
-      ]
-    },
-    {
-      "id": 676,
-      "name": "Lucas Burbank",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Department of Defense",
-          "student_name": "Lucas Burbank",
-          "grade": "8",
-          "city": "Japan",
-          "school": "Yokosuka Middle School"
-        }
-      ]
-    },
-    {
-      "id": 677,
-      "name": "Christopher Gammel",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Department of Defense",
-          "student_name": "Christopher Gammel",
-          "grade": "8",
-          "city": "Japan",
-          "school": "Yokota Middle School"
-        }
-      ]
-    },
-    {
-      "id": 678,
-      "name": "Trent Wilkerson",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Department of Defense",
-          "student_name": "Trent Wilkerson",
-          "grade": "8",
-          "city": "Germany",
-          "school": "Ramstein Middle School"
         }
       ]
     },
@@ -26333,33 +21858,6 @@
           "state": "Illinois",
           "rank": "55",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "District of Columbia",
-          "student_name": "William Wu",
-          "grade": "7",
-          "city": "Washington, DC",
-          "school": "St Albans School"
-        }
-      ]
-    },
-    {
-      "id": 680,
-      "name": "Adnan Gunja",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "District of Columbia",
-          "student_name": "Adnan Gunja",
-          "grade": "8",
-          "city": "Washington, DC",
-          "school": "St. Patrick's Episcopal Day School"
         }
       ]
     },
@@ -26376,101 +21874,6 @@
           "state": "Florida",
           "rank": "C",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Florida",
-          "student_name": "Michael Wei",
-          "grade": "8",
-          "city": "Gainesville",
-          "school": "Abraham Lincoln Middle School"
-        }
-      ]
-    },
-    {
-      "id": 682,
-      "name": "Anish Patel",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Florida",
-          "student_name": "Anish Patel",
-          "grade": "8",
-          "city": "Gainesville",
-          "school": "Abraham Lincoln Middle School"
-        }
-      ]
-    },
-    {
-      "id": 683,
-      "name": "Siddarth Suresh",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Georgia",
-          "student_name": "Siddarth Suresh",
-          "grade": "8",
-          "city": "Alpharetta",
-          "school": "Fulton Science Academy"
-        }
-      ]
-    },
-    {
-      "id": 684,
-      "name": "Aiden Kang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Guam",
-          "student_name": "Aiden Kang",
-          "grade": "8",
-          "city": "Upper Tumon",
-          "school": "St. John's School"
-        }
-      ]
-    },
-    {
-      "id": 685,
-      "name": "Allan Zeng",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Guam",
-          "student_name": "Allan Zeng",
-          "grade": "8",
-          "city": "Upper Tumon",
-          "school": "St. John's School"
-        }
-      ]
-    },
-    {
-      "id": 686,
-      "name": "Samuel Guo",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Guam",
-          "student_name": "Samuel Guo",
-          "grade": "7",
-          "city": "Barrigada",
-          "school": "Harvest Christian Academy"
         }
       ]
     },
@@ -26512,67 +21915,6 @@
           "state": "Hawaii",
           "rank": "47",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Hawaii",
-          "student_name": "Sola Murakami",
-          "grade": "7",
-          "city": "Honolulu",
-          "school": "Iolani School"
-        }
-      ]
-    },
-    {
-      "id": 688,
-      "name": "Hong Kwak",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Hawaii",
-          "student_name": "Hong Kwak",
-          "grade": "8",
-          "city": "Honolulu",
-          "school": "Washington Middle School"
-        }
-      ]
-    },
-    {
-      "id": 689,
-      "name": "Daniel York",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Hawaii",
-          "student_name": "Daniel York",
-          "grade": "7",
-          "city": "Honolulu",
-          "school": "Washington Middle School"
-        }
-      ]
-    },
-    {
-      "id": 690,
-      "name": "Katsutoshi Yamamoto",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Hawaii",
-          "student_name": "Katsutoshi Yamamoto",
-          "grade": "8",
-          "city": "Honolulu",
-          "school": "Washington Middle School"
         }
       ]
     },
@@ -26588,50 +21930,6 @@
           "student_name": "Darren Su",
           "state": "Idaho",
           "award": "Honorable Mention"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Idaho",
-          "student_name": "Darren Su",
-          "grade": "8",
-          "city": "Twin Falls",
-          "school": "O'Leary Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 692,
-      "name": "Jonathan Rands",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Idaho",
-          "student_name": "Jonathan Rands",
-          "grade": "8",
-          "city": "Twin Falls",
-          "school": "O'Leary Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 693,
-      "name": "Isaac Kingma",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Idaho",
-          "student_name": "Isaac Kingma",
-          "grade": "7",
-          "city": "Sandpoint",
-          "school": "Sandpoint Middle School"
         }
       ]
     },
@@ -26657,50 +21955,6 @@
           "state": "Illinois",
           "rank": "46",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Illinois",
-          "student_name": "Christopher Sakaliyski",
-          "grade": "6",
-          "city": "Chicago",
-          "school": "Edison Regional Gifted Center"
-        }
-      ]
-    },
-    {
-      "id": 695,
-      "name": "Elaine Zeng",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Indiana",
-          "student_name": "Elaine Zeng",
-          "grade": "8",
-          "city": "West Lafayette",
-          "school": "West Lafayette Junior/Senior High School"
-        }
-      ]
-    },
-    {
-      "id": 696,
-      "name": "Kaitlyn Park",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Indiana",
-          "student_name": "Kaitlyn Park",
-          "grade": "8",
-          "city": "Indianapolis",
-          "school": "Sycamore School"
         }
       ]
     },
@@ -26717,67 +21971,6 @@
           "state": "Iowa",
           "rank": "55",
           "grade": "6"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Iowa",
-          "student_name": "Prabhas Gupta",
-          "grade": "6",
-          "city": "Iowa City",
-          "school": "Weber Elementary School"
-        }
-      ]
-    },
-    {
-      "id": 698,
-      "name": "Chetas Aduri",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Iowa",
-          "student_name": "Chetas Aduri",
-          "grade": "8",
-          "city": "Ames",
-          "school": "Ames Middle School"
-        }
-      ]
-    },
-    {
-      "id": 699,
-      "name": "Mahi Kohli",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Kansas",
-          "student_name": "Mahi Kohli",
-          "grade": "7",
-          "city": "Olathe",
-          "school": "California Trail Middle School"
-        }
-      ]
-    },
-    {
-      "id": 700,
-      "name": "Eddison Chen",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Kansas",
-          "student_name": "Eddison Chen",
-          "grade": "6",
-          "city": "Overland Park",
-          "school": "Oxford Middle School"
         }
       ]
     },
@@ -26794,33 +21987,6 @@
           "state": "Kansas",
           "rank": "34",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Kansas",
-          "student_name": "Solon Xia",
-          "grade": "7",
-          "city": "Manhattan",
-          "school": "Susan B Anthony Middle School"
-        }
-      ]
-    },
-    {
-      "id": 702,
-      "name": "Matt Wu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Kansas",
-          "student_name": "Matt Wu",
-          "grade": "8",
-          "city": "Overland Park",
-          "school": "Harmony Middle School"
         }
       ]
     },
@@ -26845,135 +22011,6 @@
           "state": "Kentucky",
           "rank": "29",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Kentucky",
-          "student_name": "Samuel Henderson",
-          "grade": "6",
-          "city": "Henderson",
-          "school": "Davidson Academy Online - Henderson"
-        }
-      ]
-    },
-    {
-      "id": 704,
-      "name": "Samuel Kingston",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Kentucky",
-          "student_name": "Samuel Kingston",
-          "grade": "7",
-          "city": "Louisville",
-          "school": "Meyzeek Middle School"
-        }
-      ]
-    },
-    {
-      "id": 705,
-      "name": "Ethan Tang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Kentucky",
-          "student_name": "Ethan Tang",
-          "grade": "7",
-          "city": "Louisville",
-          "school": "Kentucky Country Day School"
-        }
-      ]
-    },
-    {
-      "id": 706,
-      "name": "Anna Wang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Louisiana",
-          "student_name": "Anna Wang",
-          "grade": "8",
-          "city": "Baton Rouge",
-          "school": "Glasgow Middle School"
-        }
-      ]
-    },
-    {
-      "id": 707,
-      "name": "Cecily Lu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Louisiana",
-          "student_name": "Cecily Lu",
-          "grade": "8",
-          "city": "Baton Rouge",
-          "school": "Glasgow Middle School"
-        }
-      ]
-    },
-    {
-      "id": 708,
-      "name": "Connor Lund",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Maine",
-          "student_name": "Connor Lund",
-          "grade": "8",
-          "city": "Falmouth",
-          "school": "Falmouth Middle School"
-        }
-      ]
-    },
-    {
-      "id": 709,
-      "name": "Ryan Schultz",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Maine",
-          "student_name": "Ryan Schultz",
-          "grade": "8",
-          "city": "Topsham",
-          "school": "Mount Ararat Middle School"
-        }
-      ]
-    },
-    {
-      "id": 710,
-      "name": "Jacob Klein",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Maine",
-          "student_name": "Jacob Klein",
-          "grade": "8",
-          "city": "Bangor",
-          "school": "William S. Cohen School"
         }
       ]
     },
@@ -26989,16 +22026,6 @@
           "student_name": "Alyssa Yu",
           "state": "Maryland",
           "award": "Honorable Mention"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Maryland",
-          "student_name": "Alyssa Yu",
-          "grade": "8",
-          "city": "Germantown",
-          "school": "Roberto Clemente Middle School"
         }
       ]
     },
@@ -27023,271 +22050,6 @@
           "state": "Massachusetts",
           "rank": "23",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Massachusetts",
-          "student_name": "Raymond Gao",
-          "grade": "8",
-          "city": "Acton",
-          "school": "RJ Grey Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 713,
-      "name": "William Dong",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Michigan",
-          "student_name": "William Dong",
-          "grade": "8",
-          "city": "Troy",
-          "school": "Boulan Park Middle School"
-        }
-      ]
-    },
-    {
-      "id": 714,
-      "name": "Rishabh Mahale",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Michigan",
-          "student_name": "Rishabh Mahale",
-          "grade": "8",
-          "city": "Okemos",
-          "school": "Chippewa Middle School"
-        }
-      ]
-    },
-    {
-      "id": 715,
-      "name": "Luke Furness",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Michigan",
-          "student_name": "Luke Furness",
-          "grade": "8",
-          "city": "Ada",
-          "school": "Furness Homeschool"
-        }
-      ]
-    },
-    {
-      "id": 716,
-      "name": "Jingyi Ling",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Minnesota",
-          "student_name": "Jingyi Ling",
-          "grade": "8",
-          "city": "Hopkins",
-          "school": "The Blake School"
-        }
-      ]
-    },
-    {
-      "id": 717,
-      "name": "Levi Mei",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Mississippi",
-          "student_name": "Levi Mei",
-          "grade": "6",
-          "city": "Madison",
-          "school": "Madison Middle School"
-        }
-      ]
-    },
-    {
-      "id": 718,
-      "name": "John Rogers",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Mississippi",
-          "student_name": "John Rogers",
-          "grade": "8",
-          "city": "Madison",
-          "school": "Madison Middle School"
-        }
-      ]
-    },
-    {
-      "id": 719,
-      "name": "Ian Jung",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Mississippi",
-          "student_name": "Ian Jung",
-          "grade": "6",
-          "city": "Starkville",
-          "school": "Partnership Middle School"
-        }
-      ]
-    },
-    {
-      "id": 720,
-      "name": "Kyler Wang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Missouri",
-          "student_name": "Kyler Wang",
-          "grade": "7",
-          "city": "Saint Louis",
-          "school": "Parkway West Middle School"
-        }
-      ]
-    },
-    {
-      "id": 721,
-      "name": "Isaac Lukacs",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Montana",
-          "student_name": "Isaac Lukacs",
-          "grade": "7",
-          "city": "Missoula",
-          "school": "Washington Middle School"
-        }
-      ]
-    },
-    {
-      "id": 722,
-      "name": "Paul Harmon",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Montana",
-          "student_name": "Paul Harmon",
-          "grade": "7",
-          "city": "Helena",
-          "school": "Helena Area Christian Home Educators"
-        }
-      ]
-    },
-    {
-      "id": 723,
-      "name": "Holden Hadidi",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Montana",
-          "student_name": "Holden Hadidi",
-          "grade": "6",
-          "city": "Whitefish",
-          "school": "Whitefish Middle School"
-        }
-      ]
-    },
-    {
-      "id": 724,
-      "name": "Matthew Watson",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Montana",
-          "student_name": "Matthew Watson",
-          "grade": "7",
-          "city": "Bozeman",
-          "school": "Headwaters Academy"
-        }
-      ]
-    },
-    {
-      "id": 725,
-      "name": "Evan Sun",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Nebraska",
-          "student_name": "Evan Sun",
-          "grade": "7",
-          "city": "Omaha",
-          "school": "Peter Kiewitt Middle School"
-        }
-      ]
-    },
-    {
-      "id": 726,
-      "name": "Jay Peng",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Nebraska",
-          "student_name": "Jay Peng",
-          "grade": "8",
-          "city": "Lincoln",
-          "school": "Moore Middle School"
-        }
-      ]
-    },
-    {
-      "id": 727,
-      "name": "Jayanth Athipatla",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Nebraska",
-          "student_name": "Jayanth Athipatla",
-          "grade": "7",
-          "city": "Elkhorn",
-          "school": "Elkhorn Valley View Middle School"
         }
       ]
     },
@@ -27304,16 +22066,6 @@
           "state": "Nevada",
           "rank": "C",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Nevada",
-          "student_name": "Boya Zhang",
-          "grade": "8",
-          "city": "Reno",
-          "school": "Davidson Academy"
         }
       ]
     },
@@ -27339,135 +22091,6 @@
           "state": "Nevada",
           "rank": "17",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Nevada",
-          "student_name": "Julian Kuang",
-          "grade": "6",
-          "city": "Reno",
-          "school": "Davidson Academy"
-        }
-      ]
-    },
-    {
-      "id": 730,
-      "name": "Dev Saxena",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Nevada",
-          "student_name": "Dev Saxena",
-          "grade": "7",
-          "city": "Las Vegas",
-          "school": "Hyde Park Middle School"
-        }
-      ]
-    },
-    {
-      "id": 731,
-      "name": "Alexander Davi",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Nevada",
-          "student_name": "Alexander Davi",
-          "grade": "8",
-          "city": "Reno",
-          "school": "Davidson Academy"
-        }
-      ]
-    },
-    {
-      "id": 732,
-      "name": "Ryan Casey",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Hampshire",
-          "student_name": "Ryan Casey",
-          "grade": "8",
-          "city": "Concord",
-          "school": "St. John Regional School"
-        }
-      ]
-    },
-    {
-      "id": 733,
-      "name": "Tiffany Sun",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Hampshire",
-          "student_name": "Tiffany Sun",
-          "grade": "8",
-          "city": "Nashua",
-          "school": "YM Sunshine Academy Homeschool"
-        }
-      ]
-    },
-    {
-      "id": 734,
-      "name": "Sean Choi",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Mexico",
-          "student_name": "Sean Choi",
-          "grade": "8",
-          "city": "Albuquerque",
-          "school": "Desert Ridge Middle School"
-        }
-      ]
-    },
-    {
-      "id": 735,
-      "name": "Laszlo Zolyomi",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Mexico",
-          "student_name": "Laszlo Zolyomi",
-          "grade": "8",
-          "city": "Albuquerque",
-          "school": "Davidson Academy Online"
-        }
-      ]
-    },
-    {
-      "id": 736,
-      "name": "Euiryeon Kim",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New Mexico",
-          "student_name": "Euiryeon Kim",
-          "grade": "7",
-          "city": "Albuquerque",
-          "school": "Desert Ridge Middle School"
         }
       ]
     },
@@ -27484,16 +22107,6 @@
           "state": "New York",
           "rank": "45",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New York",
-          "student_name": "Yunmo Chen",
-          "grade": "8",
-          "city": "New York",
-          "school": "Hunter College High School"
         }
       ]
     },
@@ -27526,16 +22139,6 @@
           "state": "New York",
           "rank": "C",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New York",
-          "student_name": "Liran Zhou",
-          "grade": "8",
-          "city": "Jericho",
-          "school": "Jericho Middle School"
         }
       ]
     },
@@ -27560,135 +22163,6 @@
           "state": "New York",
           "rank": "49",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "New York",
-          "student_name": "Michael Iofin",
-          "grade": "8",
-          "city": "New York",
-          "school": "Trinity School"
-        }
-      ]
-    },
-    {
-      "id": 740,
-      "name": "Raghav Arun",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "North Carolina",
-          "student_name": "Raghav Arun",
-          "grade": "7",
-          "city": "Charlotte",
-          "school": "Community House Middle School"
-        }
-      ]
-    },
-    {
-      "id": 741,
-      "name": "Leo Yang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "North Carolina",
-          "student_name": "Leo Yang",
-          "grade": "8",
-          "city": "Chapel Hill",
-          "school": "Smith Middle School"
-        }
-      ]
-    },
-    {
-      "id": 742,
-      "name": "Helen Chen",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "North Carolina",
-          "student_name": "Helen Chen",
-          "grade": "7",
-          "city": "Cary",
-          "school": "Mills Park Middle School"
-        }
-      ]
-    },
-    {
-      "id": 743,
-      "name": "Jason Ling",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "North Dakota",
-          "student_name": "Jason Ling",
-          "grade": "8",
-          "city": "Grand Forks",
-          "school": "South Middle School"
-        }
-      ]
-    },
-    {
-      "id": 744,
-      "name": "Blake Homiston",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "North Dakota",
-          "student_name": "Blake Homiston",
-          "grade": "8",
-          "city": "Dickinson",
-          "school": "Dickinson Middle School"
-        }
-      ]
-    },
-    {
-      "id": 745,
-      "name": "Braden Li",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "North Dakota",
-          "student_name": "Braden Li",
-          "grade": "8",
-          "city": "Fargo",
-          "school": "Discovery Middle School"
-        }
-      ]
-    },
-    {
-      "id": 746,
-      "name": "Sunisha Tangpong",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "North Dakota",
-          "student_name": "Sunisha Tangpong",
-          "grade": "8",
-          "city": "Fargo",
-          "school": "Sacred Heart Middle School"
         }
       ]
     },
@@ -27704,84 +22178,6 @@
           "student_name": "Devin Zhao",
           "state": "Ohio",
           "award": "Honorable Mention"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Ohio",
-          "student_name": "Devin Zhao",
-          "grade": "8",
-          "city": "Lewis Center",
-          "school": "Olentangy Orange Middle School"
-        }
-      ]
-    },
-    {
-      "id": 748,
-      "name": "Suvam Konar",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Ohio",
-          "student_name": "Suvam Konar",
-          "grade": "8",
-          "city": "Worthington",
-          "school": "Worthingway Middle School"
-        }
-      ]
-    },
-    {
-      "id": 749,
-      "name": "Melody Chen",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Oklahoma",
-          "student_name": "Melody Chen",
-          "grade": "8",
-          "city": "Norman",
-          "school": "Whittier Middle School"
-        }
-      ]
-    },
-    {
-      "id": 750,
-      "name": "Miranda Huang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Oklahoma",
-          "student_name": "Miranda Huang",
-          "grade": "8",
-          "city": "Norman",
-          "school": "Whittier Middle School"
-        }
-      ]
-    },
-    {
-      "id": 751,
-      "name": "Ethan Cai",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Oklahoma",
-          "student_name": "Ethan Cai",
-          "grade": "7",
-          "city": "Oklahoma City",
-          "school": "Heritage Hall School"
         }
       ]
     },
@@ -27797,16 +22193,6 @@
           "student_name": "Arjun Agarwal",
           "state": "Oregon",
           "award": "Honorable Mention"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Oregon",
-          "student_name": "Arjun Agarwal",
-          "grade": "8",
-          "city": "Portland",
-          "school": "Stoller Middle School"
         }
       ]
     },
@@ -27823,186 +22209,6 @@
           "state": "Oregon",
           "rank": "48",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Oregon",
-          "student_name": "Kai Yamishita",
-          "grade": "8",
-          "city": "Corvallis",
-          "school": "Ashbrook Independent School"
-        }
-      ]
-    },
-    {
-      "id": 754,
-      "name": "William Liu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Pennsylvania",
-          "student_name": "William Liu",
-          "grade": "8",
-          "city": "State College",
-          "school": "Mount Nittany Middle School"
-        }
-      ]
-    },
-    {
-      "id": 755,
-      "name": "Alvaro Villafuerte",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Puerto Rico",
-          "student_name": "Alvaro Villafuerte",
-          "grade": "7",
-          "city": "San Juan",
-          "school": "Colegio San Ignacio de Loyola"
-        }
-      ]
-    },
-    {
-      "id": 756,
-      "name": "Luis Carlos Collazo",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Puerto Rico",
-          "student_name": "Luis Carlos Collazo",
-          "grade": "6",
-          "city": "Guaynabo",
-          "school": "Baldwin School of Puerto Rico"
-        }
-      ]
-    },
-    {
-      "id": 757,
-      "name": "Lucas Carlo",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Puerto Rico",
-          "student_name": "Lucas Carlo",
-          "grade": "8",
-          "city": "Dorado",
-          "school": "Tasis School"
-        }
-      ]
-    },
-    {
-      "id": 758,
-      "name": "Jose Ramos",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Puerto Rico",
-          "student_name": "Jose Ramos",
-          "grade": "8",
-          "city": "Guaynabo",
-          "school": "American Military Academy"
-        }
-      ]
-    },
-    {
-      "id": 759,
-      "name": "Iris Yang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Rhode Island",
-          "student_name": "Iris Yang",
-          "grade": "8",
-          "city": "Barrington",
-          "school": "Barrington Middle School"
-        }
-      ]
-    },
-    {
-      "id": 760,
-      "name": "Philip Spradlin",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Rhode Island",
-          "student_name": "Philip Spradlin",
-          "grade": "8",
-          "city": "Providence",
-          "school": "Wheeler School"
-        }
-      ]
-    },
-    {
-      "id": 761,
-      "name": "Shawn Badre",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Rhode Island",
-          "student_name": "Shawn Badre",
-          "grade": "7",
-          "city": "East Providence",
-          "school": "Gordon School"
-        }
-      ]
-    },
-    {
-      "id": 762,
-      "name": "Sadie Enright",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Rhode Island",
-          "student_name": "Sadie Enright",
-          "grade": "7",
-          "city": "Providence",
-          "school": "French-American School of Rhode Island"
-        }
-      ]
-    },
-    {
-      "id": 763,
-      "name": "Liaoliao Shi",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "South Carolina",
-          "student_name": "Liaoliao Shi",
-          "grade": "8",
-          "city": "Greenville",
-          "school": "Sterling School"
         }
       ]
     },
@@ -28018,101 +22224,6 @@
           "student_name": "Seomgeun Shim",
           "state": "South Carolina",
           "award": "Honorable Mention"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "South Carolina",
-          "student_name": "Seomgeun Shim",
-          "grade": "7",
-          "city": "Chapin",
-          "school": "Chapin Middle School"
-        }
-      ]
-    },
-    {
-      "id": 765,
-      "name": "Shaurya Sehgal",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "South Dakota",
-          "student_name": "Shaurya Sehgal",
-          "grade": "7",
-          "city": "Brookings",
-          "school": "George S. Mickelson Middle School"
-        }
-      ]
-    },
-    {
-      "id": 766,
-      "name": "William Jin",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "South Dakota",
-          "student_name": "William Jin",
-          "grade": "7",
-          "city": "Brookings",
-          "school": "George S. Mickelson Middle School"
-        }
-      ]
-    },
-    {
-      "id": 767,
-      "name": "Justus Heibutzki",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "State Department",
-          "student_name": "Justus Heibutzki",
-          "grade": "8",
-          "city": "Singapore",
-          "school": "Singapore American School"
-        }
-      ]
-    },
-    {
-      "id": 768,
-      "name": "Eric Chen",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Tennessee",
-          "student_name": "Eric Chen",
-          "grade": "8",
-          "city": "Nashville",
-          "school": "Montgomery Bell Academy"
-        }
-      ]
-    },
-    {
-      "id": 769,
-      "name": "Yejoon Ham",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Tennessee",
-          "student_name": "Yejoon Ham",
-          "grade": "8",
-          "city": "Knoxville",
-          "school": "West Valley Middle School"
         }
       ]
     },
@@ -28146,166 +22257,6 @@
           "state": "Texas",
           "rank": "40",
           "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Texas",
-          "student_name": "Kevin Chen",
-          "grade": "7",
-          "city": "Sugar Land",
-          "school": "Fort Settlement Middle School"
-        }
-      ]
-    },
-    {
-      "id": 771,
-      "name": "Wilson St. Martin",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Utah",
-          "student_name": "Wilson St. Martin",
-          "grade": "8",
-          "city": "Draper",
-          "school": "American Preparatory Academy"
-        }
-      ]
-    },
-    {
-      "id": 772,
-      "name": "Tanish Shetty",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Utah",
-          "student_name": "Tanish Shetty",
-          "grade": "6",
-          "city": "Traverse Mountain",
-          "school": "Challenger School-Traverse Mountain"
-        }
-      ]
-    },
-    {
-      "id": 773,
-      "name": "Evan Xia",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Vermont",
-          "student_name": "Evan Xia",
-          "grade": "7",
-          "school": "F H Tuttle Middle School"
-        }
-      ]
-    },
-    {
-      "id": 774,
-      "name": "Henry Rogers",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Vermont",
-          "student_name": "Henry Rogers",
-          "grade": "8",
-          "school": "Browns River Middle School"
-        }
-      ]
-    },
-    {
-      "id": 775,
-      "name": "Richard Jiang",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Vermont",
-          "student_name": "Richard Jiang",
-          "grade": "8",
-          "school": "F H Tuttle Middle School"
-        }
-      ]
-    },
-    {
-      "id": 776,
-      "name": "Lucy Proulx",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Vermont",
-          "student_name": "Lucy Proulx",
-          "grade": "8",
-          "city": "Sharon",
-          "school": "Sharon Academy"
-        }
-      ]
-    },
-    {
-      "id": 777,
-      "name": "Sanjiv Bachan",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Virgin Islands",
-          "student_name": "Sanjiv Bachan",
-          "grade": "6",
-          "city": "Saint Thomas",
-          "school": "Antilles School"
-        }
-      ]
-    },
-    {
-      "id": 778,
-      "name": "Naitik Jhanwar",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Virgin Islands",
-          "student_name": "Naitik Jhanwar",
-          "grade": "7",
-          "city": "Saint Thomas",
-          "school": "All Saints Cathedral School"
-        }
-      ]
-    },
-    {
-      "id": 779,
-      "name": "Andrew Chen",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Virginia",
-          "student_name": "Andrew Chen",
-          "grade": "8",
-          "city": "Falls Church",
-          "school": "Longfellow Middle School"
         }
       ]
     },
@@ -28338,16 +22289,6 @@
           "state": "Washington",
           "rank": "15",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Washington",
-          "student_name": "Susie Lu",
-          "grade": "8",
-          "city": "Sammamish",
-          "school": "Sammamish School"
         }
       ]
     },
@@ -28364,33 +22305,6 @@
           "state": "Washington",
           "rank": "24",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Washington",
-          "student_name": "Jeffrey Zhao",
-          "grade": "8",
-          "city": "Bellevue",
-          "school": "Tyee Middle School"
-        }
-      ]
-    },
-    {
-      "id": 782,
-      "name": "Vinu Chandrasekar",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "West Virginia",
-          "student_name": "Vinu Chandrasekar",
-          "grade": "8",
-          "city": "Dunbar",
-          "school": "Dunbar Middle School"
         }
       ]
     },
@@ -28407,135 +22321,6 @@
           "state": "Wisconsin",
           "rank": "22",
           "grade": "8"
-        },
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Wisconsin",
-          "student_name": "Sami El-Hajjar",
-          "grade": "7",
-          "city": "Milwaukee",
-          "school": "Maryland Avenue Montessori School"
-        }
-      ]
-    },
-    {
-      "id": 784,
-      "name": "Siddharth Kosaraju",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Wisconsin",
-          "student_name": "Siddharth Kosaraju",
-          "grade": "8",
-          "city": "Mequon",
-          "school": "Steffen Middle School"
-        }
-      ]
-    },
-    {
-      "id": 785,
-      "name": "Maya Jadhav",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Wisconsin",
-          "student_name": "Maya Jadhav",
-          "grade": "8",
-          "city": "Fitchburg",
-          "school": "Vishva Home School"
-        }
-      ]
-    },
-    {
-      "id": 786,
-      "name": "Vaidehi Ramachandrula",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Wisconsin",
-          "student_name": "Vaidehi Ramachandrula",
-          "grade": "8",
-          "city": "Brookfield",
-          "school": "Wisconsin Hills Middle School"
-        }
-      ]
-    },
-    {
-      "id": 787,
-      "name": "Ashley Olson",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Wyoming",
-          "student_name": "Ashley Olson",
-          "grade": "8",
-          "city": "Cheyenne",
-          "school": "Carey Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 788,
-      "name": "Henry McGuire",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Wyoming",
-          "student_name": "Henry McGuire",
-          "grade": "7",
-          "city": "Cheyenne",
-          "school": "McCormick Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 789,
-      "name": "Sofia Furman",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Wyoming",
-          "student_name": "Sofia Furman",
-          "grade": "8",
-          "city": "Cheyenne",
-          "school": "Carey Junior High School"
-        }
-      ]
-    },
-    {
-      "id": 790,
-      "name": "Bekalyn Swett",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "MATHCOUNTS National",
-          "year": "2022",
-          "contest_slug": "mathcounts-national",
-          "state": "Wyoming",
-          "student_name": "Bekalyn Swett",
-          "grade": "8",
-          "city": "Green River",
-          "school": "Lincoln Middle School"
         }
       ]
     },
@@ -33810,10 +27595,6 @@
     "jmo": {
       "2024": "results.csv",
       "2025": "results.csv"
-    },
-    "mathcounts-national": {
-      "2021": "competitors.csv",
-      "2022": "competitors.csv"
     },
     "mathcounts-national-rank": {
       "2021": "results.csv",

@@ -27,21 +27,23 @@
   <main class="main">
     <div class="search-wrap">
       <label for="search" class="sr-only">Search by student name</label>
-      <input
-        type="search"
-        id="search"
-        class="search-input"
-        placeholder="Type a student name…"
-        autocomplete="off"
-        aria-describedby="search-hint"
-      >
-      <button
-        type="button"
-        id="search-clear"
-        class="search-clear"
-        aria-label="Clear search"
-        hidden
-      >×</button>
+      <div class="search-input-wrap">
+        <input
+          type="search"
+          id="search"
+          class="search-input"
+          placeholder="Type a student name…"
+          autocomplete="off"
+          aria-describedby="search-hint"
+        >
+        <button
+          type="button"
+          id="search-clear"
+          class="search-clear"
+          aria-label="Clear search"
+          hidden
+        >×</button>
+      </div>
       <span id="search-hint" class="search-hint" aria-live="polite"></span>
     </div>
 

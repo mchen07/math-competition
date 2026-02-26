@@ -16,6 +16,9 @@ CONTESTS_DIR = DATABASE / "contests"
 CONTESTS_CSV = CONTESTS_DIR / "contests.csv"
 OUTPUT_JSON = REPO_ROOT / "docs" / "data.json"
 
+# Contest slugs to exclude from data.json (still kept in database).
+CONTESTS_SKIP_FOR_SEARCH = {"mathcounts-national"}
+
 
 def humanize_contest(slug: str) -> str:
     """Turn contest slug into title, e.g. hmmt-feb-geometry -> HMMT Feb Geometry."""
@@ -93,6 +96,8 @@ def main() -> None:
     contest_year_files = {}  # slug -> { year -> filename }
 
     for slug, year, csv_path in collect_result_files():
+        if slug in CONTESTS_SKIP_FOR_SEARCH:
+            continue
         contest_info = contests.get(slug, {})
         contest_title = (contest_info.get("contest_name") or "").strip() or humanize_contest(slug)
         if slug not in contest_year_files:

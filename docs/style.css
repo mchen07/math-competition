@@ -206,12 +206,16 @@ body {
 
 .search-wrap {
   margin-bottom: 1.5rem;
+}
+
+.search-input-wrap {
   position: relative;
+  display: block;
 }
 
 .search-input {
   width: 100%;
-  padding: 0.75rem 2.5rem 0.75rem 1rem;
+  padding: 0.75rem 3rem 0.75rem 1rem;
   font-family: var(--font-sans);
   font-size: 1rem;
   color: var(--text);
@@ -239,26 +243,29 @@ body {
 .search-clear {
   position: absolute;
   top: 50%;
-  right: 0.75rem;
+  right: 0.5rem;
   transform: translateY(-50%);
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 2rem;
+  height: 2rem;
+  min-width: 2rem;
+  min-height: 2rem;
   padding: 0;
   border: none;
-  border-radius: 999px;
-  background: transparent;
-  color: var(--accent);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-muted);
   cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.9rem;
+  font-size: 1.25rem;
+  font-weight: 400;
   line-height: 1;
 }
 
 .search-clear:hover {
-  color: var(--accent-hover);
-  background: rgba(124, 156, 224, 0.08);
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.12);
 }
 
 .search-clear[hidden] {
