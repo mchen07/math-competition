@@ -1654,6 +1654,14 @@
           "combinatorics_score": "31.59"
         },
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Dou Lai",
+          "state": "Illinois",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "MATHCOUNTS National",
           "year": "2022",
           "contest_slug": "mathcounts-national",
@@ -1709,9 +1717,9 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Dou Lai",
-          "state": "Illinois",
-          "award": "Honorable Mention"
+          "student_name": "Alan Cheng",
+          "state": "North Carolina",
+          "award": "Bronze"
         },
         {
           "contest": "PUMaC — Geometry",
@@ -1907,8 +1915,8 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Alan Cheng",
-          "state": "North Carolina",
+          "student_name": "Michael Zhao",
+          "state": "Texas",
           "award": "Bronze"
         },
         {
@@ -1937,6 +1945,14 @@
           "rank": "4",
           "total_score": "3.482",
           "finals_score": "21"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Michael Zhao",
+          "state": "Texas",
+          "award": "Silver"
         },
         {
           "contest": "HMMT February — Geometry",
@@ -2000,9 +2016,9 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Michael Zhao",
+          "student_name": "Nathan Liu",
           "state": "Texas",
-          "award": "Bronze"
+          "award": "Honorable Mention"
         },
         {
           "contest": "PUMaC — Number Theory",
@@ -2075,14 +2091,6 @@
           "algebra_score": "20.89",
           "geometry_score": "23.17",
           "combinatorics_score": "20.95"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Michael Zhao",
-          "state": "Texas",
-          "award": "Silver"
         },
         {
           "contest": "USAJMO",
@@ -2161,14 +2169,6 @@
           "algebra_score": "32.67",
           "geometry_score": "19.89",
           "combinatorics_score": "27.49"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Nathan Liu",
-          "state": "Texas",
-          "award": "Honorable Mention"
         },
         {
           "contest": "USAMO",
@@ -2685,6 +2685,14 @@
           "combinatorics_score": "31.59"
         },
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Jeffrey Yin",
+          "state": "Virginia",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "USAJMO",
           "year": "2024",
           "contest_slug": "jmo",
@@ -2749,14 +2757,6 @@
           "algebra_score": "25.17",
           "geometry_score": "26.37",
           "combinatorics_score": "19.82"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Jeffrey Yin",
-          "state": "Virginia",
-          "award": "Honorable Mention"
         }
       ]
     },
@@ -3892,6 +3892,14 @@
           "combinatorics_score": "20.89"
         },
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "William Hua",
+          "state": "Massachusetts",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "PUMaC — Geometry",
           "year": "2025",
           "contest_slug": "pumac-geometry",
@@ -3961,6 +3969,14 @@
           "algebra_score": "20.89",
           "geometry_score": "23.17",
           "combinatorics_score": "25.24"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "William Hua",
+          "state": "Massachusetts",
+          "award": "Bronze"
         },
         {
           "contest": "PUMaC — Geometry",
@@ -4060,14 +4076,6 @@
           "combinatorics_score": "24.15"
         },
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "William Hua",
-          "state": "Massachusetts",
-          "award": "Honorable Mention"
-        },
-        {
           "contest": "PUMaC — Algebra",
           "year": "2025",
           "contest_slug": "pumac-algebra",
@@ -4083,14 +4091,6 @@
           "p6": "1",
           "p7": "0",
           "p8": "0"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "William Hua",
-          "state": "Massachusetts",
-          "award": "Bronze"
         }
       ]
     },
@@ -4318,6 +4318,14 @@
           "combinatorics_score": "20.89"
         },
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Darsh Patel",
+          "state": "Florida",
+          "award": "Bronze"
+        },
+        {
           "contest": "PUMaC — Number Theory",
           "year": "2025",
           "contest_slug": "pumac-number-theory",
@@ -4464,14 +4472,6 @@
           "combinatorics_score": "20.89"
         },
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Darsh Patel",
-          "state": "Florida",
-          "award": "Bronze"
-        },
-        {
           "contest": "USAJMO",
           "year": "2025",
           "contest_slug": "jmo",
@@ -4563,7 +4563,9 @@
     {
       "id": 42,
       "name": "Benjamin Song",
-      "aliases": [],
+      "aliases": [
+        "Ben Song"
+      ],
       "records": [
         {
           "contest": "HMMT February — Geometry",
@@ -5296,6 +5298,14 @@
           "combinatorics_score": "27.37"
         },
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Amogh Akella",
+          "state": "Texas",
+          "award": "Bronze"
+        },
+        {
           "contest": "USAJMO",
           "year": "2024",
           "contest_slug": "jmo",
@@ -5358,9 +5368,9 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Amogh Akella",
-          "state": "Texas",
-          "award": "Bronze"
+          "student_name": "Yunzhe Bai",
+          "state": "Massachusetts",
+          "award": "Honorable Mention"
         },
         {
           "contest": "HMMT February — Combinatorics",
@@ -5385,21 +5395,6 @@
           "student_name": "Yunzhe Bai",
           "rank": "40",
           "score": "22.82"
-        }
-      ]
-    },
-    {
-      "id": 51,
-      "name": "Yunzhe Bai",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Yunzhe Bai",
-          "state": "Massachusetts",
-          "award": "Honorable Mention"
         }
       ]
     },
@@ -6549,41 +6544,10 @@
       ]
     },
     {
-      "id": 66,
-      "name": "Xilong Lin",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Xilong Lin",
-          "state": "California",
-          "award": "Bronze"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Xilong Lin",
-          "state": "California",
-          "award": "Silver"
-        }
-      ]
-    },
-    {
       "id": 67,
       "name": "Andrew Shen",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Connor Leong",
-          "state": "California",
-          "award": "Silver"
-        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2025",
@@ -6646,6 +6610,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Xilong Lin",
+          "state": "California",
+          "award": "Bronze"
+        },
+        {
           "contest": "HMMT February — Geometry",
           "year": "2025",
           "contest_slug": "hmmt-feb-geometry",
@@ -6663,6 +6635,14 @@
           "algebra_score": "15.73",
           "geometry_score": "30.67",
           "combinatorics_score": "19.96"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Xilong Lin",
+          "state": "California",
+          "award": "Silver"
         }
       ]
     },
@@ -6678,6 +6658,14 @@
           "student_name": "Connor Leong",
           "rank": "38",
           "score": "23.35"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Connor Leong",
+          "state": "California",
+          "award": "Silver"
         },
         {
           "contest": "HMMT February — Geometry",
@@ -6722,14 +6710,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Kevin Liu",
-          "state": "Florida",
-          "award": "Honorable Mention"
-        },
-        {
           "contest": "HMMT February — Geometry",
           "year": "2025",
           "contest_slug": "hmmt-feb-geometry",
@@ -6755,14 +6735,6 @@
           "algebra_score": "25.17",
           "geometry_score": "23.17",
           "combinatorics_score": "17.92"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Kevin Liu",
-          "state": "Florida",
-          "award": "Silver"
         },
         {
           "contest": "PUMaC — Number Theory",
@@ -6859,6 +6831,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Kevin Liu",
+          "state": "Florida",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "PUMaC — Number Theory",
           "year": "2025",
           "contest_slug": "pumac-number-theory",
@@ -6909,6 +6889,22 @@
           "student_name": "Kevin Liu",
           "rank": "8",
           "total_score": "165.28"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Kevin Liu",
+          "state": "Florida",
+          "award": "Silver"
+        },
+        {
+          "contest": "USAJMO",
+          "year": "2024",
+          "contest_slug": "jmo",
+          "student_name": "Kevin Liu",
+          "state": "Pennsylvania",
+          "award": "Honors"
         },
         {
           "contest": "PUMaC — Number Theory",
@@ -7194,33 +7190,10 @@
       ]
     },
     {
-      "id": 75,
-      "name": "William Zhao",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "William Zhao",
-          "state": "California",
-          "award": "Bronze"
-        }
-      ]
-    },
-    {
       "id": 76,
       "name": "Kiran Reddy",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Surya Dinesh",
-          "state": "Texas",
-          "award": "Silver"
-        },
         {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2025",
@@ -7285,14 +7258,6 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Lerchen Zhong",
-          "state": "Texas",
-          "award": "Silver"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
           "student_name": "Shunyao Yan",
           "state": "Virginia",
           "award": "Honorable Mention"
@@ -7351,14 +7316,6 @@
           "combinatorics_score": "26.37"
         },
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Lerchen Zhong",
-          "state": "Texas",
-          "award": "Silver"
-        },
-        {
           "contest": "USAJMO",
           "year": "2024",
           "contest_slug": "jmo",
@@ -7392,14 +7349,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Angela Liu",
-          "state": "California",
-          "award": "Bronze"
-        },
-        {
           "contest": "HMMT February — Geometry",
           "year": "2025",
           "contest_slug": "hmmt-feb-geometry",
@@ -7422,7 +7371,7 @@
           "contest": "USAMO",
           "year": "2024",
           "contest_slug": "amo",
-          "student_name": "Angela Liu",
+          "student_name": "William Zhao",
           "state": "California",
           "award": "Bronze"
         }
@@ -7437,8 +7386,8 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Edward Li",
-          "state": "Iowa",
+          "student_name": "Surya Dinesh",
+          "state": "Texas",
           "award": "Silver"
         },
         {
@@ -7469,14 +7418,6 @@
           "combinatorics_score": "14.54"
         },
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Edward Li",
-          "state": "Iowa",
-          "award": "Silver"
-        },
-        {
           "contest": "HMMT February — Geometry",
           "year": "2023",
           "contest_slug": "hmmt-feb-geometry",
@@ -7495,8 +7436,8 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Skyler Mao",
-          "state": "California",
+          "student_name": "Lerchen Zhong",
+          "state": "Texas",
           "award": "Silver"
         },
         {
@@ -7517,6 +7458,14 @@
           "algebra_score": "10.38",
           "geometry_score": "21.09",
           "combinatorics_score": "30.59"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Lerchen Zhong",
+          "state": "Texas",
+          "award": "Silver"
         },
         {
           "contest": "HMMT February — Geometry",
@@ -7599,6 +7548,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Angela Liu",
+          "state": "California",
+          "award": "Bronze"
+        },
+        {
           "contest": "HMMT February — Combinatorics",
           "year": "2025",
           "contest_slug": "hmmt-feb-combo",
@@ -7616,6 +7573,14 @@
           "algebra_score": "14.66",
           "geometry_score": "13.6",
           "combinatorics_score": "32.8"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Angela Liu",
+          "state": "California",
+          "award": "Bronze"
         },
         {
           "contest": "HMMT February — Geometry",
@@ -7720,8 +7685,8 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Sophia Zhang",
-          "state": "New Jersey",
+          "student_name": "Edward Li",
+          "state": "Iowa",
           "award": "Silver"
         },
         {
@@ -7742,6 +7707,14 @@
           "algebra_score": "18.01",
           "geometry_score": "24.24",
           "combinatorics_score": "18.03"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Edward Li",
+          "state": "Iowa",
+          "award": "Silver"
         },
         {
           "contest": "PUMaC — Combinatorics",
@@ -7833,6 +7806,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Skyler Mao",
+          "state": "California",
+          "award": "Silver"
+        },
+        {
           "contest": "HMMT February — Geometry",
           "year": "2025",
           "contest_slug": "hmmt-feb-geometry",
@@ -7858,14 +7839,6 @@
       "name": "Owen J Zhang",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Max Zhao",
-          "state": "Virginia",
-          "award": "Honorable Mention"
-        },
         {
           "contest": "HMMT February — Combinatorics",
           "year": "2025",
@@ -7909,6 +7882,14 @@
       "name": "Sophia Zhang",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Sophia Zhang",
+          "state": "New Jersey",
+          "award": "Silver"
+        },
         {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2025",
@@ -8040,14 +8021,6 @@
           "combinatorics_score": "28.39"
         },
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Rohan Das",
-          "state": "California",
-          "award": "Bronze"
-        },
-        {
           "contest": "USAJMO",
           "year": "2024",
           "contest_slug": "jmo",
@@ -8116,6 +8089,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Max Zhao",
+          "state": "Virginia",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "HMMT February",
           "year": "2025",
           "contest_slug": "hmmt-feb",
@@ -8169,21 +8150,6 @@
           "rank": "33",
           "total_score": "2.624",
           "finals_score": "11"
-        }
-      ]
-    },
-    {
-      "id": 88,
-      "name": "Marvin Mao",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Marvin Mao",
-          "state": "New Jersey",
-          "award": "Silver"
         }
       ]
     },
@@ -8315,6 +8281,14 @@
           "student_name": "Rohan Das",
           "rank": "24",
           "score": "23.17"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Rohan Das",
+          "state": "California",
+          "award": "Bronze"
         },
         {
           "contest": "HMMT February — Combinatorics",
@@ -8494,19 +8468,11 @@
       "records": [
         {
           "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Eric Wang",
-          "state": "New Hampshire",
-          "award": "Honorable Mention"
-        },
-        {
-          "contest": "USAMO",
           "year": "2024",
           "contest_slug": "amo",
-          "student_name": "Eric Wang",
-          "state": "New York",
-          "award": "Bronze"
+          "student_name": "Marvin Mao",
+          "state": "New Jersey",
+          "award": "Silver"
         },
         {
           "contest": "HMMT February — Geometry",
@@ -8708,7 +8674,9 @@
     {
       "id": 95,
       "name": "Razzi H. Masroor",
-      "aliases": [],
+      "aliases": [
+        "Razzi Masroor"
+      ],
       "records": [
         {
           "contest": "USAMO",
@@ -8834,6 +8802,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Eric Wang",
+          "state": "New Hampshire",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "HMMT February — Geometry",
           "year": "2025",
           "contest_slug": "hmmt-feb-geometry",
@@ -8848,6 +8824,14 @@
           "student_name": "Eric Wang",
           "rank": "48",
           "score": "22.19"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Eric Wang",
+          "state": "New York",
+          "award": "Bronze"
         },
         {
           "contest": "PUMaC — Number Theory",
@@ -9250,14 +9234,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Jonathan He",
-          "state": "Illinois",
-          "award": "Bronze"
-        },
-        {
           "contest": "HMMT February — Combinatorics",
           "year": "2024",
           "contest_slug": "hmmt-feb-combo",
@@ -9368,14 +9344,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Aaron Hu",
-          "state": "Florida",
-          "award": "Bronze"
-        },
-        {
           "contest": "HMMT February — Geometry",
           "year": "2024",
           "contest_slug": "hmmt-feb-geometry",
@@ -9435,14 +9403,6 @@
       "name": "Wilbert Chu",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Advaith Avadhanam",
-          "state": "California",
-          "award": "Silver"
-        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2024",
@@ -9513,14 +9473,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Linus Tang",
-          "state": "California",
-          "award": "Gold"
-        },
-        {
           "contest": "HMMT February — Geometry",
           "year": "2024",
           "contest_slug": "hmmt-feb-geometry",
@@ -9555,20 +9507,20 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Jonathan He",
+          "state": "Illinois",
+          "award": "Bronze"
+        },
+        {
           "contest": "CMIMC - Combinatorics and Computer Science",
           "year": "2025",
           "contest_slug": "cmimc-comb",
           "student_name": "Jonathan He",
           "rank": "9",
           "score": "31.27"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Jason Zhang",
-          "state": "Michigan",
-          "award": "Bronze"
         },
         {
           "contest": "USAJMO",
@@ -9693,14 +9645,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Srinivas Arun",
-          "state": "Colorado",
-          "award": "Bronze"
-        },
-        {
           "contest": "HMMT February — Combinatorics",
           "year": "2024",
           "contest_slug": "hmmt-feb-combo",
@@ -9734,6 +9678,14 @@
       "name": "Aaron Hu",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Aaron Hu",
+          "state": "Florida",
+          "award": "Bronze"
+        },
         {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2024",
@@ -9804,14 +9756,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Vivian Loh",
-          "state": "Pennsylvania",
-          "award": "Bronze"
-        },
-        {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2024",
           "contest_slug": "hmmt-feb-algebra-number-theory",
@@ -9867,6 +9811,14 @@
       "name": "Advaith Avadhanam",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Advaith Avadhanam",
+          "state": "California",
+          "award": "Silver"
+        },
         {
           "contest": "HMMT February — Combinatorics",
           "year": "2024",
@@ -9932,9 +9884,9 @@
           "contest": "USAMO",
           "year": "2024",
           "contest_slug": "amo",
-          "student_name": "Pavan Jayaraman",
-          "state": "New Jersey",
-          "award": "Bronze"
+          "student_name": "Linus Tang",
+          "state": "California",
+          "award": "Gold"
         },
         {
           "contest": "IMO",
@@ -10000,6 +9952,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Jason Zhang",
+          "state": "Michigan",
+          "award": "Bronze"
+        },
+        {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2024",
           "contest_slug": "hmmt-feb-algebra-number-theory",
@@ -10025,14 +9985,6 @@
       "name": "Jacob Xu",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "David Ji",
-          "state": "New Jersey",
-          "award": "Bronze"
-        },
         {
           "contest": "PUMaC — Geometry",
           "year": "2024",
@@ -10101,6 +10053,14 @@
       "name": "Srinivas Arun",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Srinivas Arun",
+          "state": "Colorado",
+          "award": "Bronze"
+        },
         {
           "contest": "HMMT February — Combinatorics",
           "year": "2024",
@@ -10188,6 +10148,14 @@
       "name": "Vivian Loh",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Vivian Loh",
+          "state": "Pennsylvania",
+          "award": "Bronze"
+        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2024",
@@ -10296,6 +10264,14 @@
       "name": "Pavan Jayaraman",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Pavan Jayaraman",
+          "state": "New Jersey",
+          "award": "Bronze"
+        },
         {
           "contest": "HMMT February — Combinatorics",
           "year": "2024",
@@ -10430,6 +10406,14 @@
           "student_name": "David Ji",
           "state": "New Jersey",
           "award": "Silver"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "David Ji",
+          "state": "New Jersey",
+          "award": "Bronze"
         },
         {
           "contest": "HMMT February — Algebra & Number Theory",
@@ -11360,14 +11344,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Steve Zhang",
-          "state": "California",
-          "award": "Bronze"
-        },
-        {
           "contest": "HMMT February — Geometry",
           "year": "2023",
           "contest_slug": "hmmt-feb-geometry",
@@ -11446,14 +11422,6 @@
       "name": "Aaron Guo",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Roger Fan",
-          "state": "California",
-          "award": "Bronze"
-        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2023",
@@ -11594,14 +11562,6 @@
       "name": "Derek Liu",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Evan Chang",
-          "state": "New Jersey",
-          "award": "Bronze"
-        },
         {
           "contest": "IMO",
           "year": "2023",
@@ -11925,6 +11885,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Steve Zhang",
+          "state": "California",
+          "award": "Bronze"
+        },
+        {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2024",
           "contest_slug": "hmmt-feb-algebra-number-theory",
@@ -12008,6 +11976,14 @@
       "name": "Roger Fan",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Roger Fan",
+          "state": "California",
+          "award": "Bronze"
+        },
         {
           "contest": "HMMT February — Combinatorics",
           "year": "2024",
@@ -12181,6 +12157,14 @@
       "name": "Evan Chang",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Evan Chang",
+          "state": "New Jersey",
+          "award": "Bronze"
+        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2023",
@@ -13839,14 +13823,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Corwin Eisenbeiss",
-          "state": "New Hampshire",
-          "award": "Honorable Mention"
-        },
-        {
           "contest": "USAJMO",
           "year": "2025",
           "contest_slug": "jmo",
@@ -14263,14 +14239,6 @@
           "score": "24.17"
         },
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Jaeho Lee",
-          "state": "Texas",
-          "award": "Silver"
-        },
-        {
           "contest": "USAJMO",
           "year": "2025",
           "contest_slug": "jmo",
@@ -14368,14 +14336,6 @@
       "name": "Peter Bai",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Tarun Rapaka",
-          "state": "Texas",
-          "award": "Silver"
-        },
         {
           "contest": "PUMaC — Combinatorics",
           "year": "2025",
@@ -14583,14 +14543,6 @@
       "name": "Paul Yoo",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Maitian Sha",
-          "state": "New Jersey",
-          "award": "Honorable Mention"
-        },
         {
           "contest": "PUMaC — Algebra",
           "year": "2025",
@@ -14966,17 +14918,11 @@
     },
     {
       "id": 244,
-      "name": "Jacob Khohayting",
-      "aliases": [],
+      "name": "Jacob Ronan Khohayting",
+      "aliases": [
+        "Jacob Khohayting"
+      ],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Kevin Yang",
-          "state": "Washington",
-          "award": "Silver"
-        },
         {
           "contest": "PUMaC — Geometry",
           "year": "2025",
@@ -15043,6 +14989,14 @@
           "student_name": "Corwin Eisenbeiss",
           "rank": "6",
           "score": "30.59"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Corwin Eisenbeiss",
+          "state": "New Hampshire",
+          "award": "Honorable Mention"
         },
         {
           "contest": "PUMaC — Geometry",
@@ -15197,16 +15151,10 @@
     {
       "id": 249,
       "name": "Sam Tsui",
-      "aliases": [],
+      "aliases": [
+        "Samuel Tsui"
+      ],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Evin Liang",
-          "state": "Massachusetts",
-          "award": "Silver"
-        },
         {
           "contest": "USAJMO",
           "year": "2025",
@@ -15231,14 +15179,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Evin Liang",
-          "state": "Massachusetts",
-          "award": "Silver"
         }
       ]
     },
@@ -15247,14 +15187,6 @@
       "name": "Juntian Deng",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Kai Lum",
-          "state": "California",
-          "award": "Bronze"
-        },
         {
           "contest": "PUMaC — Geometry",
           "year": "2025",
@@ -15386,9 +15318,9 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Aprameya Tripathy",
-          "state": "New Jersey",
-          "award": "Bronze"
+          "student_name": "Jaeho Lee",
+          "state": "Texas",
+          "award": "Silver"
         },
         {
           "contest": "PUMaC — Number Theory",
@@ -15408,14 +15340,6 @@
           "p8": "0"
         },
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Aprameya Tripathy",
-          "state": "New Jersey",
-          "award": "Gold"
-        },
-        {
           "contest": "USAJMO",
           "year": "2024",
           "contest_slug": "jmo",
@@ -15430,6 +15354,14 @@
       "name": "Tarun Rapaka",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Tarun Rapaka",
+          "state": "Texas",
+          "award": "Silver"
+        },
         {
           "contest": "PUMaC — Number Theory",
           "year": "2025",
@@ -15598,14 +15530,6 @@
           "award": "Silver"
         },
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Andrew Xing",
-          "state": "New York",
-          "award": "Bronze"
-        },
-        {
           "contest": "PUMaC — Number Theory",
           "year": "2025",
           "contest_slug": "pumac-number-theory",
@@ -15638,14 +15562,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Andrew Xing",
-          "state": "Florida",
-          "award": "Bronze"
         },
         {
           "contest": "USAJMO",
@@ -15697,14 +15613,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Arjun Pagidi",
-          "state": "Virginia",
-          "award": "Honorable Mention"
-        },
-        {
           "contest": "PUMaC — Number Theory",
           "year": "2025",
           "contest_slug": "pumac-number-theory",
@@ -15728,6 +15636,14 @@
       "name": "Maitian Sha",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Maitian Sha",
+          "state": "New Jersey",
+          "award": "Honorable Mention"
+        },
         {
           "contest": "PUMaC — Number Theory",
           "year": "2025",
@@ -15843,14 +15759,6 @@
           "student_name": "Aryan Raj",
           "state": "Virginia",
           "award": "Gold"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Yusuf Sheikh",
-          "state": "Florida",
-          "award": "Honorable Mention"
         },
         {
           "contest": "PUMaC — Combinatorics",
@@ -15969,14 +15877,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "David Lee",
-          "state": "New Jersey",
-          "award": "Bronze"
-        },
-        {
           "contest": "PUMaC — Combinatorics",
           "year": "2025",
           "contest_slug": "pumac-combinator",
@@ -15992,14 +15892,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "1"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "David Lee",
-          "state": "New Jersey",
-          "award": "Silver"
         }
       ]
     },
@@ -16008,14 +15900,6 @@
       "name": "James Wu",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Kyle Wu",
-          "state": "New York",
-          "award": "Silver"
-        },
         {
           "contest": "PUMaC — Combinatorics",
           "year": "2025",
@@ -16123,6 +16007,14 @@
       "name": "Kevin Yang",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Kevin Yang",
+          "state": "Washington",
+          "award": "Silver"
+        },
         {
           "contest": "PUMaC — Combinatorics",
           "year": "2025",
@@ -16247,14 +16139,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Samuel Wang",
-          "state": "Massachusetts",
-          "award": "Bronze"
         }
       ]
     },
@@ -16294,14 +16178,6 @@
           "student_name": "Karn Chutinan",
           "state": "California",
           "award": "Gold"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Hansen Shieh",
-          "state": "Massachusetts",
-          "award": "Bronze"
         },
         {
           "contest": "IMO",
@@ -16363,6 +16239,22 @@
       "name": "Evin Liang",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Evin Liang",
+          "state": "Massachusetts",
+          "award": "Silver"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Evin Liang",
+          "state": "Massachusetts",
+          "award": "Silver"
+        },
         {
           "contest": "PUMaC — Number Theory",
           "year": "2024",
@@ -16446,6 +16338,14 @@
       "name": "Kai Lum",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Kai Lum",
+          "state": "California",
+          "award": "Bronze"
+        },
         {
           "contest": "USAJMO",
           "year": "2024",
@@ -16653,6 +16553,22 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Aprameya Tripathy",
+          "state": "New Jersey",
+          "award": "Bronze"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Aprameya Tripathy",
+          "state": "New Jersey",
+          "award": "Gold"
+        },
+        {
           "contest": "PUMaC — Geometry",
           "year": "2024",
           "contest_slug": "pumac-geometry",
@@ -16743,14 +16659,6 @@
           "student_name": "Sophia Hou",
           "rank": "24",
           "score": "25.17"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Alansha Jiang",
-          "state": "Washington",
-          "award": "Bronze"
         },
         {
           "contest": "USAJMO",
@@ -16902,6 +16810,22 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Andrew Xing",
+          "state": "New York",
+          "award": "Bronze"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Andrew Xing",
+          "state": "Florida",
+          "award": "Bronze"
+        },
+        {
           "contest": "PUMaC — Geometry",
           "year": "2024",
           "contest_slug": "pumac-geometry",
@@ -16962,6 +16886,14 @@
       "name": "Arjun Pagidi",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Arjun Pagidi",
+          "state": "Virginia",
+          "award": "Honorable Mention"
+        },
         {
           "contest": "PUMaC — Combinatorics",
           "year": "2024",
@@ -17039,14 +16971,6 @@
           "student_name": "Alexander Liu",
           "rank": "34",
           "score": "25.17"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Aaron Wang",
-          "state": "North Carolina",
-          "award": "Silver"
         },
         {
           "contest": "PUMaC — Combinatorics",
@@ -17145,9 +17069,9 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Tony Zhang",
-          "state": "Virginia",
-          "award": "Bronze"
+          "student_name": "Yusuf Sheikh",
+          "state": "Florida",
+          "award": "Honorable Mention"
         },
         {
           "contest": "PUMaC — Algebra",
@@ -17223,6 +17147,22 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "David Lee",
+          "state": "New Jersey",
+          "award": "Bronze"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "David Lee",
+          "state": "New Jersey",
+          "award": "Silver"
+        },
+        {
           "contest": "PUMaC — Algebra",
           "year": "2024",
           "contest_slug": "pumac-algebra",
@@ -17253,6 +17193,14 @@
           "student_name": "Kyle Wu",
           "rank": "18",
           "score": "28.52"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Kyle Wu",
+          "state": "New York",
+          "award": "Silver"
         },
         {
           "contest": "USAJMO",
@@ -17418,6 +17366,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Samuel Wang",
+          "state": "Massachusetts",
+          "award": "Bronze"
+        },
+        {
           "contest": "PUMaC — Algebra",
           "year": "2024",
           "contest_slug": "pumac-algebra",
@@ -17482,6 +17438,14 @@
       "name": "Hansen Shieh",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Hansen Shieh",
+          "state": "Massachusetts",
+          "award": "Bronze"
+        },
         {
           "contest": "USAJMO",
           "year": "2024",
@@ -17563,14 +17527,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Amy Cui",
-          "state": "Washington",
-          "award": "Bronze"
-        },
-        {
           "contest": "HMMT February — Geometry",
           "year": "2025",
           "contest_slug": "hmmt-feb-geometry",
@@ -17634,22 +17590,6 @@
       "name": "Harry Kim",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Hengrui Liang",
-          "state": "California",
-          "award": "Gold"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Hengrui Liang",
-          "state": "California",
-          "award": "Bronze"
-        },
         {
           "contest": "PUMaC — Geometry",
           "year": "2024",
@@ -17724,6 +17664,14 @@
           "score": "21.08"
         },
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Alansha Jiang",
+          "state": "Washington",
+          "award": "Bronze"
+        },
+        {
           "contest": "PUMaC — Geometry",
           "year": "2024",
           "contest_slug": "pumac-geometry",
@@ -17780,29 +17728,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        }
-      ]
-    },
-    {
-      "id": 305,
-      "name": "Ritwin Narra",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Ritwin Narra",
-          "state": "California",
-          "award": "Bronze"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Ritwin Narra",
-          "state": "California",
-          "award": "Silver"
         }
       ]
     },
@@ -17968,6 +17893,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Aaron Wang",
+          "state": "North Carolina",
+          "award": "Silver"
+        },
+        {
           "contest": "PUMaC — Number Theory",
           "year": "2024",
           "contest_slug": "pumac-number-theory",
@@ -18027,16 +17960,8 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Emily Yu",
-          "state": "New York",
-          "award": "Silver"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Emily Yu",
-          "state": "New York",
+          "student_name": "Tony Zhang",
+          "state": "Virginia",
           "award": "Bronze"
         },
         {
@@ -18561,6 +18486,14 @@
           "score": "24.17"
         },
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Amy Cui",
+          "state": "Washington",
+          "award": "Bronze"
+        },
+        {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2025",
           "contest_slug": "hmmt-feb-algebra-number-theory",
@@ -18611,14 +18544,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Eric Ding",
-          "state": "Minnesota",
-          "award": "Bronze"
-        },
-        {
           "contest": "HMMT February — Combinatorics",
           "year": "2025",
           "contest_slug": "hmmt-feb-combo",
@@ -18658,12 +18583,28 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Hengrui Liang",
+          "state": "California",
+          "award": "Gold"
+        },
+        {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2025",
           "contest_slug": "hmmt-feb-algebra-number-theory",
           "student_name": "Hengrui Liang",
           "rank": "21",
           "score": "26.24"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Hengrui Liang",
+          "state": "California",
+          "award": "Bronze"
         }
       ]
     },
@@ -18726,12 +18667,28 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Ritwin Narra",
+          "state": "California",
+          "award": "Bronze"
+        },
+        {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2025",
           "contest_slug": "hmmt-feb-algebra-number-theory",
           "student_name": "Ritwin Narra",
           "rank": "34",
           "score": "24.16"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Ritwin Narra",
+          "state": "California",
+          "award": "Silver"
         }
       ]
     },
@@ -18786,14 +18743,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Kai Yi",
-          "state": "California",
-          "award": "Honorable Mention"
-        },
-        {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2025",
           "contest_slug": "hmmt-feb-algebra-number-theory",
@@ -18832,12 +18781,28 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Emily Yu",
+          "state": "New York",
+          "award": "Silver"
+        },
+        {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2025",
           "contest_slug": "hmmt-feb-algebra-number-theory",
           "student_name": "Emily Yu",
           "rank": "47",
           "score": "20.95"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Emily Yu",
+          "state": "New York",
+          "award": "Bronze"
         }
       ]
     },
@@ -18846,14 +18811,6 @@
       "name": "Katrina Liu",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Ekam Kaur",
-          "state": "Texas",
-          "award": "Silver"
-        },
         {
           "contest": "USAJMO",
           "year": "2025",
@@ -19149,7 +19106,9 @@
     {
       "id": 350,
       "name": "Jacob Ronan Khohayting",
-      "aliases": [],
+      "aliases": [
+        "Jacob Khohayting"
+      ],
       "records": [
         {
           "contest": "HMMT February — Geometry",
@@ -19204,6 +19163,14 @@
           "student_name": "Eric Ding",
           "rank": "34",
           "score": "25.17"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Eric Ding",
+          "state": "Minnesota",
+          "award": "Bronze"
         },
         {
           "contest": "HMMT February — Combinatorics",
@@ -19412,9 +19379,9 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Royce Yao",
-          "state": "Arizona",
-          "award": "Silver"
+          "student_name": "Kai Yi",
+          "state": "California",
+          "award": "Honorable Mention"
         },
         {
           "contest": "HMMT February — Combinatorics",
@@ -19487,6 +19454,14 @@
       "name": "Ekam Kaur",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Ekam Kaur",
+          "state": "Texas",
+          "award": "Silver"
+        },
         {
           "contest": "HMMT February — Combinatorics",
           "year": "2025",
@@ -19720,14 +19695,6 @@
           "student_name": "Eric Shu",
           "rank": "44",
           "score": "21.07"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Neal Yan",
-          "state": "California",
-          "award": "Silver"
         }
       ]
     },
@@ -19751,14 +19718,6 @@
           "student_name": "Patrick Sun",
           "rank": "50",
           "score": "20.95"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Mingwen Duan",
-          "state": "Connecticut",
-          "award": "Bronze"
         }
       ]
     },
@@ -19872,14 +19831,6 @@
           "student_name": "Chang Lu",
           "rank": "23",
           "score": "25.24"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Vasawat Rawangwong",
-          "state": "Massachusetts",
-          "award": "Gold"
         }
       ]
     },
@@ -19895,14 +19846,6 @@
           "student_name": "Albert Lu",
           "rank": "29",
           "score": "24.17"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Elbert Ho",
-          "state": "New Jersey",
-          "award": "Bronze"
         },
         {
           "contest": "USAJMO",
@@ -20010,14 +19953,6 @@
           "student_name": "Perry Zhuo-Yan Dai",
           "rank": "29",
           "score": "24.17"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Jaemin Kim",
-          "state": "New York",
-          "award": "Bronze"
         }
       ]
     },
@@ -20073,6 +20008,14 @@
           "score": "27.39"
         },
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Royce Yao",
+          "state": "Arizona",
+          "award": "Silver"
+        },
+        {
           "contest": "MATHCOUNTS National",
           "year": "2022",
           "contest_slug": "mathcounts-national",
@@ -20119,14 +20062,6 @@
           "student_name": "Keshav Karumbunathan",
           "state": "Oregon",
           "award": "Silver"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Christopher Li",
-          "state": "Ontario",
-          "award": "Canada"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -20277,7 +20212,9 @@
     {
       "id": 396,
       "name": "Elena Ahn Beckman",
-      "aliases": [],
+      "aliases": [
+        "Elena Beckman"
+      ],
       "records": [
         {
           "contest": "HMMT February — Combinatorics",
@@ -20294,14 +20231,6 @@
           "student_name": "Elena Beckman",
           "state": "California",
           "award": "Honorable Mention"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Ryan Bai",
-          "state": "California",
-          "award": "Silver"
         }
       ]
     },
@@ -20325,6 +20254,14 @@
       "name": "Neal Yan",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Neal Yan",
+          "state": "California",
+          "award": "Silver"
+        },
         {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2024",
@@ -20357,6 +20294,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Mingwen Duan",
+          "state": "Connecticut",
+          "award": "Bronze"
+        },
+        {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2024",
           "contest_slug": "hmmt-feb-algebra-number-theory",
@@ -20371,14 +20316,6 @@
       "name": "Kelin Zhu",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Emily Ma",
-          "state": "Ontario",
-          "award": "Canada"
-        },
         {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2024",
@@ -20473,14 +20410,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Evan Ashoori",
-          "state": "Massachusetts",
-          "award": "Honorable Mention"
-        },
-        {
           "contest": "HMMT February — Geometry",
           "year": "2024",
           "contest_slug": "hmmt-feb-geometry",
@@ -20511,14 +20440,6 @@
       "name": "Guanjie Lu",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Henrick Rabinovitz",
-          "state": "Massachusetts",
-          "award": "Silver"
-        },
         {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2024",
@@ -20577,6 +20498,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Vasawat Rawangwong",
+          "state": "Massachusetts",
+          "award": "Gold"
+        },
+        {
           "contest": "HMMT February — Geometry",
           "year": "2024",
           "contest_slug": "hmmt-feb-geometry",
@@ -20593,11 +20522,11 @@
       "records": [
         {
           "contest": "USAMO",
-          "year": "2025",
+          "year": "2024",
           "contest_slug": "amo",
-          "student_name": "Aarush Khare",
-          "state": "California",
-          "award": "Honorable Mention"
+          "student_name": "Elbert Ho",
+          "state": "New Jersey",
+          "award": "Bronze"
         },
         {
           "contest": "HMMT February — Geometry",
@@ -20644,6 +20573,14 @@
       "name": "Jaemin Kim",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Jaemin Kim",
+          "state": "New York",
+          "award": "Bronze"
+        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2024",
@@ -20735,6 +20672,14 @@
       "name": "Christopher Li",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Christopher Li",
+          "state": "Ontario",
+          "award": "Canada"
+        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2024",
@@ -20841,6 +20786,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Ryan Bai",
+          "state": "California",
+          "award": "Silver"
+        },
+        {
           "contest": "HMMT February — Combinatorics",
           "year": "2024",
           "contest_slug": "hmmt-feb-combo",
@@ -20909,6 +20862,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Emily Ma",
+          "state": "Ontario",
+          "award": "Canada"
+        },
+        {
           "contest": "HMMT February — Combinatorics",
           "year": "2024",
           "contest_slug": "hmmt-feb-combo",
@@ -20954,6 +20915,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Evan Ashoori",
+          "state": "Massachusetts",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "HMMT February — Combinatorics",
           "year": "2024",
           "contest_slug": "hmmt-feb-combo",
@@ -20968,6 +20937,14 @@
       "name": "Henrick Rabinovitz",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Henrick Rabinovitz",
+          "state": "Massachusetts",
+          "award": "Silver"
+        },
         {
           "contest": "HMMT February — Combinatorics",
           "year": "2024",
@@ -21040,6 +21017,14 @@
       "name": "Aarush Khare",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Aarush Khare",
+          "state": "California",
+          "award": "Honorable Mention"
+        },
         {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2023",
@@ -21291,14 +21276,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Benjamin Jeter",
-          "state": "Arizona",
-          "award": "Silver"
-        },
-        {
           "contest": "HMMT February — Geometry",
           "year": "2023",
           "contest_slug": "hmmt-feb-geometry",
@@ -21313,14 +21290,6 @@
       "name": "William Chenfeng Dai",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Owen Zhou",
-          "state": "Arizona",
-          "award": "Honorable Mention"
-        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2023",
@@ -21435,22 +21404,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "David Zhang",
-          "state": "California",
-          "award": "Bronze"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "David Zhang",
-          "state": "Washington",
-          "award": "Honorable Mention"
-        },
-        {
           "contest": "HMMT February — Combinatorics",
           "year": "2023",
           "contest_slug": "hmmt-feb-combo",
@@ -21465,14 +21418,6 @@
       "name": "Ashley Zhu",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Lawson Wang",
-          "state": "California",
-          "award": "Honorable Mention"
-        },
         {
           "contest": "HMMT February — Combinatorics",
           "year": "2023",
@@ -21533,22 +21478,6 @@
       "name": "Anish Mudide",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Kyle Zhang",
-          "state": "Connecticut",
-          "award": "Honorable Mention"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Kyle Zhang",
-          "state": "Connecticut",
-          "award": "Bronze"
-        },
         {
           "contest": "HMMT February — Combinatorics",
           "year": "2023",
@@ -21628,7 +21557,7 @@
           "contest": "USAMO",
           "year": "2024",
           "contest_slug": "amo",
-          "student_name": "Albert Yuan",
+          "student_name": "Allan Yuan",
           "state": "Alabama",
           "award": "Honorable Mention"
         },
@@ -21797,6 +21726,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Benjamin Jeter",
+          "state": "Arizona",
+          "award": "Silver"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -21822,6 +21759,14 @@
       "name": "Owen Zhou",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Owen Zhou",
+          "state": "Arizona",
+          "award": "Honorable Mention"
+        },
         {
           "contest": "USAJMO",
           "year": "2024",
@@ -21979,6 +21924,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "David Zhang",
+          "state": "California",
+          "award": "Bronze"
+        },
+        {
           "contest": "CMIMC - Geometry",
           "year": "2025",
           "contest_slug": "cmimc-geometry",
@@ -21993,6 +21946,14 @@
           "student_name": "David Zhang",
           "rank": "7",
           "total_score": "165.68"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "David Zhang",
+          "state": "Washington",
+          "award": "Honorable Mention"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -22030,6 +21991,14 @@
       "name": "Lawson Wang",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Lawson Wang",
+          "state": "California",
+          "award": "Honorable Mention"
+        },
         {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
@@ -22152,6 +22121,22 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Kyle Zhang",
+          "state": "Connecticut",
+          "award": "Honorable Mention"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Kyle Zhang",
+          "state": "Connecticut",
+          "award": "Bronze"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -22221,14 +22206,6 @@
       "name": "Yanming Huang",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Bryan Li",
-          "state": "Massachusetts",
-          "award": "Honorable Mention"
-        },
         {
           "contest": "MATHCOUNTS National",
           "year": "2021",
@@ -22746,6 +22723,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Bryan Li",
+          "state": "Massachusetts",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "MATHCOUNTS National",
           "year": "2022",
           "contest_slug": "mathcounts-national",
@@ -22790,22 +22775,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Ivy Guo",
-          "state": "Maryland",
-          "award": "Bronze"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Ivy Guo",
-          "state": "Maryland",
-          "award": "Bronze"
-        },
-        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -22831,14 +22800,6 @@
       "name": "Andrew J Bukowski",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Matthew Qian",
-          "state": "Massachusetts",
-          "award": "Bronze"
-        },
         {
           "contest": "MATHCOUNTS National",
           "year": "2021",
@@ -23126,22 +23087,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Aaron Lin",
-          "state": "Missouri",
-          "award": "Honorable Mention"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Aaron Lin",
-          "state": "Missouri",
-          "award": "Honorable Mention"
-        },
-        {
           "contest": "MATHCOUNTS National",
           "year": "2021",
           "contest_slug": "mathcounts-national",
@@ -23175,14 +23120,6 @@
       "name": "Aryan Agahtehrani",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Alex Wang",
-          "state": "Maryland",
-          "award": "Bronze"
-        },
         {
           "contest": "MATHCOUNTS National",
           "year": "2021",
@@ -23392,6 +23329,22 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Ivy Guo",
+          "state": "Maryland",
+          "award": "Bronze"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Ivy Guo",
+          "state": "Maryland",
+          "award": "Bronze"
+        },
+        {
           "contest": "MATHCOUNTS National",
           "year": "2021",
           "contest_slug": "mathcounts-national",
@@ -23408,6 +23361,14 @@
       "name": "Matthew Qian",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Matthew Qian",
+          "state": "Massachusetts",
+          "award": "Bronze"
+        },
         {
           "contest": "MATHCOUNTS National",
           "year": "2021",
@@ -23485,14 +23446,6 @@
       "name": "Elita You",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Pratham Mukewar",
-          "state": "New Hampshire",
-          "award": "Bronze"
-        },
         {
           "contest": "MATHCOUNTS National",
           "year": "2021",
@@ -23703,6 +23656,22 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Aaron Lin",
+          "state": "Missouri",
+          "award": "Honorable Mention"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Aaron Lin",
+          "state": "Missouri",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2022",
           "contest_slug": "mathcounts-national-rank",
@@ -23764,6 +23733,14 @@
       "name": "Alex Wang",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Alex Wang",
+          "state": "Maryland",
+          "award": "Bronze"
+        },
         {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2022",
@@ -24078,6 +24055,14 @@
       "name": "Pratham Mukewar",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Pratham Mukewar",
+          "state": "New Hampshire",
+          "award": "Bronze"
+        },
         {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2022",
@@ -24821,22 +24806,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Owen Zhang",
-          "state": "Washington",
-          "award": "Silver"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Owen Zhang",
-          "state": "Washington",
-          "award": "Silver"
-        },
-        {
           "contest": "MATHCOUNTS National",
           "year": "2021",
           "contest_slug": "mathcounts-national",
@@ -24943,22 +24912,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Hongning Wang",
-          "state": "Washington",
-          "award": "Bronze"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Hongning Wang",
-          "state": "Washington",
-          "award": "Honorable Mention"
-        },
-        {
           "contest": "MATHCOUNTS National",
           "year": "2021",
           "contest_slug": "mathcounts-national",
@@ -25064,14 +25017,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Kartik Ramachandrula",
-          "state": "Wisconsin",
-          "award": "Bronze"
-        },
-        {
           "contest": "MATHCOUNTS National",
           "year": "2021",
           "contest_slug": "mathcounts-national",
@@ -25088,14 +25033,6 @@
       "name": "Sebastian Chase",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Joshua Wang",
-          "state": "Wisconsin",
-          "award": "Bronze"
-        },
         {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2022",
@@ -25470,6 +25407,22 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Owen Zhang",
+          "state": "Washington",
+          "award": "Silver"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Owen Zhang",
+          "state": "Washington",
+          "award": "Silver"
+        },
+        {
           "contest": "MATHCOUNTS National",
           "year": "2021",
           "contest_slug": "mathcounts-national",
@@ -25486,14 +25439,6 @@
       "name": "Alon Ragoler",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Sohil Rathi",
-          "state": "California",
-          "award": "Bronze"
-        },
         {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
@@ -25550,9 +25495,17 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Alex Zhang",
-          "state": "Ontario",
-          "award": "Canada"
+          "student_name": "Hongning Wang",
+          "state": "Washington",
+          "award": "Bronze"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Hongning Wang",
+          "state": "Washington",
+          "award": "Honorable Mention"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -25669,6 +25622,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Kartik Ramachandrula",
+          "state": "Wisconsin",
+          "award": "Bronze"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -25694,6 +25655,14 @@
       "name": "Joshua Wang",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Joshua Wang",
+          "state": "Wisconsin",
+          "award": "Bronze"
+        },
         {
           "contest": "MATHCOUNTS National",
           "year": "2021",
@@ -25968,14 +25937,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Sola Murakami",
-          "state": "Hawaii",
-          "award": "Bronze"
-        },
-        {
           "contest": "MATHCOUNTS National",
           "year": "2022",
           "contest_slug": "mathcounts-national",
@@ -26043,6 +26004,14 @@
       "name": "Sohil Rathi",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Sohil Rathi",
+          "state": "California",
+          "award": "Bronze"
+        },
         {
           "contest": "USAJMO",
           "year": "2024",
@@ -26119,6 +26088,14 @@
       "name": "Alex Zhang",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Alex Zhang",
+          "state": "Ontario",
+          "award": "Canada"
+        },
         {
           "contest": "MATHCOUNTS National",
           "year": "2022",
@@ -26486,6 +26463,14 @@
       "name": "Sola Murakami",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Sola Murakami",
+          "state": "Hawaii",
+          "award": "Bronze"
+        },
         {
           "contest": "USAJMO",
           "year": "2024",
@@ -27007,22 +26992,6 @@
       "aliases": [],
       "records": [
         {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Liran Zhou",
-          "state": "New York",
-          "award": "Bronze"
-        },
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Liran Zhou",
-          "state": "New York",
-          "award": "Honorable Mention"
-        },
-        {
           "contest": "USAJMO",
           "year": "2024",
           "contest_slug": "jmo",
@@ -27192,14 +27161,6 @@
       "name": "Isaac Lukacs",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Devin Zhao",
-          "state": "Ohio",
-          "award": "Honorable Mention"
-        },
         {
           "contest": "MATHCOUNTS National",
           "year": "2022",
@@ -27526,6 +27487,22 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Liran Zhou",
+          "state": "New York",
+          "award": "Bronze"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Liran Zhou",
+          "state": "New York",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2022",
           "contest_slug": "mathcounts-national-rank",
@@ -27705,6 +27682,14 @@
       "aliases": [],
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Devin Zhao",
+          "state": "Ohio",
+          "award": "Honorable Mention"
+        },
+        {
           "contest": "MATHCOUNTS National",
           "year": "2022",
           "contest_slug": "mathcounts-national",
@@ -27840,14 +27825,6 @@
       "name": "William Liu",
       "aliases": [],
       "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Susie Lu",
-          "state": "Washington",
-          "award": "Bronze"
-        },
         {
           "contest": "MATHCOUNTS National",
           "year": "2022",
@@ -28325,8 +28302,8 @@
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
-          "student_name": "Advait Joshi",
-          "state": "New Jersey",
+          "student_name": "Susie Lu",
+          "state": "Washington",
           "award": "Bronze"
         },
         {
@@ -28860,6 +28837,14 @@
       "name": "Advait Joshi",
       "aliases": [],
       "records": [
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Advait Joshi",
+          "state": "New Jersey",
+          "award": "Bronze"
+        },
         {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2025",
@@ -33677,21 +33662,6 @@
           "student_name": "Chenghao Zuo",
           "state": "British Columbia",
           "award": "Canada"
-        }
-      ]
-    },
-    {
-      "id": 1101,
-      "name": "Kevin Liu",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "USAJMO",
-          "year": "2024",
-          "contest_slug": "jmo",
-          "student_name": "Kevin Liu",
-          "state": "Pennsylvania",
-          "award": "Honors"
         }
       ]
     }

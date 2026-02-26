@@ -8,7 +8,7 @@ student_id,student_name,state,award
 213,Darren Han,Texas,Gold
 59,Henry Jiang,Michigan,Gold
 884,Shihan Kanungo,California,Gold
-301,Hengrui Liang,California,Gold
+327,Hengrui Liang,California,Gold
 91,Andrew Lin,New Jersey,Gold
 34,Jiahe Liu,Ohio,Gold
 262,Aryan Raj,Virginia,Gold
@@ -23,139 +23,139 @@ student_id,student_name,state,award
 37,Grant Blitz,New Hampshire,Silver
 240,Ryan Chen,Washington,Silver
 90,Rohan Das,California,Silver
-76,Surya Dinesh,Texas,Silver
+79,Surya Dinesh,Texas,Silver
 62,Evan Fan,New Hampshire,Silver
 58,Hannah Fox,California,Silver
 7,Benjamin Fu,Washington,Silver
 257,Daniel Ge,Washington,Silver
 127,David Ji,New Jersey,Silver
 389,Keshav Karumbunathan,Oregon,Silver
-338,Ekam Kaur,Texas,Silver
+364,Ekam Kaur,Texas,Silver
 887,Neil Krishnan,California,Silver
 888,Jian Kweon,California,Silver
-229,Jaeho Lee,Texas,Silver
+253,Jaeho Lee,Texas,Silver
 343,Jason Lee,North Carolina,Silver
-67,Connor Leong,California,Silver
-79,Edward Li,Iowa,Silver
-249,Evin Liang,Massachusetts,Silver
+69,Connor Leong,California,Silver
+82,Edward Li,Iowa,Silver
+273,Evin Liang,Massachusetts,Silver
 889,Tony Lu,Texas,Silver
 132,Jason Mao,New Jersey,Silver
-80,Skyler Mao,California,Silver
-230,Tarun Rapaka,Texas,Silver
+83,Skyler Mao,California,Silver
+254,Tarun Rapaka,Texas,Silver
 86,Vikram Sarkar,Connecticut,Silver
 812,Drake Tan,Texas,Silver
 45,Aaryan Vaishya,Florida,Silver
 27,Bolei Wang,New Hampshire,Silver
-265,Kyle Wu,New York,Silver
+289,Kyle Wu,New York,Silver
 275,Catherine Xu,Iowa,Silver
-244,Kevin Yang,Washington,Silver
-361,Royce Yao,Arizona,Silver
-311,Emily Yu,New York,Silver
-612,Owen Zhang,Washington,Silver
+268,Kevin Yang,Washington,Silver
+387,Royce Yao,Arizona,Silver
+337,Emily Yu,New York,Silver
+638,Owen Zhang,Washington,Silver
 47,Shaohuan Zhang,Michigan,Silver
-82,Sophia Zhang,New Jersey,Silver
-77,Lerchen Zhong,Texas,Silver
-50,Amogh Akella,Texas,Bronze
+85,Sophia Zhang,New Jersey,Silver
+80,Lerchen Zhong,Texas,Silver
+49,Amogh Akella,Texas,Bronze
 666,Shruti Arun,Colorado,Bronze
 890,Hanson Bai,California,Bronze
 891,Andrew Brahms,New Jersey,Bronze
 892,Edward Cha,Massachusetts,Bronze
-13,Alan Cheng,North Carolina,Bronze
+12,Alan Cheng,North Carolina,Bronze
 893,Hugh Cheng,California,Bronze
 894,Kailua Cheng,California,Bronze
-299,Amy Cui,Washington,Bronze
+325,Amy Cui,Washington,Bronze
 895,Perry Dai,Ontario, Canada,Bronze
-326,Eric Ding,Minnesota,Bronze
+352,Eric Ding,Minnesota,Bronze
 896,Aron Fekete,New Hampshire,Bronze
 897,Dylan Frake,California,Bronze
 898,Hao-Yu Gan,New York,Bronze
-518,Ivy Guo,Maryland,Bronze
+544,Ivy Guo,Maryland,Bronze
 899,Eden He,Pennsylvania,Bronze
-105,Jonathan He,Illinois,Bronze
+112,Jonathan He,Illinois,Bronze
 900,Katie He,New York,Bronze
-780,Advait Joshi,New Jersey,Bronze
+809,Advait Joshi,New Jersey,Bronze
 901,Hyun-Jin Kim,Texas,Bronze
 902,Sam Kretzschmar,Minnesota,Bronze
-264,David Lee,New Jersey,Bronze
-389,Christopher Li,Ontario, Canada,Bronze
-66,Xilong Lin,California,Bronze
-78,Angela Liu,California,Bronze
-754,Susie Lu,Washington,Bronze
-250,Kai Lum,California,Bronze
+288,David Lee,New Jersey,Bronze
+415,Christopher Li,Ontario, Canada,Bronze
+68,Xilong Lin,California,Bronze
+81,Angela Liu,California,Bronze
+780,Susie Lu,Washington,Bronze
+274,Kai Lum,California,Bronze
 903,Justin Ma,Virginia,Bronze
 44,Krithik Manoharan,Texas,Bronze
-549,Pratham Mukewar,New Hampshire,Bronze
-661,Sola Murakami,Hawaii,Bronze
-305,Ritwin Narra,California,Bronze
+575,Pratham Mukewar,New Hampshire,Bronze
+687,Sola Murakami,Hawaii,Bronze
+331,Ritwin Narra,California,Bronze
 904,Jaewoo Park,Illinois,Bronze
-41,Darsh Patel,Florida,Bronze
-519,Matthew Qian,Massachusetts,Bronze
+40,Darsh Patel,Florida,Bronze
+545,Matthew Qian,Massachusetts,Bronze
 57,Christopher Qiu,New Jersey,Bronze
-639,Sohil Rathi,California,Bronze
-272,Hansen Shieh,Massachusetts,Bronze
+665,Sohil Rathi,California,Bronze
+296,Hansen Shieh,Massachusetts,Bronze
 905,Ryan Tang,Massachusetts,Bronze
-253,Aprameya Tripathy,New Jersey,Bronze
-615,Hongning Wang,Washington,Bronze
+277,Aprameya Tripathy,New Jersey,Bronze
+641,Hongning Wang,Washington,Bronze
 3,Oron Wang,New Hampshire,Bronze
 906,Ryan Wang,California,Bronze
-257,Andrew Xing,New York,Bronze
+281,Andrew Xing,New York,Bronze
 907,Brian Xue,California,Bronze
 908,Vincent Yu,Indiana,Bronze
-456,David Zhang,California,Bronze
-286,Tony Zhang,Virginia,Bronze
-14,Michael Zhao,Texas,Bronze
+482,David Zhang,California,Bronze
+311,Tony Zhang,Virginia,Bronze
+13,Michael Zhao,Texas,Bronze
 46,Ray Zhao,Texas,Bronze
 909,Joey Zheng,Arizona,Bronze
-712,Liran Zhou,New York,Bronze
+738,Liran Zhou,New York,Bronze
 910,Ryan Zhu,British Columbia, Canada,Bronze
 911,Eric Zou,California,Bronze
-403,Evan Ashoori,Massachusetts,Honorable Mention
-51,Yunzhe Bai,Massachusetts,Honorable Mention
+429,Evan Ashoori,Massachusetts,Honorable Mention
+50,Yunzhe Bai,Massachusetts,Honorable Mention
 912,Brett Chang,California,Honorable Mention
 913,Samarth Das,Texas,Honorable Mention
 29,Patrick Du,Virginia,Honorable Mention
-221,Corwin Eisenbeiss,New Hampshire,Honorable Mention
+245,Corwin Eisenbeiss,New Hampshire,Honorable Mention
 914,Bryan Fu,Texas,Honorable Mention
 915,Michael Han,Massachusetts,Honorable Mention
 916,Lucas Hinds,Tennessee,Honorable Mention
-36,William Hua,Massachusetts,Honorable Mention
+35,William Hua,Massachusetts,Honorable Mention
 917,Bennett Huang,Virginia,Honorable Mention
 918,Jiawen Huang,California,Honorable Mention
 919,Seojoon Kang,New York,Honorable Mention
-407,Aarush Khare,California,Honorable Mention
+433,Aarush Khare,California,Honorable Mention
 920,Taehong Kim,Massachusetts,Honorable Mention
-12,Dou Lai,Illinois,Honorable Mention
+11,Dou Lai,Illinois,Honorable Mention
 921,Alicia Li,New Hampshire,Honorable Mention
-490,Bryan Li,Massachusetts,Honorable Mention
+516,Bryan Li,Massachusetts,Honorable Mention
 922,Rex Li,Ontario, Canada,Honorable Mention
-532,Aaron Lin,Missouri,Honorable Mention
-70,Kevin Liu,Florida,Honorable Mention
-15,Nathan Liu,Texas,Honorable Mention
-258,Arjun Pagidi,Virginia,Honorable Mention
+558,Aaron Lin,Missouri,Honorable Mention
+72,Kevin Liu,Florida,Honorable Mention
+14,Nathan Liu,Texas,Honorable Mention
+282,Arjun Pagidi,Virginia,Honorable Mention
 923,James Qiu,Ontario, Canada,Honorable Mention
 924,Victor Sarca,Ontario, Canada,Honorable Mention
-235,Maitian Sha,New Jersey,Honorable Mention
-262,Yusuf Sheikh,Florida,Honorable Mention
-92,Eric Wang,New Hampshire,Honorable Mention
-457,Lawson Wang,California,Honorable Mention
+259,Maitian Sha,New Jersey,Honorable Mention
+286,Yusuf Sheikh,Florida,Honorable Mention
+97,Eric Wang,New Hampshire,Honorable Mention
+483,Lawson Wang,California,Honorable Mention
 925,Kalan Warusa,Virginia,Honorable Mention
 926,Asher Wu,Washington,Honorable Mention
 927,Arthur Xu,Illinois,Honorable Mention
 928,Kellen Xue,California,Honorable Mention
 77,Shunyao Yan,Virginia,Honorable Mention
 929,Nathan Ye,California,Honorable Mention
-335,Kai Yi,California,Honorable Mention
-24,Jeffrey Yin,Virginia,Honorable Mention
+361,Kai Yi,California,Honorable Mention
+23,Jeffrey Yin,Virginia,Honorable Mention
 930,Bole Ying,Pennsylvania,Honorable Mention
 931,Matthew Yuan,California,Honorable Mention
 932,Leo Zeng,California,Honorable Mention
-641,Alex Zhang,Ontario, Canada,Honorable Mention
+667,Alex Zhang,Ontario, Canada,Honorable Mention
 933,Alexander Zhang,Ontario, Canada,Honorable Mention
 934,Charles Zhang,California,Honorable Mention
 935,Eric Zhang,Illinois,Honorable Mention
-461,Kyle Zhang,Connecticut,Honorable Mention
-721,Devin Zhao,Ohio,Honorable Mention
-84,Max Zhao,Virginia,Honorable Mention
+487,Kyle Zhang,Connecticut,Honorable Mention
+747,Devin Zhao,Ohio,Honorable Mention
+87,Max Zhao,Virginia,Honorable Mention
 33,Roger Zhen,Texas,Honorable Mention
-449,Owen Zhou,Arizona,Honorable Mention
+475,Owen Zhou,Arizona,Honorable Mention
 936,Anthony Zou,South Carolina,Honorable Mention

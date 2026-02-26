@@ -40,7 +40,7 @@ student_id,student_name,team_ids,alias
 39,Maxwell Sun,28,
 40,Darsh Patel,19,
 41,Eddy Zhang,1|32|73,
-42,Benjamin Song,29,
+42,Benjamin Song,29,Ben Song
 43,Christopher Peng,7|89,
 44,Krithik Manoharan,24|86|110,
 45,Aaryan Vaishya,19,
@@ -87,7 +87,7 @@ student_id,student_name,team_ids,alias
 91,Andrew Lin,1|32|73,
 92,Marvin Mao,45,
 93,Jessica Wan,19,
-95,Razzi H. Masroor,46|75,
+95,Razzi H. Masroor,46|75,Razzi Masroor
 96,Qiao Zhang,47,
 97,Eric Wang,14|120,
 98,Elliott Liu,2,
@@ -217,12 +217,12 @@ student_id,student_name,team_ids,alias
 241,Eliot Flowers,105,
 242,Adam Ge,26,
 243,Aarush Prasad,66,
-244,Jacob Khohayting,19|51,
+244,Jacob Ronan Khohayting,19|51,Jacob Khohayting
 245,Corwin Eisenbeiss,96,
 246,Vincent Pirozzo,91,
 247,Niranjan Rao,93,
 248,Shaheem Samsudeen,106,
-249,Sam Tsui,100,
+249,Sam Tsui,100,Samuel Tsui
 250,Juntian Deng,4,
 251,Joshua Khohayting,19,
 252,Arnav Iyengar,83,
@@ -321,7 +321,7 @@ student_id,student_name,team_ids,alias
 347,Shihan,40,
 348,Kyle Liao,134,
 349,Tianxin Liu,17,
-350,Jacob Ronan Khohayting,51,
+350,Jacob Ronan Khohayting,51,Jacob Khohayting
 351,Tairan Ma,135,
 352,Eric Ding,6,
 353,Shiqiao Zhang,3,
@@ -367,7 +367,7 @@ student_id,student_name,team_ids,alias
 393,Adam Henry Smith,73,
 394,Alexander Yang,134,
 395,Boyou Huang,138,
-396,Elena Ahn Beckman,146,
+396,Elena Ahn Beckman,146,Elena Beckman
 397,Ayush Bansal,147,
 398,Neal Yan,47,
 399,Mingwen Duan,43,
@@ -1069,4 +1069,3 @@ student_id,student_name,team_ids,alias
 1098,Kayden Zhong,,
 1099,Bryan Zhu,,
 1100,Chenghao Zuo,,
-1101,Kevin Liu,,
