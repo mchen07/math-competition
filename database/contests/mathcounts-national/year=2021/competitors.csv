@@ -14,16 +14,16 @@ Arizona,Victor Long,8,Chandler,BASIS Chandler,477
 Arkansas,Arya Waikar,8,Bentonville,Washington Junior High School,478
 Arkansas,Aakash Bhattacharyya,7,Little,Rock Lisa Academy West Middle School,479
 Arkansas,Chirag Samantaroy,7,Bentonville,Fulbright Junior High School,480
-Arkansas,Eric Tang,7,Little,Rock Pinnacle View Middle School,481
-California,David Zhang,8,San,Ramon Windemere Ranch Middle School,482
-California,Angela Liu,8,San,Jose The Harker School,81
+Arkansas,Eric Tang,7,Little Rock,Pinnacle View Middle School,481
+California,David Zhang,8,San Ramon,Windemere Ranch Middle School,482
+California,Angela Liu,8,San Jose,The Harker School,81
 California,Rohan Bodke,8,Sunnyvale,Cupertino Middle School,99
 California,Lawson Wang,7,Saratoga,Redwood Middle School,483
 Colorado,Abhinav Krishna,8,Denver,Challenge School,484
-Colorado,Eric Wang,8,Fort,Collins Kinard Core Knowledge Middle School,97
+Colorado,Eric Wang,8,Fort Collins,Kinard Core Knowledge Middle School,97
 Colorado,Joshua Liu,6,Denver,Challenge School,485
 Colorado,Ethan Lou,8,Centennial,Cherry Creek Elevation,486
-Connecticut,Kyle Zhang,8,New,Haven Hopkins School,487
+Connecticut,Kyle Zhang,8,New Haven,Hopkins School,487
 Connecticut,Leon Jiang,7,Hamden,Hamden Hall Country Day School,488
 Connecticut,Vikram Sarkar,7,Westport,Coleytown Middle School,86
 Connecticut,Enya Yu,7,Newtown,Housatonic Valley Waldorf School,489
@@ -35,10 +35,10 @@ Department of Defense,Nicolas Treland,8,Korea,Humphreys Middle School,494
 Department of Defense,Frank Petty,8,Japan,Yokota Middle School,495
 Department of Defense,Kyle Koehler,8,Germany,Ramstein Middle School,496
 Department of Defense,Catherine Perez,8,Germany,Ramstein Middle School,497
-District of Columbia,Arnav Iyengar,6,"Washington,",DC Hardy Middle School,252
-District of Columbia,Alex Acosta,8,"Washington,",DC St Albans School,498
-District of Columbia,Lucas Qi,7,"Washington,",DC Georgetown Day School,499
-District of Columbia,Andrew Liu,8,"Washington,",DC St Albans School,500
+District of Columbia,Arnav Iyengar,6,"Washington, DC",Hardy Middle School,252
+District of Columbia,Alex Acosta,8,"Washington, DC",St Albans School,498
+District of Columbia,Lucas Qi,7,"Washington, DC", Georgetown Day School,499
+District of Columbia,Andrew Liu,8,"Washington, DC", St Albans School,500
 Florida,Kevin Liu,7,Parkland,Westglades Middle School,72
 Florida,Philip Matchev,8,Gainesville,Abraham Lincoln Middle School,501
 Florida,Andrew Xing,8,Gainesville,Abraham Lincoln Middle School,281
@@ -49,8 +49,8 @@ Georgia,Varun Gadi,6,Alpharetta,Fulton Science Academy,48
 Georgia,Sai Palireddy,8,Cumming,South Forsyth Middle School,505
 Guam,Justin Park,8,Barrigada,Science is Fun & Awesome Learning Acad. Charter School,506
 Guam,Zunaid Jafar,7,Barrigada,Harvest Christian Academy,507
-Guam,Brian Hwang,7,Upper,Tumon St. John's School,508
-Guam,Dylan Chong,8,Upper,Tumon St. John's School,509
+Guam,Brian Hwang,7,Upper Tumon,St. John's School,508
+Guam,Dylan Chong,8,Upper Tumon,St. John's School,509
 Hawaii,Keisuke Kwong,8,Honolulu,Washington Middle School,510
 Hawaii,Ashley Hong,8,Honolulu,Punahou School,511
 Hawaii,Ryan Eto,8,Honolulu,Iolani School,512
@@ -59,14 +59,14 @@ Idaho,James Wei,8,Meridian,Virtual School,514
 Idaho,Vishal Suresh,8,Boise,East Junior High School,515
 Idaho,Bryan Li,7,Boise,East Junior High School,516
 Idaho,Jalen Lu,8,Boise,Boise Online School,517
-Illinois,Nate Maydanchik,8,Oak,Brook Butler Junior High School,518
+Illinois,Nate Maydanchik,8,Oak Brook,Butler Junior High School,518
 Illinois,Andrew J Bukowski,8,Lisle,Kennedy Junior High School,519
 Illinois,Angela Ho,7,Lincolnshire,Daniel Wright Junior High School,520
 Illinois,Victor Chen,7,Chicago,University Of Chicago Laboratory School,370
 Indiana,Michael Qian,8,Carmel,Clay Middle School,521
 Indiana,Edward Chen,6,Carmel,Carmel Middle School,522
 Indiana,Jennifer Hu,7,Carmel,Clay Middle School,523
-Indiana,Om Patel,8,West,Lafayette Battle Ground Middle School,524
+Indiana,Om Patel,8,West,Lafayette,Battle Ground Middle School,524
 Iowa,Edward Li,7,Coralville,Northwest Junior High School,82
 Iowa,Catherine Xu,7,Coralville,Northwest Junior High School,275
 Iowa,Richard Yang,8,Coralville,Northwest Junior High School,525
@@ -134,14 +134,14 @@ New Mexico,Akilan Sankaran,8,Albuquerque,Albuquerque Academy,578
 New Mexico,Hiro Jau,7,Albuquerque,Desert Ridge Middle School,579
 New Mexico,Kyuryeon Kim,8,Albuquerque,Desert Ridge Middle School,580
 New Mexico,Iorwen Ouyang,8,Albuquerque,Desert Ridge Middle School,581
-New York,Steven Lou,8,New,York Nest+M School,307
-New York,Andrew Carratu,8,Little,Neck Louis Pasteur Middle School,73
-New York,Shirley Xiong,8,Stony,Brook Robert Cushman Murphy Junior High School,582
-New York,Rohan Sastry,8,New,York The Speyer Legacy School,583
+New York,Steven Lou,8,New York,Nest+M School,307
+New York,Andrew Carratu,8,Little Neck,Louis Pasteur Middle School,73
+New York,Shirley Xiong,8,Stony Brook,Robert Cushman Murphy Junior High School,582
+New York,Rohan Sastry,8,New York,The Speyer Legacy School,583
 North Carolina,Raymond Ge,7,Morrisville,Sterling Montessori Charter School,584
 North Carolina,Alan Cheng,7,Cary,Mills Park Middle School,12
 North Carolina,Anthony Yang,8,Charlotte,Randolph IB Middle School,585
-North Carolina,Mu Jett,8,Chapel,Hill Smith Middle School,586
+North Carolina,Mu Jett,8,Chapel Hill,Smith Middle School,586
 North Dakota,Cady Wang,8,Fargo,Discovery Middle School,587
 North Dakota,Andrew Ternes,8,Devils,Lake St. Joseph Catholic School,588
 North Dakota,Malory Kemp,7,Cavalier,Cavalier Public School,589
@@ -158,13 +158,13 @@ Oregon,Kai Yamashita,7,Corvallis,Ashbrook Independent School,599
 Oregon,Justin Xia,8,Portland,Stoller Middle School,600
 Oregon,Shreyan Paliwal,8,Portland,Willamette Valley Academy,601
 Oregon,Yaseen Arifin,7,Beaverton,Meadow Park Middle School,602
-Pennsylvania,Aaron Le,7,State,College Park Forest Middle School,280
-Pennsylvania,Aidan Le,7,State,College Park Forest Middle School,603
+Pennsylvania,Aaron Le,7,State College Park,Forest Middle School,280
+Pennsylvania,Aidan Le,7,State,College Park,Forest Middle School,603
 Pennsylvania,Joseph Widjaja,8,Wexford,Marshall Middle School,604
 Pennsylvania,Brandon Cai,8,Allentown,Springhouse Middle School,344
 Puerto Rico,Nirvana Rosabella Marrero Tiodang,8,Carolina,Saint Francis School,605
 Puerto Rico,Jake Taubman,8,Dorado,Tasis School,606
-Puerto Rico,Rania Marrero Al-Attar,8,San,Juan Saint Johns School,607
+Puerto Rico,Rania Marrero Al-Attar,8,San Juan,Saint Johns School,607
 Puerto Rico,Sergey Sachko,8,Caguas,Cimatec School,608
 Rhode Island,Ruoyu Gao,8,Barrington,Barrington Middle School,609
 Rhode Island,Siddharth Gupta,7,Barrington,Barrington Middle School,610
@@ -178,7 +178,7 @@ South Dakota,Ernest Ting,8,Brookings,George S Mickelson Middle School,617
 South Dakota,Joseph Michna,7,Brookings,George S Mickelson Middle School,618
 South Dakota,Vedant Sharan,7,Brookings,George S Mickelson Middle School,619
 South Dakota,Caleb Mayrose,8,Vermillion,Vermillion Middle School,620
-State Department,Sebastian Chase,7,Hong,Kong Hong Kong International School,621
+State Department,Sebastian Chase,7,Hong Kong,Hong Kong International School,621
 State Department,Josh Shin,8,Singapore,Singapore American School,622
 State Department,Daniel Lu,8,Singapore,Singapore American School,290
 State Department,Lexing Huang,8,China,International School,623
@@ -192,19 +192,19 @@ Texas,Aiden Wen,7,Austin,Noel Grisham Middle School,432
 Texas,Guanjie Lu,6,Dallas,St. Mark's School,404
 Utah,Liam Reddy,6,Sandy,Waterford School,4
 Utah,Kiran Reddy,8,Sandy,Waterford School,76
-Utah,Mingchuan Cheng,8,Salt,Lake City West High School,628
-Utah,David Zhang,8,Salt,Lake City West High School,482
-Vermont,Yuyang Zhang,8,South,Burlington F H Tuttle Middle School,629
+Utah,Mingchuan Cheng,8,Salt Lake City,West High School,628
+Utah,David Zhang,8,Salt,Lake City,West High School,482
+Vermont,Yuyang Zhang,8,South Burlington,F H Tuttle Middle School,629
 Vermont,Jacob Graham,8,Bristol,Mount Abraham Union Middle School,630
-Vermont,Emma Xia,8,South,Burlington F H Tuttle Middle School,631
+Vermont,Emma Xia,8,South Burlington,F H Tuttle Middle School,631
 Vermont,Cameron Stultz,8,Essex,Junction Albert D Lawton Intermediate School,632
-Virgin Islands,Tanmay Totwani,7,Saint,Thomas Antilles School,633
-Virgin Islands,Eli Blondeau,7,Saint,Thomas Antilles School,634
-Virgin Islands,Meher Makhijani,6,Saint,Thomas Antilles School,635
+Virgin Islands,Tanmay Totwani,7,Saint Thomas,Antilles School,633
+Virgin Islands,Eli Blondeau,7,Saint Thomas,Antilles School,634
+Virgin Islands,Meher Makhijani,6,Saint Thomas,Antilles School,635
 Virginia,Ruilin Wang,7,Fairfax,Frost Middle School,10
 Virginia,Marina Lin,8,Falls,Church Longfellow Middle School,636
 Virginia,Alexander Gu,8,Fairfax,Frost Middle School,305
-Virginia,Angeline Zhao,8,Falls,Church Longfellow Middle School,637
+Virginia,Angeline Zhao,8,Falls Church, Longfellow Middle School,637
 Washington,Owen Zhang,8,Bellevue,Odle Middle School,638
 Washington,Alon Ragoler,8,Redmond,Evergreen Middle School,639
 Washington,Bohan Yao,8,Redmond,Timberline Middle School,640
@@ -215,7 +215,7 @@ West Virginia,Sanketh Guppi,7,Morgantown,Suncrest Middle School,644
 West Virginia,Caden Yao,6,Morgantown,Suncrest Middle School,645
 Wisconsin,Kartik Ramachandrula,8,Brookfield,Wisconsin Hills Middle School,646
 Wisconsin,Joshua Wang,8,Brookfield,Wisconsin Hills Middle School,647
-Wisconsin,Jeremy Li,8,De,Pere De Pere Middle School,648
+Wisconsin,Jeremy Li,8,De Pere,De Pere Middle School,648
 Wisconsin,Harry Jin,8,Middleton,Kromrey Middle School,649
 Wyoming,Jonathan Oler,8,Laramie,Laramie Middle School,650
 Wyoming,Paul J Baxter,8,Evanston,Evanston Middle School,651

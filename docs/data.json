@@ -232,8 +232,8 @@
           "state": "New Jersey",
           "student_name": "Alexander Wang",
           "grade": "8",
-          "city": "Millburn Millburn",
-          "school": "Middle School"
+          "city": "Millburn",
+          "school": "Millburn Middle School"
         },
         {
           "contest": "HMMT Feb",
@@ -666,8 +666,8 @@
           "state": "Utah",
           "student_name": "Liam Reddy",
           "grade": "7",
-          "city": "Sandy Waterford",
-          "school": "School"
+          "city": "Sandy",
+          "school": "Waterford School"
         },
         {
           "contest": "Mathcounts National",
@@ -1100,8 +1100,8 @@
           "state": "California",
           "student_name": "Jonathan Du",
           "grade": "8",
-          "city": "Los Altos Bullis Charter",
-          "school": "School"
+          "city": "Los Altos",
+          "school": "Bullis Charter School"
         }
       ]
     },
@@ -1342,8 +1342,8 @@
           "state": "Illinois",
           "student_name": "Dou Lai",
           "grade": "7",
-          "city": "Chicago Whitney Young Academic Center",
-          "school": "School"
+          "city": "Chicago",
+          "school": "Whitney Young Academic Center School"
         }
       ]
     },
@@ -1480,8 +1480,8 @@
           "state": "North Carolina",
           "student_name": "Alan Cheng",
           "grade": "8",
-          "city": "Cary Mills Park",
-          "school": "Middle School"
+          "city": "Cary",
+          "school": "Mills Park Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -2388,8 +2388,8 @@
           "state": "California",
           "student_name": "Rohan Garg",
           "grade": "8",
-          "city": "Pleasanton Harvest Park",
-          "school": "Middle School"
+          "city": "Pleasanton",
+          "school": "Harvest Park Middle School"
         }
       ]
     },
@@ -2884,8 +2884,8 @@
           "state": "Texas",
           "student_name": "Roger Zhen",
           "grade": "6",
-          "city": "Friendswood Westbrook Intermediate",
-          "school": "School"
+          "city": "Friendswood",
+          "school": "Westbrook Intermediate School"
         }
       ]
     },
@@ -3043,8 +3043,8 @@
           "state": "Ohio",
           "student_name": "Jiahe Liu",
           "grade": "8",
-          "city": "Beachwood Beachwood",
-          "school": "Middle School"
+          "city": "Beachwood",
+          "school": "Beachwood Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -3212,8 +3212,8 @@
           "state": "Massachusetts",
           "student_name": "William Hua",
           "grade": "8",
-          "city": "Lexington Jonas Clarke",
-          "school": "Middle School"
+          "city": "Lexington",
+          "school": "Jonas Clarke Middle School"
         }
       ]
     },
@@ -3928,8 +3928,8 @@
           "state": "Florida",
           "student_name": "Aaryan Vaishya",
           "grade": "8",
-          "city": "Tampa Williams",
-          "school": "Middle Magnet School"
+          "city": "Tampa",
+          "school": "Williams Middle Magnet School"
         }
       ]
     },
@@ -4115,8 +4115,8 @@
           "state": "Georgia",
           "student_name": "Varun Gadi",
           "grade": "7",
-          "city": "Alpharetta Fulton Science",
-          "school": "Academy"
+          "city": "Alpharetta",
+          "school": "Fulton Science Academy"
         },
         {
           "contest": "Mathcounts National",
@@ -4970,8 +4970,8 @@
           "state": "New Jersey",
           "student_name": "Evan Fan",
           "grade": "8",
-          "city": "Basking Ridge William Annin",
-          "school": "Middle School"
+          "city": "Basking Ridge",
+          "school": "William Annin Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -5129,8 +5129,8 @@
           "state": "Massachusetts",
           "student_name": "Selena Ge",
           "grade": "6",
-          "city": "Westford Blanchard",
-          "school": "Middle School"
+          "city": "Westford",
+          "school": "Blanchard Middle School"
         }
       ]
     },
@@ -5182,8 +5182,8 @@
           "state": "Texas",
           "student_name": "Andrew Shen",
           "grade": "7",
-          "city": "Sugar Land Sartartia",
-          "school": "Middle School"
+          "city": "Sugar Land",
+          "school": "Sartartia Middle School"
         }
       ]
     },
@@ -5413,8 +5413,8 @@
           "state": "Florida",
           "student_name": "Kevin Liu",
           "grade": "8",
-          "city": "Parkland Westglades",
-          "school": "Middle School"
+          "city": "Parkland",
+          "school": "Westglades Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -5423,8 +5423,8 @@
           "state": "Pennsylvania",
           "student_name": "Kevin Liu",
           "grade": "8",
-          "city": "State College Mount Nittany",
-          "school": "Middle School"
+          "city": "State College",
+          "school": "Mount Nittany Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -5556,8 +5556,8 @@
           "state": "New York",
           "student_name": "Andrew Carratu",
           "grade": "8",
-          "city": "Little",
-          "school": "Neck Louis Pasteur Middle School"
+          "city": "Little Neck",
+          "school": "Louis Pasteur Middle School"
         }
       ]
     },
@@ -5841,8 +5841,8 @@
           "state": "Texas",
           "student_name": "Lerchen Zhong",
           "grade": "8",
-          "city": "Austin Canyon Vista",
-          "school": "Middle School"
+          "city": "Austin",
+          "school": "Canyon Vista Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -5960,8 +5960,8 @@
           "state": "California",
           "student_name": "Angela Liu",
           "grade": "8",
-          "city": "San",
-          "school": "Jose The Harker School"
+          "city": "San Jose",
+          "school": "The Harker School"
         }
       ]
     },
@@ -6040,8 +6040,8 @@
           "state": "Iowa",
           "student_name": "Edward Li",
           "grade": "8",
-          "city": "Coralville Northwest Junior",
-          "school": "High School"
+          "city": "Coralville",
+          "school": "Northwest Junior High School"
         },
         {
           "contest": "Mathcounts National",
@@ -6241,8 +6241,8 @@
           "state": "Connecticut",
           "student_name": "Vikram Sarkar",
           "grade": "8",
-          "city": "Westport Coleytown",
-          "school": "Middle School"
+          "city": "Westport",
+          "school": "Coleytown Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -6838,8 +6838,8 @@
           "state": "Alabama",
           "student_name": "Eric Wang",
           "grade": "8",
-          "city": "Vestavia Hills Louis Pizitz",
-          "school": "Middle School"
+          "city": "Vestavia Hills",
+          "school": "Louis Pizitz Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -6848,8 +6848,8 @@
           "state": "Colorado",
           "student_name": "Eric Wang",
           "grade": "8",
-          "city": "Fort",
-          "school": "Collins Kinard Core Knowledge Middle School"
+          "city": "Fort Collins",
+          "school": "Kinard Core Knowledge Middle School"
         }
       ]
     },
@@ -7402,8 +7402,8 @@
           "state": "Illinois",
           "student_name": "Jonathan He",
           "grade": "8",
-          "city": "Lincolnshire Daniel Wright Junior",
-          "school": "High School"
+          "city": "Lincolnshire",
+          "school": "Daniel Wright Junior High School"
         }
       ]
     },
@@ -7438,8 +7438,8 @@
           "state": "California",
           "student_name": "Feodor Yevtushenko",
           "grade": "8",
-          "city": "Irvine Rancho San Joaquin",
-          "school": "Middle School"
+          "city": "Irvine",
+          "school": "Rancho San Joaquin Middle School"
         }
       ]
     },
@@ -9723,8 +9723,8 @@
           "state": "Louisiana",
           "student_name": "Kevin Zhao",
           "grade": "8",
-          "city": "Shreveport Caddo Parish",
-          "school": "Middle Magnet School"
+          "city": "Shreveport",
+          "school": "Caddo Parish Middle Magnet School"
         },
         {
           "contest": "HMMT Feb",
@@ -10180,8 +10180,8 @@
           "state": "Washington",
           "student_name": "Mingyue Yang",
           "grade": "8",
-          "city": "Bellevue Tyee",
-          "school": "Middle School"
+          "city": "Bellevue",
+          "school": "Tyee Middle School"
         }
       ]
     },
@@ -10718,8 +10718,8 @@
           "state": "Kentucky",
           "student_name": "Michael Chen",
           "grade": "7",
-          "city": "Louisville Meyzeek",
-          "school": "Middle School"
+          "city": "Louisville",
+          "school": "Meyzeek Middle School"
         }
       ]
     },
@@ -11496,8 +11496,8 @@
           "state": "West Virginia",
           "student_name": "Ryan Karim",
           "grade": "7",
-          "city": "Morgantown Suncrest",
-          "school": "Middle School"
+          "city": "Morgantown",
+          "school": "Suncrest Middle School"
         }
       ]
     },
@@ -11857,8 +11857,8 @@
           "state": "Massachusetts",
           "student_name": "Adam Ge",
           "grade": "7",
-          "city": "Westford Blanchard",
-          "school": "Middle School"
+          "city": "Westford",
+          "school": "Blanchard Middle School"
         }
       ]
     },
@@ -12119,8 +12119,8 @@
           "state": "Utah",
           "student_name": "Juntian Deng",
           "grade": "8",
-          "city": "Salt Lake City Challenger",
-          "school": "School-SLC"
+          "city": "Salt Lake City",
+          "school": "Challenger School-SLC"
         }
       ]
     },
@@ -12193,8 +12193,8 @@
           "state": "District of Columbia",
           "student_name": "Arnav Iyengar",
           "grade": "7",
-          "city": "Washington, DC Hardy",
-          "school": "Middle School"
+          "city": "Washington, DC",
+          "school": "Hardy Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -12203,8 +12203,8 @@
           "state": "District of Columbia",
           "student_name": "Arnav Iyengar",
           "grade": "6",
-          "city": "Washington,",
-          "school": "DC Hardy Middle School"
+          "city": "Washington, DC",
+          "school": "Hardy Middle School"
         }
       ]
     },
@@ -12353,8 +12353,8 @@
           "state": "New York",
           "student_name": "Kylan Huang",
           "grade": "8",
-          "city": "New York Avenues: The World",
-          "school": "School"
+          "city": "New York",
+          "school": "Avenues: The World School"
         }
       ]
     },
@@ -12503,8 +12503,8 @@
           "state": "New Jersey",
           "student_name": "Maitian Sha",
           "grade": "8",
-          "city": "West Windsor Thomas Grover",
-          "school": "Middle School"
+          "city": "West Windsor",
+          "school": "Thomas Grover Middle School"
         }
       ]
     },
@@ -12749,8 +12749,8 @@
           "state": "Oregon",
           "student_name": "Anshul Mantri",
           "grade": "7",
-          "city": "Portland Tumwater",
-          "school": "Middle School"
+          "city": "Portland",
+          "school": "Tumwater Middle School"
         }
       ]
     },
@@ -13101,8 +13101,8 @@
           "state": "Iowa",
           "student_name": "Catherine Xu",
           "grade": "8",
-          "city": "Coralville Northwest Junior",
-          "school": "High School"
+          "city": "Coralville",
+          "school": "Northwest Junior High School"
         },
         {
           "contest": "Mathcounts National",
@@ -13290,8 +13290,8 @@
           "state": "Virginia",
           "student_name": "Sophia Hou",
           "grade": "8",
-          "city": "Falls Church Longfellow",
-          "school": "Middle School"
+          "city": "Falls Church",
+          "school": "Longfellow Middle School"
         }
       ]
     },
@@ -13334,8 +13334,8 @@
           "state": "Pennsylvania",
           "student_name": "Aaron Le",
           "grade": "8",
-          "city": "State College Mount Nittany",
-          "school": "Middle School"
+          "city": "State College",
+          "school": "Mount Nittany Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -13344,8 +13344,8 @@
           "state": "Pennsylvania",
           "student_name": "Aaron Le",
           "grade": "7",
-          "city": "State",
-          "school": "College Park Forest Middle School"
+          "city": "State College Park",
+          "school": "Forest Middle School"
         }
       ]
     },
@@ -14263,8 +14263,8 @@
           "state": "New York",
           "student_name": "Steven Lou",
           "grade": "8",
-          "city": "New",
-          "school": "York Nest+M School"
+          "city": "New York",
+          "school": "Nest+M School"
         }
       ]
     },
@@ -14667,8 +14667,8 @@
           "state": "Maryland",
           "student_name": "Jeremy Yang",
           "grade": "7",
-          "city": "Ellicott City Burleigh Manor",
-          "school": "Middle School"
+          "city": "Ellicott City",
+          "school": "Burleigh Manor Middle School"
         }
       ]
     },
@@ -14828,8 +14828,8 @@
           "state": "Washington",
           "student_name": "Amy Cui",
           "grade": "8",
-          "city": "Seattle Lakeside",
-          "school": "Middle School"
+          "city": "Seattle",
+          "school": "Lakeside Middle School"
         }
       ]
     },
@@ -15301,8 +15301,8 @@
           "state": "Minnesota",
           "student_name": "Eric Ding",
           "grade": "6",
-          "city": "Rochester Kellogg",
-          "school": "Middle School"
+          "city": "Rochester",
+          "school": "Kellogg Middle School"
         }
       ]
     },
@@ -15485,8 +15485,8 @@
           "state": "New Jersey",
           "student_name": "Rithik Gumpu",
           "grade": "8",
-          "city": "Plainsboro Community",
-          "school": "Middle School"
+          "city": "Plainsboro",
+          "school": "Community Middle School"
         }
       ]
     },
@@ -15623,8 +15623,8 @@
           "state": "Illinois",
           "student_name": "Victor Chen",
           "grade": "8",
-          "city": "Chicago University of Chicago Laboratory",
-          "school": "School"
+          "city": "Chicago",
+          "school": "University of Chicago Laboratory School"
         },
         {
           "contest": "Mathcounts National",
@@ -15658,8 +15658,8 @@
           "state": "Georgia",
           "student_name": "Akshaj Arora",
           "grade": "6",
-          "city": "Johns Creek River Trail",
-          "school": "Middle School"
+          "city": "Johns Creek",
+          "school": "River Trail Middle School"
         }
       ]
     },
@@ -15826,8 +15826,8 @@
           "state": "Maryland",
           "student_name": "Albert Lu",
           "grade": "8",
-          "city": "Silver Spring Takoma Park",
-          "school": "Middle School"
+          "city": "Silver Spring",
+          "school": "Takoma Park Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -16021,8 +16021,8 @@
           "state": "Tennessee",
           "student_name": "Justin Guo",
           "grade": "7",
-          "city": "Nashville Montgomery Bell",
-          "school": "Academy"
+          "city": "Nashville",
+          "school": "Montgomery Bell Academy"
         }
       ]
     },
@@ -17217,8 +17217,8 @@
           "state": "Alabama",
           "student_name": "Allan Yuan",
           "grade": "8",
-          "city": "Hoover Simmons",
-          "school": "Middle School"
+          "city": "Hoover",
+          "school": "Simmons Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -17458,8 +17458,8 @@
           "state": "Arkansas",
           "student_name": "Aakash Bhattacharyya",
           "grade": "8",
-          "city": "Little Rock LISA",
-          "school": "Academy West Middle School"
+          "city": "Little Rock",
+          "school": "LISA Academy West Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -17502,8 +17502,8 @@
           "state": "Arkansas",
           "student_name": "Eric Tang",
           "grade": "7",
-          "city": "Little",
-          "school": "Rock Pinnacle View Middle School"
+          "city": "Little Rock",
+          "school": "Pinnacle View Middle School"
         }
       ]
     },
@@ -17519,18 +17519,8 @@
           "state": "California",
           "student_name": "David Zhang",
           "grade": "8",
-          "city": "San",
-          "school": "Ramon Windemere Ranch Middle School"
-        },
-        {
-          "contest": "Mathcounts National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Utah",
-          "student_name": "David Zhang",
-          "grade": "8",
-          "city": "Salt",
-          "school": "Lake City West High School"
+          "city": "San Ramon",
+          "school": "Windemere Ranch Middle School"
         }
       ]
     },
@@ -17580,8 +17570,8 @@
           "state": "Colorado",
           "student_name": "Joshua Liu",
           "grade": "7",
-          "city": "Denver Challenge",
-          "school": "School"
+          "city": "Denver",
+          "school": "Challenge School"
         },
         {
           "contest": "Mathcounts National",
@@ -17624,8 +17614,8 @@
           "state": "Connecticut",
           "student_name": "Kyle Zhang",
           "grade": "8",
-          "city": "New",
-          "school": "Haven Hopkins School"
+          "city": "New Haven",
+          "school": "Hopkins School"
         }
       ]
     },
@@ -17641,8 +17631,8 @@
           "state": "Connecticut",
           "student_name": "Leon Jiang",
           "grade": "8",
-          "city": "Hamden Hamden Hall Country Day",
-          "school": "School"
+          "city": "Hamden",
+          "school": "Hamden Hall Country Day School"
         },
         {
           "contest": "Mathcounts National",
@@ -17821,8 +17811,8 @@
           "state": "District of Columbia",
           "student_name": "Alex Acosta",
           "grade": "8",
-          "city": "Washington,",
-          "school": "DC St Albans School"
+          "city": "Washington, DC",
+          "school": "St Albans School"
         }
       ]
     },
@@ -17838,8 +17828,8 @@
           "state": "District of Columbia",
           "student_name": "Lucas Qi",
           "grade": "8",
-          "city": "Washington, DC Georgetown Day",
-          "school": "School"
+          "city": "Washington, DC",
+          "school": "Georgetown Day School"
         },
         {
           "contest": "Mathcounts National",
@@ -17848,8 +17838,8 @@
           "state": "District of Columbia",
           "student_name": "Lucas Qi",
           "grade": "7",
-          "city": "Washington,",
-          "school": "DC Georgetown Day School"
+          "city": "Washington, DC",
+          "school": "Georgetown Day School"
         }
       ]
     },
@@ -17865,8 +17855,8 @@
           "state": "District of Columbia",
           "student_name": "Andrew Liu",
           "grade": "8",
-          "city": "Washington,",
-          "school": "DC St Albans School"
+          "city": "Washington, DC",
+          "school": "St Albans School"
         }
       ]
     },
@@ -17933,8 +17923,8 @@
           "state": "Georgia",
           "student_name": "Samanyu Ganesh",
           "grade": "8",
-          "city": "Atlanta Westminster",
-          "school": "Middle School"
+          "city": "Atlanta",
+          "school": "Westminster Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -17994,8 +17984,8 @@
           "state": "Guam",
           "student_name": "Zunaid Jafar",
           "grade": "8",
-          "city": "Barrigada Harvest Christian",
-          "school": "Academy"
+          "city": "Barrigada",
+          "school": "Harvest Christian Academy"
         },
         {
           "contest": "Mathcounts National",
@@ -18021,8 +18011,8 @@
           "state": "Guam",
           "student_name": "Brian Hwang",
           "grade": "7",
-          "city": "Upper",
-          "school": "Tumon St. John's School"
+          "city": "Upper Tumon",
+          "school": "St. John's School"
         }
       ]
     },
@@ -18038,8 +18028,8 @@
           "state": "Guam",
           "student_name": "Dylan Chong",
           "grade": "8",
-          "city": "Upper",
-          "school": "Tumon St. John's School"
+          "city": "Upper Tumon",
+          "school": "St. John's School"
         }
       ]
     },
@@ -18157,8 +18147,8 @@
           "state": "Idaho",
           "student_name": "Bryan Li",
           "grade": "8",
-          "city": "Boise East Junior",
-          "school": "High School"
+          "city": "Boise",
+          "school": "East Junior High School"
         },
         {
           "contest": "Mathcounts National",
@@ -18201,8 +18191,8 @@
           "state": "Illinois",
           "student_name": "Nate Maydanchik",
           "grade": "8",
-          "city": "Oak",
-          "school": "Brook Butler Junior High School"
+          "city": "Oak Brook",
+          "school": "Butler Junior High School"
         }
       ]
     },
@@ -18269,8 +18259,8 @@
           "state": "Indiana",
           "student_name": "Edward Chen",
           "grade": "7",
-          "city": "Carmel Carmel",
-          "school": "Middle School"
+          "city": "Carmel",
+          "school": "Carmel Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -18296,8 +18286,8 @@
           "state": "Indiana",
           "student_name": "Jennifer Hu",
           "grade": "8",
-          "city": "Indianapolis Sycamore",
-          "school": "School"
+          "city": "Indianapolis",
+          "school": "Sycamore School"
         },
         {
           "contest": "Mathcounts National",
@@ -18308,23 +18298,6 @@
           "grade": "7",
           "city": "Carmel",
           "school": "Clay Middle School"
-        }
-      ]
-    },
-    {
-      "id": 524,
-      "name": "Om Patel",
-      "aliases": [],
-      "records": [
-        {
-          "contest": "Mathcounts National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Indiana",
-          "student_name": "Om Patel",
-          "grade": "8",
-          "city": "West",
-          "school": "Lafayette Battle Ground Middle School"
         }
       ]
     },
@@ -18561,8 +18534,8 @@
           "state": "Louisiana",
           "student_name": "Ishan Kunada",
           "grade": "8",
-          "city": "Lafayette Paul Breaux",
-          "school": "Middle School"
+          "city": "Lafayette",
+          "school": "Paul Breaux Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -18588,8 +18561,8 @@
           "state": "Maine",
           "student_name": "Alex Ren",
           "grade": "7",
-          "city": "Bar Harbor Ren",
-          "school": "Homeschool"
+          "city": "Bar Harbor",
+          "school": "Ren Homeschool"
         },
         {
           "contest": "Mathcounts National",
@@ -18802,8 +18775,8 @@
           "state": "Minnesota",
           "student_name": "Sneha Kundu",
           "grade": "8",
-          "city": "Plymouth Wayzata Central",
-          "school": "Middle School"
+          "city": "Plymouth",
+          "school": "Wayzata Central Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -18829,8 +18802,8 @@
           "state": "Minnesota",
           "student_name": "Kevin Qiu",
           "grade": "8",
-          "city": "Plymouth Wayzata Central",
-          "school": "Middle School"
+          "city": "Plymouth",
+          "school": "Wayzata Central Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -18890,8 +18863,8 @@
           "state": "Mississippi",
           "student_name": "Grant Zhang",
           "grade": "8",
-          "city": "Oxford Oxford",
-          "school": "Middle School"
+          "city": "Oxford",
+          "school": "Oxford Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -18951,8 +18924,8 @@
           "state": "Missouri",
           "student_name": "Aaron Lin",
           "grade": "8",
-          "city": "Saint Louis Ladue",
-          "school": "Middle School"
+          "city": "Saint Louis",
+          "school": "Ladue Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -18995,8 +18968,8 @@
           "state": "Maryland",
           "student_name": "Alex Wang",
           "grade": "8",
-          "city": "Germantown Roberto Clemente",
-          "school": "Middle School"
+          "city": "Germantown",
+          "school": "Roberto Clemente Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -19005,8 +18978,8 @@
           "state": "Missouri",
           "student_name": "Alex Wang",
           "grade": "8",
-          "city": "Saint Louis Ladue",
-          "school": "Middle School"
+          "city": "Saint Louis",
+          "school": "Ladue Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -19032,8 +19005,8 @@
           "state": "Missouri",
           "student_name": "Anthony Zhao",
           "grade": "8",
-          "city": "Saint Louis Ladue",
-          "school": "Middle School"
+          "city": "Saint Louis",
+          "school": "Ladue Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -19127,8 +19100,8 @@
           "state": "Nebraska",
           "student_name": "Viet Lai",
           "grade": "7",
-          "city": "Lincoln Hazel G. Scott",
-          "school": "Middle School"
+          "city": "Lincoln",
+          "school": "Hazel G. Scott Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -19273,8 +19246,8 @@
           "state": "New Hampshire",
           "student_name": "Vaibhav Rastogi",
           "grade": "8",
-          "city": "Concord Rastogi Home",
-          "school": "School"
+          "city": "Concord",
+          "school": "Rastogi Home School"
         },
         {
           "contest": "Mathcounts National",
@@ -19378,8 +19351,8 @@
           "state": "New Mexico",
           "student_name": "Hiro Jau",
           "grade": "8",
-          "city": "Albuquerque Desert Ridge",
-          "school": "Middle School"
+          "city": "Albuquerque",
+          "school": "Desert Ridge Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -19439,8 +19412,8 @@
           "state": "New York",
           "student_name": "Shirley Xiong",
           "grade": "8",
-          "city": "Stony",
-          "school": "Brook Robert Cushman Murphy Junior High School"
+          "city": "Stony Brook",
+          "school": "Robert Cushman Murphy Junior High School"
         }
       ]
     },
@@ -19456,8 +19429,8 @@
           "state": "New York",
           "student_name": "Rohan Sastry",
           "grade": "8",
-          "city": "New",
-          "school": "York The Speyer Legacy School"
+          "city": "New York",
+          "school": "The Speyer Legacy School"
         }
       ]
     },
@@ -19507,8 +19480,8 @@
           "state": "North Carolina",
           "student_name": "Mu Jett",
           "grade": "8",
-          "city": "Chapel",
-          "school": "Hill Smith Middle School"
+          "city": "Chapel Hill",
+          "school": "Smith Middle School"
         }
       ]
     },
@@ -19643,8 +19616,8 @@
           "state": "Ohio",
           "student_name": "Reese Zong",
           "grade": "8",
-          "city": "Plain City Eversole Run",
-          "school": "Middle School"
+          "city": "Plain City",
+          "school": "Eversole Run Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -19670,8 +19643,8 @@
           "state": "Oklahoma",
           "student_name": "Aiden Kim",
           "grade": "8",
-          "city": "Stillwater Stillwater Junior",
-          "school": "High School"
+          "city": "Stillwater",
+          "school": "Stillwater Junior High School"
         },
         {
           "contest": "Mathcounts National",
@@ -19799,8 +19772,8 @@
           "state": "Oregon",
           "student_name": "Yaseen Arifin",
           "grade": "8",
-          "city": "Beaverton Meadow Park",
-          "school": "Middle School"
+          "city": "Beaverton",
+          "school": "Meadow Park Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -19826,18 +19799,8 @@
           "state": "Pennsylvania",
           "student_name": "Aidan Le",
           "grade": "8",
-          "city": "State College Mount Nittany",
-          "school": "Middle School"
-        },
-        {
-          "contest": "Mathcounts National",
-          "year": "2021",
-          "contest_slug": "mathcounts-national",
-          "state": "Pennsylvania",
-          "student_name": "Aidan Le",
-          "grade": "7",
-          "city": "State",
-          "school": "College Park Forest Middle School"
+          "city": "State College",
+          "school": "Mount Nittany Middle School"
         }
       ]
     },
@@ -19904,8 +19867,8 @@
           "state": "Puerto Rico",
           "student_name": "Rania Marrero Al-Attar",
           "grade": "8",
-          "city": "San",
-          "school": "Juan Saint Johns School"
+          "city": "San Juan",
+          "school": "Saint Johns School"
         }
       ]
     },
@@ -20006,8 +19969,8 @@
           "state": "South Carolina",
           "student_name": "Brandon Xu",
           "grade": "8",
-          "city": "Greenville Sterling",
-          "school": "School"
+          "city": "Greenville",
+          "school": "Sterling School"
         },
         {
           "contest": "Mathcounts National",
@@ -20033,8 +19996,8 @@
           "state": "South Carolina",
           "student_name": "Anthony Zou",
           "grade": "7",
-          "city": "Lexington Meadow Glen",
-          "school": "Middle School"
+          "city": "Lexington",
+          "school": "Meadow Glen Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -20111,8 +20074,8 @@
           "state": "South Dakota",
           "student_name": "Joseph Michna",
           "grade": "8",
-          "city": "Brookings George S. Mickelson",
-          "school": "Middle School"
+          "city": "Brookings",
+          "school": "George S. Mickelson Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -20138,8 +20101,8 @@
           "state": "South Dakota",
           "student_name": "Vedant Sharan",
           "grade": "8",
-          "city": "Brookings George S. Mickelson",
-          "school": "Middle School"
+          "city": "Brookings",
+          "school": "George S. Mickelson Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -20182,8 +20145,8 @@
           "state": "State Department",
           "student_name": "Sebastian Chase",
           "grade": "8",
-          "city": "Hong Kong Hong Kong International",
-          "school": "School"
+          "city": "Hong Kong",
+          "school": "Hong Kong International School"
         },
         {
           "contest": "Mathcounts National",
@@ -20192,8 +20155,8 @@
           "state": "State Department",
           "student_name": "Sebastian Chase",
           "grade": "7",
-          "city": "Hong",
-          "school": "Kong Hong Kong International School"
+          "city": "Hong Kong",
+          "school": "Hong Kong International School"
         }
       ]
     },
@@ -20243,8 +20206,8 @@
           "state": "Tennessee",
           "student_name": "Amy Yu",
           "grade": "8",
-          "city": "Memphis White Station",
-          "school": "Middle School"
+          "city": "Memphis",
+          "school": "White Station Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -20321,8 +20284,8 @@
           "state": "Utah",
           "student_name": "Mingchuan Cheng",
           "grade": "8",
-          "city": "Salt",
-          "school": "Lake City West High School"
+          "city": "Salt Lake City",
+          "school": "West High School"
         }
       ]
     },
@@ -20338,8 +20301,8 @@
           "state": "Vermont",
           "student_name": "Yuyang Zhang",
           "grade": "8",
-          "city": "South",
-          "school": "Burlington F H Tuttle Middle School"
+          "city": "South Burlington",
+          "school": "F H Tuttle Middle School"
         }
       ]
     },
@@ -20372,8 +20335,8 @@
           "state": "Vermont",
           "student_name": "Emma Xia",
           "grade": "8",
-          "city": "South",
-          "school": "Burlington F H Tuttle Middle School"
+          "city": "South Burlington",
+          "school": "F H Tuttle Middle School"
         }
       ]
     },
@@ -20406,8 +20369,8 @@
           "state": "Virgin Islands",
           "student_name": "Tanmay Totwani",
           "grade": "8",
-          "city": "Saint Thomas Antilles",
-          "school": "School"
+          "city": "Saint Thomas",
+          "school": "Antilles School"
         },
         {
           "contest": "Mathcounts National",
@@ -20416,8 +20379,8 @@
           "state": "Virgin Islands",
           "student_name": "Tanmay Totwani",
           "grade": "7",
-          "city": "Saint",
-          "school": "Thomas Antilles School"
+          "city": "Saint Thomas",
+          "school": "Antilles School"
         }
       ]
     },
@@ -20433,8 +20396,8 @@
           "state": "Virgin Islands",
           "student_name": "Eli Blondeau",
           "grade": "7",
-          "city": "Saint",
-          "school": "Thomas Antilles School"
+          "city": "Saint Thomas",
+          "school": "Antilles School"
         }
       ]
     },
@@ -20450,8 +20413,8 @@
           "state": "Virgin Islands",
           "student_name": "Meher Makhijani",
           "grade": "7",
-          "city": "Saint Thomas Antilles",
-          "school": "School"
+          "city": "Saint Thomas",
+          "school": "Antilles School"
         },
         {
           "contest": "Mathcounts National",
@@ -20460,8 +20423,8 @@
           "state": "Virgin Islands",
           "student_name": "Meher Makhijani",
           "grade": "6",
-          "city": "Saint",
-          "school": "Thomas Antilles School"
+          "city": "Saint Thomas",
+          "school": "Antilles School"
         }
       ]
     },
@@ -20494,8 +20457,8 @@
           "state": "Virginia",
           "student_name": "Angeline Zhao",
           "grade": "8",
-          "city": "Falls",
-          "school": "Church Longfellow Middle School"
+          "city": "Falls Church",
+          "school": "Longfellow Middle School"
         }
       ]
     },
@@ -20613,8 +20576,8 @@
           "state": "West Virginia",
           "student_name": "Sanketh Guppi",
           "grade": "8",
-          "city": "Morgantown Suncrest",
-          "school": "Middle School"
+          "city": "Morgantown",
+          "school": "Suncrest Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -20640,8 +20603,8 @@
           "state": "West Virginia",
           "student_name": "Caden Yao",
           "grade": "7",
-          "city": "Morgantown Suncrest",
-          "school": "Middle School"
+          "city": "Morgantown",
+          "school": "Suncrest Middle School"
         },
         {
           "contest": "Mathcounts National",
@@ -20701,8 +20664,8 @@
           "state": "Wisconsin",
           "student_name": "Jeremy Li",
           "grade": "8",
-          "city": "De",
-          "school": "Pere De Pere Middle School"
+          "city": "De Pere",
+          "school": "De Pere Middle School"
         }
       ]
     },
@@ -20803,8 +20766,8 @@
           "state": "Alabama",
           "student_name": "Albert Chen",
           "grade": "8",
-          "city": "Birmingham Alabama",
-          "school": "School of Fine Arts"
+          "city": "Birmingham",
+          "school": "Alabama School of Fine Arts"
         }
       ]
     },
@@ -20820,8 +20783,8 @@
           "state": "Alabama",
           "student_name": "Tina Gao",
           "grade": "8",
-          "city": "Vestavia Hills Louis Pizitz",
-          "school": "Middle School"
+          "city": "Vestavia Hills",
+          "school": "Louis Pizitz Middle School"
         }
       ]
     },
@@ -20837,8 +20800,8 @@
           "state": "Alaska",
           "student_name": "Xiling Tanner",
           "grade": "7",
-          "city": "Kenai Kenai",
-          "school": "Middle School"
+          "city": "Kenai",
+          "school": "Kenai Middle School"
         }
       ]
     },
@@ -20854,8 +20817,8 @@
           "state": "Alaska",
           "student_name": "Kevin Zhang",
           "grade": "6",
-          "city": "Anchorage Rogers Park",
-          "school": "Elementary School"
+          "city": "Anchorage",
+          "school": "Rogers Park Elementary School"
         }
       ]
     },
@@ -20871,8 +20834,8 @@
           "state": "Alaska",
           "student_name": "Brooke Peng",
           "grade": "6",
-          "city": "Anchorage Rogers Park",
-          "school": "Elementary School"
+          "city": "Anchorage",
+          "school": "Rogers Park Elementary School"
         }
       ]
     },
@@ -20888,8 +20851,8 @@
           "state": "Alaska",
           "student_name": "Alex Nemeth",
           "grade": "8",
-          "city": "Anchorage Romig",
-          "school": "Middle School"
+          "city": "Anchorage",
+          "school": "Romig Middle School"
         }
       ]
     },
@@ -20939,8 +20902,8 @@
           "state": "Arkansas",
           "student_name": "Sumedh Kalyankar",
           "grade": "8",
-          "city": "Fayetteville Woodland Junior",
-          "school": "High School"
+          "city": "Fayetteville",
+          "school": "Woodland Junior High School"
         }
       ]
     },
@@ -20956,8 +20919,8 @@
           "state": "Arkansas",
           "student_name": "Patrick Jiang",
           "grade": "8",
-          "city": "Fayetteville Woodland Junior",
-          "school": "High School"
+          "city": "Fayetteville",
+          "school": "Woodland Junior High School"
         }
       ]
     },
@@ -20973,8 +20936,8 @@
           "state": "Arkansas",
           "student_name": "Justin Wang",
           "grade": "7",
-          "city": "Fayetteville Woodland Junior",
-          "school": "High School"
+          "city": "Fayetteville",
+          "school": "Woodland Junior High School"
         }
       ]
     },
@@ -20990,8 +20953,8 @@
           "state": "California",
           "student_name": "Sohil Rathi",
           "grade": "8",
-          "city": "San Jose Joaquin Miller",
-          "school": "Middle School"
+          "city": "San Jose",
+          "school": "Joaquin Miller Middle School"
         }
       ]
     },
@@ -21007,8 +20970,8 @@
           "state": "Colorado",
           "student_name": "Shruti Arun",
           "grade": "8",
-          "city": "Greenwood Village Campus",
-          "school": "Middle School"
+          "city": "Greenwood Village",
+          "school": "Campus Middle School"
         }
       ]
     },
@@ -21024,8 +20987,8 @@
           "state": "Colorado",
           "student_name": "Alex Zhang",
           "grade": "7",
-          "city": "Golden Manning",
-          "school": "School"
+          "city": "Golden",
+          "school": "Manning School"
         }
       ]
     },
@@ -21041,8 +21004,8 @@
           "state": "Colorado",
           "student_name": "Naomi Huang",
           "grade": "8",
-          "city": "Greenwood Village Campus",
-          "school": "Middle School"
+          "city": "Greenwood Village",
+          "school": "Campus Middle School"
         }
       ]
     },
@@ -21058,8 +21021,8 @@
           "state": "Connecticut",
           "student_name": "Shaurya Ranjan",
           "grade": "8",
-          "city": "South Windsor Timothy Edwards",
-          "school": "Middle School"
+          "city": "South Windsor",
+          "school": "Timothy Edwards Middle School"
         }
       ]
     },
@@ -21075,8 +21038,8 @@
           "state": "Connecticut",
           "student_name": "Sohan Javeri",
           "grade": "6",
-          "city": "Greenwich Central",
-          "school": "Middle School"
+          "city": "Greenwich",
+          "school": "Central Middle School"
         }
       ]
     },
@@ -21092,8 +21055,8 @@
           "state": "Delaware",
           "student_name": "Kabir Goyal",
           "grade": "8",
-          "city": "Newark Independence",
-          "school": "School"
+          "city": "Newark",
+          "school": "Independence School"
         }
       ]
     },
@@ -21109,8 +21072,8 @@
           "state": "Delaware",
           "student_name": "Miles Zhang",
           "grade": "8",
-          "city": "Hockessin HB Dupont",
-          "school": "Middle School"
+          "city": "Hockessin",
+          "school": "HB Dupont Middle School"
         }
       ]
     },
@@ -21126,8 +21089,8 @@
           "state": "Delaware",
           "student_name": "Rajat Bhaskaran",
           "grade": "7",
-          "city": "Wilmington Ps Dupont",
-          "school": "Middle School"
+          "city": "Wilmington",
+          "school": "Ps Dupont Middle School"
         }
       ]
     },
@@ -21143,8 +21106,8 @@
           "state": "Delaware",
           "student_name": "Aditya Rustagi",
           "grade": "8",
-          "city": "Newark Independence",
-          "school": "School"
+          "city": "Newark",
+          "school": "Independence School"
         }
       ]
     },
@@ -21160,8 +21123,8 @@
           "state": "Department of Defense",
           "student_name": "Darren Zhuang",
           "grade": "8",
-          "city": "Germany Wiesbaden",
-          "school": "Middle School"
+          "city": "Germany",
+          "school": "Wiesbaden Middle School"
         }
       ]
     },
@@ -21177,8 +21140,8 @@
           "state": "Department of Defense",
           "student_name": "Lucas Burbank",
           "grade": "8",
-          "city": "Japan Yokosuka",
-          "school": "Middle School"
+          "city": "Japan",
+          "school": "Yokosuka Middle School"
         }
       ]
     },
@@ -21194,8 +21157,8 @@
           "state": "Department of Defense",
           "student_name": "Christopher Gammel",
           "grade": "8",
-          "city": "Japan Yokota",
-          "school": "Middle School"
+          "city": "Japan",
+          "school": "Yokota Middle School"
         }
       ]
     },
@@ -21211,8 +21174,8 @@
           "state": "Department of Defense",
           "student_name": "Trent Wilkerson",
           "grade": "8",
-          "city": "Germany Ramstein",
-          "school": "Middle School"
+          "city": "Germany",
+          "school": "Ramstein Middle School"
         }
       ]
     },
@@ -21228,8 +21191,8 @@
           "state": "District of Columbia",
           "student_name": "William Wu",
           "grade": "7",
-          "city": "Washington, DC St Albans",
-          "school": "School"
+          "city": "Washington, DC",
+          "school": "St Albans School"
         }
       ]
     },
@@ -21245,8 +21208,8 @@
           "state": "District of Columbia",
           "student_name": "Adnan Gunja",
           "grade": "8",
-          "city": "Washington, DC St. Patrick's Episcopal Day",
-          "school": "School"
+          "city": "Washington, DC",
+          "school": "St. Patrick's Episcopal Day School"
         }
       ]
     },
@@ -21262,8 +21225,8 @@
           "state": "Florida",
           "student_name": "Michael Wei",
           "grade": "8",
-          "city": "Gainesville Abraham Lincoln",
-          "school": "Middle School"
+          "city": "Gainesville",
+          "school": "Abraham Lincoln Middle School"
         }
       ]
     },
@@ -21279,8 +21242,8 @@
           "state": "Florida",
           "student_name": "Anish Patel",
           "grade": "8",
-          "city": "Gainesville Abraham Lincoln",
-          "school": "Middle School"
+          "city": "Gainesville",
+          "school": "Abraham Lincoln Middle School"
         }
       ]
     },
@@ -21296,8 +21259,8 @@
           "state": "Georgia",
           "student_name": "Siddarth Suresh",
           "grade": "8",
-          "city": "Alpharetta Fulton Science",
-          "school": "Academy"
+          "city": "Alpharetta",
+          "school": "Fulton Science Academy"
         }
       ]
     },
@@ -21313,8 +21276,8 @@
           "state": "Guam",
           "student_name": "Aiden Kang",
           "grade": "8",
-          "city": "Upper Tumon St. John's",
-          "school": "School"
+          "city": "Upper Tumon",
+          "school": "St. John's School"
         }
       ]
     },
@@ -21330,8 +21293,8 @@
           "state": "Guam",
           "student_name": "Allan Zeng",
           "grade": "8",
-          "city": "Upper Tumon St. John's",
-          "school": "School"
+          "city": "Upper Tumon",
+          "school": "St. John's School"
         }
       ]
     },
@@ -21347,8 +21310,8 @@
           "state": "Guam",
           "student_name": "Samuel Guo",
           "grade": "7",
-          "city": "Barrigada Harvest Christian",
-          "school": "Academy"
+          "city": "Barrigada",
+          "school": "Harvest Christian Academy"
         }
       ]
     },
@@ -21364,8 +21327,8 @@
           "state": "Hawaii",
           "student_name": "Sola Murakami",
           "grade": "7",
-          "city": "Honolulu Iolani",
-          "school": "School"
+          "city": "Honolulu",
+          "school": "Iolani School"
         }
       ]
     },
@@ -21381,8 +21344,8 @@
           "state": "Hawaii",
           "student_name": "Hong Kwak",
           "grade": "8",
-          "city": "Honolulu Washington",
-          "school": "Middle School"
+          "city": "Honolulu",
+          "school": "Washington Middle School"
         }
       ]
     },
@@ -21398,8 +21361,8 @@
           "state": "Hawaii",
           "student_name": "Daniel York",
           "grade": "7",
-          "city": "Honolulu Washington",
-          "school": "Middle School"
+          "city": "Honolulu",
+          "school": "Washington Middle School"
         }
       ]
     },
@@ -21415,8 +21378,8 @@
           "state": "Hawaii",
           "student_name": "Katsutoshi Yamamoto",
           "grade": "8",
-          "city": "Honolulu Washington",
-          "school": "Middle School"
+          "city": "Honolulu",
+          "school": "Washington Middle School"
         }
       ]
     },
@@ -21432,8 +21395,8 @@
           "state": "Idaho",
           "student_name": "Darren Su",
           "grade": "8",
-          "city": "Twin Falls O'Leary Junior",
-          "school": "High School"
+          "city": "Twin Falls",
+          "school": "O'Leary Junior High School"
         }
       ]
     },
@@ -21449,8 +21412,8 @@
           "state": "Idaho",
           "student_name": "Jonathan Rands",
           "grade": "8",
-          "city": "Twin Falls O'Leary Junior",
-          "school": "High School"
+          "city": "Twin Falls",
+          "school": "O'Leary Junior High School"
         }
       ]
     },
@@ -21466,8 +21429,8 @@
           "state": "Idaho",
           "student_name": "Isaac Kingma",
           "grade": "7",
-          "city": "Sandpoint Sandpoint",
-          "school": "Middle School"
+          "city": "Sandpoint",
+          "school": "Sandpoint Middle School"
         }
       ]
     },
@@ -21500,8 +21463,8 @@
           "state": "Indiana",
           "student_name": "Elaine Zeng",
           "grade": "8",
-          "city": "West Lafayette West Lafayette Junior/Senior",
-          "school": "High School"
+          "city": "West Lafayette",
+          "school": "West Lafayette Junior/Senior High School"
         }
       ]
     },
@@ -21517,8 +21480,8 @@
           "state": "Indiana",
           "student_name": "Kaitlyn Park",
           "grade": "8",
-          "city": "Indianapolis Sycamore",
-          "school": "School"
+          "city": "Indianapolis",
+          "school": "Sycamore School"
         }
       ]
     },
@@ -21534,8 +21497,8 @@
           "state": "Iowa",
           "student_name": "Prabhas Gupta",
           "grade": "6",
-          "city": "Iowa City Weber",
-          "school": "Elementary School"
+          "city": "Iowa City",
+          "school": "Weber Elementary School"
         }
       ]
     },
@@ -21551,8 +21514,8 @@
           "state": "Iowa",
           "student_name": "Chetas Aduri",
           "grade": "8",
-          "city": "Ames Ames",
-          "school": "Middle School"
+          "city": "Ames",
+          "school": "Ames Middle School"
         }
       ]
     },
@@ -21568,8 +21531,8 @@
           "state": "Kansas",
           "student_name": "Mahi Kohli",
           "grade": "7",
-          "city": "Olathe California Trail",
-          "school": "Middle School"
+          "city": "Olathe",
+          "school": "California Trail Middle School"
         }
       ]
     },
@@ -21585,8 +21548,8 @@
           "state": "Kansas",
           "student_name": "Eddison Chen",
           "grade": "6",
-          "city": "Overland Park Oxford",
-          "school": "Middle School"
+          "city": "Overland Park",
+          "school": "Oxford Middle School"
         }
       ]
     },
@@ -21602,8 +21565,8 @@
           "state": "Kansas",
           "student_name": "Solon Xia",
           "grade": "7",
-          "city": "Manhattan Susan B Anthony",
-          "school": "Middle School"
+          "city": "Manhattan",
+          "school": "Susan B Anthony Middle School"
         }
       ]
     },
@@ -21619,8 +21582,8 @@
           "state": "Kansas",
           "student_name": "Matt Wu",
           "grade": "8",
-          "city": "Overland Park Harmony",
-          "school": "Middle School"
+          "city": "Overland Park",
+          "school": "Harmony Middle School"
         }
       ]
     },
@@ -21636,8 +21599,8 @@
           "state": "Kentucky",
           "student_name": "Samuel Henderson",
           "grade": "6",
-          "city": "Henderson Davidson",
-          "school": "Academy Online - Henderson"
+          "city": "Henderson",
+          "school": "Davidson Academy Online - Henderson"
         }
       ]
     },
@@ -21653,8 +21616,8 @@
           "state": "Kentucky",
           "student_name": "Samuel Kingston",
           "grade": "7",
-          "city": "Louisville Meyzeek",
-          "school": "Middle School"
+          "city": "Louisville",
+          "school": "Meyzeek Middle School"
         }
       ]
     },
@@ -21670,8 +21633,8 @@
           "state": "Kentucky",
           "student_name": "Ethan Tang",
           "grade": "7",
-          "city": "Louisville Kentucky Country Day",
-          "school": "School"
+          "city": "Louisville",
+          "school": "Kentucky Country Day School"
         }
       ]
     },
@@ -21687,8 +21650,8 @@
           "state": "Louisiana",
           "student_name": "Anna Wang",
           "grade": "8",
-          "city": "Baton Rouge Glasgow",
-          "school": "Middle School"
+          "city": "Baton Rouge",
+          "school": "Glasgow Middle School"
         }
       ]
     },
@@ -21704,8 +21667,8 @@
           "state": "Louisiana",
           "student_name": "Cecily Lu",
           "grade": "8",
-          "city": "Baton Rouge Glasgow",
-          "school": "Middle School"
+          "city": "Baton Rouge",
+          "school": "Glasgow Middle School"
         }
       ]
     },
@@ -21721,8 +21684,8 @@
           "state": "Maine",
           "student_name": "Connor Lund",
           "grade": "8",
-          "city": "Falmouth Falmouth",
-          "school": "Middle School"
+          "city": "Falmouth",
+          "school": "Falmouth Middle School"
         }
       ]
     },
@@ -21738,8 +21701,8 @@
           "state": "Maine",
           "student_name": "Ryan Schultz",
           "grade": "8",
-          "city": "Topsham Mount Ararat",
-          "school": "Middle School"
+          "city": "Topsham",
+          "school": "Mount Ararat Middle School"
         }
       ]
     },
@@ -21755,8 +21718,8 @@
           "state": "Maine",
           "student_name": "Jacob Klein",
           "grade": "8",
-          "city": "Bangor William S. Cohen",
-          "school": "School"
+          "city": "Bangor",
+          "school": "William S. Cohen School"
         }
       ]
     },
@@ -21772,8 +21735,8 @@
           "state": "Maryland",
           "student_name": "Alyssa Yu",
           "grade": "8",
-          "city": "Germantown Roberto Clemente",
-          "school": "Middle School"
+          "city": "Germantown",
+          "school": "Roberto Clemente Middle School"
         }
       ]
     },
@@ -21789,8 +21752,8 @@
           "state": "Massachusetts",
           "student_name": "Raymond Gao",
           "grade": "8",
-          "city": "Acton RJ Grey Junior",
-          "school": "High School"
+          "city": "Acton",
+          "school": "RJ Grey Junior High School"
         }
       ]
     },
@@ -21806,8 +21769,8 @@
           "state": "Michigan",
           "student_name": "William Dong",
           "grade": "8",
-          "city": "Troy Boulan Park",
-          "school": "Middle School"
+          "city": "Troy",
+          "school": "Boulan Park Middle School"
         }
       ]
     },
@@ -21823,8 +21786,8 @@
           "state": "Michigan",
           "student_name": "Rishabh Mahale",
           "grade": "8",
-          "city": "Okemos Chippewa",
-          "school": "Middle School"
+          "city": "Okemos",
+          "school": "Chippewa Middle School"
         }
       ]
     },
@@ -21840,8 +21803,8 @@
           "state": "Michigan",
           "student_name": "Luke Furness",
           "grade": "8",
-          "city": "Ada Furness",
-          "school": "Homeschool"
+          "city": "Ada",
+          "school": "Furness Homeschool"
         }
       ]
     },
@@ -21857,8 +21820,8 @@
           "state": "Minnesota",
           "student_name": "Jingyi Ling",
           "grade": "8",
-          "city": "Hopkins The Blake",
-          "school": "School"
+          "city": "Hopkins",
+          "school": "The Blake School"
         }
       ]
     },
@@ -21874,8 +21837,8 @@
           "state": "Mississippi",
           "student_name": "Levi Mei",
           "grade": "6",
-          "city": "Madison Madison",
-          "school": "Middle School"
+          "city": "Madison",
+          "school": "Madison Middle School"
         }
       ]
     },
@@ -21891,8 +21854,8 @@
           "state": "Mississippi",
           "student_name": "John Rogers",
           "grade": "8",
-          "city": "Madison Madison",
-          "school": "Middle School"
+          "city": "Madison",
+          "school": "Madison Middle School"
         }
       ]
     },
@@ -21908,8 +21871,8 @@
           "state": "Mississippi",
           "student_name": "Ian Jung",
           "grade": "6",
-          "city": "Starkville Partnership",
-          "school": "Middle School"
+          "city": "Starkville",
+          "school": "Partnership Middle School"
         }
       ]
     },
@@ -21925,8 +21888,8 @@
           "state": "Missouri",
           "student_name": "Kyler Wang",
           "grade": "7",
-          "city": "Saint Louis Parkway West",
-          "school": "Middle School"
+          "city": "Saint Louis",
+          "school": "Parkway West Middle School"
         }
       ]
     },
@@ -21942,8 +21905,8 @@
           "state": "Montana",
           "student_name": "Isaac Lukacs",
           "grade": "7",
-          "city": "Missoula Washington",
-          "school": "Middle School"
+          "city": "Missoula",
+          "school": "Washington Middle School"
         }
       ]
     },
@@ -21976,8 +21939,8 @@
           "state": "Montana",
           "student_name": "Holden Hadidi",
           "grade": "6",
-          "city": "Whitefish Whitefish",
-          "school": "Middle School"
+          "city": "Whitefish",
+          "school": "Whitefish Middle School"
         }
       ]
     },
@@ -21993,8 +21956,8 @@
           "state": "Montana",
           "student_name": "Matthew Watson",
           "grade": "7",
-          "city": "Bozeman Headwaters",
-          "school": "Academy"
+          "city": "Bozeman",
+          "school": "Headwaters Academy"
         }
       ]
     },
@@ -22010,8 +21973,8 @@
           "state": "Nebraska",
           "student_name": "Evan Sun",
           "grade": "7",
-          "city": "Omaha Peter Kiewitt",
-          "school": "Middle School"
+          "city": "Omaha",
+          "school": "Peter Kiewitt Middle School"
         }
       ]
     },
@@ -22027,8 +21990,8 @@
           "state": "Nebraska",
           "student_name": "Jay Peng",
           "grade": "8",
-          "city": "Lincoln Moore",
-          "school": "Middle School"
+          "city": "Lincoln",
+          "school": "Moore Middle School"
         }
       ]
     },
@@ -22044,8 +22007,8 @@
           "state": "Nebraska",
           "student_name": "Jayanth Athipatla",
           "grade": "7",
-          "city": "Elkhorn Elkhorn Valley View",
-          "school": "Middle School"
+          "city": "Elkhorn",
+          "school": "Elkhorn Valley View Middle School"
         }
       ]
     },
@@ -22061,8 +22024,8 @@
           "state": "Nevada",
           "student_name": "Boya Zhang",
           "grade": "8",
-          "city": "Reno Davidson",
-          "school": "Academy"
+          "city": "Reno",
+          "school": "Davidson Academy"
         }
       ]
     },
@@ -22078,8 +22041,8 @@
           "state": "Nevada",
           "student_name": "Julian Kuang",
           "grade": "6",
-          "city": "Reno Davidson",
-          "school": "Academy"
+          "city": "Reno",
+          "school": "Davidson Academy"
         }
       ]
     },
@@ -22095,8 +22058,8 @@
           "state": "Nevada",
           "student_name": "Dev Saxena",
           "grade": "7",
-          "city": "Las Vegas Hyde Park",
-          "school": "Middle School"
+          "city": "Las Vegas",
+          "school": "Hyde Park Middle School"
         }
       ]
     },
@@ -22112,8 +22075,8 @@
           "state": "Nevada",
           "student_name": "Alexander Davi",
           "grade": "8",
-          "city": "Reno Davidson",
-          "school": "Academy"
+          "city": "Reno",
+          "school": "Davidson Academy"
         }
       ]
     },
@@ -22129,8 +22092,8 @@
           "state": "New Hampshire",
           "student_name": "Ryan Casey",
           "grade": "8",
-          "city": "Concord St. John Regional",
-          "school": "School"
+          "city": "Concord",
+          "school": "St. John Regional School"
         }
       ]
     },
@@ -22146,8 +22109,8 @@
           "state": "New Hampshire",
           "student_name": "Tiffany Sun",
           "grade": "8",
-          "city": "Nashua YM Sunshine",
-          "school": "Academy Homeschool"
+          "city": "Nashua",
+          "school": "YM Sunshine Academy Homeschool"
         }
       ]
     },
@@ -22163,8 +22126,8 @@
           "state": "New Mexico",
           "student_name": "Sean Choi",
           "grade": "8",
-          "city": "Albuquerque Desert Ridge",
-          "school": "Middle School"
+          "city": "Albuquerque",
+          "school": "Desert Ridge Middle School"
         }
       ]
     },
@@ -22180,8 +22143,8 @@
           "state": "New Mexico",
           "student_name": "Laszlo Zolyomi",
           "grade": "8",
-          "city": "Albuquerque Davidson",
-          "school": "Academy Online"
+          "city": "Albuquerque",
+          "school": "Davidson Academy Online"
         }
       ]
     },
@@ -22197,8 +22160,8 @@
           "state": "New Mexico",
           "student_name": "Euiryeon Kim",
           "grade": "7",
-          "city": "Albuquerque Desert Ridge",
-          "school": "Middle School"
+          "city": "Albuquerque",
+          "school": "Desert Ridge Middle School"
         }
       ]
     },
@@ -22214,8 +22177,8 @@
           "state": "New York",
           "student_name": "Yunmo Chen",
           "grade": "8",
-          "city": "New York Hunter College",
-          "school": "High School"
+          "city": "New York",
+          "school": "Hunter College High School"
         }
       ]
     },
@@ -22231,8 +22194,8 @@
           "state": "New York",
           "student_name": "Liran Zhou",
           "grade": "8",
-          "city": "Jericho Jericho",
-          "school": "Middle School"
+          "city": "Jericho",
+          "school": "Jericho Middle School"
         }
       ]
     },
@@ -22248,8 +22211,8 @@
           "state": "New York",
           "student_name": "Michael Iofin",
           "grade": "8",
-          "city": "New York Trinity",
-          "school": "School"
+          "city": "New York",
+          "school": "Trinity School"
         }
       ]
     },
@@ -22265,8 +22228,8 @@
           "state": "North Carolina",
           "student_name": "Raghav Arun",
           "grade": "7",
-          "city": "Charlotte Community House",
-          "school": "Middle School"
+          "city": "Charlotte",
+          "school": "Community House Middle School"
         }
       ]
     },
@@ -22282,8 +22245,8 @@
           "state": "North Carolina",
           "student_name": "Leo Yang",
           "grade": "8",
-          "city": "Chapel Hill Smith",
-          "school": "Middle School"
+          "city": "Chapel Hill",
+          "school": "Smith Middle School"
         }
       ]
     },
@@ -22299,8 +22262,8 @@
           "state": "North Carolina",
           "student_name": "Helen Chen",
           "grade": "7",
-          "city": "Cary Mills Park",
-          "school": "Middle School"
+          "city": "Cary",
+          "school": "Mills Park Middle School"
         }
       ]
     },
@@ -22316,8 +22279,8 @@
           "state": "North Dakota",
           "student_name": "Jason Ling",
           "grade": "8",
-          "city": "Grand Forks South",
-          "school": "Middle School"
+          "city": "Grand Forks",
+          "school": "South Middle School"
         }
       ]
     },
@@ -22333,8 +22296,8 @@
           "state": "North Dakota",
           "student_name": "Blake Homiston",
           "grade": "8",
-          "city": "Dickinson Dickinson",
-          "school": "Middle School"
+          "city": "Dickinson",
+          "school": "Dickinson Middle School"
         }
       ]
     },
@@ -22350,8 +22313,8 @@
           "state": "North Dakota",
           "student_name": "Braden Li",
           "grade": "8",
-          "city": "Fargo Discovery",
-          "school": "Middle School"
+          "city": "Fargo",
+          "school": "Discovery Middle School"
         }
       ]
     },
@@ -22367,8 +22330,8 @@
           "state": "North Dakota",
           "student_name": "Sunisha Tangpong",
           "grade": "8",
-          "city": "Fargo Sacred Heart",
-          "school": "Middle School"
+          "city": "Fargo",
+          "school": "Sacred Heart Middle School"
         }
       ]
     },
@@ -22384,8 +22347,8 @@
           "state": "Ohio",
           "student_name": "Devin Zhao",
           "grade": "8",
-          "city": "Lewis Center Olentangy Orange",
-          "school": "Middle School"
+          "city": "Lewis Center",
+          "school": "Olentangy Orange Middle School"
         }
       ]
     },
@@ -22401,8 +22364,8 @@
           "state": "Ohio",
           "student_name": "Suvam Konar",
           "grade": "8",
-          "city": "Worthington Worthingway",
-          "school": "Middle School"
+          "city": "Worthington",
+          "school": "Worthingway Middle School"
         }
       ]
     },
@@ -22418,8 +22381,8 @@
           "state": "Oklahoma",
           "student_name": "Melody Chen",
           "grade": "8",
-          "city": "Norman Whittier",
-          "school": "Middle School"
+          "city": "Norman",
+          "school": "Whittier Middle School"
         }
       ]
     },
@@ -22435,8 +22398,8 @@
           "state": "Oklahoma",
           "student_name": "Miranda Huang",
           "grade": "8",
-          "city": "Norman Whittier",
-          "school": "Middle School"
+          "city": "Norman",
+          "school": "Whittier Middle School"
         }
       ]
     },
@@ -22452,8 +22415,8 @@
           "state": "Oklahoma",
           "student_name": "Ethan Cai",
           "grade": "7",
-          "city": "Oklahoma City Heritage Hall",
-          "school": "School"
+          "city": "Oklahoma City",
+          "school": "Heritage Hall School"
         }
       ]
     },
@@ -22469,8 +22432,8 @@
           "state": "Oregon",
           "student_name": "Arjun Agarwal",
           "grade": "8",
-          "city": "Portland Stoller",
-          "school": "Middle School"
+          "city": "Portland",
+          "school": "Stoller Middle School"
         }
       ]
     },
@@ -22486,8 +22449,8 @@
           "state": "Oregon",
           "student_name": "Kai Yamishita",
           "grade": "8",
-          "city": "Corvallis Ashbrook Independent",
-          "school": "School"
+          "city": "Corvallis",
+          "school": "Ashbrook Independent School"
         }
       ]
     },
@@ -22503,8 +22466,8 @@
           "state": "Pennsylvania",
           "student_name": "William Liu",
           "grade": "8",
-          "city": "State College Mount Nittany",
-          "school": "Middle School"
+          "city": "State College",
+          "school": "Mount Nittany Middle School"
         }
       ]
     },
@@ -22520,8 +22483,8 @@
           "state": "Puerto Rico",
           "student_name": "Alvaro Villafuerte",
           "grade": "7",
-          "city": "San",
-          "school": "Juan Colegio San Ignacio de Loyola"
+          "city": "San Juan",
+          "school": "Colegio San Ignacio de Loyola"
         }
       ]
     },
@@ -22537,8 +22500,8 @@
           "state": "Puerto Rico",
           "student_name": "Luis Carlos Collazo",
           "grade": "6",
-          "city": "Guaynabo Baldwin",
-          "school": "School of Puerto Rico"
+          "city": "Guaynabo",
+          "school": "Baldwin School of Puerto Rico"
         }
       ]
     },
@@ -22554,8 +22517,8 @@
           "state": "Puerto Rico",
           "student_name": "Lucas Carlo",
           "grade": "8",
-          "city": "Dorado Tasis",
-          "school": "School"
+          "city": "Dorado",
+          "school": "Tasis School"
         }
       ]
     },
@@ -22571,8 +22534,8 @@
           "state": "Puerto Rico",
           "student_name": "Jose Ramos",
           "grade": "8",
-          "city": "Guaynabo American Military",
-          "school": "Academy"
+          "city": "Guaynabo",
+          "school": "American Military Academy"
         }
       ]
     },
@@ -22588,8 +22551,8 @@
           "state": "Rhode Island",
           "student_name": "Iris Yang",
           "grade": "8",
-          "city": "Barrington Barrington",
-          "school": "Middle School"
+          "city": "Barrington",
+          "school": "Barrington Middle School"
         }
       ]
     },
@@ -22605,8 +22568,8 @@
           "state": "Rhode Island",
           "student_name": "Philip Spradlin",
           "grade": "8",
-          "city": "Providence Wheeler",
-          "school": "School"
+          "city": "Providence",
+          "school": "Wheeler School"
         }
       ]
     },
@@ -22622,8 +22585,8 @@
           "state": "Rhode Island",
           "student_name": "Shawn Badre",
           "grade": "7",
-          "city": "East Providence Gordon",
-          "school": "School"
+          "city": "East Providence",
+          "school": "Gordon School"
         }
       ]
     },
@@ -22639,8 +22602,8 @@
           "state": "Rhode Island",
           "student_name": "Sadie Enright",
           "grade": "7",
-          "city": "Providence French-American",
-          "school": "School of Rhode Island"
+          "city": "Providence",
+          "school": "French-American School of Rhode Island"
         }
       ]
     },
@@ -22656,8 +22619,8 @@
           "state": "South Carolina",
           "student_name": "Liaoliao Shi",
           "grade": "8",
-          "city": "Greenville Sterling",
-          "school": "School"
+          "city": "Greenville",
+          "school": "Sterling School"
         }
       ]
     },
@@ -22673,8 +22636,8 @@
           "state": "South Carolina",
           "student_name": "Seomgeun Shim",
           "grade": "7",
-          "city": "Chapin Chapin",
-          "school": "Middle School"
+          "city": "Chapin",
+          "school": "Chapin Middle School"
         }
       ]
     },
@@ -22690,8 +22653,8 @@
           "state": "South Dakota",
           "student_name": "Shaurya Sehgal",
           "grade": "7",
-          "city": "Brookings George S. Mickelson",
-          "school": "Middle School"
+          "city": "Brookings",
+          "school": "George S. Mickelson Middle School"
         }
       ]
     },
@@ -22707,8 +22670,8 @@
           "state": "South Dakota",
           "student_name": "William Jin",
           "grade": "7",
-          "city": "Brookings George S. Mickelson",
-          "school": "Middle School"
+          "city": "Brookings",
+          "school": "George S. Mickelson Middle School"
         }
       ]
     },
@@ -22724,8 +22687,8 @@
           "state": "State Department",
           "student_name": "Justus Heibutzki",
           "grade": "8",
-          "city": "Singapore Singapore American",
-          "school": "School"
+          "city": "Singapore",
+          "school": "Singapore American School"
         }
       ]
     },
@@ -22741,8 +22704,8 @@
           "state": "Tennessee",
           "student_name": "Eric Chen",
           "grade": "8",
-          "city": "Nashville Montgomery Bell",
-          "school": "Academy"
+          "city": "Nashville",
+          "school": "Montgomery Bell Academy"
         }
       ]
     },
@@ -22758,8 +22721,8 @@
           "state": "Tennessee",
           "student_name": "Yejoon Ham",
           "grade": "8",
-          "city": "Knoxville West Valley",
-          "school": "Middle School"
+          "city": "Knoxville",
+          "school": "West Valley Middle School"
         }
       ]
     },
@@ -22775,8 +22738,8 @@
           "state": "Texas",
           "student_name": "Kevin Chen",
           "grade": "7",
-          "city": "Sugar Land Fort Settlement",
-          "school": "Middle School"
+          "city": "Sugar Land",
+          "school": "Fort Settlement Middle School"
         }
       ]
     },
@@ -22792,8 +22755,8 @@
           "state": "Utah",
           "student_name": "Wilson St. Martin",
           "grade": "8",
-          "city": "Draper American Preparatory",
-          "school": "Academy"
+          "city": "Draper",
+          "school": "American Preparatory Academy"
         }
       ]
     },
@@ -22809,8 +22772,8 @@
           "state": "Utah",
           "student_name": "Tanish Shetty",
           "grade": "6",
-          "city": "Traverse Mountain Challenger",
-          "school": "School-Traverse Mountain"
+          "city": "Traverse Mountain",
+          "school": "Challenger School-Traverse Mountain"
         }
       ]
     },
@@ -22826,8 +22789,7 @@
           "state": "Vermont",
           "student_name": "Evan Xia",
           "grade": "7",
-          "city": "F H Tuttle",
-          "school": "Middle School"
+          "school": "F H Tuttle Middle School"
         }
       ]
     },
@@ -22843,8 +22805,7 @@
           "state": "Vermont",
           "student_name": "Henry Rogers",
           "grade": "8",
-          "city": "Browns River",
-          "school": "Middle School"
+          "school": "Browns River Middle School"
         }
       ]
     },
@@ -22860,8 +22821,7 @@
           "state": "Vermont",
           "student_name": "Richard Jiang",
           "grade": "8",
-          "city": "F H Tuttle",
-          "school": "Middle School"
+          "school": "F H Tuttle Middle School"
         }
       ]
     },
@@ -22878,7 +22838,7 @@
           "student_name": "Lucy Proulx",
           "grade": "8",
           "city": "Sharon",
-          "school": "Academy"
+          "school": "Sharon Academy"
         }
       ]
     },
@@ -22894,8 +22854,8 @@
           "state": "Virgin Islands",
           "student_name": "Sanjiv Bachan",
           "grade": "6",
-          "city": "Saint Thomas Antilles",
-          "school": "School"
+          "city": "Saint Thomas",
+          "school": "Antilles School"
         }
       ]
     },
@@ -22911,8 +22871,8 @@
           "state": "Virgin Islands",
           "student_name": "Naitik Jhanwar",
           "grade": "7",
-          "city": "Saint Thomas All Saints Cathedral",
-          "school": "School"
+          "city": "Saint Thomas",
+          "school": "All Saints Cathedral School"
         }
       ]
     },
@@ -22928,8 +22888,8 @@
           "state": "Virginia",
           "student_name": "Andrew Chen",
           "grade": "8",
-          "city": "Falls Church Longfellow",
-          "school": "Middle School"
+          "city": "Falls Church",
+          "school": "Longfellow Middle School"
         }
       ]
     },
@@ -22945,8 +22905,8 @@
           "state": "Washington",
           "student_name": "Susie Lu",
           "grade": "8",
-          "city": "Sammamish Sammamish",
-          "school": "School"
+          "city": "Sammamish",
+          "school": "Sammamish School"
         }
       ]
     },
@@ -22962,8 +22922,8 @@
           "state": "Washington",
           "student_name": "Jeffrey Zhao",
           "grade": "8",
-          "city": "Bellevue Tyee",
-          "school": "Middle School"
+          "city": "Bellevue",
+          "school": "Tyee Middle School"
         }
       ]
     },
@@ -22979,8 +22939,8 @@
           "state": "West Virginia",
           "student_name": "Vinu Chandrasekar",
           "grade": "8",
-          "city": "Dunbar Dunbar",
-          "school": "Middle School"
+          "city": "Dunbar",
+          "school": "Dunbar Middle School"
         }
       ]
     },
@@ -22996,8 +22956,8 @@
           "state": "Wisconsin",
           "student_name": "Sami El-Hajjar",
           "grade": "7",
-          "city": "Milwaukee Maryland Avenue Montessori",
-          "school": "School"
+          "city": "Milwaukee",
+          "school": "Maryland Avenue Montessori School"
         }
       ]
     },
@@ -23013,8 +22973,8 @@
           "state": "Wisconsin",
           "student_name": "Siddharth Kosaraju",
           "grade": "8",
-          "city": "Mequon Steffen",
-          "school": "Middle School"
+          "city": "Mequon",
+          "school": "Steffen Middle School"
         }
       ]
     },
@@ -23030,8 +22990,8 @@
           "state": "Wisconsin",
           "student_name": "Maya Jadhav",
           "grade": "8",
-          "city": "Fitchburg Vishva Home",
-          "school": "School"
+          "city": "Fitchburg",
+          "school": "Vishva Home School"
         }
       ]
     },
@@ -23047,8 +23007,8 @@
           "state": "Wisconsin",
           "student_name": "Vaidehi Ramachandrula",
           "grade": "8",
-          "city": "Brookfield Wisconsin Hills",
-          "school": "Middle School"
+          "city": "Brookfield",
+          "school": "Wisconsin Hills Middle School"
         }
       ]
     },
@@ -23064,8 +23024,8 @@
           "state": "Wyoming",
           "student_name": "Ashley Olson",
           "grade": "8",
-          "city": "Cheyenne Carey Junior",
-          "school": "High School"
+          "city": "Cheyenne",
+          "school": "Carey Junior High School"
         }
       ]
     },
@@ -23081,8 +23041,8 @@
           "state": "Wyoming",
           "student_name": "Henry McGuire",
           "grade": "7",
-          "city": "Cheyenne McCormick Junior",
-          "school": "High School"
+          "city": "Cheyenne",
+          "school": "McCormick Junior High School"
         }
       ]
     },
@@ -23098,8 +23058,8 @@
           "state": "Wyoming",
           "student_name": "Sofia Furman",
           "grade": "8",
-          "city": "Cheyenne Carey Junior",
-          "school": "High School"
+          "city": "Cheyenne",
+          "school": "Carey Junior High School"
         }
       ]
     },
@@ -23115,8 +23075,8 @@
           "state": "Wyoming",
           "student_name": "Bekalyn Swett",
           "grade": "8",
-          "city": "Green River Lincoln",
-          "school": "Middle School"
+          "city": "Green River",
+          "school": "Lincoln Middle School"
         }
       ]
     }
