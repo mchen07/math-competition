@@ -1700,6 +1700,14 @@
           "prize": "$750"
         },
         {
+          "contest": "USAJMO",
+          "year": "2023",
+          "contest_slug": "jmo",
+          "student_name": "Calvin Wang",
+          "state": "Virginia",
+          "award": "Honors"
+        },
+        {
           "contest": "CMIMC - Algebra and Number Theory",
           "year": "2023",
           "contest_slug": "cmimc-algebra",
@@ -34191,22 +34199,6 @@
           "contest_slug": "jmo",
           "student_name": "Ethan Song",
           "state": "California",
-          "award": "Honors"
-        }
-      ]
-    },
-    {
-      "id": 1239,
-      "name": "Calvin Wang",
-      "aliases": [],
-      "state": "Virginia",
-      "records": [
-        {
-          "contest": "USAJMO",
-          "year": "2023",
-          "contest_slug": "jmo",
-          "student_name": "Calvin Wang",
-          "state": "Virginia",
           "award": "Honors"
         }
       ]
