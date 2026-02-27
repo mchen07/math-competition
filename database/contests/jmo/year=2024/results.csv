@@ -14,15 +14,15 @@ student_id,student_name,state,award
 357,Ryan Bansal,California,Honors
 37,Grant Blitz,New Hampshire,Honors
 278,Albert Cao,Maryland,Honors
-1030,Edward Chen,Indiana,Honors
+522,Edward Chen,Indiana,Honors
 370,Victor Chen,Illinois,Honors
 325,Amy Cui,Washington,Honors
 30,Eric Dai,New Jersey,Honors
-895,Perry Dai,Ontario, Canada,Honors
+895,Perry Dai,“Ontario, Canada”,Honors
 29,Patrick Du,Virginia,Honors
 21,David Fox,California,Honors
 7,Benjamin Fu,Washington,Honors
-335,Yuxin Fu,Ontario, Canada,Honors
+335,Yuxin Fu,"Ontario, Canada",Honors
 257,Daniel Ge,Washington,Honors
 112,Jonathan He,Illinois,Honors
 1058,Aiden Jeong,California,Honors
@@ -32,9 +32,9 @@ student_id,student_name,state,award
 280,Aaron Le,Pennsylvania,Honors
 253,Jaeho Lee,Texas,Honors
 69,Connor Leong,California,Honors
-5,Tianyi Li,Ontario, Canada,Honors
+5,Tianyi Li,"Ontario, Canada",Honors
 284,Alex Liu,Virginia,Honors
-72,Kevin Liu,Pennsylvania,Honors
+1202,Kevin Liu,Pennsylvania,Honors
 381,Albert Lu,New Hampshire,Honors
 889,Tony Lu,Texas,Honors
 274,Kai Lum,California,Honors
@@ -63,7 +63,7 @@ student_id,student_name,state,award
 1011,Krittika Chandra,California,Honorable Mention
 1065,Amelia Chen,California,Honorable Mention
 1066,Hayden Chen,California,Honorable Mention
-1067,Jeffrey Chen,British Columbia, Canada,Honorable Mention
+136,Jeffrey Chen,"British Columbia, Canada",Honorable Mention
 1068,Rachel Chen,California,Honorable Mention
 240,Ryan Chen,Washington,Honorable Mention
 1069,Sophie Chen,Connecticut,Honorable Mention
@@ -110,7 +110,7 @@ student_id,student_name,state,award
 220,Luca Pieleanu,Massachusetts,Honorable Mention
 1084,Maiya Qiu,New Jersey,Honorable Mention
 1085,Ethan Qu,California,Honorable Mention
-1086,Greta Qu,Ontario, Canada,Honorable Mention
+1086,Greta Qu,"Ontario, Canada",Honorable Mention
 247,Niranjan Rao,California,Honorable Mention
 1002,Alexander Ruan,California,Honorable Mention
 312,Rio Schillmoeller,Massachusetts,Honorable Mention
@@ -121,20 +121,19 @@ student_id,student_name,state,award
 1043,Heather Wang,California,Honorable Mention
 1088,Kallie Wang,California,Honorable Mention
 989,Richard Wang,Texas,Honorable Mention
-1089,Ryan Wang,California,Honorable Mention
 1044,Colin Wei,Texas,Honorable Mention
 878,Andrew Wen,California,Honorable Mention
 1090,Immanuel Whang,Washington,Honorable Mention
 1091,Jack Whitney,Connecticut,Honorable Mention
 289,Kyle Wu,New York,Honorable Mention
-990,Leo Wu,Ontario, Canada,Honorable Mention
+990,Leo Wu,"Ontario, Canada",Honorable Mention
 613,Brandon Xu,New York,Honorable Mention
 445,Jeffrey Xu,Massachusetts,Honorable Mention
 77,Shunyao Yan,Virginia,Honorable Mention
 268,Kevin Yang,Washington,Honorable Mention
 1092,Kyle Yang,Massachusetts,Honorable Mention
 1093,Michael Yang,New Hampshire,Honorable Mention
-1094,Yuxi Yang,Ontario, Canada,Honorable Mention
+1094,Yuxi Yang,"Ontario, Canada",Honorable Mention
 711,Alyssa Yu,Maryland,Honorable Mention
 318,David Yu,Maryland,Honorable Mention
 1095,Mofan Yu,New York,Honorable Mention
@@ -147,4 +146,4 @@ student_id,student_name,state,award
 1098,Kayden Zhong,Texas,Honorable Mention
 475,Owen Zhou,Arizona,Honorable Mention
 1099,Bryan Zhu,Washington,Honorable Mention
-1100,Chenghao Zuo,British Columbia, Canada,Honorable Mention
+1100,Chenghao Zuo,"British Columbia, Canada",Honorable Mention

@@ -19,7 +19,7 @@ student_id,student_name,state,award
 56,Channing Yang,Texas,Gold
 113,Feodor Yevtushenko,California,Gold
 96,Qiao Zhang,California,Gold
-886,Warren Bei,British Columbia, Canada,Silver
+886,Warren Bei,"British Columbia,Canada",Silver
 37,Grant Blitz,New Hampshire,Silver
 240,Ryan Chen,Washington,Silver
 90,Rohan Das,California,Silver
@@ -64,7 +64,7 @@ student_id,student_name,state,award
 893,Hugh Cheng,California,Bronze
 894,Kailua Cheng,California,Bronze
 325,Amy Cui,Washington,Bronze
-895,Perry Dai,Ontario, Canada,Bronze
+895,Perry Dai,"Ontario, Canada",Bronze
 352,Eric Ding,Minnesota,Bronze
 896,Aron Fekete,New Hampshire,Bronze
 897,Dylan Frake,California,Bronze
@@ -77,7 +77,7 @@ student_id,student_name,state,award
 901,Hyun-Jin Kim,Texas,Bronze
 902,Sam Kretzschmar,Minnesota,Bronze
 288,David Lee,New Jersey,Bronze
-415,Christopher Li,Ontario, Canada,Bronze
+415,Christopher Li,"Ontario, Canada",Bronze
 68,Xilong Lin,California,Bronze
 81,Angela Liu,California,Bronze
 780,Susie Lu,Washington,Bronze
@@ -107,7 +107,7 @@ student_id,student_name,state,award
 46,Ray Zhao,Texas,Bronze
 909,Joey Zheng,Arizona,Bronze
 738,Liran Zhou,New York,Bronze
-910,Ryan Zhu,British Columbia, Canada,Bronze
+910,Ryan Zhu,"British Columbia, Canada",Bronze
 911,Eric Zou,California,Bronze
 429,Evan Ashoori,Massachusetts,Honorable Mention
 50,Yunzhe Bai,Massachusetts,Honorable Mention
@@ -127,13 +127,13 @@ student_id,student_name,state,award
 11,Dou Lai,Illinois,Honorable Mention
 921,Alicia Li,New Hampshire,Honorable Mention
 516,Bryan Li,Massachusetts,Honorable Mention
-922,Rex Li,Ontario, Canada,Honorable Mention
+922,Rex Li,"Ontario, Canada",Honorable Mention
 558,Aaron Lin,Missouri,Honorable Mention
 72,Kevin Liu,Florida,Honorable Mention
 14,Nathan Liu,Texas,Honorable Mention
 282,Arjun Pagidi,Virginia,Honorable Mention
-923,James Qiu,Ontario, Canada,Honorable Mention
-924,Victor Sarca,Ontario, Canada,Honorable Mention
+923,James Qiu,"Ontario, Canada",Honorable Mention
+924,Victor Sarca,"Ontario, Canada",Honorable Mention
 259,Maitian Sha,New Jersey,Honorable Mention
 286,Yusuf Sheikh,Florida,Honorable Mention
 97,Eric Wang,New Hampshire,Honorable Mention
@@ -149,8 +149,8 @@ student_id,student_name,state,award
 930,Bole Ying,Pennsylvania,Honorable Mention
 931,Matthew Yuan,California,Honorable Mention
 932,Leo Zeng,California,Honorable Mention
-667,Alex Zhang,Ontario, Canada,Honorable Mention
-933,Alexander Zhang,Ontario, Canada,Honorable Mention
+667,Alex Zhang,"Ontario, Canada",Honorable Mention
+933,Alexander Zhang,"Ontario, Canada",Honorable Mention
 934,Charles Zhang,California,Honorable Mention
 935,Eric Zhang,Illinois,Honorable Mention
 487,Kyle Zhang,Connecticut,Honorable Mention
@@ -158,4 +158,4 @@ student_id,student_name,state,award
 87,Max Zhao,Virginia,Honorable Mention
 33,Roger Zhen,Texas,Honorable Mention
 475,Owen Zhou,Arizona,Honorable Mention
-936,Anthony Zou,South Carolina,Honorable Mention
+614,Anthony Zou,South Carolina,Honorable Mention

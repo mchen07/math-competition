@@ -106,10 +106,10 @@ student_id,state,student_name,grade,city,school
 555,Mississippi,Grant Zhang,7,Oxford,Oxford Middle School
 556,Mississippi,Hadley Green,8,Oxford,Oxford Home
 557,Mississippi,Brantley Denson,8,Jackson,Jackson Preparatory School
-558,Missouri,Aaron Lin,7,Saint,Louis Ladue Middle School
+558,Missouri,Aaron Lin,7,Saint Louis, Ladue Middle School
 559,Missouri,Lucas Zhang,8,Ellisville,Crestview Middle School
-560,Missouri,Alex Wang,7,Saint,Louis Ladue Middle School
-561,Missouri,Anthony Zhao,7,Saint,Louis Ladue Middle School
+560,Missouri,Alex Wang,7,Saint Louis, Ladue Middle School
+561,Missouri,Anthony Zhao,7,Saint Louis, Ladue Middle School
 562,Montana,Brendan Cowie,8,Missoula,Washington Middle School
 563,Montana,Adam Bukowski,7,Bozeman,Headwaters Academy
 564,Montana,Eli LeBaron,8,Billings,Ben Steele Middle School
@@ -193,7 +193,7 @@ student_id,state,student_name,grade,city,school
 4,Utah,Liam Reddy,6,Sandy,Waterford School
 76,Utah,Kiran Reddy,8,Sandy,Waterford School
 628,Utah,Mingchuan Cheng,8,Salt Lake City,West High School
-482,Utah,David Zhang,8,Salt Lake City,West High School
+1201,Utah,David Zhang,8,Salt Lake City,West High School
 629,Vermont,Yuyang Zhang,8,South Burlington,F H Tuttle Middle School
 630,Vermont,Jacob Graham,8,Bristol,Mount Abraham Union Middle School
 631,Vermont,Emma Xia,8,South Burlington,F H Tuttle Middle School

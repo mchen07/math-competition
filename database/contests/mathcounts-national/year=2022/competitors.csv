@@ -89,7 +89,7 @@ student_id,state,student_name,grade,city,school
 710,Maine,Jacob Klein,8,Bangor,William S. Cohen School
 381,Maryland,Albert Lu,8,Silver Spring,Takoma Park Middle School
 711,Maryland,Alyssa Yu,8,Germantown,Roberto Clemente Middle School
-560,Maryland,Alex Wang,8,Germantown,Roberto Clemente Middle School
+1200,Maryland,Alex Wang,8,Germantown,Roberto Clemente Middle School
 320,Maryland,Jeremy Yang,7,Ellicott City,Burleigh Manor Middle School
 35,Massachusetts,William Hua,8,Lexington,Jonas Clarke Middle School
 712,Massachusetts,Raymond Gao,8,Acton,RJ Grey Junior High School
@@ -160,7 +160,7 @@ student_id,state,student_name,grade,city,school
 602,Oregon,Yaseen Arifin,8,Beaverton,Meadow Park Middle School
 267,Oregon,Anshul Mantri,7,Portland,Tumwater Middle School
 280,Pennsylvania,Aaron Le,8,State College,Mount Nittany Middle School
-72,Pennsylvania,Kevin Liu,8,State College,Mount Nittany Middle School
+1202,Pennsylvania,Kevin Liu,8,State College,Mount Nittany Middle School
 754,Pennsylvania,William Liu,8,State College,Mount Nittany Middle School
 603,Pennsylvania,Aidan Le,8,State College,Mount Nittany Middle School
 755,Puerto Rico,Alvaro Villafuerte,7,San Juan,Colegio San Ignacio de Loyola
