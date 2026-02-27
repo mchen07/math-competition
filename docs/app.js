@@ -118,6 +118,7 @@
     var grouped = groupRecordsByContest(records);
     var bySlug = grouped.bySlug;
     var slugs = grouped.slugs;
+    var state = student.state || "";
 
     var sections = [];
     for (var i = 0; i < slugs.length; i++) {
@@ -156,10 +157,15 @@
         "</span>";
     }
 
+    var stateHtml = "";
+    if (state) {
+      stateHtml = "<span class=\"student-state\">(" + escapeHtml(String(state)) + ")</span>";
+    }
+
     return (
       "<article class=\"student-card\" data-student-id=\"" + escapeHtml(String(student.id)) + "\">" +
         "<div class=\"student-header\">" +
-          "<h2 class=\"student-name\">" + escapeHtml(student.name) + "</h2>" +
+          "<h2 class=\"student-name\" data-student-name=\"" + escapeHtml(String(student.name || "")) + "\">" + escapeHtml(student.name) + (stateHtml ? " " + stateHtml : "") + "</h2>" +
           aliasesHtml +
         "</div>" +
         "<div class=\"student-contests\">" + sections.join("") + "</div>" +
@@ -240,16 +246,21 @@
       return nameA.localeCompare(nameB);
     });
 
-    var top = counts.slice(0, 20);
+    var top = counts.slice(0, 50);
     var items = [];
     for (var i = 0; i < top.length; i++) {
       var entry = top[i];
       var s = entry.student || {};
+      var state = s.state || "";
+      var displayName = String(s.name || "");
+      if (state) {
+        displayName += " (" + state + ")";
+      }
       var label = entry.recordsCount === 1 ? "record" : "records";
       items.push(
         "<li class=\"awards-ranking-item\">" +
           "<span class=\"awards-ranking-position\">#" + (i + 1) + "</span>" +
-          "<span class=\"awards-ranking-name\" data-student-name=\"" + escapeHtml(String(s.name || "")) + "\">" + escapeHtml(String(s.name || "")) + "</span>" +
+          "<span class=\"awards-ranking-name\" data-student-name=\"" + escapeHtml(String(s.name || "")) + "\">" + escapeHtml(displayName) + "</span>" +
           "<span class=\"awards-ranking-count\" data-student-name=\"" + escapeHtml(String(s.name || "")) + "\">" + escapeHtml(String(entry.recordsCount)) + " " + label + "</span>" +
         "</li>"
       );
@@ -365,7 +376,8 @@
     resultsEl.addEventListener("click", function (event) {
       var target = event.target;
       if (!target || !target.classList || !target.classList.contains("student-name")) return;
-      var name = (target.textContent || "").trim();
+      var nameAttr = target.getAttribute("data-student-name");
+      var name = (nameAttr || target.textContent || "").trim();
       if (!name || !searchEl) return;
       searchEl.value = name;
       runSearch();
