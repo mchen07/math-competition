@@ -1606,6 +1606,27 @@
           "combinatorics_score": "16.72"
         },
         {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Calvin Wang",
+          "state": "Virginia",
+          "rank": "1",
+          "team_name": "TJ A",
+          "club_name": "TJHSST",
+          "score": "9",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "1",
+          "q7": "1",
+          "q8": "1",
+          "q9": "1",
+          "q10": "0"
+        },
+        {
           "contest": "ARML",
           "year": "2025",
           "contest_slug": "arml",
@@ -1706,6 +1727,16 @@
           "student_name": "Calvin Wang",
           "state": "Virginia",
           "award": "Honors"
+        },
+        {
+          "contest": "DMM",
+          "year": "2023",
+          "contest_slug": "dmm",
+          "student_name": "Calvin Wang",
+          "state": "Virginia",
+          "rank": "2",
+          "team_name": "TJ A",
+          "club_name": "TJHSST"
         },
         {
           "contest": "CMIMC - Algebra and Number Theory",
@@ -1868,6 +1899,27 @@
           "student_name": "Alan Cheng",
           "rank": "26",
           "score": "25.24"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Alan Cheng",
+          "state": "North Carolina",
+          "rank": "5",
+          "team_name": "NCSSM Alpha",
+          "club_name": "NCSSM Math Team",
+          "score": "8",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "1",
+          "q7": "0",
+          "q8": "1",
+          "q9": "1",
+          "q10": "0"
         },
         {
           "contest": "USAJMO",
@@ -2894,6 +2946,27 @@
           "award": "Honorable Mention"
         },
         {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Jeffrey Yin",
+          "state": "Virginia",
+          "rank": "9",
+          "team_name": "McLean A",
+          "club_name": "McLean Highlander Math League",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "1"
+        },
+        {
           "contest": "USAJMO",
           "year": "2024",
           "contest_slug": "jmo",
@@ -2936,6 +3009,16 @@
           "tb_corr": "3",
           "tb_time": "37",
           "prize": "$500"
+        },
+        {
+          "contest": "DMM",
+          "year": "2023",
+          "contest_slug": "dmm",
+          "student_name": "Jeffrey Yin",
+          "state": "Virginia",
+          "rank": "3",
+          "team_name": "McLean A",
+          "club_name": "McLean Highlander Math League"
         }
       ]
     },
@@ -3536,6 +3619,27 @@
           "combinatorics_score": "27.49"
         },
         {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Patrick Du",
+          "state": "Virginia",
+          "rank": "9",
+          "team_name": "TJ A",
+          "club_name": "TJHSST",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "1",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        },
+        {
           "contest": "USAJMO",
           "year": "2024",
           "contest_slug": "jmo",
@@ -3569,6 +3673,16 @@
           "rank": "25",
           "total_score": "2.846",
           "finals_score": "12"
+        },
+        {
+          "contest": "DMM",
+          "year": "2023",
+          "contest_slug": "dmm",
+          "student_name": "Patrick Du",
+          "state": "Virginia",
+          "rank": "4",
+          "team_name": "TJ B",
+          "club_name": "TJHSST"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -3681,6 +3795,27 @@
           "student_name": "Lewis Lau",
           "rank": "26",
           "score": "25.24"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Lewis Lau",
+          "state": "Maryland",
+          "rank": "9",
+          "team_name": "MoCoSwaggaSquad",
+          "club_name": "RMHS Math Team",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "1",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
         },
         {
           "contest": "USAJMO",
@@ -13091,6 +13226,27 @@
       "state": "Washington",
       "records": [
         {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "David Dong",
+          "state": "Washington",
+          "rank": "9",
+          "team_name": "East Chapel Hill HS Team A",
+          "club_name": "East Chapel Hill High school",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "1",
+          "q9": "1",
+          "q10": "0"
+        },
+        {
           "contest": "USAMO",
           "year": "2023",
           "contest_slug": "amo",
@@ -14625,6 +14781,27 @@
           "finals_score": "6"
         },
         {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Eric Zhu",
+          "state": "North Carolina",
+          "rank": "9",
+          "team_name": "Cary Academy 1",
+          "club_name": "Cary Academy 1",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2023",
           "contest_slug": "mathcounts-national-rank",
@@ -15321,6 +15498,27 @@
           "rank": "32",
           "total_score": "2.263",
           "finals_score": "2"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Grisham Paimagan",
+          "state": "North Carolina",
+          "rank": "9",
+          "team_name": "NCSSM Alpha",
+          "club_name": "NCSSM Math Team",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "1",
+          "q9": "1",
+          "q10": "0"
         }
       ]
     },
@@ -15415,6 +15613,27 @@
           "rank": "35",
           "total_score": "2.184",
           "finals_score": "2"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Anderson Hao",
+          "state": "Virginia",
+          "rank": "9",
+          "team_name": "TJ B",
+          "club_name": "TJHSST",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "1"
         },
         {
           "contest": "PUMaC — Geometry",
@@ -16023,6 +16242,27 @@
           "p6": "0",
           "p7": "1",
           "p8": "0"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Ryan Karim",
+          "state": "West Virginia",
+          "rank": "29",
+          "team_name": "DMV Math Circle",
+          "club_name": "DMV Math Circle",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "0",
+          "q10": "0"
         }
       ]
     },
@@ -16893,6 +17133,27 @@
           "p8": "1"
         },
         {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Arnav  Iyengar",
+          "state": "District of Columbia",
+          "rank": "9",
+          "team_name": "DMV Math Circle",
+          "club_name": "DMV Math Circle",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "1",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        },
+        {
           "contest": "USAMO",
           "year": "2024",
           "contest_slug": "amo",
@@ -17440,6 +17701,15 @@
           "student_name": "Aryan Raj",
           "state": "Virginia",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "DMM",
+          "year": "2023",
+          "contest_slug": "dmm",
+          "student_name": "Aryan Raj",
+          "state": "Virginia",
+          "rank": "5",
+          "team_name": "BBMC-Math"
         }
       ]
     },
@@ -19646,6 +19916,27 @@
       "state": "North Carolina",
       "records": [
         {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Aaron Wang",
+          "state": "North Carolina",
+          "rank": "29",
+          "team_name": "NCSSM Alpha",
+          "club_name": "NCSSM Math Team",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        },
+        {
           "contest": "USAMO",
           "year": "2024",
           "contest_slug": "amo",
@@ -20826,6 +21117,15 @@
           "state": "North Carolina",
           "rank": "C",
           "grade": "7"
+        },
+        {
+          "contest": "DMM",
+          "year": "2023",
+          "contest_slug": "dmm",
+          "student_name": "Jason Lee",
+          "state": "North Carolina",
+          "rank": "1",
+          "team_name": "v_n(d)"
         }
       ]
     },
@@ -21704,6 +22004,26 @@
           "student_name": "Chang Lu",
           "rank": "23",
           "score": "25.24"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Chang Lu",
+          "rank": "2",
+          "team_name": "Shanghai Starriver Bilingual School",
+          "club_name": "Shanghai Starriver Bilingual School",
+          "score": "9",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "1",
+          "q7": "1",
+          "q8": "1",
+          "q9": "1",
+          "q10": "0"
         }
       ]
     },
@@ -22003,6 +22323,26 @@
           "student_name": "Watson Houck",
           "rank": "34",
           "score": "25.17"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Watson Houck",
+          "rank": "29",
+          "team_name": "CMC - Harold",
+          "club_name": "Charlotte Math Club",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "0",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
         }
       ]
     },
@@ -24290,6 +24630,35 @@
       ]
     },
     {
+      "id": 490,
+      "name": "Yanming Huang",
+      "aliases": [],
+      "state": "Delaware",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Yanming Huang",
+          "state": "Delaware",
+          "rank": "29",
+          "team_name": "Shanghai Starriver Bilingual School",
+          "club_name": "Shanghai Starriver Bilingual School",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "0",
+          "q10": "1"
+        }
+      ]
+    },
+    {
       "id": 503,
       "name": "Stephen Yang",
       "aliases": [],
@@ -24926,6 +25295,27 @@
           "student_name": "Anthony Zou",
           "state": "South Carolina",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Anthony Zou",
+          "state": "South Carolina",
+          "rank": "3",
+          "team_name": "Columbia Math Circle Team 1",
+          "club_name": "Columbia Math Circle",
+          "score": "9",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "1",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "1"
         },
         {
           "contest": "USAJMO",
@@ -25765,6 +26155,35 @@
       ]
     },
     {
+      "id": 740,
+      "name": "Raghav Arun",
+      "aliases": [],
+      "state": "North Carolina",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Raghav Arun",
+          "state": "North Carolina",
+          "rank": "29",
+          "team_name": "NCSSM Alpha",
+          "club_name": "NCSSM Math Team",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
       "id": 747,
       "name": "Devin Zhao",
       "aliases": [],
@@ -26080,6 +26499,27 @@
       "aliases": [],
       "state": "North Carolina",
       "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Kesav Kalanidhi",
+          "state": "North Carolina",
+          "rank": "9",
+          "team_name": "NCSSM Gamma",
+          "club_name": "NCSSM Math Team",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        },
         {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2023",
@@ -27522,6 +27962,27 @@
           "state": "Virginia",
           "rank": "53",
           "grade": "8"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Shawn Bi",
+          "state": "Virginia",
+          "rank": "29",
+          "team_name": "TJ C",
+          "club_name": "TJHSST",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "0",
+          "q5": "1",
+          "q6": "1",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
         }
       ]
     },
@@ -28184,6 +28645,27 @@
           "student_name": "Eden He",
           "state": "Pennsylvania",
           "award": "Bronze"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Eden He",
+          "state": "Pennsylvania",
+          "rank": "9",
+          "team_name": "DMV Math Circle",
+          "club_name": "DMV Math Circle",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "0",
+          "q4": "1",
+          "q5": "1",
+          "q6": "1",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
         },
         {
           "contest": "ARML",
@@ -30082,6 +30564,27 @@
           "student_name": "David Wang",
           "state": "Maryland",
           "award": "Honors"
+        },
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "David Wang",
+          "state": "Maryland",
+          "rank": "6",
+          "team_name": "MOO",
+          "club_name": "Maryland United",
+          "score": "8",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "1",
+          "q9": "1",
+          "q10": "1"
         },
         {
           "contest": "ARML",
@@ -35152,6 +35655,846 @@
           "award": "Honorable Mention"
         }
       ]
+    },
+    {
+      "id": 1296,
+      "name": "Yucheng Zhang",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Yucheng Zhang",
+          "rank": "4",
+          "team_name": "Shanghai Starriver Bilingual School",
+          "club_name": "Shanghai Starriver Bilingual School",
+          "score": "9",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "1",
+          "q7": "1",
+          "q8": "1",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1297,
+      "name": "Qianmo Ni",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Qianmo Ni",
+          "rank": "6",
+          "team_name": "Shanghai Starriver Bilingual School",
+          "club_name": "Shanghai Starriver Bilingual School",
+          "score": "8",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "1",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1298,
+      "name": "Thomas Yao",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Thomas Yao",
+          "rank": "6",
+          "team_name": "MOO",
+          "club_name": "Maryland United",
+          "score": "8",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "1"
+        }
+      ]
+    },
+    {
+      "id": 1299,
+      "name": "Parsa Adhami",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Parsa Adhami",
+          "rank": "9",
+          "team_name": "Columbia Math Circle Team 2",
+          "club_name": "Columbia Math Circle",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "1"
+        }
+      ]
+    },
+    {
+      "id": 1300,
+      "name": "Mingfei Zhou",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Mingfei Zhou",
+          "rank": "9",
+          "team_name": "Keystone Academy of Beijing",
+          "club_name": "Keystone Academy of Beijing",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1301,
+      "name": "Gloria Lu",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Gloria Lu",
+          "rank": "9",
+          "team_name": "McLean A",
+          "club_name": "McLean Highlander Math League",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1302,
+      "name": "Nelson Huang",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Nelson Huang",
+          "rank": "9",
+          "team_name": "NCSSM Beta",
+          "club_name": "NCSSM Math Team",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1303,
+      "name": "Sixun Zheng",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Sixun Zheng",
+          "rank": "9",
+          "team_name": "Shanghai Starriver Bilingual School",
+          "club_name": "Shanghai Starriver Bilingual School",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1304,
+      "name": "Ethan Shan",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Ethan Shan",
+          "rank": "9",
+          "team_name": "TJ C",
+          "club_name": "TJHSST",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1305,
+      "name": "Liang Christopher",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Liang Christopher",
+          "rank": "9",
+          "team_name": "East Chapel Hill HS Team A",
+          "club_name": "East Chapel Hill High school",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "1",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1306,
+      "name": "Brandon Jia",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Brandon Jia",
+          "rank": "9",
+          "team_name": "East Chapel Hill HS Team A",
+          "club_name": "East Chapel Hill High school",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "1",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1307,
+      "name": "Jason Sliwowski",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Jason Sliwowski",
+          "rank": "9",
+          "team_name": "East Chapel Hill HS Team A",
+          "club_name": "East Chapel Hill High school",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "1"
+        }
+      ]
+    },
+    {
+      "id": 1308,
+      "name": "Roman  Mecholsky",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Roman  Mecholsky",
+          "rank": "9",
+          "team_name": "BBMC-math Delta",
+          "club_name": "BBMC-math",
+          "score": "7",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "1"
+        }
+      ]
+    },
+    {
+      "id": 1309,
+      "name": "Jahl Miraji-Khot",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Jahl Miraji-Khot",
+          "rank": "29",
+          "team_name": "Columbia Math Circle Team 1",
+          "club_name": "Columbia Math Circle",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "0",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1310,
+      "name": "Dylan Zhang",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Dylan Zhang",
+          "rank": "29",
+          "team_name": "Team",
+          "club_name": "Club Name",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1311,
+      "name": "Sarah Li",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Sarah Li",
+          "rank": "29",
+          "team_name": "McLean A",
+          "club_name": "McLean Highlander Math League",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1312,
+      "name": "Aaron Zhu",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Aaron Zhu",
+          "rank": "29",
+          "team_name": "NCSSM Beta",
+          "club_name": "NCSSM Math Team",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1313,
+      "name": "Srinivas Vijay Babu",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Srinivas Vijay Babu",
+          "rank": "29",
+          "team_name": "NCSSM Beta",
+          "club_name": "NCSSM Math Team",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1314,
+      "name": "Thanh Can",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Thanh Can",
+          "rank": "29",
+          "team_name": "DMV Math Circle",
+          "club_name": "DMV Math Circle",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1315,
+      "name": "Ved Vainateya",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Ved Vainateya",
+          "rank": "29",
+          "team_name": "Cary Academy 2",
+          "club_name": "Cary Academy 1",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "0",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1316,
+      "name": "Avi Gupta",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Avi Gupta",
+          "rank": "29",
+          "team_name": "MOO",
+          "club_name": "Maryland United",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1317,
+      "name": "Yuwei Li",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Yuwei Li",
+          "rank": "29",
+          "team_name": "Shanghai Starriver Bilingual School",
+          "club_name": "Shanghai Starriver Bilingual School",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1318,
+      "name": "Angelo Chu",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Angelo Chu",
+          "rank": "29",
+          "team_name": "TJ B",
+          "club_name": "TJHSST",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1319,
+      "name": "Ryan Singh",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Ryan Singh",
+          "rank": "29",
+          "team_name": "TJ B",
+          "club_name": "TJHSST",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1320,
+      "name": "Jeffrey Du",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Jeffrey Du",
+          "rank": "29",
+          "team_name": "TJ C",
+          "club_name": "TJHSST",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1321,
+      "name": "Yeeyung Li",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Yeeyung Li",
+          "rank": "29",
+          "team_name": "TJ D",
+          "club_name": "TJHSST",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1322,
+      "name": "William Li",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "William Li",
+          "rank": "29",
+          "team_name": "TJ D",
+          "club_name": "TJHSST",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1323,
+      "name": "Ryan Chan",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Ryan Chan",
+          "rank": "29",
+          "team_name": "Chantilly A",
+          "club_name": "Chantilly Math Club",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "0",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1324,
+      "name": "Ishidevesh Behera",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Ishidevesh Behera",
+          "rank": "29",
+          "team_name": "Ardrey Kell A Team",
+          "club_name": "Ardrey Kell High School",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "0",
+          "q4": "1",
+          "q5": "1",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
+    },
+    {
+      "id": 1325,
+      "name": "Atharv Mittal",
+      "aliases": [],
+      "state": "",
+      "records": [
+        {
+          "contest": "DMM",
+          "year": "2025",
+          "contest_slug": "dmm",
+          "student_name": "Atharv Mittal",
+          "rank": "29",
+          "team_name": "Ardrey Kell A Team",
+          "club_name": "Ardrey Kell High School",
+          "score": "6",
+          "q1": "1",
+          "q2": "1",
+          "q3": "1",
+          "q4": "1",
+          "q5": "0",
+          "q6": "0",
+          "q7": "1",
+          "q8": "0",
+          "q9": "1",
+          "q10": "0"
+        }
+      ]
     }
   ],
   "contests": {
@@ -35244,6 +36587,11 @@
       "contest_name": "ARML",
       "description": "American Regions Mathematics League.",
       "website": "https://arml3.com/"
+    },
+    "dmm": {
+      "contest_name": "DMM",
+      "description": "Duke Math Meet - Annual mathematics competition hosted by Duke University. Individual and team rounds.",
+      "website": "https://dukemathmeet.org/"
     }
   },
   "contest_year_files": {
@@ -35275,6 +36623,10 @@
     "cmimc-geometry": {
       "2023": "results.csv",
       "2024": "results.csv",
+      "2025": "results.csv"
+    },
+    "dmm": {
+      "2023": "results.csv",
       "2025": "results.csv"
     },
     "hmmt-feb": {
@@ -35360,6 +36712,7 @@
     "cmimc-algebra",
     "cmimc-comb",
     "cmimc-geometry",
-    "arml"
+    "arml",
+    "dmm"
   ]
 }

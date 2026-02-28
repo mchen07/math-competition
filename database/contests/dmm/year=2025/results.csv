@@ -1,0 +1,52 @@
+student_id,student_name,state,rank,team_name,club_name,score,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10
+10,Calvin Wang,Virginia,1,TJ A,TJHSST,9,1,1,1,1,1,1,1,1,1,0
+380,Chang Lu,,2,Shanghai Starriver Bilingual School,Shanghai Starriver Bilingual School,9,1,1,1,1,1,1,1,1,1,0
+614,Anthony Zou,South Carolina,3,Columbia Math Circle Team 1,Columbia Math Circle,9,1,1,1,1,1,1,1,0,1,1
+1296,Yucheng Zhang,,4,Shanghai Starriver Bilingual School,Shanghai Starriver Bilingual School,9,1,1,1,1,1,1,1,1,1,0
+12,Alan Cheng,North Carolina,5,NCSSM Alpha,NCSSM Math Team,8,1,1,1,1,1,1,0,1,1,0
+1006,David Wang,Maryland,6,MOO,Maryland United,8,1,1,1,1,1,0,0,1,1,1
+1297,Qianmo Ni,,6,Shanghai Starriver Bilingual School,Shanghai Starriver Bilingual School,8,1,1,1,1,1,1,1,0,1,0
+1298,Thomas Yao,,6,MOO,Maryland United,8,1,1,1,1,1,0,1,0,1,1
+1299,Parsa Adhami,,9,Columbia Math Circle Team 2,Columbia Math Circle,7,1,1,1,1,1,0,0,0,1,1
+31,Lewis Lau,Maryland,9,MoCoSwaggaSquad,RMHS Math Team,7,1,1,1,1,1,1,0,0,1,0
+1300,Mingfei Zhou,,9,Keystone Academy of Beijing,Keystone Academy of Beijing,7,1,1,1,1,1,0,1,0,1,0
+23,Jeffrey Yin,Virginia,9,McLean A,McLean Highlander Math League,7,1,1,1,1,0,0,1,0,1,1
+1301,Gloria Lu,,9,McLean A,McLean Highlander Math League,7,1,1,1,1,1,0,1,0,1,0
+219,Grisham Paimagan,North Carolina,9,NCSSM Alpha,NCSSM Math Team,7,1,1,1,1,1,0,0,1,1,0
+1302,Nelson Huang,,9,NCSSM Beta,NCSSM Math Team,7,1,1,1,1,1,0,1,0,1,0
+799,Kesav Kalanidhi,North Carolina,9,NCSSM Gamma,NCSSM Math Team,7,1,1,1,1,1,0,1,0,1,0
+252,Arnav  Iyengar,District of Columbia,9,DMV Math Circle,DMV Math Circle,7,1,1,1,1,1,1,0,0,1,0
+210,Eric Zhu,North Carolina,9,Cary Academy 1,Cary Academy 1,7,1,1,1,1,1,0,1,0,1,0
+1303,Sixun Zheng,,9,Shanghai Starriver Bilingual School,Shanghai Starriver Bilingual School,7,1,1,1,1,1,0,1,0,1,0
+29,Patrick Du,Virginia,9,TJ A,TJHSST,7,1,1,1,1,1,1,0,0,1,0
+221,Anderson Hao,Virginia,9,TJ B,TJHSST,7,1,1,1,1,1,0,0,0,1,1
+1304,Ethan Shan,,9,TJ C,TJHSST,7,1,1,1,1,1,0,1,0,1,0
+899,Eden He,Pennsylvania,9,DMV Math Circle,DMV Math Circle,7,1,1,0,1,1,1,1,0,1,0
+1305,Liang Christopher,,9,East Chapel Hill HS Team A,East Chapel Hill High school,7,1,1,1,1,0,0,1,1,1,0
+1306,Brandon Jia,,9,East Chapel Hill HS Team A,East Chapel Hill High school,7,1,1,1,1,0,0,1,1,1,0
+1307,Jason Sliwowski,,9,East Chapel Hill HS Team A,East Chapel Hill High school,7,1,1,1,1,0,0,1,0,1,1
+163,David Dong,Washington,9,East Chapel Hill HS Team A,East Chapel Hill High school,7,1,1,1,1,0,0,1,1,1,0
+1308,Roman  Mecholsky,,9,BBMC-math Delta,BBMC-math,7,1,1,1,1,1,0,0,0,1,1
+1309,Jahl Miraji-Khot,,29,Columbia Math Circle Team 1,Columbia Math Circle,6,1,1,1,0,1,0,1,0,1,0
+1310,Dylan Zhang,,29,Team,Club Name,6,1,1,1,1,0,0,1,0,1,0
+1311,Sarah Li,,29,McLean A,McLean Highlander Math League,6,1,1,1,1,1,0,0,0,1,0
+309,Aaron Wang,North Carolina,29,NCSSM Alpha,NCSSM Math Team,6,1,1,1,1,1,0,0,0,1,0
+740,Raghav Arun,North Carolina,29,NCSSM Alpha,NCSSM Math Team,6,1,1,1,1,1,0,0,0,1,0
+1312,Aaron Zhu,,29,NCSSM Beta,NCSSM Math Team,6,1,1,1,1,0,0,1,0,1,0
+1313,Srinivas Vijay Babu,,29,NCSSM Beta,NCSSM Math Team,6,1,1,1,1,0,0,1,0,1,0
+231,Ryan Karim,West Virginia,29,DMV Math Circle,DMV Math Circle,6,1,1,1,1,1,0,1,0,0,0
+1314,Thanh Can,,29,DMV Math Circle,DMV Math Circle,6,1,1,1,1,1,0,0,0,1,0
+1315,Ved Vainateya,,29,Cary Academy 2,Cary Academy 1,6,1,1,1,0,1,0,1,0,1,0
+1316,Avi Gupta,,29,MOO,Maryland United,6,1,1,1,1,1,0,0,0,1,0
+1317,Yuwei Li,,29,Shanghai Starriver Bilingual School,Shanghai Starriver Bilingual School,6,1,1,1,1,1,0,0,0,1,0
+490,Yanming Huang,Delaware,29,Shanghai Starriver Bilingual School,Shanghai Starriver Bilingual School,6,1,1,1,1,1,0,0,0,0,1
+1318,Angelo Chu,,29,TJ B,TJHSST,6,1,1,1,1,0,0,1,0,1,0
+1319,Ryan Singh,,29,TJ B,TJHSST,6,1,1,1,1,1,0,0,0,1,0
+1320,Jeffrey Du,,29,TJ C,TJHSST,6,1,1,1,1,0,0,1,0,1,0
+870,Shawn Bi,Virginia,29,TJ C,TJHSST,6,1,1,1,0,1,1,0,0,1,0
+1321,Yeeyung Li,,29,TJ D,TJHSST,6,1,1,1,1,1,0,0,0,1,0
+1322,William Li,,29,TJ D,TJHSST,6,1,1,1,1,1,0,0,0,1,0
+391,Watson Houck,,29,CMC - Harold,Charlotte Math Club,6,1,1,1,0,1,0,1,0,1,0
+1323,Ryan Chan,,29,Chantilly A,Chantilly Math Club,6,1,1,1,1,1,0,0,0,1,0
+1324,Ishidevesh Behera,,29,Ardrey Kell A Team,Ardrey Kell High School,6,1,1,0,1,1,0,1,0,1,0
+1325,Atharv Mittal,,29,Ardrey Kell A Team,Ardrey Kell High School,6,1,1,1,1,0,0,1,0,1,0
