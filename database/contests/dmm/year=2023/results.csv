@@ -1,6 +1,6 @@
 student_id,student_name,state,rank,team_name,club_name,score,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10
 343,Jason Lee,North Carolina,1,v_n(d),,,,,,,,,,,,
-10,Calvin Wang,Virginia,2,TJ A,TJHSST,,,,,,,,,,,,
-23,Jeffrey Yin,Virginia,3,McLean A,McLean Highlander Math League,,,,,,,,,,,,,
-29,Patrick Du,Virginia,4,TJ B,TJHSST,,,,,,,,,,,,,
-262,Aryan Raj,Virginia,5,BBMC-Math,,,,,,,,,,,,,,
+10,Calvin Wang,Virginia,2,TJ A,TJHSST,,,,,,,,,,,
+23,Jeffrey Yin,Virginia,3,McLean A,McLean Highlander Math League,,,,,,,,,,,
+29,Patrick Du,Virginia,4,TJ B,TJHSST,,,,,,,,,,,
+262,Aryan Raj,Virginia,5,BBMC-Math,,,,,,,,,,,
