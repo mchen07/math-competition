@@ -421,13 +421,13 @@ student_id,student_name,state,team_ids,alias,gender
 448,Raina Wu,,7,,female
 449,William Chenfeng Dai,,128,,male
 450,Minseok Eli Park,,12,,male
-451,Hankai Zhang,Michigan,34,,male
+451,Hankai Zhang,Michigan,34|332,,male
 452,Espen Slettnes,California,9,,male
 453,Shreyan Avi Paliwal,,64,,female
 454,Kavan Doctor,,60,,male
 455,Ryan Chin,Texas,24,,male
 456,Joseph Othman,New York,49,,male
-457,Ashley Zhu,New York,123,,female
+457,Ashley Zhu,New York,123|335,,female
 458,Aidan Duncan,,26,,male
 459,Zhara Elenska,,67,,female
 460,Peisong Li,,128,,male
@@ -1435,3 +1435,32 @@ student_id,student_name,state,team_ids,alias,gender
 1487,William Prasetyo,,309,,male
 1488,Bella Li,,308,,female
 1489,Leon Du,,293,,male
+1490,Alex Hu,California,18,,male
+1491,Samuel Charney,Massachusetts,26,,male
+1492,Nicole Shen,California,328,,female
+1493,Daniel Yang,"Ontario, Canada",329,,male
+1494,Jeffrey Fang,Oregon,64,,male
+1495,Jefferey,,330,,male
+1496,Cecilia Sun,Washington,164,,female
+1497,Brandon Lou,New York,49,,male
+1498,Joy An,,331,,female
+1499,Jiakang Chen,California,80,,male
+1500,Kevin Yang,Minnesota,78,,male
+1501,Justin Zhang,New Jersey,45,,male
+1502,Isabella Quan,Texas,24,,female
+1503,Maxwell Zen,California,123,,male
+1504,Jason Jiang,,334,,male
+1505,Utkarsh Goyal,Virginia,122,,male
+1506,Nathan Cho,Maryland,65,,male
+1507,Jasen Plamenov Penchev,,338,,male
+1508,Eric Yang,California,339,,male
+1509,Maximus Lu,New Jersey,45,,male
+1510,Xinyi Guo,California,340,,male
+1511,Maximus Liu,,73,,male
+1512,Bo Sun,,32,,male
+1513,Xuezhi Wang,,337,,male
+1514,Jerry Liang,New York,49,,male
+1515,Nicholas Song,California,2,,male
+1516,Justin Li,California,59,,male
+1517,Chengcheng Qian,,342,,male
+1518,Matthew Ji Chen,Minnesota,78,,male

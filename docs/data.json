@@ -406,6 +406,30 @@
           "grade": "8"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Alexander Wang",
+          "rank": "29",
+          "score": "21.89"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Alexander Wang",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Alexander Wang",
+          "rank": "17",
+          "score": "23.03"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -7094,6 +7118,14 @@
           "finals_score": "6"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Christopher Qiu",
+          "rank": "6",
+          "score": "27.17"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -7355,6 +7387,22 @@
           "award": "Honors"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Henry Jiang",
+          "rank": "6",
+          "score": "27.17"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Henry Jiang",
+          "rank": "39",
+          "score": "21.0"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -7565,6 +7613,14 @@
           "state": "New Jersey",
           "rank": "S (Semi-finalist)",
           "grade": "8"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Evan Fan",
+          "rank": "14",
+          "score": "20.82"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -9077,6 +9133,14 @@
           "prize": "$7000"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Angela Liu",
+          "rank": "18",
+          "score": "21.95"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -9299,6 +9363,14 @@
           "student_name": "Owen J Zhang",
           "rank": "5",
           "score": "25.17"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Owen J Zhang",
+          "rank": "14",
+          "score": "20.82"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -10101,6 +10173,14 @@
           "award": "Honors"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Rohan Das",
+          "rank": "10",
+          "score": "23.95"
+        },
+        {
           "contest": "ARML",
           "year": "2022",
           "contest_slug": "arml",
@@ -10338,6 +10418,14 @@
           "finals_score": "11"
         },
         {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Andrew Lin",
+          "rank": "14",
+          "score": "23.95"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -10563,6 +10651,14 @@
           "finals_score": "14"
         },
         {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Marvin Mao",
+          "rank": "20",
+          "score": "21.82"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -10704,6 +10800,22 @@
           "prize": "$50,000"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Jessica Wan",
+          "rank": "18",
+          "score": "21.95"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Jessica Wan",
+          "rank": "3",
+          "score": "28.17"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -10775,6 +10887,22 @@
           "student_name": "Razzi Masroor",
           "state": "Michigan",
           "award": "Silver"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Razzi H. Masroor",
+          "rank": "32",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Razzi H. Masroor",
+          "rank": "20",
+          "score": "21.82"
         },
         {
           "contest": "HMMT February",
@@ -11158,6 +11286,14 @@
           "student_name": "Elliott Liu",
           "state": "California",
           "award": "Honors"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Elliott Liu",
+          "rank": "18",
+          "score": "21.95"
         }
       ]
     },
@@ -11562,6 +11698,22 @@
           "award": "Honors"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Allen Wang",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Allen Wang",
+          "rank": "20",
+          "score": "21.82"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -11727,6 +11879,14 @@
           "place": "7",
           "score": "10",
           "prize": "$2000"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Annabel Ge",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -11922,6 +12082,14 @@
           "rank": "7",
           "total_score": "3.276",
           "finals_score": "14"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Wilbert Chu",
+          "rank": "32",
+          "score": "20.82"
         },
         {
           "contest": "HMMT February",
@@ -12325,6 +12493,14 @@
           "finals_score": "10"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Aaron Hu",
+          "rank": "18",
+          "score": "21.95"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -12406,6 +12582,22 @@
           "student_name": "Justin Zhang",
           "state": "California",
           "award": "Honors"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Justin Zhang",
+          "rank": "18",
+          "score": "21.95"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Justin Zhang",
+          "rank": "14",
+          "score": "20.82"
         },
         {
           "contest": "HMMT February",
@@ -12512,6 +12704,14 @@
           "student_name": "Advaith Avadhanam",
           "state": "California",
           "award": "Silver"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Advaith Avadhanam",
+          "rank": "20",
+          "score": "21.82"
         }
       ]
     },
@@ -12645,6 +12845,14 @@
           "algebra_score": "22.09",
           "geometry_score": "19.82",
           "combinatorics_score": "16.79"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Jason Zhang",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -12845,6 +13053,22 @@
           "student_name": "David Jiahui Zhang",
           "rank": "50",
           "score": "24.19"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "David Jiahui Zhang",
+          "rank": "32",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "David Jiahui Zhang",
+          "rank": "14",
+          "score": "20.82"
         },
         {
           "contest": "HMMT February",
@@ -13075,6 +13299,14 @@
           "place": "10",
           "score": "9",
           "prize": "$300"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Vivian Loh",
+          "rank": "32",
+          "score": "20.82"
         }
       ]
     },
@@ -13279,6 +13511,14 @@
           "finals_score": "13"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Pavan Jayaraman",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
           "contest": "ARML",
           "year": "2022",
           "contest_slug": "arml",
@@ -13468,6 +13708,14 @@
           "student_name": "Brian Zhang",
           "state": "North Carolina",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Brian Zhang",
+          "rank": "44",
+          "score": "19.93"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -13703,6 +13951,22 @@
           "p8": "0"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Jason Mao",
+          "rank": "18",
+          "score": "21.95"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Jason Mao",
+          "rank": "20",
+          "score": "21.82"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -13888,6 +14152,30 @@
           "international_rank": "23",
           "total_score": "36",
           "award": "Gold"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Eric Shen",
+          "rank": "3",
+          "score": "29.31"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Eric Shen",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Eric Shen",
+          "rank": "20",
+          "score": "21.82"
         },
         {
           "contest": "HMMT February",
@@ -14116,6 +14404,14 @@
           "finals_score": "13"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Alex Zhao",
+          "rank": "3",
+          "score": "28.17"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -14213,6 +14509,30 @@
           "rank": "17",
           "total_score": "2.851",
           "finals_score": "8"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Skyler Le",
+          "rank": "32",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Skyler Le",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Skyler Le",
+          "rank": "20",
+          "score": "21.82"
         },
         {
           "contest": "HMMT February",
@@ -14350,6 +14670,30 @@
           "prize": "$20,000"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Isabella Zhu",
+          "rank": "6",
+          "score": "27.17"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Isabella Zhu",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Isabella Zhu",
+          "rank": "18",
+          "score": "21.89"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -14429,6 +14773,14 @@
           "p6": "0",
           "p7": "1",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Amol Rama",
+          "rank": "2",
+          "score": "35.67"
         },
         {
           "contest": "HMMT February",
@@ -14624,6 +14976,22 @@
           "award": "Gold"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Huaye Lin",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Huaye Lin",
+          "rank": "6",
+          "score": "29.32"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -14669,6 +15037,22 @@
           "algebra_score": "21.89",
           "geometry_score": "24.96",
           "combinatorics_score": "33.59"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Alex Li",
+          "rank": "18",
+          "score": "21.95"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Alex Li",
+          "rank": "14",
+          "score": "20.82"
         },
         {
           "contest": "HMMT February",
@@ -14896,6 +15280,22 @@
           "combinatorics_score": "33.59"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Suyash Pandit",
+          "rank": "6",
+          "score": "27.17"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Suyash Pandit",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -14941,6 +15341,14 @@
           "algebra_score": "25.22",
           "geometry_score": "18.67",
           "combinatorics_score": "33.59"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Kevin Joshua Wu",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -14977,6 +15385,30 @@
           "algebra_score": "29.24",
           "geometry_score": "26.15",
           "combinatorics_score": "21.82"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Aaron Guo",
+          "rank": "6",
+          "score": "27.17"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Aaron Guo",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Aaron Guo",
+          "rank": "18",
+          "score": "21.89"
         },
         {
           "contest": "HMMT February",
@@ -15078,6 +15510,22 @@
           "combinatorics_score": "17.78"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Boris Tsvetanov Gachevski",
+          "rank": "18",
+          "score": "21.95"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Boris Tsvetanov Gachevski",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -15159,6 +15607,30 @@
           "international_rank": "12",
           "total_score": "40",
           "award": "Gold"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Derek Liu",
+          "rank": "6",
+          "score": "27.17"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Derek Liu",
+          "rank": "6",
+          "score": "26.14"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Derek Liu",
+          "rank": "3",
+          "score": "31.44"
         },
         {
           "contest": "HMMT February",
@@ -15411,6 +15883,14 @@
           "student_name": "Karthik Vedula",
           "state": "Florida",
           "award": "Silver"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Karthik Vedula",
+          "rank": "3",
+          "score": "29.31"
         },
         {
           "contest": "HMMT February",
@@ -16064,6 +16544,22 @@
           "finals_score": "6"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Nilay Mishra",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Nilay Mishra",
+          "rank": "20",
+          "score": "21.82"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16321,6 +16817,30 @@
           "award": "Gold"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Luke Robitaille",
+          "rank": "1",
+          "score": "53.81"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Luke Robitaille",
+          "rank": "1",
+          "score": "48.53"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Luke Robitaille",
+          "rank": "1",
+          "score": "43.08"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16367,6 +16887,30 @@
           "award": "Bronze"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Dylan Yu",
+          "rank": "2",
+          "score": "43.08"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Dylan Yu",
+          "rank": "2",
+          "score": "37.74"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Dylan Yu",
+          "rank": "8",
+          "score": "29.24"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16393,6 +16937,22 @@
           "student_name": "Rishabh Das",
           "state": "New York",
           "award": "Gold"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Rishabh Das",
+          "rank": "7",
+          "score": "25.21"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Rishabh Das",
+          "rank": "7",
+          "score": "29.31"
         },
         {
           "contest": "HMMT February",
@@ -16423,6 +16983,22 @@
           "award": "Silver"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Reagan Choi",
+          "rank": "8",
+          "score": "24.12"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Reagan Choi",
+          "rank": "10",
+          "score": "28.17"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16442,6 +17018,22 @@
       "state": "",
       "gender": "male",
       "records": [
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Andrew Lee",
+          "rank": "6",
+          "score": "27.17"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Andrew Lee",
+          "rank": "48",
+          "score": "18.74"
+        },
         {
           "contest": "HMMT February",
           "year": "2022",
@@ -16469,6 +17061,22 @@
           "student_name": "Adi Jasuja",
           "state": "New York",
           "award": "Silver"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Adi Jasuja",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Adi Jasuja",
+          "rank": "3",
+          "score": "31.44"
         },
         {
           "contest": "HMMT February",
@@ -16509,6 +17117,22 @@
           "award": "Silver"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Andrew Gu",
+          "rank": "5",
+          "score": "28.24"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Andrew Gu",
+          "rank": "20",
+          "score": "21.82"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16539,6 +17163,14 @@
       "gender": "male",
       "records": [
         {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Raymond Feng",
+          "rank": "5",
+          "score": "29.38"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16558,6 +17190,22 @@
       "state": "",
       "gender": "male",
       "records": [
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Johan Ko",
+          "rank": "29",
+          "score": "21.89"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Johan Ko",
+          "rank": "14",
+          "score": "20.82"
+        },
         {
           "contest": "HMMT February",
           "year": "2022",
@@ -16585,6 +17233,22 @@
           "student_name": "Kevin Zhao",
           "state": "Massachusetts",
           "award": "Silver"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Kevin Zhao",
+          "rank": "13",
+          "score": "25.21"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Kevin Zhao",
+          "rank": "20",
+          "score": "21.82"
         },
         {
           "contest": "HMMT February",
@@ -16616,6 +17280,22 @@
       "gender": "male",
       "records": [
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Kenneth Ang Chen",
+          "rank": "14",
+          "score": "24.08"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Kenneth Ang Chen",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16642,6 +17322,22 @@
           "student_name": "Yuuki Sawanoi",
           "state": "Washington",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Yuuki Sawanoi",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Yuuki Sawanoi",
+          "rank": "20",
+          "score": "21.82"
         },
         {
           "contest": "HMMT February",
@@ -16680,6 +17376,14 @@
           "score": "26.14"
         },
         {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Edward Yu",
+          "rank": "8",
+          "score": "29.24"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16706,6 +17410,22 @@
           "student_name": "Rowechen Zhong",
           "state": "Texas",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Rowechen Zhong",
+          "rank": "32",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Rowechen Zhong",
+          "rank": "44",
+          "score": "18.85"
         },
         {
           "contest": "HMMT February",
@@ -16746,6 +17466,14 @@
           "award": "Silver"
         },
         {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Jack Albright",
+          "rank": "14",
+          "score": "23.95"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16775,6 +17503,14 @@
       "gender": "male",
       "records": [
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Linden Marcus Lee",
+          "rank": "3",
+          "score": "28.17"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16803,6 +17539,14 @@
           "award": "Honorable Mention"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Won Jang",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16822,6 +17566,22 @@
       "state": "",
       "gender": "male",
       "records": [
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Karthik Seetharaman",
+          "rank": "29",
+          "score": "21.89"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Karthik Seetharaman",
+          "rank": "14",
+          "score": "20.82"
+        },
         {
           "contest": "HMMT February",
           "year": "2022",
@@ -16858,6 +17618,22 @@
           "award": "Honors"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Eddie Wei",
+          "rank": "15",
+          "score": "23.01"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Eddie Wei",
+          "rank": "11",
+          "score": "21.92"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16886,6 +17662,14 @@
           "award": "Honorable Mention"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Jerry Liu",
+          "rank": "9",
+          "score": "24.07"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -16905,6 +17689,22 @@
       "state": "",
       "gender": "male",
       "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Benjamin Andrew Fan",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Benjamin Andrew Fan",
+          "rank": "20",
+          "score": "21.82"
+        },
         {
           "contest": "HMMT February",
           "year": "2022",
@@ -17013,6 +17813,22 @@
           "finals_score": "6"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Zani Xu",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Zani Xu",
+          "rank": "20",
+          "score": "21.82"
+        },
+        {
           "contest": "HMMT February",
           "year": "2022",
           "contest_slug": "hmmt-feb",
@@ -17039,6 +17855,14 @@
           "student_name": "Akash Madiraju",
           "state": "California",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Akash Madiraju",
+          "rank": "32",
+          "score": "20.82"
         },
         {
           "contest": "HMMT February",
@@ -18024,6 +18848,14 @@
           "student_name": "Michael Chen",
           "state": "New Jersey",
           "award": "Honors"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Michael Chen",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -23014,6 +23846,14 @@
           "student_name": "Samuel Wang",
           "state": "Virginia",
           "award": "Silver"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Samuel Wang",
+          "rank": "48",
+          "score": "18.74"
         }
       ]
     },
@@ -25304,6 +26144,14 @@
           "student_name": "Brandon Cai",
           "rank": "24",
           "score": "23.17"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Brandon Cai",
+          "rank": "10",
+          "score": "28.17"
         }
       ]
     },
@@ -28304,6 +29152,14 @@
           "finals_score": "0"
         },
         {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Sargam Mondal",
+          "rank": "46",
+          "score": "17.79"
+        },
+        {
           "contest": "ARML",
           "year": "2022",
           "contest_slug": "arml",
@@ -28716,6 +29572,14 @@
           "place": "8",
           "score": "10",
           "prize": "$2000"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Michelle Liang",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -28783,6 +29647,14 @@
           "student_name": "Eddie Qiao",
           "rank": "40",
           "score": "22.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Eddie Qiao",
+          "rank": "20",
+          "score": "21.82"
         }
       ]
     },
@@ -28907,6 +29779,14 @@
           "student_name": "William Chenfeng Dai",
           "rank": "40",
           "score": "22.82"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "William Chenfeng Dai",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -28974,6 +29854,14 @@
           "student_name": "Hankai Zhang",
           "state": "Michigan",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Hankai Zhang",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -29007,6 +29895,14 @@
           "student_name": "Espen Slettnes",
           "state": "California",
           "award": "Gold"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Espen Slettnes",
+          "rank": "12",
+          "score": "20.99"
         },
         {
           "contest": "ARML",
@@ -29050,6 +29946,14 @@
           "student_name": "Kavan Doctor",
           "rank": "23",
           "score": "28.24"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Kavan Doctor",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -29117,6 +30021,14 @@
           "p6": "0",
           "p7": "1",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Joseph Othman",
+          "rank": "15",
+          "score": "23.01"
         }
       ]
     },
@@ -29196,6 +30108,14 @@
           "student_name": "Ashley Zhu",
           "rank": "30",
           "score": "27.17"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Ashley Zhu",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -29338,6 +30258,14 @@
           "student_name": "Robin Said Sharif",
           "rank": "45",
           "score": "26.40"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Robin Said Sharif",
+          "rank": "20",
+          "score": "21.82"
         }
       ]
     },
@@ -32889,6 +33817,14 @@
           "student_name": "Henry Wang",
           "state": "California",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Henry Wang",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -34233,6 +35169,14 @@
           "student_name": "Benjamin Chen",
           "state": "Illinois",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Benjamin Chen",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -35837,6 +36781,14 @@
           "student_name": "Alex Chen",
           "state": "California",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Alex Chen",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -36288,6 +37240,14 @@
           "student_name": "William Chen",
           "state": "California",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "William Chen",
+          "rank": "20",
+          "score": "21.82"
         }
       ]
     },
@@ -39689,6 +40649,14 @@
           "student_name": "Chris Ge",
           "state": "California",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Chris Ge",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -40264,6 +41232,14 @@
           "prize": "Honorable Mention"
         },
         {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Catherine Li",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
           "contest": "ARML",
           "year": "2022",
           "contest_slug": "arml",
@@ -40497,6 +41473,14 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Lucas Tang",
+          "rank": "15",
+          "score": "23.01"
         }
       ]
     },
@@ -40947,6 +41931,14 @@
           "student_name": "Justin Lee",
           "state": "California",
           "award": "Silver"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Justin Lee",
+          "rank": "32",
+          "score": "20.82"
         }
       ]
     },
@@ -40998,6 +41990,14 @@
           "student_name": "Adam Tang",
           "state": "California",
           "award": "Silver"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Adam Tang",
+          "rank": "46",
+          "score": "17.79"
         },
         {
           "contest": "ARML",
@@ -41059,6 +42059,14 @@
           "student_name": "Kaixin Wang",
           "state": "China",
           "award": "Silver"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Kaixin Wang",
+          "rank": "12",
+          "score": "25.16"
         }
       ]
     },
@@ -41144,6 +42152,14 @@
           "student_name": "Daniel Yuan",
           "state": "Maryland",
           "award": "Silver"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Daniel Yuan",
+          "rank": "46",
+          "score": "18.81"
         }
       ]
     },
@@ -41289,6 +42305,22 @@
           "student_name": "Paul Hamrick",
           "state": "California",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Paul Hamrick",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Paul Hamrick",
+          "rank": "40",
+          "score": "20.99"
         }
       ]
     },
@@ -41306,6 +42338,22 @@
           "student_name": "Garrett Heller",
           "state": "Virginia",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Garrett Heller",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Garrett Heller",
+          "rank": "43",
+          "score": "18.87"
         }
       ]
     },
@@ -41357,6 +42405,14 @@
           "student_name": "Tristan Kay",
           "state": "Washington",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Tristan Kay",
+          "rank": "41",
+          "score": "19.85"
         }
       ]
     },
@@ -41391,6 +42447,14 @@
           "student_name": "Daeho Lee",
           "state": "California",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Daeho Lee",
+          "rank": "50",
+          "score": "17.73"
         }
       ]
     },
@@ -41527,6 +42591,22 @@
           "student_name": "Christopher Wu",
           "state": "Texas",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Christopher Wu",
+          "rank": "14",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Christopher Wu",
+          "rank": "16",
+          "score": "23.15"
         }
       ]
     },
@@ -41544,6 +42624,14 @@
           "student_name": "Daniel Xia",
           "state": "New Jersey",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Daniel Xia",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -41578,6 +42666,14 @@
           "student_name": "Owen Yang",
           "state": "Arizona",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Owen Yang",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -43817,6 +44913,22 @@
           "place": "11",
           "score": "9",
           "prize": "$300"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Olivia Xu",
+          "rank": "32",
+          "score": "20.82"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Olivia Xu",
+          "rank": "13",
+          "score": "20.93"
         }
       ]
     },
@@ -46028,6 +47140,14 @@
           "place": "18",
           "score": "8",
           "prize": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Saanvi Thummalapally",
+          "rank": "18",
+          "score": "21.95"
         }
       ]
     },
@@ -47441,6 +48561,14 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Neel Kolhe",
+          "rank": "20",
+          "score": "21.82"
         }
       ]
     },
@@ -47674,6 +48802,14 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Nikhil Mudumbi",
+          "rank": "14",
+          "score": "20.82"
         }
       ]
     },
@@ -48206,6 +49342,14 @@
           "rank": "39",
           "score": "9",
           "team": "Petunia"
+        },
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Ben Li",
+          "rank": "18",
+          "score": "21.95"
         }
       ]
     },
@@ -49045,6 +50189,507 @@
           "team": "A Kettle of Hawks"
         }
       ]
+    },
+    {
+      "id": 1490,
+      "name": "Alex Hu",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Alex Hu",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1491,
+      "name": "Samuel Charney",
+      "aliases": [],
+      "state": "Massachusetts",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Samuel Charney",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1492,
+      "name": "Nicole Shen",
+      "aliases": [],
+      "state": "California",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Nicole Shen",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1493,
+      "name": "Daniel Yang",
+      "aliases": [],
+      "state": "Ontario, Canada",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Daniel Yang",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1494,
+      "name": "Jeffrey Fang",
+      "aliases": [],
+      "state": "Oregon",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Jeffrey Fang",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1495,
+      "name": "Jefferey",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Jefferey",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1496,
+      "name": "Cecilia Sun",
+      "aliases": [],
+      "state": "Washington",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Cecilia Sun",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1497,
+      "name": "Brandon Lou",
+      "aliases": [],
+      "state": "New York",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Brandon Lou",
+          "rank": "46",
+          "score": "17.79"
+        },
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Brandon Lou",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1498,
+      "name": "Joy An",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Joy An",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1499,
+      "name": "Jiakang Chen",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Jiakang Chen",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1500,
+      "name": "Kevin Yang",
+      "aliases": [],
+      "state": "Minnesota",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Kevin Yang",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1501,
+      "name": "Justin Zhang",
+      "aliases": [],
+      "state": "New Jersey",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Justin Zhang",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1502,
+      "name": "Isabella Quan",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Isabella Quan",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1503,
+      "name": "Maxwell Zen",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Maxwell Zen",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1504,
+      "name": "Jason Jiang",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Jason Jiang",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1505,
+      "name": "Utkarsh Goyal",
+      "aliases": [],
+      "state": "Virginia",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Combinatorics",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-combo",
+          "student_name": "Utkarsh Goyal",
+          "rank": "14",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1506,
+      "name": "Nathan Cho",
+      "aliases": [],
+      "state": "Maryland",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Nathan Cho",
+          "rank": "13",
+          "score": "25.15"
+        }
+      ]
+    },
+    {
+      "id": 1507,
+      "name": "Jasen Plamenov Penchev",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Jasen Plamenov Penchev",
+          "rank": "20",
+          "score": "21.82"
+        }
+      ]
+    },
+    {
+      "id": 1508,
+      "name": "Eric Yang",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Eric Yang",
+          "rank": "20",
+          "score": "21.82"
+        }
+      ]
+    },
+    {
+      "id": 1509,
+      "name": "Maximus Lu",
+      "aliases": [],
+      "state": "New Jersey",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Maximus Lu",
+          "rank": "42",
+          "score": "18.93"
+        }
+      ]
+    },
+    {
+      "id": 1510,
+      "name": "Xinyi Guo",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Xinyi Guo",
+          "rank": "44",
+          "score": "18.85"
+        }
+      ]
+    },
+    {
+      "id": 1511,
+      "name": "Maximus Liu",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Maximus Liu",
+          "rank": "46",
+          "score": "18.81"
+        }
+      ]
+    },
+    {
+      "id": 1512,
+      "name": "Bo Sun",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Algebra & Number Theory",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-algebra-number-theory",
+          "student_name": "Bo Sun",
+          "rank": "48",
+          "score": "18.74"
+        }
+      ]
+    },
+    {
+      "id": 1513,
+      "name": "Xuezhi Wang",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Xuezhi Wang",
+          "rank": "18",
+          "score": "21.95"
+        }
+      ]
+    },
+    {
+      "id": 1514,
+      "name": "Jerry Liang",
+      "aliases": [],
+      "state": "New York",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Jerry Liang",
+          "rank": "32",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1515,
+      "name": "Nicholas Song",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Nicholas Song",
+          "rank": "32",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1516,
+      "name": "Justin Li",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Justin Li",
+          "rank": "32",
+          "score": "20.82"
+        }
+      ]
+    },
+    {
+      "id": 1517,
+      "name": "Chengcheng Qian",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Chengcheng Qian",
+          "rank": "44",
+          "score": "19.93"
+        }
+      ]
+    },
+    {
+      "id": 1518,
+      "name": "Matthew Ji Chen",
+      "aliases": [],
+      "state": "Minnesota",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT February — Geometry",
+          "year": "2022",
+          "contest_slug": "hmmt-feb-geometry",
+          "student_name": "Matthew Ji Chen",
+          "rank": "46",
+          "score": "17.79"
+        }
+      ]
     }
   ],
   "contests": {
@@ -49065,7 +50710,7 @@
     },
     "hmmt-feb": {
       "contest_name": "HMMT February",
-      "description": "Annual February Harvard-MIT Mathematics Tournament. Overall individual scores from the Algebra, Geometry, and Combinatorics rounds.",
+      "description": "Annual February Harvard-MIT Mathematics Tournament. Overall individual scores from the Algebra, Geometry, and Combinatorics rounds. Difficulty: mid-AIME to olympiad",
       "website": "https://www.hmmt.org/"
     },
     "hmmt-feb-algebra-number-theory": {
@@ -49207,18 +50852,21 @@
       "2026": "results.csv"
     },
     "hmmt-feb-algebra-number-theory": {
+      "2022": "results.csv",
       "2023": "results.csv",
       "2024": "results.csv",
       "2025": "results.csv",
       "2026": "results.csv"
     },
     "hmmt-feb-combo": {
+      "2022": "results.csv",
       "2023": "results.csv",
       "2024": "results.csv",
       "2025": "results.csv",
       "2026": "results.csv"
     },
     "hmmt-feb-geometry": {
+      "2022": "results.csv",
       "2023": "results.csv",
       "2024": "results.csv",
       "2025": "results.csv",
