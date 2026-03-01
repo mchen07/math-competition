@@ -1,0 +1,32 @@
+student_id,student_name,place,team,ind_score,tb_corr,tb_time,prize
+173,Luke Robitaille,1,Texas A1,10,2,147,"$1,500"
+434,Sargam Mondal,2,Central Jersey B1,10,2,327,"$1,250"
+180,Andrew Gu,3,Orange County A1,9,2,222,"$1,000"
+482,David Zhang,4,SFBA/NorCal A1,9,2,301,$750
+191,Rowechen Zhong,5,Texas A1,9,3,62,$500
+4,Liam Reddy,6,Utah B1,9,3,67,$500
+1165,Adam Tang,7,SFBA/NorCal A1,9,3,88,$500
+883,Jeff Lin,8,Lexington A1,9,3,97,$500
+402,Christopher Bao,9,Las Vegas Math Circle B1,9,3,120,$500
+125,Pavan Jayaraman,10,WWP^2 A1,8,2,105,$500
+56,Channing Yang,11,Texas A1,8,2,133,
+1411,Jake Frazer,12,Buchholz A1,8,2,182,
+135,Eric Shen,13,SFBA/NorCal A1,8,2,223,
+162,Alan Lee,14,SFBA/NorCal A1,8,2,245,
+878,Andrew Wen,15,Phillips Academy B1,8,2,308,
+156,Edward Xiong,16,WWP^2 A1,8,2,314,
+184,Kevin Zhao,17,Lexington A1,8,2,327,
+1108,William Dai,18,Texas A2,8,2,333,
+192,Jack Albright,19,SFBA/NorCal A1,8,3,66,
+99,Rohan Bodke,20,SFBA/NorCal A1,8,3,66,
+1180,Arnav Goel,21,Chicago A1,8,3,69,
+450,Minseok Eli Park,22,NC A1,8,3,73,
+1412,Isaac Zhu,23,NC A2,8,3,74,
+1127,Michelle Kang,24,Thomas Jefferson A1,8,3,78,
+1130,Catherine Li,25,SFBA/NorCal A1,8,3,108,
+1413,Samuel Goodman,26,Las Vegas Math Circle B1,8,3,112,
+140,Isabella Zhu,27,Thomas Jefferson A1,8,3,112,
+452,Espen Slettnes,28,SFBA/NorCal A1,8,3,138,
+81,Angela Liu,29,SFBA/NorCal A1,8,0,0,
+474,Benjamin Jeter,30,Wild Wild West B1,8,0,0,
+90,Rohan Das,31,SFBA/NorCal A1,8,0,0,
