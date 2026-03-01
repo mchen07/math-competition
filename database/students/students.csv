@@ -904,7 +904,6 @@ student_id,student_name,state,team_ids,alias,gender
 935,Eric Zhang,Illinois,,,male
 937,Charlie Qian,"Ontario, Canada",,,male
 938,Sam Shi,"Ontario, Canada",,,male
-939,Isaac Chen-Osborn,New Jersey,,,male
 940,Agastya Goel,California,,,male
 941,Sheldon Tan,California,,,male
 942,Mingze Wang,New Jersey,,,male
@@ -1394,3 +1393,4 @@ student_id,student_name,state,team_ids,alias,gender
 1444,Solon Sun,,,,male
 1445,Derek Xu,New York,,,male
 1446,Edward Li,Washington,,,male
+1447,William Wu,Illinois,175,,male

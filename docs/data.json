@@ -22812,6 +22812,14 @@
       "gender": "male",
       "records": [
         {
+          "contest": "USAMO",
+          "year": "2024",
+          "contest_slug": "amo",
+          "student_name": "Isaac Chen",
+          "state": "New Jersey",
+          "award": "Silver"
+        },
+        {
           "contest": "PUMaC — Geometry",
           "year": "2024",
           "contest_slug": "pumac-geometry",
@@ -30636,33 +30644,6 @@
       ]
     },
     {
-      "id": 679,
-      "name": "William Wu",
-      "aliases": [],
-      "state": "District of Columbia",
-      "gender": "male",
-      "records": [
-        {
-          "contest": "MATHCOUNTS National — Rankings",
-          "year": "2025",
-          "contest_slug": "mathcounts-national-rank",
-          "student_name": "William Wu",
-          "state": "Illinois",
-          "rank": "18",
-          "grade": "7"
-        },
-        {
-          "contest": "MATHCOUNTS National — Rankings",
-          "year": "2024",
-          "contest_slug": "mathcounts-national-rank",
-          "student_name": "William Wu",
-          "state": "Illinois",
-          "rank": "55",
-          "grade": "6"
-        }
-      ]
-    },
-    {
       "id": 681,
       "name": "Michael Wei",
       "aliases": [],
@@ -34820,23 +34801,6 @@
           "student_name": "Sam Shi",
           "state": "Ontario, Canada",
           "award": "Gold"
-        }
-      ]
-    },
-    {
-      "id": 939,
-      "name": "Isaac Chen-Osborn",
-      "aliases": [],
-      "state": "New Jersey",
-      "gender": "male",
-      "records": [
-        {
-          "contest": "USAMO",
-          "year": "2024",
-          "contest_slug": "amo",
-          "student_name": "Isaac Chen-Osborn",
-          "state": "New Jersey",
-          "award": "Silver"
         }
       ]
     },
@@ -46818,6 +46782,33 @@
           "state": "Washington",
           "rank": "53",
           "grade": "8"
+        }
+      ]
+    },
+    {
+      "id": 1447,
+      "name": "William Wu",
+      "aliases": [],
+      "state": "Illinois",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "MATHCOUNTS National — Rankings",
+          "year": "2025",
+          "contest_slug": "mathcounts-national-rank",
+          "student_name": "William Wu",
+          "state": "Illinois",
+          "rank": "18",
+          "grade": "7"
+        },
+        {
+          "contest": "MATHCOUNTS National — Rankings",
+          "year": "2024",
+          "contest_slug": "mathcounts-national-rank",
+          "student_name": "William Wu",
+          "state": "Illinois",
+          "rank": "55",
+          "grade": "6"
         }
       ]
     }
