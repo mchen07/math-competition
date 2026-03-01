@@ -943,7 +943,6 @@ student_id,student_name,state,team_ids,alias
 981,Raymon Zhang,Washington,,
 982,Brian Zhou,California,,
 984,Yoll Feng,Massachusetts,,
-985,Sophie Li,Texas,,
 986,Kyle Lin,Texas,,
 988,Kevin Long,New Jersey,,
 989,Richard Wang,Texas,,
@@ -1029,7 +1028,7 @@ student_id,student_name,state,team_ids,alias
 1074,Chaewoon Kyoung,Maryland,,
 1075,Eric Li,Massachusetts,,
 1076,Kevin Li,California,,
-1077,Xinyi Li,Texas,,
+1077,Xinyi Li,Texas,,Sophie Li
 1078,Jason Lian,New York,,
 1079,James Lin,California,,
 1080,Wesley Lin,New Jersey,,

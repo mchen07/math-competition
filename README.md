@@ -1,6 +1,8 @@
 # math-competition
 Math Competition Records
 
+Please report issues, official contest results, and cheating to **mathcontestintegrity@gmail.com**.
+
 ## Student search (GitHub Pages)
 
 A static frontend lets you search students by name and view their competition records.
