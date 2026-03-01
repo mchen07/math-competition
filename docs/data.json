@@ -37367,15 +37367,17 @@
     },
     {
       "id": 1330,
-      "name": "Shibao Skylar Huang",
-      "aliases": [],
+      "name": "Shibao Huang",
+      "aliases": [
+        "Skylar Huang"
+      ],
       "state": "New York",
       "records": [
         {
           "contest": "MPFG",
           "year": "2025",
           "contest_slug": "mpfg",
-          "student_name": "Shibao Skylar Huang",
+          "student_name": "Shibao (Skylar) Huang",
           "state": "New York",
           "grade": "12th",
           "school": "Stuyvesant HS",
@@ -37407,15 +37409,17 @@
     },
     {
       "id": 1332,
-      "name": "Yunong Melody Wu",
-      "aliases": [],
+      "name": "Yunong Wu",
+      "aliases": [
+        "Melody Wu"
+      ],
       "state": "New York",
       "records": [
         {
           "contest": "MPFG",
           "year": "2025",
           "contest_slug": "mpfg",
-          "student_name": "Yunong Melody Wu",
+          "student_name": "Yunong (Melody) Wu",
           "state": "New York",
           "grade": "10th",
           "school": "Rye Country Day School",
@@ -37603,12 +37607,12 @@
     "amo": {
       "contest_name": "USAMO",
       "description": "USA Mathematical Olympiad. Top-tier national math olympiad for high school students.",
-      "website": "https://www.maa.org/math-competitions/usamo"
+      "website": "https://maa.org/"
     },
     "jmo": {
       "contest_name": "USAJMO",
       "description": "USA Junior Mathematical Olympiad. National math olympiad for younger high school students.",
-      "website": "https://www.maa.org/math-competitions/usajmo"
+      "website": "https://maa.org/"
     },
     "hmmt-feb": {
       "contest_name": "HMMT February",

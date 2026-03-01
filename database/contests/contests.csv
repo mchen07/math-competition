@@ -1,7 +1,7 @@
 folder_name,contest_name,description,website
 imo,IMO,International Mathematical Olympiad. Official results by country and year.,https://www.imo-official.org/
-amo,USAMO,USA Mathematical Olympiad. Top-tier national math olympiad for high school students.,https://www.maa.org/math-competitions/usamo
-jmo,USAJMO,USA Junior Mathematical Olympiad. National math olympiad for younger high school students.,https://www.maa.org/math-competitions/usajmo
+amo,USAMO,USA Mathematical Olympiad. Top-tier national math olympiad for high school students.,https://maa.org/
+jmo,USAJMO,USA Junior Mathematical Olympiad. National math olympiad for younger high school students.,https://maa.org/
 hmmt-feb,HMMT February,"Annual February Harvard-MIT Mathematics Tournament. Overall individual scores from the Algebra, Geometry, and Combinatorics rounds.",https://www.hmmt.org/
 hmmt-feb-algebra-number-theory,HMMT February — Algebra & Number Theory,Algebra and Number Theory subject test at the February HMMT.,https://www.hmmt.org/
 hmmt-feb-geometry,HMMT February — Geometry,Geometry subject test at the February HMMT.,https://www.hmmt.org/
