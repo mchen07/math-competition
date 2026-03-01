@@ -222,6 +222,8 @@
   function renderTopStudentsByRecords() {
     if (!awardsRankingListEl) return;
     var students = data.students || [];
+    var totalCountEl = document.getElementById("total-student-count");
+    if (totalCountEl) totalCountEl.textContent = String(students.length);
     var counts = [];
     if (students && students.length) {
       for (var i = 0; i < students.length; i++) {
