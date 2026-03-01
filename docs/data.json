@@ -146,9 +146,7 @@
           "student_name": "Alexander Wang",
           "place": "36",
           "site": "P",
-          "team": "Lehigh Valley A1",
-          "tb_corr": "1",
-          "tb_time": "365"
+          "team": "Lehigh Valley A1"
         },
         {
           "contest": "USAMO",
@@ -247,8 +245,6 @@
           "place": "1",
           "team": "Lehigh Valley A",
           "ind_score": "10",
-          "tb_corr": "1",
-          "tb_time": "226",
           "prize": "$1,500"
         },
         {
@@ -688,9 +684,7 @@
           "student_name": "Oron Wang",
           "place": "26",
           "site": "S",
-          "team": "PEA Lions A1",
-          "tb_corr": "1",
-          "tb_time": "222"
+          "team": "PEA Lions A1"
         },
         {
           "contest": "USAJMO",
@@ -779,8 +773,6 @@
           "place": "7",
           "team": "Phillips Exeter Academy Red A1",
           "ind_score": "9",
-          "tb_corr": "2",
-          "tb_time": "27",
           "prize": "$750"
         },
         {
@@ -982,9 +974,7 @@
           "student_name": "Liam Reddy",
           "place": "23",
           "site": "N",
-          "team": "Utah B1",
-          "tb_corr": "1",
-          "tb_time": "212"
+          "team": "Utah B1"
         },
         {
           "contest": "USAMO",
@@ -1020,9 +1010,7 @@
           "student_name": "Liam Reddy",
           "place": "24",
           "team": "Utah B1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "44"
+          "ind_score": "8"
         },
         {
           "contest": "USAMO",
@@ -1058,8 +1046,6 @@
           "place": "6",
           "team": "Utah B1",
           "ind_score": "9",
-          "tb_corr": "3",
-          "tb_time": "67",
           "prize": "$500"
         },
         {
@@ -1471,9 +1457,7 @@
           "student_name": "Vincent Wang",
           "place": "30",
           "site": "I",
-          "team": "Texas A1",
-          "tb_corr": "1",
-          "tb_time": "280"
+          "team": "Texas A1"
         },
         {
           "contest": "PUMaC — Number Theory",
@@ -1787,9 +1771,7 @@
           "student_name": "Ruilin Wang",
           "place": "35",
           "site": "P",
-          "team": "TJHSST A1",
-          "tb_corr": "1",
-          "tb_time": "348"
+          "team": "TJHSST A1"
         },
         {
           "contest": "USAMO",
@@ -1870,8 +1852,6 @@
           "place": "9",
           "team": "TJHSST A1",
           "ind_score": "9",
-          "tb_corr": "2",
-          "tb_time": "60",
           "prize": "$750"
         },
         {
@@ -2353,9 +2333,7 @@
           "student_name": "Michael Zhao",
           "place": "45",
           "site": "I",
-          "team": "Texas A1",
-          "tb_corr": "2",
-          "tb_time": "96"
+          "team": "Texas A1"
         },
         {
           "contest": "USAMO",
@@ -2389,8 +2367,6 @@
           "place": "10",
           "team": "Texas A",
           "ind_score": "9",
-          "tb_corr": "2",
-          "tb_time": "97",
           "prize": "$750"
         },
         {
@@ -2533,8 +2509,6 @@
           "place": "2",
           "site": "I",
           "team": "Texas A1",
-          "tb_corr": "1",
-          "tb_time": "80",
           "prize": "$1,250"
         },
         {
@@ -2715,8 +2689,6 @@
           "place": "5",
           "site": "I",
           "team": "Texas A2",
-          "tb_corr": "1",
-          "tb_time": "100",
           "prize": "$1,000"
         }
       ]
@@ -2789,9 +2761,7 @@
           "student_name": "Dylan Wang",
           "place": "51",
           "site": "N",
-          "team": "SFBA/NorCal A2",
-          "tb_corr": "2",
-          "tb_time": "209"
+          "team": "SFBA/NorCal A2"
         }
       ]
     },
@@ -2912,9 +2882,7 @@
           "student_name": "Vihaan Gupta",
           "place": "26",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "46"
+          "ind_score": "8"
         }
       ]
     },
@@ -3180,9 +3148,7 @@
           "student_name": "Ian Rui",
           "place": "46",
           "site": "N",
-          "team": "Washington A1",
-          "tb_corr": "2",
-          "tb_time": "100"
+          "team": "Washington A1"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -3298,8 +3264,6 @@
           "place": "13",
           "team": "Northern Virginia / Fairfax B1",
           "ind_score": "9",
-          "tb_corr": "3",
-          "tb_time": "37",
           "prize": "$500"
         },
         {
@@ -3596,9 +3560,7 @@
           "student_name": "Rohan Garg",
           "place": "31",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "66"
+          "ind_score": "8"
         },
         {
           "contest": "USAJMO",
@@ -4611,8 +4573,6 @@
           "place": "2",
           "team": "Ohio B",
           "ind_score": "10",
-          "tb_corr": "2",
-          "tb_time": "265",
           "prize": "$1,250"
         },
         {
@@ -5116,8 +5076,6 @@
           "place": "3",
           "site": "N",
           "team": "SFBA/NorCal A1",
-          "tb_corr": "1",
-          "tb_time": "81",
           "prize": "$1,250"
         },
         {
@@ -5461,8 +5419,6 @@
           "place": "14",
           "site": "P",
           "team": "Lehigh Valley A1",
-          "tb_corr": "1",
-          "tb_time": "153",
           "prize": "$500"
         },
         {
@@ -5570,9 +5526,7 @@
           "student_name": "Benjamin Song",
           "place": "47",
           "site": "P",
-          "team": "Upstate New York B1",
-          "tb_corr": "2",
-          "tb_time": "113"
+          "team": "Upstate New York B1"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -6212,8 +6166,6 @@
           "place": "8",
           "site": "W",
           "team": "Georgia A1",
-          "tb_corr": "1",
-          "tb_time": "121",
           "prize": "$750"
         },
         {
@@ -6232,8 +6184,6 @@
           "place": "18",
           "team": "Georgia A1",
           "ind_score": "8",
-          "tb_corr": "1",
-          "tb_time": "460",
           "prize": "$500"
         },
         {
@@ -6814,8 +6764,6 @@
           "place": "18",
           "site": "I",
           "team": "Texas A1",
-          "tb_corr": "1",
-          "tb_time": "191",
           "prize": "$500"
         },
         {
@@ -6930,9 +6878,7 @@
           "student_name": "Channing Yang",
           "place": "11",
           "team": "Texas A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "133"
+          "ind_score": "8"
         }
       ]
     },
@@ -6994,8 +6940,6 @@
           "place": "1",
           "site": "P",
           "team": "Central Jersey A1",
-          "tb_corr": "1",
-          "tb_time": "67",
           "prize": "$1,500"
         },
         {
@@ -7031,8 +6975,6 @@
           "place": "12",
           "team": "Central Jersey A1",
           "ind_score": "9",
-          "tb_corr": "2",
-          "tb_time": "135",
           "prize": "$500"
         },
         {
@@ -7161,9 +7103,7 @@
           "student_name": "Hannah Fox",
           "place": "33",
           "site": "N",
-          "team": "SFBA/NorCal A1",
-          "tb_corr": "1",
-          "tb_time": "330"
+          "team": "SFBA/NorCal A1"
         },
         {
           "contest": "USAMO",
@@ -8244,9 +8184,7 @@
           "student_name": "Kevin Liu",
           "place": "39",
           "team": "Western PA B1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "125"
+          "ind_score": "8"
         },
         {
           "contest": "USAJMO",
@@ -8509,9 +8447,7 @@
           "student_name": "Kiran Reddy",
           "place": "50",
           "site": "N",
-          "team": "Utah B1",
-          "tb_corr": "2",
-          "tb_time": "199"
+          "team": "Utah B1"
         },
         {
           "contest": "USAMO",
@@ -8863,9 +8799,7 @@
           "student_name": "Lerchen Zhong",
           "place": "28",
           "team": "Texas A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "57"
+          "ind_score": "8"
         },
         {
           "contest": "USAMO",
@@ -9061,9 +8995,7 @@
           "student_name": "Angela Liu",
           "place": "29",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "0",
-          "tb_time": "0"
+          "ind_score": "8"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -9118,8 +9050,6 @@
           "place": "20 (tie)",
           "site": "I",
           "team": "Iowa",
-          "tb_corr": "1",
-          "tb_time": "207",
           "prize": "$500"
         },
         {
@@ -9533,9 +9463,7 @@
           "student_name": "Vikram Sarkar",
           "place": "39",
           "site": "S",
-          "team": "Connecticut A1",
-          "tb_corr": "1",
-          "tb_time": "413"
+          "team": "Connecticut A1"
         },
         {
           "contest": "USAJMO",
@@ -9848,8 +9776,6 @@
           "place": "8",
           "team": "Connecticut A1",
           "ind_score": "9",
-          "tb_corr": "2",
-          "tb_time": "28",
           "prize": "$750"
         },
         {
@@ -10048,8 +9974,6 @@
           "place": "4",
           "team": "SFBA/NorCal A1",
           "ind_score": "9",
-          "tb_corr": "1",
-          "tb_time": "252",
           "prize": "$1,000"
         },
         {
@@ -10075,9 +9999,7 @@
           "student_name": "Rohan Das",
           "place": "31",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "0",
-          "tb_time": "0"
+          "ind_score": "8"
         }
       ]
     },
@@ -10193,8 +10115,6 @@
           "place": "6",
           "team": "Lehigh Valley A",
           "ind_score": "9",
-          "tb_corr": "1",
-          "tb_time": "336",
           "prize": "$1,000"
         },
         {
@@ -10388,9 +10308,7 @@
           "student_name": "Marvin Mao",
           "place": "37",
           "team": "Bergen County Academies A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "121"
+          "ind_score": "8"
         },
         {
           "contest": "USAMO",
@@ -11088,9 +11006,7 @@
           "student_name": "Elliott Liu",
           "place": "33",
           "team": "San Diego A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "89"
+          "ind_score": "8"
         },
         {
           "contest": "USAMO",
@@ -11176,8 +11092,6 @@
           "place": "4",
           "site": "N",
           "team": "SFBA/NorCal A1",
-          "tb_corr": "1",
-          "tb_time": "82",
           "prize": "$1,000"
         },
         {
@@ -11238,9 +11152,7 @@
           "student_name": "Rohan Bodke",
           "place": "20",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "3",
-          "tb_time": "66"
+          "ind_score": "8"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -11330,9 +11242,7 @@
           "student_name": "Andrew Li",
           "place": "23",
           "team": "NYC A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "40"
+          "ind_score": "8"
         },
         {
           "contest": "PUMaC — Number Theory",
@@ -11817,8 +11727,6 @@
           "place": "16",
           "team": "Chicago A1",
           "ind_score": "8",
-          "tb_corr": "1",
-          "tb_time": "372",
           "prize": "$500"
         },
         {
@@ -12344,9 +12252,7 @@
           "student_name": "Justin Zhang",
           "place": "43",
           "team": "San Diego A1",
-          "ind_score": "8",
-          "tb_corr": "4",
-          "tb_time": "0"
+          "ind_score": "8"
         },
         {
           "contest": "HMMT February — Geometry",
@@ -12891,9 +12797,7 @@
           "student_name": "Vivian Loh",
           "place": "35",
           "team": "Western PA B",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "112"
+          "ind_score": "8"
         },
         {
           "contest": "USAMO",
@@ -13125,8 +13029,6 @@
           "place": "20",
           "team": "WWP^2 A1",
           "ind_score": "8",
-          "tb_corr": "1",
-          "tb_time": "532",
           "prize": "$500"
         },
         {
@@ -13249,8 +13151,6 @@
           "place": "10",
           "team": "WWP^2 A1",
           "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "105",
           "prize": "$500"
         }
       ]
@@ -13476,8 +13376,6 @@
           "place": "19",
           "site": "P",
           "team": "Lehigh Valley A1",
-          "tb_corr": "1",
-          "tb_time": "194",
           "prize": "$500"
         },
         {
@@ -13547,8 +13445,6 @@
           "place": "17",
           "team": "Lehigh Valley A1",
           "ind_score": "8",
-          "tb_corr": "1",
-          "tb_time": "416",
           "prize": "$500"
         },
         {
@@ -13867,9 +13763,7 @@
           "student_name": "Eric Shen",
           "place": "13",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "223"
+          "ind_score": "8"
         }
       ]
     },
@@ -14329,9 +14223,7 @@
           "student_name": "Isabella Zhu",
           "place": "27",
           "team": "Thomas Jefferson A1",
-          "ind_score": "8",
-          "tb_corr": "3",
-          "tb_time": "112"
+          "ind_score": "8"
         }
       ]
     },
@@ -15220,9 +15112,7 @@
           "student_name": "Edward Xiong",
           "place": "16",
           "team": "WWP^2 A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "314"
+          "ind_score": "8"
         }
       ]
     },
@@ -15562,9 +15452,7 @@
           "student_name": "Alan Lee",
           "place": "14",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "245"
+          "ind_score": "8"
         }
       ]
     },
@@ -16307,8 +16195,6 @@
           "place": "1",
           "team": "Texas A1",
           "ind_score": "10",
-          "tb_corr": "2",
-          "tb_time": "147",
           "prize": "$1,500"
         }
       ]
@@ -16497,8 +16383,6 @@
           "place": "3",
           "team": "Orange County A1",
           "ind_score": "9",
-          "tb_corr": "2",
-          "tb_time": "222",
           "prize": "$1,000"
         }
       ]
@@ -16576,9 +16460,7 @@
           "student_name": "Kevin Zhao",
           "place": "17",
           "team": "Lexington A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "327"
+          "ind_score": "8"
         }
       ]
     },
@@ -16700,8 +16582,6 @@
           "place": "5",
           "team": "Texas A1",
           "ind_score": "9",
-          "tb_corr": "3",
-          "tb_time": "62",
           "prize": "$500"
         }
       ]
@@ -16739,9 +16619,7 @@
           "student_name": "Jack Albright",
           "place": "19",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "3",
-          "tb_time": "66"
+          "ind_score": "8"
         }
       ]
     },
@@ -17114,9 +16992,7 @@
           "student_name": "Alexander Svoronos",
           "place": "28",
           "site": "S",
-          "team": "Connecticut A1",
-          "tb_corr": "1",
-          "tb_time": "253"
+          "team": "Connecticut A1"
         },
         {
           "contest": "PUMaC — Number Theory",
@@ -17342,8 +17218,6 @@
           "place": "7",
           "site": "P",
           "team": "Montgomery B1",
-          "tb_corr": "1",
-          "tb_time": "117",
           "prize": "$750"
         }
       ]
@@ -17727,9 +17601,7 @@
           "student_name": "Darren Han",
           "place": "38",
           "site": "I",
-          "team": "Texas A1",
-          "tb_corr": "1",
-          "tb_time": "409"
+          "team": "Texas A1"
         },
         {
           "contest": "USAMO",
@@ -17806,9 +17678,7 @@
           "student_name": "Darren Han",
           "place": "42",
           "team": "Texas A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "251"
+          "ind_score": "8"
         },
         {
           "contest": "USAJMO",
@@ -18769,9 +18639,7 @@
           "student_name": "George Paret",
           "place": "57",
           "site": "W",
-          "team": "Frazer A2",
-          "tb_corr": "3",
-          "tb_time": "134"
+          "team": "Frazer A2"
         }
       ]
     },
@@ -19971,9 +19839,7 @@
           "student_name": "Shaheem Samsudeen",
           "place": "29",
           "site": "I",
-          "team": "Texas A3",
-          "tb_corr": "1",
-          "tb_time": "265"
+          "team": "Texas A3"
         }
       ]
     },
@@ -21618,9 +21484,7 @@
           "student_name": "Aprameya Tripathy",
           "place": "38",
           "team": "WWP^2 B1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "125"
+          "ind_score": "8"
         },
         {
           "contest": "USAMO",
@@ -22486,9 +22350,7 @@
           "student_name": "Kyle Wu",
           "place": "31",
           "site": "P",
-          "team": "NYC A1",
-          "tb_corr": "1",
-          "tb_time": "287"
+          "team": "NYC A1"
         },
         {
           "contest": "USAJMO",
@@ -24349,8 +24211,6 @@
           "place": "11",
           "site": "N",
           "team": "Washington A1",
-          "tb_corr": "1",
-          "tb_time": "130",
           "prize": "$500"
         }
       ]
@@ -24922,8 +24782,6 @@
           "place": "10",
           "site": "P",
           "team": "Western PA A1",
-          "tb_corr": "1",
-          "tb_time": "128",
           "prize": "$750"
         },
         {
@@ -24933,9 +24791,7 @@
           "student_name": "Soham Dam",
           "place": "32",
           "team": "Western PA B1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "79"
+          "ind_score": "8"
         },
         {
           "contest": "USAJMO",
@@ -25103,9 +24959,7 @@
           "student_name": "Eric Ding",
           "place": "27",
           "team": "Minnesota B1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "48"
+          "ind_score": "8"
         }
       ]
     },
@@ -25366,9 +25220,7 @@
           "student_name": "Michael Luo",
           "place": "64",
           "site": "I",
-          "team": "Minnesota B1",
-          "tb_corr": "4",
-          "tb_time": "0"
+          "team": "Minnesota B1"
         }
       ]
     },
@@ -25414,9 +25266,7 @@
           "student_name": "Ekam Kaur",
           "place": "22",
           "site": "I",
-          "team": "Texas A2",
-          "tb_corr": "1",
-          "tb_time": "209"
+          "team": "Texas A2"
         },
         {
           "contest": "USAJMO",
@@ -25876,9 +25726,7 @@
           "student_name": "Albert Lu",
           "place": "34",
           "team": "Phillips Exeter Red A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "112"
+          "ind_score": "8"
         },
         {
           "contest": "USAJMO",
@@ -26072,8 +25920,6 @@
           "place": "13",
           "site": "N",
           "team": "Wild Wild West B1",
-          "tb_corr": "1",
-          "tb_time": "152",
           "prize": "$500"
         },
         {
@@ -26632,8 +26478,6 @@
           "place": "20 (tie)",
           "site": "N",
           "team": "Northern Nevada Math Club B1",
-          "tb_corr": "1",
-          "tb_time": "207",
           "prize": "$500"
         },
         {
@@ -26660,8 +26504,6 @@
           "place": "5",
           "team": "NNVMath B1",
           "ind_score": "9",
-          "tb_corr": "1",
-          "tb_time": "280",
           "prize": "$1,000"
         },
         {
@@ -26688,8 +26530,6 @@
           "place": "9",
           "team": "Las Vegas Math Circle B1",
           "ind_score": "9",
-          "tb_corr": "3",
-          "tb_time": "120",
           "prize": "$500"
         }
       ]
@@ -27446,9 +27286,7 @@
           "student_name": "Derek Zhao",
           "place": "21",
           "team": "Lexington A1",
-          "ind_score": "8",
-          "tb_corr": "1",
-          "tb_time": "594"
+          "ind_score": "8"
         },
         {
           "contest": "USAJMO",
@@ -27771,8 +27609,6 @@
           "place": "3",
           "team": "Central Jersey A",
           "ind_score": "9",
-          "tb_corr": "1",
-          "tb_time": "88",
           "prize": "$1,250"
         },
         {
@@ -27862,8 +27698,6 @@
           "place": "2",
           "team": "Central Jersey B1",
           "ind_score": "10",
-          "tb_corr": "2",
-          "tb_time": "327",
           "prize": "$1,250"
         }
       ]
@@ -28485,9 +28319,7 @@
           "student_name": "Minseok Eli Park",
           "place": "22",
           "team": "NC A1",
-          "ind_score": "8",
-          "tb_corr": "3",
-          "tb_time": "73"
+          "ind_score": "8"
         }
       ]
     },
@@ -28570,9 +28402,7 @@
           "student_name": "Espen Slettnes",
           "place": "28",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "3",
-          "tb_time": "138"
+          "ind_score": "8"
         }
       ]
     },
@@ -28853,8 +28683,6 @@
           "place": "19",
           "team": "Colorado A1",
           "ind_score": "8",
-          "tb_corr": "1",
-          "tb_time": "470",
           "prize": "$500"
         },
         {
@@ -28948,9 +28776,7 @@
           "student_name": "Allan Yuan",
           "place": "41",
           "site": "W",
-          "team": "Alabama B1",
-          "tb_corr": "1",
-          "tb_time": "515"
+          "team": "Alabama B1"
         },
         {
           "contest": "USAMO",
@@ -29026,9 +28852,7 @@
           "student_name": "Benjamin Jeter",
           "place": "30",
           "team": "Wild Wild West B1",
-          "ind_score": "8",
-          "tb_corr": "0",
-          "tb_time": "0"
+          "ind_score": "8"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -29156,8 +28980,6 @@
           "place": "4",
           "team": "SFBA/NorCal A1",
           "ind_score": "9",
-          "tb_corr": "2",
-          "tb_time": "301",
           "prize": "$750"
         },
         {
@@ -30752,9 +30574,7 @@
           "student_name": "Shruti Arun",
           "place": "24",
           "site": "N",
-          "team": "Colorado B1",
-          "tb_corr": "1",
-          "tb_time": "213"
+          "team": "Colorado B1"
         },
         {
           "contest": "USAJMO",
@@ -32080,9 +31900,7 @@
           "student_name": "Jonathan Wu",
           "place": "54",
           "site": "N",
-          "team": "Utah B1",
-          "tb_corr": "3",
-          "tb_time": "64"
+          "team": "Utah B1"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -32780,8 +32598,6 @@
           "place": "12",
           "site": "S",
           "team": "Massachusetts B1",
-          "tb_corr": "1",
-          "tb_time": "143",
           "prize": "$500"
         }
       ]
@@ -32871,9 +32687,7 @@
           "student_name": "Benjamin Lu",
           "place": "25",
           "site": "P",
-          "team": "Lehigh Valley A2",
-          "tb_corr": "1",
-          "tb_time": "222"
+          "team": "Lehigh Valley A2"
         }
       ]
     },
@@ -33471,9 +33285,7 @@
           "student_name": "Andrew Wen",
           "place": "15",
           "team": "Phillips Academy B1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "308"
+          "ind_score": "8"
         }
       ]
     },
@@ -33680,8 +33492,6 @@
           "place": "8",
           "team": "Lexington A1",
           "ind_score": "9",
-          "tb_corr": "3",
-          "tb_time": "97",
           "prize": "$500"
         }
       ]
@@ -34035,9 +33845,7 @@
           "student_name": "Perry Dai",
           "place": "48",
           "site": "P",
-          "team": "Ontario Math Circles A1",
-          "tb_corr": "2",
-          "tb_time": "136"
+          "team": "Ontario Math Circles A1"
         },
         {
           "contest": "USAJMO",
@@ -34097,8 +33905,6 @@
           "place": "15",
           "team": "SFBA/NorCal A1",
           "ind_score": "8",
-          "tb_corr": "1",
-          "tb_time": "355",
           "prize": "$500"
         }
       ]
@@ -34163,9 +33969,7 @@
           "student_name": "Eden He",
           "place": "61",
           "site": "P",
-          "team": "Lehigh Valley A2",
-          "tb_corr": "4",
-          "tb_time": "0"
+          "team": "Lehigh Valley A2"
         }
       ]
     },
@@ -36177,8 +35981,6 @@
           "place": "17",
           "site": "P",
           "team": "Ontario Math Circles A1",
-          "tb_corr": "1",
-          "tb_time": "180",
           "prize": "$500"
         },
         {
@@ -36196,9 +35998,7 @@
           "student_name": "Leo Wu",
           "place": "40",
           "team": "Ontario Math Circles B1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "177"
+          "ind_score": "8"
         }
       ]
     },
@@ -36507,9 +36307,7 @@
           "student_name": "David Wang",
           "place": "43",
           "site": "P",
-          "team": "Montgomery B1",
-          "tb_corr": "2",
-          "tb_time": "73"
+          "team": "Montgomery B1"
         },
         {
           "contest": "PUMaC — Number Theory",
@@ -36737,9 +36535,7 @@
           "student_name": "Michael Chang",
           "place": "34",
           "site": "I",
-          "team": "Texas A2",
-          "tb_corr": "1",
-          "tb_time": "332"
+          "team": "Texas A2"
         }
       ]
     },
@@ -36794,9 +36590,7 @@
           "student_name": "Lanie Deng",
           "place": "58",
           "site": "I",
-          "team": "Missouri B1",
-          "tb_corr": "3",
-          "tb_time": "172"
+          "team": "Missouri B1"
         },
         {
           "contest": "MPFG",
@@ -36868,9 +36662,7 @@
           "student_name": "Bach Kieu",
           "place": "40",
           "site": "I",
-          "team": "Indiana B1",
-          "tb_corr": "1",
-          "tb_time": "493"
+          "team": "Indiana B1"
         },
         {
           "contest": "USAJMO",
@@ -37307,8 +37099,6 @@
           "place": "15",
           "site": "P",
           "team": "Ontario Math Circles A1",
-          "tb_corr": "1",
-          "tb_time": "172",
           "prize": "$500"
         }
       ]
@@ -37502,8 +37292,6 @@
           "place": "16",
           "site": "N",
           "team": "Southern California B1",
-          "tb_corr": "1",
-          "tb_time": "173",
           "prize": "$500"
         }
       ]
@@ -38910,9 +38698,7 @@
           "student_name": "William Dai",
           "place": "18",
           "team": "Texas A2",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "333"
+          "ind_score": "8"
         }
       ]
     },
@@ -39447,9 +39233,7 @@
           "student_name": "Michelle Kang",
           "place": "24",
           "team": "Thomas Jefferson A1",
-          "ind_score": "8",
-          "tb_corr": "3",
-          "tb_time": "78"
+          "ind_score": "8"
         }
       ]
     },
@@ -39521,9 +39305,7 @@
           "student_name": "Catherine Li",
           "place": "25",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "3",
-          "tb_time": "108"
+          "ind_score": "8"
         }
       ]
     },
@@ -40251,8 +40033,6 @@
           "place": "7",
           "team": "SFBA/NorCal A1",
           "ind_score": "9",
-          "tb_corr": "3",
-          "tb_time": "88",
           "prize": "$500"
         }
       ]
@@ -40517,9 +40297,7 @@
           "student_name": "Arnav Goel",
           "place": "21",
           "team": "Chicago A1",
-          "ind_score": "8",
-          "tb_corr": "3",
-          "tb_time": "69"
+          "ind_score": "8"
         }
       ]
     },
@@ -40877,9 +40655,7 @@
           "student_name": "David Zhang",
           "place": "25",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "45"
+          "ind_score": "8"
         },
         {
           "contest": "USAJMO",
@@ -40974,9 +40750,7 @@
           "student_name": "Samuel Wang",
           "place": "22",
           "team": "Lexington",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "32"
+          "ind_score": "8"
         },
         {
           "contest": "PUMaC — Algebra",
@@ -42562,8 +42336,6 @@
           "place": "6",
           "site": "P",
           "team": "WWP^2",
-          "tb_corr": "1",
-          "tb_time": "109",
           "prize": "$1,000"
         }
       ]
@@ -42583,8 +42355,6 @@
           "place": "9",
           "site": "I",
           "team": "Texas A3",
-          "tb_corr": "1",
-          "tb_time": "125",
           "prize": "$750"
         }
       ]
@@ -42603,9 +42373,7 @@
           "student_name": "Rohith Thomas",
           "place": "27",
           "site": "N",
-          "team": "Colorado B1",
-          "tb_corr": "1",
-          "tb_time": "232"
+          "team": "Colorado B1"
         }
       ]
     },
@@ -42623,9 +42391,7 @@
           "student_name": "Tiger Li",
           "place": "32",
           "site": "P",
-          "team": "Ontario Math Circles A1",
-          "tb_corr": "1",
-          "tb_time": "300"
+          "team": "Ontario Math Circles A1"
         }
       ]
     },
@@ -42643,9 +42409,7 @@
           "student_name": "Jeff Zhou",
           "place": "37",
           "site": "I",
-          "team": "Minnesota B1",
-          "tb_corr": "1",
-          "tb_time": "373"
+          "team": "Minnesota B1"
         }
       ]
     },
@@ -42675,9 +42439,7 @@
           "student_name": "Kaylyn Zhang",
           "place": "42",
           "site": "P",
-          "team": "Ontario Math Circles A1",
-          "tb_corr": "2",
-          "tb_time": "58"
+          "team": "Ontario Math Circles A1"
         }
       ]
     },
@@ -42695,9 +42457,7 @@
           "student_name": "Jack Whitney-Epstein",
           "place": "44",
           "site": "S",
-          "team": "Connecticut A1",
-          "tb_corr": "2",
-          "tb_time": "77"
+          "team": "Connecticut A1"
         }
       ]
     },
@@ -42715,9 +42475,7 @@
           "student_name": "Benny Wang",
           "place": "49",
           "site": "S",
-          "team": "PEA Lions A1",
-          "tb_corr": "2",
-          "tb_time": "138"
+          "team": "PEA Lions A1"
         },
         {
           "contest": "PUMaC — Geometry",
@@ -42762,9 +42520,7 @@
           "student_name": "Rick Zhou",
           "place": "52",
           "site": "N",
-          "team": "Washington A2",
-          "tb_corr": "3",
-          "tb_time": "51"
+          "team": "Washington A2"
         }
       ]
     },
@@ -42782,9 +42538,7 @@
           "student_name": "Lewis Lou",
           "place": "53",
           "site": "P",
-          "team": "Montgomery B1",
-          "tb_corr": "3",
-          "tb_time": "61"
+          "team": "Montgomery B1"
         }
       ]
     },
@@ -42802,9 +42556,7 @@
           "student_name": "Zenghan (Yoll) Feng",
           "place": "55",
           "site": "S",
-          "team": "Phillips Academy Andover",
-          "tb_corr": "3",
-          "tb_time": "67"
+          "team": "Phillips Academy Andover"
         }
       ]
     },
@@ -42822,9 +42574,7 @@
           "student_name": "Jonathan Zhou",
           "place": "56",
           "site": "S",
-          "team": "Connecticut A2",
-          "tb_corr": "3",
-          "tb_time": "79"
+          "team": "Connecticut A2"
         }
       ]
     },
@@ -42842,9 +42592,7 @@
           "student_name": "Raine Ma",
           "place": "59",
           "site": "S",
-          "team": "Connecticut A1",
-          "tb_corr": "3",
-          "tb_time": "264"
+          "team": "Connecticut A1"
         }
       ]
     },
@@ -42862,9 +42610,7 @@
           "student_name": "Aarav Mann",
           "place": "60",
           "site": "N",
-          "team": "SFBA/NorCal A5",
-          "tb_corr": "4",
-          "tb_time": "0"
+          "team": "SFBA/NorCal A5"
         }
       ]
     },
@@ -42882,9 +42628,7 @@
           "student_name": "Prince Zhang",
           "place": "62",
           "site": "P",
-          "team": "Ontario Math Circles A2",
-          "tb_corr": "4",
-          "tb_time": "0"
+          "team": "Ontario Math Circles A2"
         }
       ]
     },
@@ -42902,9 +42646,7 @@
           "student_name": "Eric Jia",
           "place": "63",
           "site": "P",
-          "team": "Ontario Math Circles A1",
-          "tb_corr": "4",
-          "tb_time": "0"
+          "team": "Ontario Math Circles A1"
         }
       ]
     },
@@ -42923,8 +42665,6 @@
           "place": "11",
           "team": "Florida A1",
           "ind_score": "9",
-          "tb_corr": "2",
-          "tb_time": "112",
           "prize": "$500"
         },
         {
@@ -42961,8 +42701,6 @@
           "place": "14",
           "team": "TJHSST A1",
           "ind_score": "9",
-          "tb_corr": "3",
-          "tb_time": "360",
           "prize": "$500"
         }
       ]
@@ -42981,9 +42719,7 @@
           "student_name": "Alex Jun",
           "place": "29",
           "team": "Texas A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "58"
+          "ind_score": "8"
         }
       ]
     },
@@ -43001,9 +42737,7 @@
           "student_name": "Tanishq Paushkar",
           "place": "30",
           "team": "Ohio B1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "60"
+          "ind_score": "8"
         }
       ]
     },
@@ -43021,9 +42755,7 @@
           "student_name": "Olivia Xu",
           "place": "36",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "113"
+          "ind_score": "8"
         },
         {
           "contest": "MPFG",
@@ -43065,9 +42797,7 @@
           "student_name": "Mikayla Lin",
           "place": "41",
           "team": "NYC A2",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "189"
+          "ind_score": "8"
         },
         {
           "contest": "MPFG",
@@ -46067,9 +45797,7 @@
           "student_name": "Jake Frazer",
           "place": "12",
           "team": "Buchholz A1",
-          "ind_score": "8",
-          "tb_corr": "2",
-          "tb_time": "182"
+          "ind_score": "8"
         }
       ]
     },
@@ -46087,9 +45815,7 @@
           "student_name": "Isaac Zhu",
           "place": "23",
           "team": "NC A2",
-          "ind_score": "8",
-          "tb_corr": "3",
-          "tb_time": "74"
+          "ind_score": "8"
         }
       ]
     },
@@ -46107,9 +45833,7 @@
           "student_name": "Samuel Goodman",
           "place": "26",
           "team": "Las Vegas Math Circle B1",
-          "ind_score": "8",
-          "tb_corr": "3",
-          "tb_time": "112"
+          "ind_score": "8"
         }
       ]
     },

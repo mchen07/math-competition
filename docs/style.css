@@ -279,6 +279,36 @@ body {
   color: var(--text-muted);
 }
 
+/* Export PDF (per-student button in card header) */
+.export-pdf-student-btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--bg);
+  background: var(--accent);
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.2s, opacity 0.2s;
+}
+
+.export-pdf-student-btn:hover:not(:disabled) {
+  background: var(--accent-hover);
+}
+
+.export-pdf-student-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.student-header .export-pdf-student-btn {
+  margin-left: auto;
+  font-size: 0.85rem;
+  padding: 0.4rem 0.75rem;
+}
+
 /* Results */
 .results {
   display: flex;

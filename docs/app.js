@@ -74,13 +74,13 @@
 
   function renderRecordRow(record, allKeys) {
     var cells = [
-      "<td class=\"num\">", escapeHtml(record.year || ""), "</td>"
+      "<td class=\"num\" data-col=\"year\">", escapeHtml(record.year || ""), "</td>"
     ];
     for (var i = 0; i < allKeys.length; i++) {
       var key = allKeys[i];
       var val = record[key] != null ? record[key] : "";
       var cellClass = key === "rank" ? "num rank-" + (val === "1" || val === 1 ? "1" : (val === "2" || val === 2 || val === "3" || val === 3 ? "2" : "")) : "num";
-      cells.push("<td class=\"" + cellClass + "\">", escapeHtml(String(val)), "</td>");
+      cells.push("<td class=\"" + cellClass + "\" data-col=\"" + escapeHtml(key) + "\">", escapeHtml(String(val)), "</td>");
     }
     return "<tr>" + cells.join("") + "</tr>";
   }
@@ -130,12 +130,11 @@
         var yB = b.year || "";
         return yA > yB ? -1 : yA < yB ? 1 : 0;
       });
-      var headers = ["Year"].concat(allRecordHeaders(contestRecords));
-      var headerCells = headers.map(function (h) {
-        var label = h.replace(/_/g, " ");
-        return "<th>" + escapeHtml(label) + "</th>";
-      }).join("");
       var allKeys = allRecordHeaders(contestRecords);
+      var headerCells = "<th data-col=\"year\">" + escapeHtml("Year") + "</th>" + allKeys.map(function (k) {
+        var label = k.replace(/_/g, " ");
+        return "<th data-col=\"" + escapeHtml(k) + "\">" + escapeHtml(label) + "</th>";
+      }).join("");
       var rows = contestRecords.map(function (r) { return renderRecordRow(r, allKeys); }).join("");
 
       sections.push(
@@ -168,6 +167,7 @@
         "<div class=\"student-header\">" +
           "<h2 class=\"student-name\" data-student-name=\"" + escapeHtml(String(student.name || "")) + "\">" + escapeHtml(student.name) + (stateHtml ? " " + stateHtml : "") + "</h2>" +
           aliasesHtml +
+          "<button type=\"button\" class=\"export-pdf-student-btn\" aria-label=\"Export this student to PDF\">Export to PDF</button>" +
         "</div>" +
         "<div class=\"student-contests\">" + sections.join("") + "</div>" +
       "</article>"
@@ -336,6 +336,115 @@
     resultsEl.innerHTML = matched.map(function (s) { return renderStudent(s, data.contests || {}); }).join("");
   }
 
+  function keysForPdfDisplay(records, slug) {
+    var keys = allRecordHeaders(records);
+    var omit = { p1: 1, p2: 1, p3: 1, p4: 1, p5: 1, p6: 1, p7: 1, p8: 1, p9: 1, p10: 1 };
+    if (slug === "dmm") {
+      omit.q1 = 1; omit.q2 = 1; omit.q3 = 1; omit.q4 = 1; omit.q5 = 1;
+      omit.q6 = 1; omit.q7 = 1; omit.q8 = 1; omit.q9 = 1; omit.q10 = 1;
+    }
+    return keys.filter(function (k) { return !omit[k]; });
+  }
+
+  function exportStudentToPdf(cardEl) {
+    if (!cardEl) return;
+    var studentId = cardEl.getAttribute("data-student-id");
+    if (studentId == null || studentId === "") return;
+    var id = parseInt(studentId, 10);
+    if (isNaN(id)) return;
+    var student = null;
+    for (var i = 0; i < data.students.length; i++) {
+      if (data.students[i].id === id) {
+        student = data.students[i];
+        break;
+      }
+    }
+    if (!student) {
+      alert("Student data not found.");
+      return;
+    }
+    var JsPDFConstructor = (typeof jspdf !== "undefined" && jspdf.jsPDF) ? jspdf.jsPDF : (typeof jsPDF !== "undefined" ? jsPDF : null);
+    if (!JsPDFConstructor) {
+      alert("PDF export is not available. Please refresh the page and try again.");
+      return;
+    }
+    var btn = cardEl.querySelector(".export-pdf-student-btn");
+    if (btn) btn.disabled = true;
+    var studentName = (student.name || "").trim();
+    var state = (student.state || "").trim();
+    var filename = "math-competition-" + (studentName ? studentName.replace(/\W+/g, "-") : "student") + ".pdf";
+
+    try {
+      var doc = new JsPDFConstructor({ orientation: "p", unit: "mm", format: "a4" });
+      var margin = 10;
+      var y = margin;
+
+      doc.setFontSize(14);
+      doc.text(studentName + (state ? " (" + state + ")" : ""), margin, y);
+      y += 8;
+
+      if (student.aliases && student.aliases.length) {
+        doc.setFontSize(9);
+        doc.setTextColor(100, 100, 100);
+        doc.text("Also known as: " + student.aliases.join(", "), margin, y);
+        doc.setTextColor(0, 0, 0);
+        y += 6;
+      }
+
+      var records = student.records || [];
+      var grouped = groupRecordsByContest(records);
+      var slugs = grouped.slugs;
+      var bySlug = grouped.bySlug;
+      var contestsMap = data.contests || {};
+
+      for (var s = 0; s < slugs.length; s++) {
+        var slug = slugs[s];
+        var contestRecords = bySlug[slug].slice();
+        contestRecords.sort(function (a, b) {
+          var yA = a.year || "";
+          var yB = b.year || "";
+          return yA > yB ? -1 : yA < yB ? 1 : 0;
+        });
+        var keys = keysForPdfDisplay(contestRecords, slug);
+        var contestInfo = contestsMap[slug];
+        var contestTitle = (contestInfo && contestInfo.contest_name) ? contestInfo.contest_name : slug.replace(/-/g, " ");
+
+        if (y > 250) {
+          doc.addPage();
+          y = margin;
+        }
+        doc.setFontSize(11);
+        doc.text(contestTitle, margin, y);
+        y += 6;
+
+        var headers = ["Year"].concat(keys.map(function (k) { return k.replace(/_/g, " "); }));
+        var body = contestRecords.map(function (r) {
+          var row = [r.year != null ? String(r.year) : ""];
+          for (var k = 0; k < keys.length; k++) {
+            var val = r[keys[k]];
+            row.push(val != null ? String(val) : "");
+          }
+          return row;
+        });
+        doc.autoTable({
+          head: [headers],
+          body: body,
+          startY: y,
+          margin: { left: margin },
+          theme: "grid",
+          styles: { fontSize: 8 },
+          headStyles: { fontSize: 8, fillColor: [96, 165, 250], textColor: [255, 255, 255] }
+        });
+        y = doc.lastAutoTable.finalY + 10;
+      }
+
+      doc.save(filename);
+    } catch (err) {
+      alert("Failed to generate PDF: " + (err && err.message ? err.message : "Unknown error"));
+    }
+    if (btn) btn.disabled = false;
+  }
+
   function init() {
     setLoading(true);
     var base = document.querySelector("script[src$='app.js']").src.replace(/\/[^/]*$/, "");
@@ -392,6 +501,11 @@
   if (resultsEl) {
     resultsEl.addEventListener("click", function (event) {
       var target = event.target;
+      if (target && target.classList && target.classList.contains("export-pdf-student-btn")) {
+        var card = target.closest(".student-card");
+        if (card) exportStudentToPdf(card);
+        return;
+      }
       if (!target || !target.classList || !target.classList.contains("student-name")) return;
       var nameAttr = target.getAttribute("data-student-name");
       var name = (nameAttr || target.textContent || "").trim();
