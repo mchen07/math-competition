@@ -347,7 +347,7 @@ student_id,student_name,state,team_ids,alias
 374,Rui Gu,,127,
 375,Kaden Chen,,140,
 376,LIU Andy Houjie,,17,
-377,Xiaoran Han,,2,
+377,Xiaoran Han,,2,Tiger Han
 378,Daniel Jin,New York,105,
 379,Zhenghua Xie,,59,
 380,Chang Lu,,127,
@@ -989,7 +989,6 @@ student_id,student_name,state,team_ids,alias
 1029,Atticus Stewart,California,,
 1031,William Chen,Texas,,
 1032,Edward Guo,Virginia,,
-1033,Tiger Han,California,,
 1034,Lei He,"Ontario, Canada",,
 1035,Daniel Ji,California,,
 1036,Timur Kilybayev,Massachusetts,,
