@@ -1537,12 +1537,38 @@
           "grade": "8"
         },
         {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Vincent Wang",
+          "rank": "39",
+          "score": "25.39"
+        },
+        {
           "contest": "HMMT February — Geometry",
           "year": "2024",
           "contest_slug": "hmmt-feb-geometry",
           "student_name": "Vincent Wang",
           "rank": "13",
           "score": "25.17"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Vincent Wang",
+          "rank": "1",
+          "score": "39.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Vincent Wang",
+          "rank": "4",
+          "total_score": "64.52",
+          "general_score": "25.43",
+          "theme_score": "39.08"
         }
       ]
     },
@@ -2246,6 +2272,24 @@
           "award": "Honors"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Alan Cheng",
+          "rank": "3",
+          "score": "31.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Alan Cheng",
+          "rank": "8",
+          "total_score": "60.42",
+          "general_score": "28.83",
+          "theme_score": "31.59"
+        },
+        {
           "contest": "USAJMO",
           "year": "2022",
           "contest_slug": "jmo",
@@ -2786,6 +2830,24 @@
           "place": "51",
           "site": "N",
           "team": "SFBA/NorCal A2"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Dylan Wang",
+          "rank": "28",
+          "score": "26.66"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Dylan Wang",
+          "rank": "48",
+          "total_score": "46.49",
+          "general_score": "26.66",
+          "theme_score": "19.82"
         }
       ]
     },
@@ -2822,6 +2884,32 @@
           "algebra_score": "20.95",
           "geometry_score": "19.95",
           "combinatorics_score": "33.81"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Bowen Deng",
+          "rank": "7",
+          "score": "31.81"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Bowen Deng",
+          "rank": "9",
+          "score": "30.81"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "bowendeng",
+          "rank": "5",
+          "total_score": "62.62",
+          "general_score": "30.81",
+          "theme_score": "31.81"
         }
       ]
     },
@@ -3350,6 +3438,32 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jeffrey Yin",
+          "rank": "20",
+          "score": "20.87"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Jeffrey Yin",
+          "rank": "15",
+          "score": "29.38"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jeffrey Yin",
+          "rank": "14",
+          "total_score": "50.25",
+          "general_score": "29.38",
+          "theme_score": "20.87"
         }
       ]
     },
@@ -4195,6 +4309,14 @@
           "student_name": "Lewis Lau",
           "state": "Maryland",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Lewis Lau",
+          "rank": "34",
+          "score": "30.67"
         },
         {
           "contest": "PUMaC — Combinatorics",
@@ -5783,6 +5905,14 @@
           "finals_score": "14"
         },
         {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Krithik Manoharan",
+          "rank": "37",
+          "score": "25.45"
+        },
+        {
           "contest": "PUMaC — Algebra",
           "year": "2023",
           "contest_slug": "pumac-algebra",
@@ -5798,6 +5928,14 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Krithik Manoharan",
+          "rank": "38",
+          "score": "29.59"
         }
       ]
     },
@@ -6401,6 +6539,24 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Amogh Akella",
+          "rank": "34",
+          "score": "30.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Amogh Akella",
+          "rank": "40",
+          "total_score": "49.49",
+          "general_score": "30.67",
+          "theme_score": "18.82"
         }
       ]
     },
@@ -6950,6 +7106,32 @@
           "award": "Honorable Mention"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Channing Yang",
+          "rank": "20",
+          "score": "20.87"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Channing Yang",
+          "rank": "20",
+          "score": "28.31"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Channing Yang",
+          "rank": "15",
+          "total_score": "49.18",
+          "general_score": "28.31",
+          "theme_score": "20.87"
+        },
+        {
           "contest": "ARML",
           "year": "2022",
           "contest_slug": "arml",
@@ -7493,6 +7675,40 @@
           "algebra_score": "28.65",
           "geometry_score": "29.59",
           "combinatorics_score": "16.86"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Kailin Yang",
+          "rank": "23",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Kailin Yang",
+          "rank": "24",
+          "score": "20.81"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Kailin Yang",
+          "rank": "27",
+          "score": "25.22"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Kailin Yang",
+          "rank": "21",
+          "total_score": "46.03",
+          "general_score": "25.22",
+          "theme_score": "20.81"
         }
       ]
     },
@@ -7912,6 +8128,14 @@
           "grade": "7"
         },
         {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Selena Ge",
+          "rank": "21",
+          "score": "31.03"
+        },
+        {
           "contest": "MPFG",
           "year": "2022",
           "contest_slug": "mpfg",
@@ -7931,6 +8155,32 @@
           "state": "Massachusetts",
           "rank": "14",
           "grade": "6"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Selena Ge",
+          "rank": "2",
+          "score": "40.73"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Selena Ge",
+          "rank": "12",
+          "score": "30.75"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Selena Ge",
+          "rank": "3",
+          "total_score": "71.48",
+          "general_score": "30.75",
+          "theme_score": "40.73"
         }
       ]
     },
@@ -7992,6 +8242,40 @@
           "student_name": "Andrew Shen",
           "state": "Texas",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Andrew Shen",
+          "rank": "16",
+          "score": "25.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Andrew Shen",
+          "rank": "38",
+          "score": "29.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Andrew Shen",
+          "rank": "19",
+          "total_score": "54.84",
+          "general_score": "29.59",
+          "theme_score": "25.24"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Andrew Shen",
+          "rank": "32",
+          "score": "18.54"
         }
       ]
     },
@@ -8220,6 +8504,14 @@
           "algebra_score": "27.32",
           "geometry_score": "23.17",
           "combinatorics_score": "15.74"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Samuel J. Kretzschmar",
+          "rank": "28",
+          "score": "30.93"
         }
       ]
     },
@@ -9841,6 +10133,32 @@
           "state": "Connecticut",
           "rank": "53",
           "grade": "8"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Vikram Sarkar",
+          "rank": "5",
+          "score": "33.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Vikram Sarkar",
+          "rank": "2",
+          "score": "40.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Vikram Sarkar",
+          "rank": "2",
+          "total_score": "73.33",
+          "general_score": "40.08",
+          "theme_score": "33.24"
         }
       ]
     },
@@ -11072,6 +11390,32 @@
           "student_name": "Qiao Zhang",
           "state": "California",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Qiao Zhang",
+          "rank": "4",
+          "score": "33.31"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Qiao Zhang",
+          "rank": "1",
+          "score": "59.3"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Qiao Zhang",
+          "rank": "1",
+          "total_score": "92.61",
+          "general_score": "59.3",
+          "theme_score": "33.31"
         }
       ]
     },
@@ -11609,6 +11953,14 @@
           "p6": "1",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Andrew Li",
+          "rank": "20",
+          "score": "28.31"
         }
       ]
     },
@@ -13351,6 +13703,32 @@
           "place": "10",
           "score": "9",
           "prize": "$300"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Vivian Loh",
+          "rank": "11",
+          "score": "25.96"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Vivian Loh",
+          "rank": "5",
+          "score": "34.8"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Vivian Loh",
+          "rank": "5",
+          "total_score": "60.76",
+          "general_score": "34.8",
+          "theme_score": "25.96"
         },
         {
           "contest": "HMMT February — Geometry",
@@ -18049,6 +18427,14 @@
           "rank": "35",
           "total_score": "2.533",
           "finals_score": "14"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Alexander Svoronos",
+          "rank": "27",
+          "score": "27.76"
         }
       ]
     },
@@ -18625,6 +19011,14 @@
           "p8": "0"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Nathan Lu",
+          "rank": "39",
+          "score": "26.17"
+        },
+        {
           "contest": "PUMaC — Geometry",
           "year": "2023",
           "contest_slug": "pumac-geometry",
@@ -18640,6 +19034,32 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Nathan Lu",
+          "rank": "48",
+          "score": "21.08"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Nathan Lu",
+          "rank": "38",
+          "score": "29.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Nathan Lu",
+          "rank": "33",
+          "total_score": "50.67",
+          "general_score": "29.59",
+          "theme_score": "21.08"
         }
       ]
     },
@@ -19294,6 +19714,24 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "William Qian",
+          "rank": "10",
+          "score": "35.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "William Qian",
+          "rank": "22",
+          "total_score": "53.91",
+          "general_score": "35.08",
+          "theme_score": "18.82"
         }
       ]
     },
@@ -19420,6 +19858,24 @@
           "rank": "3",
           "score": "11",
           "team": "MathSchool 1"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Luca Pieleanu",
+          "rank": "7",
+          "score": "37.16"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Luca Pieleanu",
+          "rank": "16",
+          "total_score": "55.98",
+          "general_score": "37.16",
+          "theme_score": "18.82"
         }
       ]
     },
@@ -20703,6 +21159,24 @@
           "state": "Massachusetts",
           "rank": "C (9-12)",
           "grade": "8"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Adam Ge",
+          "rank": "41",
+          "score": "22.89"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Adam Ge",
+          "rank": "49",
+          "total_score": "36.21",
+          "general_score": "22.89",
+          "theme_score": "13.32"
         }
       ]
     },
@@ -21128,6 +21602,50 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Samuel Tsui",
+          "rank": "30",
+          "score": "26.49"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Samuel Tsui",
+          "rank": "42",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sam Tsui",
+          "rank": "24",
+          "total_score": "51.66",
+          "general_score": "25.17",
+          "theme_score": "26.49"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Sam Tsui",
+          "rank": "11",
+          "score": "26.32"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sam Tsui",
+          "rank": "31",
+          "total_score": "51.49",
+          "general_score": "25.17",
+          "theme_score": "26.32"
         }
       ]
     },
@@ -21404,6 +21922,24 @@
           "rank": "28",
           "total_score": "2.734",
           "finals_score": "14"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Tarun Rapaka",
+          "rank": "20",
+          "score": "20.87"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Tarun Rapaka",
+          "rank": "47",
+          "total_score": "36.86",
+          "general_score": "15.99",
+          "theme_score": "20.87"
         }
       ]
     },
@@ -21994,6 +22530,50 @@
           "rank": "70",
           "score": "8",
           "team": "Lexington Muztaba 3rd Parties"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jonathan Liu",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Jonathan Liu",
+          "rank": "42",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jonathan Liu",
+          "rank": "36",
+          "total_score": "49.42",
+          "general_score": "25.17",
+          "theme_score": "24.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Jonathan Liu",
+          "rank": "10",
+          "score": "35.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jonathan Liu",
+          "rank": "38",
+          "total_score": "49.75",
+          "general_score": "35.08",
+          "theme_score": "14.66"
         }
       ]
     },
@@ -22032,6 +22612,14 @@
           "place": "28",
           "score": "9",
           "prize": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Chloe Weng",
+          "rank": "35",
+          "score": "25.51"
         }
       ]
     },
@@ -22075,6 +22663,14 @@
           "student_name": "James Wu",
           "rank": "18",
           "score": "26.17"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "James Wu",
+          "rank": "44",
+          "score": "24.24"
         }
       ]
     },
@@ -23116,6 +23712,24 @@
           "place": "42",
           "score": "7",
           "prize": "one point shy of Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Sophia Hou",
+          "rank": "10",
+          "score": "35.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sophia Hou",
+          "rank": "22",
+          "total_score": "53.91",
+          "general_score": "35.08",
+          "theme_score": "18.82"
         }
       ]
     },
@@ -23178,6 +23792,24 @@
           "rank": "37",
           "total_score": "2.394",
           "finals_score": "7"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Aaron Le",
+          "rank": "4",
+          "score": "39.57"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Aaron Le",
+          "rank": "7",
+          "total_score": "60.58",
+          "general_score": "39.57",
+          "theme_score": "21.01"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -23690,6 +24322,24 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Siravit Hengsuvanich",
+          "rank": "21",
+          "score": "29.93"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Siravit Hengsuvanich",
+          "rank": "14",
+          "total_score": "54.17",
+          "general_score": "24.24",
+          "theme_score": "29.93"
         }
       ]
     },
@@ -23832,6 +24482,14 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Kyle Wu",
+          "rank": "48",
+          "score": "15.58"
         }
       ]
     },
@@ -24131,6 +24789,32 @@
           "p6": "1",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Hansen Shieh",
+          "rank": "29",
+          "score": "20.66"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Hansen Shieh",
+          "rank": "41",
+          "score": "22.89"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Hansen Shieh",
+          "rank": "30",
+          "total_score": "43.55",
+          "general_score": "22.89",
+          "theme_score": "20.66"
         }
       ]
     },
@@ -24492,6 +25176,14 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Kenneth Ren",
+          "rank": "44",
+          "score": "24.24"
         }
       ]
     },
@@ -24618,6 +25310,32 @@
           "rank": "72",
           "score": "8",
           "team": "Lexington Muztaba"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jerry Xu",
+          "rank": "23",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Jerry Xu",
+          "rank": "32",
+          "score": "30.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jerry Xu",
+          "rank": "18",
+          "total_score": "55.91",
+          "general_score": "30.73",
+          "theme_score": "25.17"
         }
       ]
     },
@@ -24893,6 +25611,14 @@
           "p6": "0",
           "p7": "0",
           "p8": "1"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "David Kim",
+          "rank": "10",
+          "score": "35.08"
         }
       ]
     },
@@ -25217,6 +25943,24 @@
           "state": "Maryland",
           "rank": "36",
           "grade": "8"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "David Yu",
+          "rank": "23",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "David Yu",
+          "rank": "26",
+          "total_score": "53.7",
+          "general_score": "28.53",
+          "theme_score": "25.17"
         }
       ]
     },
@@ -25315,6 +26059,24 @@
           "grade": "8"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jeremy Yang",
+          "rank": "8",
+          "score": "28.56"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jeremy Yang",
+          "rank": "11",
+          "total_score": "57.45",
+          "general_score": "28.89",
+          "theme_score": "28.56"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2022",
           "contest_slug": "mathcounts-national-rank",
@@ -25322,6 +26084,32 @@
           "state": "Maryland",
           "rank": "38",
           "grade": "7"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jeremy Yang",
+          "rank": "32",
+          "score": "18.54"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Jeremy Yang",
+          "rank": "13",
+          "score": "30.61"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jeremy Yang",
+          "rank": "17",
+          "total_score": "49.15",
+          "general_score": "30.61",
+          "theme_score": "18.54"
         }
       ]
     },
@@ -25348,6 +26136,24 @@
           "p6": "1",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Alexander Duncan",
+          "rank": "11",
+          "score": "25.96"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Alexander Duncan",
+          "rank": "29",
+          "total_score": "43.56",
+          "general_score": "17.6",
+          "theme_score": "25.96"
         }
       ]
     },
@@ -26599,6 +27405,32 @@
           "student_name": "LU CHANG",
           "rank": "18",
           "score": "25.31"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "LU CHANG",
+          "rank": "11",
+          "score": "26.32"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "LU CHANG",
+          "rank": "37",
+          "score": "29.8"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "LU CHANG",
+          "rank": "15",
+          "total_score": "56.11",
+          "general_score": "29.8",
+          "theme_score": "26.32"
         }
       ]
     },
@@ -27651,6 +28483,32 @@
           "score": "25.17"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Justin Guo",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Justin Guo",
+          "rank": "45",
+          "score": "24.32"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Justin Guo",
+          "rank": "39",
+          "total_score": "48.56",
+          "general_score": "24.32",
+          "theme_score": "24.24"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2023",
           "contest_slug": "mathcounts-national-rank",
@@ -27675,6 +28533,14 @@
           "student_name": "Adam Henry Smith",
           "rank": "34",
           "score": "25.17"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Adam Henry Smith",
+          "rank": "44",
+          "score": "24.24"
         }
       ]
     },
@@ -28301,6 +29167,24 @@
           "team": "Pingry Blue Team"
         },
         {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Elbert Ho",
+          "rank": "7",
+          "score": "32.94"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Elbert Ho",
+          "rank": "18",
+          "total_score": "53.02",
+          "general_score": "32.94",
+          "theme_score": "20.08"
+        },
+        {
           "contest": "HMMT February — Geometry",
           "year": "2024",
           "contest_slug": "hmmt-feb-geometry",
@@ -28323,6 +29207,24 @@
           "student_name": "Elbert Ho",
           "state": "New Jersey",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Elbert Ho",
+          "rank": "9",
+          "score": "33.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Elbert Ho",
+          "rank": "20",
+          "total_score": "47.05",
+          "general_score": "33.73",
+          "theme_score": "13.32"
         }
       ]
     },
@@ -28973,6 +29875,24 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Andrew Tu",
+          "rank": "17",
+          "score": "25.82"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Andrew Tu",
+          "rank": "22",
+          "total_score": "45.92",
+          "general_score": "20.1",
+          "theme_score": "25.82"
         }
       ]
     },
@@ -29788,6 +30708,24 @@
           "student_name": "Jeffrey Xu",
           "state": "Massachusetts",
           "award": "Honors"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Jeffrey Xu",
+          "rank": "13",
+          "score": "30.61"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jeffrey Xu",
+          "rank": "25",
+          "total_score": "43.93",
+          "general_score": "30.61",
+          "theme_score": "13.32"
         }
       ]
     },
@@ -30672,6 +31610,24 @@
           "award": "Honorable Mention"
         },
         {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "David Zhang",
+          "rank": "10",
+          "score": "35.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "David Zhang",
+          "rank": "22",
+          "total_score": "53.91",
+          "general_score": "35.08",
+          "theme_score": "18.82"
+        },
+        {
           "contest": "ARML",
           "year": "2022",
           "contest_slug": "arml",
@@ -31029,12 +31985,38 @@
           "team": "ABML"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Bryan Li",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
           "contest": "USAJMO",
           "year": "2023",
           "contest_slug": "jmo",
           "student_name": "Bryan Li",
           "state": "Massachusetts",
           "award": "Honors"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Bryan Li",
+          "rank": "32",
+          "score": "18.54"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Bryan Li",
+          "rank": "45",
+          "total_score": "37.32",
+          "general_score": "18.78",
+          "theme_score": "18.54"
         }
       ]
     },
@@ -31246,6 +32228,32 @@
           "award": "Honorable Mention"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Yunyi Ling",
+          "rank": "14",
+          "score": "25.89"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Yunyi Ling",
+          "rank": "5",
+          "score": "34.8"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Yunyi Ling",
+          "rank": "7",
+          "total_score": "60.69",
+          "general_score": "34.8",
+          "theme_score": "25.89"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2021",
           "contest_slug": "mathcounts-national-rank",
@@ -31348,6 +32356,32 @@
           "place": "18",
           "score": "8",
           "prize": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Ivy Guo",
+          "rank": "17",
+          "score": "25.82"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Ivy Guo",
+          "rank": "10",
+          "score": "33.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Ivy Guo",
+          "rank": "8",
+          "total_score": "59.42",
+          "general_score": "33.59",
+          "theme_score": "25.82"
         }
       ]
     },
@@ -31367,12 +32401,56 @@
           "award": "Bronze"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Matthew Qian",
+          "rank": "23",
+          "score": "27.65"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Matthew Qian",
+          "rank": "45",
+          "score": "24.32"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Matthew Qian",
+          "rank": "22",
+          "total_score": "51.96",
+          "general_score": "24.32",
+          "theme_score": "27.65"
+        },
+        {
           "contest": "USAJMO",
           "year": "2023",
           "contest_slug": "jmo",
           "student_name": "Matthew Qian",
           "state": "Massachusetts",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Matthew Qian",
+          "rank": "7",
+          "score": "37.16"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Matthew Qian",
+          "rank": "49",
+          "total_score": "47.72",
+          "general_score": "37.16",
+          "theme_score": "10.56"
         }
       ]
     },
@@ -31390,6 +32468,32 @@
           "student_name": "Michael Lu",
           "state": "New York",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Michael Lu",
+          "rank": "23",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Michael Lu",
+          "rank": "2",
+          "score": "42.65"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Michael Lu",
+          "rank": "2",
+          "total_score": "67.83",
+          "general_score": "42.65",
+          "theme_score": "25.17"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -31425,6 +32529,14 @@
           "state": "Minnesota",
           "rank": "28",
           "grade": "8"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Austin Wang",
+          "rank": "20",
+          "score": "32.81"
         }
       ]
     },
@@ -31555,6 +32667,40 @@
           "award": "Bronze"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Pratham Mukewar",
+          "rank": "29",
+          "score": "26.51"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Pratham Mukewar",
+          "rank": "4",
+          "score": "36.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Pratham Mukewar",
+          "rank": "7",
+          "total_score": "62.6",
+          "general_score": "36.08",
+          "theme_score": "26.51"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Pratham Mukewar",
+          "rank": "30",
+          "score": "30.8"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2022",
           "contest_slug": "mathcounts-national-rank",
@@ -31566,12 +32712,47 @@
       ]
     },
     {
+      "id": 577,
+      "name": "Vedant Patil",
+      "aliases": [],
+      "state": "New Hampshire",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Vedant Patil",
+          "rank": "30",
+          "score": "30.8"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Vedant Patil",
+          "rank": "39",
+          "total_score": "49.62",
+          "general_score": "30.8",
+          "theme_score": "18.82"
+        }
+      ]
+    },
+    {
       "id": 582,
       "name": "Shirley Xiong",
       "aliases": [],
       "state": "New York",
       "gender": "female",
       "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Shirley Xiong",
+          "rank": "23",
+          "score": "25.17"
+        },
         {
           "contest": "MPFG",
           "year": "2022",
@@ -31601,6 +32782,41 @@
           "state": "New York",
           "rank": "34",
           "grade": "8"
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "name": "Raymond Ge",
+      "aliases": [],
+      "state": "North Carolina",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Raymond Ge",
+          "rank": "22",
+          "score": "27.71"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Raymond Ge",
+          "rank": "44",
+          "total_score": "46.53",
+          "general_score": "18.82",
+          "theme_score": "27.71"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Raymond Ge",
+          "rank": "11",
+          "score": "26.32"
         }
       ]
     },
@@ -31688,6 +32904,24 @@
           "student_name": "Aidan Le",
           "state": "Pennsylvania",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Aidan Le",
+          "rank": "10",
+          "score": "35.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Aidan Le",
+          "rank": "28",
+          "total_score": "52.06",
+          "general_score": "35.08",
+          "theme_score": "16.98"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -32206,6 +33440,23 @@
       ]
     },
     {
+      "id": 657,
+      "name": "Kevin Zhang",
+      "aliases": [],
+      "state": "Alaska",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Kevin Zhang",
+          "rank": "49",
+          "score": "21.07"
+        }
+      ]
+    },
+    {
       "id": 660,
       "name": "Quentin Hill",
       "aliases": [],
@@ -32411,6 +33662,41 @@
           "total_score": "51.42",
           "general_score": "33.59",
           "theme_score": "17.82"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Sohan Javeri",
+          "rank": "11",
+          "score": "30.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sohan Javeri",
+          "rank": "32",
+          "total_score": "50.49",
+          "general_score": "30.67",
+          "theme_score": "19.82"
+        }
+      ]
+    },
+    {
+      "id": 671,
+      "name": "Kabir Goyal",
+      "aliases": [],
+      "state": "Delaware",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Kabir Goyal",
+          "rank": "44",
+          "score": "24.24"
         }
       ]
     },
@@ -32949,6 +34235,33 @@
       ]
     },
     {
+      "id": 754,
+      "name": "William Liu",
+      "aliases": [],
+      "state": "Pennsylvania",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "William Liu",
+          "rank": "38",
+          "score": "29.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "William Liu",
+          "rank": "44",
+          "total_score": "48.42",
+          "general_score": "29.59",
+          "theme_score": "18.82"
+        }
+      ]
+    },
+    {
       "id": 764,
       "name": "Seomgeun Shim",
       "aliases": [],
@@ -32997,6 +34310,14 @@
           "student_name": "Kevin Chen",
           "state": "New Jersey",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Kevin Chen",
+          "rank": "39",
+          "score": "26.17"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -33054,6 +34375,24 @@
           "prize": "$15,000"
         },
         {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Susie Lu",
+          "rank": "29",
+          "score": "26.65"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Susie Lu",
+          "rank": "49",
+          "total_score": "46.47",
+          "general_score": "26.65",
+          "theme_score": "19.82"
+        },
+        {
           "contest": "USAJMO",
           "year": "2023",
           "contest_slug": "jmo",
@@ -33072,6 +34411,24 @@
           "place": "19",
           "score": "9",
           "prize": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Susie Lu",
+          "rank": "3",
+          "score": "31.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Susie Lu",
+          "rank": "13",
+          "total_score": "56.96",
+          "general_score": "25.37",
+          "theme_score": "31.59"
         },
         {
           "contest": "USAJMO",
@@ -33187,6 +34544,14 @@
           "student_name": "Zizhan Wang",
           "state": "Georgia",
           "award": "Honors"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Zizhan Wang",
+          "rank": "45",
+          "score": "24.32"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -33601,6 +34966,24 @@
           "state": "New Jersey",
           "rank": "C (9-12)",
           "grade": "6"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Advait Joshi",
+          "rank": "9",
+          "score": "30.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Advait Joshi",
+          "rank": "12",
+          "total_score": "54.98",
+          "general_score": "24.24",
+          "theme_score": "30.73"
         }
       ]
     },
@@ -33636,6 +35019,14 @@
           "state": "Massachusetts",
           "rank": "13",
           "grade": "8"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Danyang Xu",
+          "rank": "14",
+          "score": "30.59"
         }
       ]
     },
@@ -33680,6 +35071,24 @@
           "state": "Massachusetts",
           "rank": "16",
           "grade": "6"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Brandon Ni",
+          "rank": "10",
+          "score": "35.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Brandon Ni",
+          "rank": "30",
+          "total_score": "51.87",
+          "general_score": "35.08",
+          "theme_score": "16.79"
         }
       ]
     },
@@ -34142,6 +35551,32 @@
           "state": "Massachusetts",
           "rank": "45",
           "grade": "8"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Rajarshi Mandal",
+          "rank": "48",
+          "score": "15.58"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Rajarshi Mandal",
+          "rank": "33",
+          "score": "24.01"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Rajarshi Mandal",
+          "rank": "38",
+          "total_score": "39.59",
+          "general_score": "24.01",
+          "theme_score": "15.58"
         }
       ]
     },
@@ -34643,6 +36078,24 @@
           "site": "S",
           "team": "Massachusetts B1",
           "prize": "$500"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Eric Huang",
+          "rank": "34",
+          "score": "26.43"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Eric Huang",
+          "rank": "46",
+          "total_score": "46.52",
+          "general_score": "20.09",
+          "theme_score": "26.43"
         }
       ]
     },
@@ -34697,6 +36150,24 @@
           "rank": "12",
           "score": "10",
           "team": "MathSchool 1"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Soham Samanta",
+          "rank": "9",
+          "score": "30.81"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Soham Samanta",
+          "rank": "44",
+          "total_score": "46.53",
+          "general_score": "30.81",
+          "theme_score": "15.72"
         }
       ]
     },
@@ -35255,6 +36726,14 @@
           "student_name": "Aiden Dai",
           "rank": "6",
           "total_score": "167.65"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Aiden Dai",
+          "rank": "16",
+          "score": "25.24"
         }
       ]
     },
@@ -35953,6 +37432,32 @@
           "award": "Honors"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Perry Dai",
+          "rank": "2",
+          "score": "37.08"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Perry Dai",
+          "rank": "22",
+          "score": "29.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Perry Dai",
+          "rank": "4",
+          "total_score": "66.82",
+          "general_score": "29.73",
+          "theme_score": "37.08"
+        },
+        {
           "contest": "USAJMO",
           "year": "2023",
           "contest_slug": "jmo",
@@ -36142,6 +37647,24 @@
           "student_name": "Hyun-Jin Kim",
           "state": "Texas",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Hyun-Jin Kim",
+          "rank": "18",
+          "score": "30.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Hyun-Jin Kim",
+          "rank": "21",
+          "total_score": "52.48",
+          "general_score": "30.59",
+          "theme_score": "21.89"
         }
       ]
     },
@@ -36235,6 +37758,14 @@
           "rank": "63",
           "score": "8",
           "team": "Lexington Muztaba"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Ryan Tang",
+          "rank": "24",
+          "score": "26.63"
         }
       ]
     },
@@ -36649,6 +38180,22 @@
           "student_name": "James Qiu",
           "state": "Ontario, Canada",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "James Qiu",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "James Qiu",
+          "rank": "49",
+          "score": "21.07"
         }
       ]
     },
@@ -36793,6 +38340,14 @@
           "student_name": "Nathan Ye",
           "state": "California",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Nathan Ye",
+          "rank": "44",
+          "score": "24.24"
         }
       ]
     },
@@ -36912,6 +38467,14 @@
           "student_name": "Alexander Zhang",
           "state": "Ontario, Canada",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Alexander Zhang",
+          "rank": "4",
+          "score": "32.92"
         }
       ]
     },
@@ -37182,6 +38745,32 @@
           "student_name": "Hanqin Gu",
           "state": "Ohio",
           "award": "Bronze"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Hanqin Gu",
+          "rank": "3",
+          "score": "31.59"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Hanqin Gu",
+          "rank": "24",
+          "score": "30.98"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Hanqin Gu",
+          "rank": "6",
+          "total_score": "62.57",
+          "general_score": "30.98",
+          "theme_score": "31.59"
         }
       ]
     },
@@ -37207,6 +38796,24 @@
           "student_name": "Peyton Li",
           "state": "Connecticut",
           "award": "Honors"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Peyton Li",
+          "rank": "3",
+          "score": "31.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Peyton Li",
+          "rank": "48",
+          "total_score": "48.26",
+          "general_score": "16.67",
+          "theme_score": "31.59"
         }
       ]
     },
@@ -37425,6 +39032,24 @@
           "student_name": "Samuel Ren",
           "state": "California",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Samuel Ren",
+          "rank": "5",
+          "score": "34.8"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Samuel Ren",
+          "rank": "19",
+          "total_score": "48.18",
+          "general_score": "34.8",
+          "theme_score": "13.38"
         }
       ]
     },
@@ -37682,6 +39307,14 @@
           "student_name": "Hongyi Huang",
           "state": "Ontario, Canada",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Hongyi Huang",
+          "rank": "23",
+          "score": "25.17"
         },
         {
           "contest": "PUMaC — Geometry",
@@ -38105,6 +39738,32 @@
           "student_name": "Richard Wang",
           "state": "Texas",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Richard Wang",
+          "rank": "9",
+          "score": "28.5"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Richard Wang",
+          "rank": "10",
+          "score": "35.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Richard Wang",
+          "rank": "5",
+          "total_score": "63.59",
+          "general_score": "35.08",
+          "theme_score": "28.5"
         }
       ]
     },
@@ -38411,6 +40070,32 @@
           "student_name": "Anji Wang",
           "state": "Ontario, Canada",
           "award": "Honors"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Anji Wang",
+          "rank": "14",
+          "score": "30.59"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Anji Wang",
+          "rank": "18",
+          "score": "30.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Anji Wang",
+          "rank": "10",
+          "total_score": "61.19",
+          "general_score": "30.59",
+          "theme_score": "30.59"
         }
       ]
     },
@@ -38493,6 +40178,14 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "David Wang",
+          "rank": "38",
+          "score": "29.59"
         }
       ]
     },
@@ -38666,6 +40359,24 @@
           "student_name": "Krittika Chandra",
           "state": "California",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Krittika Chandra",
+          "rank": "18",
+          "score": "30.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Krittika Chandra",
+          "rank": "31",
+          "total_score": "50.61",
+          "general_score": "30.59",
+          "theme_score": "20.02"
         },
         {
           "contest": "MPFG",
@@ -39286,6 +40997,32 @@
           "site": "P",
           "team": "Ontario Math Circles A1",
           "prize": "$500"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Michael Sun",
+          "rank": "14",
+          "score": "30.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Michael Sun",
+          "rank": "29",
+          "total_score": "50.67",
+          "general_score": "20.08",
+          "theme_score": "30.59"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Michael Sun",
+          "rank": "24",
+          "score": "30.98"
         }
       ]
     },
@@ -39381,6 +41118,24 @@
           "rank": "63",
           "score": "8",
           "team": "Dallas Math Circle"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Colin Wei",
+          "rank": "32",
+          "score": "26.45"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Colin Wei",
+          "rank": "50",
+          "total_score": "46.47",
+          "general_score": "20.02",
+          "theme_score": "26.45"
         }
       ]
     },
@@ -40231,6 +41986,24 @@
           "rank": "15",
           "score": "10",
           "team": "Dallas Math Circle"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Xinyi Li",
+          "rank": "10",
+          "score": "35.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Xinyi Li",
+          "rank": "28",
+          "total_score": "52.06",
+          "general_score": "35.08",
+          "theme_score": "16.98"
         }
       ]
     },
@@ -40256,6 +42029,32 @@
           "student_name": "Jason Lian",
           "state": "New York",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jason Lian",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jason Lian",
+          "rank": "41",
+          "total_score": "47.62",
+          "general_score": "23.38",
+          "theme_score": "24.24"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jason Lian",
+          "rank": "23",
+          "score": "25.17"
         }
       ]
     },
@@ -40636,6 +42435,14 @@
           "student_name": "Kyle Yang",
           "state": "Massachusetts",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Kyle Yang",
+          "rank": "49",
+          "score": "21.07"
         }
       ]
     },
@@ -41733,12 +43540,38 @@
           "award": "Honorable Mention"
         },
         {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Sebastian Prasanna",
+          "rank": "38",
+          "score": "29.59"
+        },
+        {
           "contest": "USAJMO",
           "year": "2022",
           "contest_slug": "jmo",
           "student_name": "Sebastian Prasanna",
           "state": "Massachusetts",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Sebastian Prasanna",
+          "rank": "10",
+          "score": "33.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sebastian Prasanna",
+          "rank": "18",
+          "total_score": "49.1",
+          "general_score": "33.59",
+          "theme_score": "15.51"
         }
       ]
     },
@@ -43532,6 +45365,32 @@
           "prize": "Honorable Mention"
         },
         {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Yingshan Xiao",
+          "rank": "23",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Yingshan Xiao",
+          "rank": "38",
+          "score": "29.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Yingshan Xiao",
+          "rank": "20",
+          "total_score": "54.77",
+          "general_score": "29.59",
+          "theme_score": "25.17"
+        },
+        {
           "contest": "USAJMO",
           "year": "2022",
           "contest_slug": "jmo",
@@ -43564,6 +45423,24 @@
       "state": "",
       "gender": "male",
       "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Henry Zheng",
+          "rank": "9",
+          "score": "35.34"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Henry Zheng",
+          "rank": "36",
+          "total_score": "50.15",
+          "general_score": "35.34",
+          "theme_score": "14.8"
+        },
         {
           "contest": "USAJMO",
           "year": "2022",
@@ -43828,6 +45705,32 @@
           "place": "12",
           "score": "9",
           "prize": "$300"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Tina Li",
+          "rank": "7",
+          "score": "28.29"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Tina Li",
+          "rank": "40",
+          "score": "23.02"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Tina Li",
+          "rank": "13",
+          "total_score": "51.31",
+          "general_score": "23.02",
+          "theme_score": "28.29"
         }
       ]
     },
@@ -43919,6 +45822,32 @@
           "contest_slug": "jmo",
           "student_name": "Joseph Vulakh",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Joseph Vulakh",
+          "rank": "6",
+          "score": "29.07"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Joseph Vulakh",
+          "rank": "15",
+          "score": "29.38"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Joseph Vulakh",
+          "rank": "9",
+          "total_score": "58.45",
+          "general_score": "29.38",
+          "theme_score": "29.07"
         }
       ]
     },
@@ -44443,6 +46372,24 @@
           "student_name": "Jefferson Ji",
           "state": "Massachusetts",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jefferson Ji",
+          "rank": "14",
+          "score": "25.89"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jefferson Ji",
+          "rank": "42",
+          "total_score": "37.52",
+          "general_score": "11.63",
+          "theme_score": "25.89"
         }
       ]
     },
@@ -45887,6 +47834,14 @@
           "q8": "0",
           "q9": "1",
           "q10": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Aaron Zhu",
+          "rank": "14",
+          "score": "30.59"
         }
       ]
     },
@@ -46501,6 +48456,24 @@
           "place": "34",
           "score": "11",
           "prize": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Yunong Wu",
+          "rank": "14",
+          "score": "30.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Yunong Wu",
+          "rank": "25",
+          "total_score": "51.54",
+          "general_score": "20.95",
+          "theme_score": "30.59"
         }
       ]
     },
@@ -47046,6 +49019,24 @@
           "place": "28",
           "score": "9",
           "prize": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Annabel Rong",
+          "rank": "18",
+          "score": "30.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Annabel Rong",
+          "rank": "28",
+          "total_score": "50.73",
+          "general_score": "30.59",
+          "theme_score": "20.14"
         }
       ]
     },
@@ -47125,6 +49116,24 @@
           "student_name": "Paige Zhu",
           "rank": "50",
           "score": "19.82"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Paige Zhu",
+          "rank": "14",
+          "score": "30.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Paige Zhu",
+          "rank": "30",
+          "total_score": "50.62",
+          "general_score": "20.03",
+          "theme_score": "30.59"
         }
       ]
     },
@@ -47277,6 +49286,14 @@
           "place": "34",
           "score": "11",
           "prize": "Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Yifan Emma Tang",
+          "rank": "38",
+          "score": "29.59"
         }
       ]
     },
@@ -47776,6 +49793,14 @@
           "place": "37",
           "score": "6",
           "prize": "one point shy of Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Lillian Wang",
+          "rank": "44",
+          "score": "21.82"
         }
       ]
     },
@@ -48034,6 +50059,14 @@
       "gender": "female",
       "records": [
         {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Charlotte Younger",
+          "rank": "39",
+          "score": "26.17"
+        },
+        {
           "contest": "MPFG",
           "year": "2023",
           "contest_slug": "mpfg",
@@ -48044,6 +50077,14 @@
           "place": "42",
           "score": "7",
           "prize": "one point shy of Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Charlotte Younger",
+          "rank": "42",
+          "score": "21.14"
         }
       ]
     },
@@ -48065,6 +50106,14 @@
           "place": "42",
           "score": "7",
           "prize": "one point shy of Honorable Mention"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Emily Zhang",
+          "rank": "41",
+          "score": "22.15"
         }
       ]
     },
@@ -49469,6 +51518,24 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Derek Xu",
+          "rank": "26",
+          "score": "20.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Derek Xu",
+          "rank": "46",
+          "total_score": "37.27",
+          "general_score": "16.54",
+          "theme_score": "20.73"
         }
       ]
     },
@@ -49649,6 +51716,24 @@
           "rank": "33",
           "score": "9",
           "team": "ABML"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Anand Swaroop",
+          "rank": "9",
+          "score": "30.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Anand Swaroop",
+          "rank": "35",
+          "total_score": "49.56",
+          "general_score": "18.82",
+          "theme_score": "30.73"
         }
       ]
     },
@@ -50196,6 +52281,24 @@
           "rank": "72",
           "score": "8",
           "team": "Phillips Academy"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jason Yang",
+          "rank": "39",
+          "score": "22.21"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jason Yang",
+          "rank": "50",
+          "total_score": "47.7",
+          "general_score": "25.49",
+          "theme_score": "22.21"
         }
       ]
     },
@@ -51048,6 +53151,14 @@
       "gender": "male",
       "records": [
         {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Xinyi Guo",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2022",
           "contest_slug": "hmmt-feb-algebra-number-theory",
@@ -51064,6 +53175,24 @@
       "state": "",
       "gender": "male",
       "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Maximus Liu",
+          "rank": "20",
+          "score": "28.31"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Maximus Liu",
+          "rank": "32",
+          "total_score": "41.69",
+          "general_score": "28.31",
+          "theme_score": "13.38"
+        },
         {
           "contest": "HMMT February — Algebra & Number Theory",
           "year": "2022",
@@ -51225,6 +53354,50 @@
           "total_score": "70.68",
           "general_score": "44.37",
           "theme_score": "26.31"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Leo Wu",
+          "rank": "2",
+          "score": "37.08"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Leo Wu",
+          "rank": "6",
+          "score": "34.21"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Leo Wu",
+          "rank": "2",
+          "total_score": "71.29",
+          "general_score": "34.21",
+          "theme_score": "37.08"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Leo Wu",
+          "rank": "34",
+          "score": "30.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Leo Wu",
+          "rank": "40",
+          "total_score": "49.49",
+          "general_score": "30.67",
+          "theme_score": "18.82"
         }
       ]
     },
@@ -51295,6 +53468,14 @@
           "total_score": "60.18",
           "general_score": "28.44",
           "theme_score": "31.73"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Harry Haiwen Gao",
+          "rank": "9",
+          "score": "30.73"
         }
       ]
     },
@@ -51322,6 +53503,14 @@
           "total_score": "54.9",
           "general_score": "41.24",
           "theme_score": "13.66"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Brandon Ni",
+          "rank": "45",
+          "score": "24.32"
         }
       ]
     },
@@ -51605,6 +53794,14 @@
           "total_score": "45.14",
           "general_score": "19.82",
           "theme_score": "25.32"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Yutong Zhao",
+          "rank": "49",
+          "score": "21.07"
         }
       ]
     },
@@ -51669,6 +53866,24 @@
           "total_score": "44.07",
           "general_score": "19.82",
           "theme_score": "24.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Ethan Shi",
+          "rank": "38",
+          "score": "29.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Ethan Shi",
+          "rank": "44",
+          "total_score": "48.42",
+          "general_score": "29.59",
+          "theme_score": "18.82"
         }
       ]
     },
@@ -51847,6 +54062,14 @@
           "total_score": "41.85",
           "general_score": "21.89",
           "theme_score": "19.96"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Eric Zhong",
+          "rank": "44",
+          "score": "24.24"
         }
       ]
     },
@@ -52326,6 +54549,14 @@
           "student_name": "Raymond Wang",
           "rank": "50",
           "score": "19.82"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Raymond Wang",
+          "rank": "44",
+          "score": "24.24"
         }
       ]
     },
@@ -52428,6 +54659,14 @@
           "student_name": "Samuel Lin",
           "rank": "50",
           "score": "19.82"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Samuel Lin",
+          "rank": "42",
+          "score": "21.14"
         }
       ]
     },
@@ -52496,6 +54735,32 @@
           "student_name": "Michael Yang",
           "rank": "50",
           "score": "19.82"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Michael Yang",
+          "rank": "28",
+          "score": "20.67"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Michael Yang",
+          "rank": "35",
+          "score": "23.19"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Michael Yang",
+          "rank": "27",
+          "total_score": "43.86",
+          "general_score": "23.19",
+          "theme_score": "20.67"
         }
       ]
     },
@@ -52564,6 +54829,24 @@
           "student_name": "Charles Yuanrui Zheng",
           "rank": "50",
           "score": "19.82"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Charles Yuanrui Zheng",
+          "rank": "11",
+          "score": "30.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Charles Yuanrui Zheng",
+          "rank": "32",
+          "total_score": "50.49",
+          "general_score": "30.67",
+          "theme_score": "19.82"
         }
       ]
     },
@@ -52904,6 +55187,14 @@
           "student_name": "Yutong Wang",
           "rank": "43",
           "score": "20.08"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Yutong Wang",
+          "rank": "45",
+          "score": "24.32"
         }
       ]
     },
@@ -52948,6 +55239,2945 @@
           "rank": "25",
           "score": "9",
           "team": "Unknown"
+        }
+      ]
+    },
+    {
+      "id": 1598,
+      "name": "GONG YICHEN",
+      "aliases": [
+        "Yichen Gong"
+      ],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Yichen Gong",
+          "rank": "1",
+          "score": "40.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Yichen Gong",
+          "rank": "8",
+          "score": "32.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "GONG YICHEN",
+          "rank": "1",
+          "total_score": "72.32",
+          "general_score": "32.08",
+          "theme_score": "40.24"
+        }
+      ]
+    },
+    {
+      "id": 1599,
+      "name": "Joanna Wu",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Joanna Wu",
+          "rank": "5",
+          "score": "32.67"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Joanna Wu",
+          "rank": "4",
+          "score": "36.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Joanna Wu",
+          "rank": "3",
+          "total_score": "68.75",
+          "general_score": "36.08",
+          "theme_score": "32.67"
+        }
+      ]
+    },
+    {
+      "id": 1600,
+      "name": "Peter Wang",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Peter Wang",
+          "rank": "37",
+          "score": "26.32"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Peter Wang",
+          "rank": "2",
+          "score": "36.3"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Peter Wang",
+          "rank": "6",
+          "total_score": "62.62",
+          "general_score": "36.3",
+          "theme_score": "26.32"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Peter Wang",
+          "rank": "46",
+          "score": "15.65"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Peter Wang",
+          "rank": "34",
+          "score": "23.54"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Peter Wang",
+          "rank": "39",
+          "total_score": "39.19",
+          "general_score": "23.54",
+          "theme_score": "15.65"
+        }
+      ]
+    },
+    {
+      "id": 1601,
+      "name": "Dongyoon Shin",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Dongyoon Shin",
+          "rank": "39",
+          "score": "26.17"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Dongyoon Shin",
+          "rank": "2",
+          "score": "36.3"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Dongyoon Shin",
+          "rank": "8",
+          "total_score": "62.48",
+          "general_score": "36.3",
+          "theme_score": "26.17"
+        }
+      ]
+    },
+    {
+      "id": 1602,
+      "name": "Eric P Zhu",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Eric P Zhu",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Eric P Zhu",
+          "rank": "1",
+          "score": "37.16"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Eric P Zhu",
+          "rank": "9",
+          "total_score": "61.4",
+          "general_score": "37.16",
+          "theme_score": "24.24"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Eric P Zhu",
+          "rank": "16",
+          "score": "25.24"
+        }
+      ]
+    },
+    {
+      "id": 1603,
+      "name": "Xingguo Ding",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Xingguo Ding",
+          "rank": "24",
+          "score": "26.63"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Xingguo Ding",
+          "rank": "22",
+          "score": "29.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Xingguo Ding",
+          "rank": "11",
+          "total_score": "56.36",
+          "general_score": "29.73",
+          "theme_score": "26.63"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Xingguo Ding",
+          "rank": "23",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Xingguo Ding",
+          "rank": "38",
+          "score": "29.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Xingguo Ding",
+          "rank": "20",
+          "total_score": "54.77",
+          "general_score": "29.59",
+          "theme_score": "25.17"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Xingguo Ding",
+          "rank": "32",
+          "score": "18.54"
+        }
+      ]
+    },
+    {
+      "id": 1604,
+      "name": "Gavin Guojun Zhao",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Gavin Guojun Zhao",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Gavin Guojun Zhao",
+          "rank": "11",
+          "score": "30.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Gavin Guojun Zhao",
+          "rank": "13",
+          "total_score": "54.91",
+          "general_score": "30.67",
+          "theme_score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1605,
+      "name": "Aadish Jain",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Aadish Jain",
+          "rank": "5",
+          "score": "32.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Aadish Jain",
+          "rank": "15",
+          "total_score": "53.55",
+          "general_score": "20.89",
+          "theme_score": "32.67"
+        }
+      ]
+    },
+    {
+      "id": 1606,
+      "name": "chen zizhuang",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Zizhuang Chen",
+          "rank": "34",
+          "score": "26.43"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Zizhuang Chen",
+          "rank": "29",
+          "score": "26.65"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "chen zizhuang",
+          "rank": "16",
+          "total_score": "53.08",
+          "general_score": "26.65",
+          "theme_score": "26.43"
+        }
+      ]
+    },
+    {
+      "id": 1607,
+      "name": "PENGYU WU",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Pengyu Wu",
+          "rank": "30",
+          "score": "26.49"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Pengyu Wu",
+          "rank": "31",
+          "score": "26.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "PENGYU WU",
+          "rank": "17",
+          "total_score": "53.08",
+          "general_score": "26.59",
+          "theme_score": "26.49"
+        }
+      ]
+    },
+    {
+      "id": 1608,
+      "name": "Sun Weihong",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Weihong Sun",
+          "rank": "11",
+          "score": "30.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sun Weihong",
+          "rank": "19",
+          "total_score": "52.7",
+          "general_score": "30.67",
+          "theme_score": "22.03"
+        }
+      ]
+    },
+    {
+      "id": 1609,
+      "name": "Li Tianyi",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Tianyi Li",
+          "rank": "11",
+          "score": "30.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Li Tianyi",
+          "rank": "19",
+          "total_score": "52.7",
+          "general_score": "30.67",
+          "theme_score": "22.03"
+        }
+      ]
+    },
+    {
+      "id": 1610,
+      "name": "Jerry Zhang",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jerry Zhang",
+          "rank": "7",
+          "score": "31.81"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jerry Zhang",
+          "rank": "23",
+          "total_score": "51.91",
+          "general_score": "20.09",
+          "theme_score": "31.81"
+        }
+      ]
+    },
+    {
+      "id": 1611,
+      "name": "ZIYANG WU",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Ziyang Wu",
+          "rank": "22",
+          "score": "29.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "ZIYANG WU",
+          "rank": "26",
+          "total_score": "50.93",
+          "general_score": "29.73",
+          "theme_score": "21.19"
+        }
+      ]
+    },
+    {
+      "id": 1612,
+      "name": "Daniel Yu",
+      "aliases": [],
+      "state": "Maryland",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Daniel Yu",
+          "rank": "14",
+          "score": "30.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Daniel Yu",
+          "rank": "27",
+          "total_score": "50.75",
+          "general_score": "20.15",
+          "theme_score": "30.59"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Daniel Yu",
+          "rank": "42",
+          "score": "21.14"
+        }
+      ]
+    },
+    {
+      "id": 1613,
+      "name": "Kaylyn Jinglin Zhang",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Kaylyn Jinglin Zhang",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Kaylyn Jinglin Zhang",
+          "rank": "39",
+          "score": "25.39"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Kaylyn Jinglin Zhang",
+          "rank": "34",
+          "total_score": "49.63",
+          "general_score": "25.39",
+          "theme_score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1614,
+      "name": "Sirawit Pipittanaban",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Sirawit Pipittanaban",
+          "rank": "26",
+          "score": "26.57"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sirawit Pipittanaban",
+          "rank": "37",
+          "total_score": "49.04",
+          "general_score": "22.47",
+          "theme_score": "26.57"
+        }
+      ]
+    },
+    {
+      "id": 1615,
+      "name": "Gong Cheng",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Gong Cheng",
+          "rank": "22",
+          "score": "29.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Gong Cheng",
+          "rank": "38",
+          "total_score": "49.03",
+          "general_score": "29.73",
+          "theme_score": "19.3"
+        }
+      ]
+    },
+    {
+      "id": 1616,
+      "name": "Christopher Lu",
+      "aliases": [],
+      "state": "Virginia",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Christopher Lu",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Christopher Lu",
+          "rank": "40",
+          "total_score": "48.49",
+          "general_score": "24.24",
+          "theme_score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1617,
+      "name": "Michael Retakh",
+      "aliases": [],
+      "state": "New York",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Michael Retakh",
+          "rank": "11",
+          "score": "30.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Michael Retakh",
+          "rank": "42",
+          "total_score": "47.57",
+          "general_score": "30.67",
+          "theme_score": "16.91"
+        }
+      ]
+    },
+    {
+      "id": 1618,
+      "name": "Brayden Choi",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Brayden Choi",
+          "rank": "43",
+          "total_score": "47.37",
+          "general_score": "24.24",
+          "theme_score": "23.12"
+        }
+      ]
+    },
+    {
+      "id": 1619,
+      "name": "Lingfei Sophia Tang",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Lingfei Sophia Tang",
+          "rank": "22",
+          "score": "29.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2024",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Lingfei Sophia Tang",
+          "rank": "47",
+          "total_score": "46.51",
+          "general_score": "29.73",
+          "theme_score": "16.77"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Lingfei Sophia Tang",
+          "rank": "42",
+          "score": "21.14"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Lingfei Sophia Tang",
+          "rank": "24",
+          "score": "30.98"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Lingfei Sophia Tang",
+          "rank": "27",
+          "total_score": "52.12",
+          "general_score": "30.98",
+          "theme_score": "21.14"
+        }
+      ]
+    },
+    {
+      "id": 1621,
+      "name": "Mengqi Xuan",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Mengqi Xuan",
+          "rank": "11",
+          "score": "30.67"
+        }
+      ]
+    },
+    {
+      "id": 1622,
+      "name": "Kaicheng Zhang",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Kaicheng Zhang",
+          "rank": "31",
+          "score": "26.59"
+        }
+      ]
+    },
+    {
+      "id": 1623,
+      "name": "Albert Wu",
+      "aliases": [],
+      "state": "New Jersey",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Albert Wu",
+          "rank": "33",
+          "score": "26.37"
+        }
+      ]
+    },
+    {
+      "id": 1624,
+      "name": "Jiya",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Jiya",
+          "rank": "34",
+          "score": "25.57"
+        }
+      ]
+    },
+    {
+      "id": 1625,
+      "name": "Clark Hu",
+      "aliases": [],
+      "state": "Maryland",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Clark Hu",
+          "rank": "35",
+          "score": "25.51"
+        }
+      ]
+    },
+    {
+      "id": 1626,
+      "name": "Mia Zhao",
+      "aliases": [],
+      "state": "Massachusetts",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Mia Zhao",
+          "rank": "37",
+          "score": "25.45"
+        }
+      ]
+    },
+    {
+      "id": 1627,
+      "name": "Siyuan Du",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Siyuan Du",
+          "rank": "39",
+          "score": "25.39"
+        }
+      ]
+    },
+    {
+      "id": 1628,
+      "name": "Andrew Lau",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Andrew Lau",
+          "rank": "42",
+          "score": "25.17"
+        }
+      ]
+    },
+    {
+      "id": 1629,
+      "name": "Jagan Mranal",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Jagan Mranal",
+          "rank": "45",
+          "score": "24.32"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jagan Mranal",
+          "rank": "49",
+          "score": "21.07"
+        }
+      ]
+    },
+    {
+      "id": 1630,
+      "name": "Maxime Demers",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Maxime Demers",
+          "rank": "45",
+          "score": "24.32"
+        }
+      ]
+    },
+    {
+      "id": 1631,
+      "name": "Kaiqi Xu",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Kaiqi Xu",
+          "rank": "45",
+          "score": "24.32"
+        }
+      ]
+    },
+    {
+      "id": 1632,
+      "name": "Eric Zang",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Eric Zang",
+          "rank": "45",
+          "score": "24.32"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Eric Zang",
+          "rank": "2",
+          "score": "32.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Eric Zang",
+          "rank": "10",
+          "total_score": "58.28",
+          "general_score": "25.54",
+          "theme_score": "32.73"
+        }
+      ]
+    },
+    {
+      "id": 1633,
+      "name": "William Du",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "William Du",
+          "rank": "45",
+          "score": "24.32"
+        }
+      ]
+    },
+    {
+      "id": 1634,
+      "name": "Yeyin Zhu",
+      "aliases": [],
+      "state": "California",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Yeyin Zhu",
+          "rank": "9",
+          "score": "30.73"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Yeyin Zhu",
+          "rank": "5",
+          "score": "38.55"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Yeyin Zhu",
+          "rank": "42",
+          "total_score": "49.04",
+          "general_score": "38.55",
+          "theme_score": "10.5"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Yeyin Zhu",
+          "rank": "18",
+          "score": "28.32"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Yeyin Zhu",
+          "rank": "40",
+          "total_score": "37.59",
+          "general_score": "28.32",
+          "theme_score": "9.27"
+        }
+      ]
+    },
+    {
+      "id": 1635,
+      "name": "Andrew M Kalashnikov",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Andrew M Kalashnikov",
+          "rank": "9",
+          "score": "30.73"
+        }
+      ]
+    },
+    {
+      "id": 1636,
+      "name": "Tymon Sidor",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Tymon Sidor",
+          "rank": "26",
+          "score": "26.57"
+        }
+      ]
+    },
+    {
+      "id": 1637,
+      "name": "Casey Fong",
+      "aliases": [],
+      "state": "North Carolina",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Casey Fong",
+          "rank": "26",
+          "score": "26.57"
+        }
+      ]
+    },
+    {
+      "id": 1638,
+      "name": "Tianxiang Zhang",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Tianxiang Zhang",
+          "rank": "32",
+          "score": "26.45"
+        }
+      ]
+    },
+    {
+      "id": 1639,
+      "name": "Henry Han",
+      "aliases": [],
+      "state": "Massachusetts",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Henry Han",
+          "rank": "36",
+          "score": "26.37"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Henry Han",
+          "rank": "11",
+          "score": "25.96"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Henry Han",
+          "rank": "28",
+          "total_score": "43.73",
+          "general_score": "17.77",
+          "theme_score": "25.96"
+        }
+      ]
+    },
+    {
+      "id": 1640,
+      "name": "Juncheng Zhu",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Juncheng Zhu",
+          "rank": "37",
+          "score": "26.32"
+        }
+      ]
+    },
+    {
+      "id": 1641,
+      "name": "Magdalena Pudełko",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Magdalena Pudełko",
+          "rank": "43",
+          "score": "24.6"
+        }
+      ]
+    },
+    {
+      "id": 1642,
+      "name": "Joseph Peter Girotto",
+      "aliases": [],
+      "state": "New York",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Joseph Peter Girotto",
+          "rank": "44",
+          "score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1643,
+      "name": "Justin Y. Yu",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Justin Y. Yu",
+          "rank": "44",
+          "score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1644,
+      "name": "Hans Sihan Zhu",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Hans Sihan Zhu",
+          "rank": "44",
+          "score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1645,
+      "name": "Zion Paul QU",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Zion Paul QU",
+          "rank": "44",
+          "score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1646,
+      "name": "Aaron Yuqi Fan",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Aaron Yuqi Fan",
+          "rank": "44",
+          "score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1647,
+      "name": "Andrew Ma",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Andrew Ma",
+          "rank": "44",
+          "score": "24.24"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Andrew Ma",
+          "rank": "16",
+          "score": "25.24"
+        }
+      ]
+    },
+    {
+      "id": 1648,
+      "name": "Andrew Wang",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Andrew Wang",
+          "rank": "44",
+          "score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1649,
+      "name": "Victoria Sheung",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Victoria Sheung",
+          "rank": "44",
+          "score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1650,
+      "name": "Isabella Li",
+      "aliases": [],
+      "state": "Massachusetts",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Isabella Li",
+          "rank": "44",
+          "score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1651,
+      "name": "Xinye Zhang",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Xinye Zhang",
+          "rank": "44",
+          "score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1652,
+      "name": "Lindsay Miao",
+      "aliases": [],
+      "state": "Connecticut",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2024",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Lindsay Miao",
+          "rank": "44",
+          "score": "24.24"
+        }
+      ]
+    },
+    {
+      "id": 1653,
+      "name": "Sicheng Zhou",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Sicheng Zhou",
+          "rank": "3",
+          "score": "31.59"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Sicheng Zhou",
+          "rank": "1",
+          "score": "51.3"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sicheng Zhou",
+          "rank": "1",
+          "total_score": "82.89",
+          "general_score": "51.3",
+          "theme_score": "31.59"
+        }
+      ]
+    },
+    {
+      "id": 1654,
+      "name": "David Taehee Lee",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "David Taehee Lee",
+          "rank": "23",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "David Taehee Lee",
+          "rank": "2",
+          "score": "42.65"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "David Taehee Lee",
+          "rank": "2",
+          "total_score": "67.83",
+          "general_score": "42.65",
+          "theme_score": "25.17"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "David Taehee Lee",
+          "rank": "3",
+          "score": "35.64"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "David Taehee Lee",
+          "rank": "23",
+          "total_score": "45.16",
+          "general_score": "9.52",
+          "theme_score": "35.64"
+        }
+      ]
+    },
+    {
+      "id": 1655,
+      "name": "Evan Zhang",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Evan Zhang",
+          "rank": "10",
+          "score": "27.43"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Evan Zhang",
+          "rank": "29",
+          "score": "30.92"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Evan Zhang",
+          "rank": "9",
+          "total_score": "58.35",
+          "general_score": "30.92",
+          "theme_score": "27.43"
+        }
+      ]
+    },
+    {
+      "id": 1656,
+      "name": "Kevin Xuanhao Liu",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Kevin Xuanhao Liu",
+          "rank": "6",
+          "score": "38.49"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Kevin Xuanhao Liu",
+          "rank": "12",
+          "total_score": "57.31",
+          "general_score": "38.49",
+          "theme_score": "18.82"
+        }
+      ]
+    },
+    {
+      "id": 1657,
+      "name": "Le Yi Tan",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Le Yi Tan",
+          "rank": "23",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Le Yi Tan",
+          "rank": "21",
+          "score": "31.03"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Le Yi Tan",
+          "rank": "14",
+          "total_score": "56.21",
+          "general_score": "31.03",
+          "theme_score": "25.17"
+        }
+      ]
+    },
+    {
+      "id": 1658,
+      "name": "Jeffery Zhang",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jeffery Zhang",
+          "rank": "16",
+          "score": "25.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Jeffery Zhang",
+          "rank": "32",
+          "score": "30.73"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jeffery Zhang",
+          "rank": "17",
+          "total_score": "55.98",
+          "general_score": "30.73",
+          "theme_score": "25.24"
+        }
+      ]
+    },
+    {
+      "id": 1659,
+      "name": "Sophia Zhang",
+      "aliases": [],
+      "state": "California",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Sophia Zhang",
+          "rank": "10",
+          "score": "35.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sophia Zhang",
+          "rank": "22",
+          "total_score": "53.91",
+          "general_score": "35.08",
+          "theme_score": "18.82"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Sophia Zhang",
+          "rank": "8",
+          "score": "28.15"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sophia Zhang",
+          "rank": "35",
+          "total_score": "40.64",
+          "general_score": "12.49",
+          "theme_score": "28.15"
+        }
+      ]
+    },
+    {
+      "id": 1660,
+      "name": "Troy Yang",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Troy Yang",
+          "rank": "16",
+          "score": "25.24"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Troy Yang",
+          "rank": "32",
+          "total_score": "50.73",
+          "general_score": "25.49",
+          "theme_score": "25.24"
+        }
+      ]
+    },
+    {
+      "id": 1661,
+      "name": "Hwiseo",
+      "aliases": [],
+      "state": "Massachusetts",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Hwiseo",
+          "rank": "23",
+          "score": "25.17"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Hwiseo",
+          "rank": "34",
+          "total_score": "50.66",
+          "general_score": "25.49",
+          "theme_score": "25.17"
+        }
+      ]
+    },
+    {
+      "id": 1662,
+      "name": "Isaac Jo",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Isaac Jo",
+          "rank": "16",
+          "score": "25.24"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Isaac Jo",
+          "rank": "35",
+          "total_score": "50.49",
+          "general_score": "25.24",
+          "theme_score": "25.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Isaac Jo",
+          "rank": "29",
+          "score": "24.2"
+        }
+      ]
+    },
+    {
+      "id": 1663,
+      "name": "Victor Lin",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Victor Lin",
+          "rank": "21",
+          "score": "31.03"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Victor Lin",
+          "rank": "37",
+          "total_score": "49.86",
+          "general_score": "31.03",
+          "theme_score": "18.82"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Victor Lin",
+          "rank": "32",
+          "score": "18.54"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Victor Lin",
+          "rank": "43",
+          "score": "21.96"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Victor Lin",
+          "rank": "36",
+          "total_score": "40.5",
+          "general_score": "21.96",
+          "theme_score": "18.54"
+        }
+      ]
+    },
+    {
+      "id": 1664,
+      "name": "Jiya Neelesh Deo Dani",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jiya Neelesh Deo Dani",
+          "rank": "40",
+          "score": "22.19"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jiya Neelesh Deo Dani",
+          "rank": "43",
+          "total_score": "48.76",
+          "general_score": "26.57",
+          "theme_score": "22.19"
+        }
+      ]
+    },
+    {
+      "id": 1665,
+      "name": "William Jimenez",
+      "aliases": [],
+      "state": "Illinois",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "William Jimenez",
+          "rank": "38",
+          "score": "29.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "William Jimenez",
+          "rank": "44",
+          "total_score": "48.42",
+          "general_score": "29.59",
+          "theme_score": "18.82"
+        }
+      ]
+    },
+    {
+      "id": 1666,
+      "name": "Michael Ren",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Michael Ren",
+          "rank": "38",
+          "score": "29.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Michael Ren",
+          "rank": "44",
+          "total_score": "48.42",
+          "general_score": "29.59",
+          "theme_score": "18.82"
+        }
+      ]
+    },
+    {
+      "id": 1667,
+      "name": "Eric Dai",
+      "aliases": [],
+      "state": "Florida",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Eric Dai",
+          "rank": "24",
+          "score": "30.98"
+        }
+      ]
+    },
+    {
+      "id": 1668,
+      "name": "Grace Liu",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Grace Liu",
+          "rank": "38",
+          "score": "29.59"
+        }
+      ]
+    },
+    {
+      "id": 1669,
+      "name": "Aryan Saha",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Aryan Saha",
+          "rank": "38",
+          "score": "29.59"
+        }
+      ]
+    },
+    {
+      "id": 1670,
+      "name": "Sophie Yinuo Zheng",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Sophie Yinuo Zheng",
+          "rank": "11",
+          "score": "26.32"
+        }
+      ]
+    },
+    {
+      "id": 1671,
+      "name": "Eric Zhang",
+      "aliases": [],
+      "state": "Massachusetts",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Eric Zhang",
+          "rank": "11",
+          "score": "26.32"
+        }
+      ]
+    },
+    {
+      "id": 1672,
+      "name": "Shraaptesh Lokanda",
+      "aliases": [],
+      "state": "New Jersey",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Shraaptesh Lokanda",
+          "rank": "23",
+          "score": "25.17"
+        }
+      ]
+    },
+    {
+      "id": 1673,
+      "name": "Ian Wang",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Ian Wang",
+          "rank": "23",
+          "score": "25.17"
+        }
+      ]
+    },
+    {
+      "id": 1674,
+      "name": "Sohji Matsuda",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Sohji Matsuda",
+          "rank": "23",
+          "score": "25.17"
+        }
+      ]
+    },
+    {
+      "id": 1675,
+      "name": "Mingxuan Zhang",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Mingxuan Zhang",
+          "rank": "38",
+          "score": "23.26"
+        }
+      ]
+    },
+    {
+      "id": 1676,
+      "name": "Joshua Kou",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Joshua Kou",
+          "rank": "42",
+          "score": "21.14"
+        }
+      ]
+    },
+    {
+      "id": 1677,
+      "name": "Ryan Chase Casey",
+      "aliases": [],
+      "state": "New Hampshire",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Ryan Chase Casey",
+          "rank": "42",
+          "score": "21.14"
+        }
+      ]
+    },
+    {
+      "id": 1678,
+      "name": "Heyang Ni",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Heyang Ni",
+          "rank": "49",
+          "score": "21.07"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Heyang Ni",
+          "rank": "28",
+          "score": "24.26"
+        }
+      ]
+    },
+    {
+      "id": 1679,
+      "name": "Huiran Zheng",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Huiran Zheng",
+          "rank": "49",
+          "score": "21.07"
+        }
+      ]
+    },
+    {
+      "id": 1681,
+      "name": "Tanishq Pauskar",
+      "aliases": [],
+      "state": "Pennsylvania",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Tanishq Pauskar",
+          "rank": "10",
+          "score": "28.08"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Tanishq Pauskar",
+          "rank": "4",
+          "score": "35.98"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Tanishq Pauskar",
+          "rank": "4",
+          "total_score": "64.06",
+          "general_score": "35.98",
+          "theme_score": "28.08"
+        }
+      ]
+    },
+    {
+      "id": 1682,
+      "name": "Zehan Pan",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Zehan Pan",
+          "rank": "29",
+          "score": "20.66"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Zehan Pan",
+          "rank": "2",
+          "score": "40.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Zehan Pan",
+          "rank": "6",
+          "total_score": "60.75",
+          "general_score": "40.08",
+          "theme_score": "20.66"
+        }
+      ]
+    },
+    {
+      "id": 1683,
+      "name": "Alexander Yunjae Jun",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Alexander Yunjae Jun",
+          "rank": "8",
+          "score": "28.15"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Alexander Yunjae Jun",
+          "rank": "24",
+          "score": "28.17"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Alexander Yunjae Jun",
+          "rank": "10",
+          "total_score": "56.32",
+          "general_score": "28.17",
+          "theme_score": "28.15"
+        }
+      ]
+    },
+    {
+      "id": 1684,
+      "name": "Boyan",
+      "aliases": [],
+      "state": "Massachusetts",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Boyan",
+          "rank": "14",
+          "score": "25.89"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Boyan",
+          "rank": "17",
+          "score": "28.55"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Boyan",
+          "rank": "11",
+          "total_score": "54.44",
+          "general_score": "28.55",
+          "theme_score": "25.89"
+        }
+      ]
+    },
+    {
+      "id": 1685,
+      "name": "James Lian",
+      "aliases": [],
+      "state": "New York",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "James Lian",
+          "rank": "1",
+          "score": "40.8"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "James Lian",
+          "rank": "12",
+          "total_score": "53.23",
+          "general_score": "12.43",
+          "theme_score": "40.8"
+        }
+      ]
+    },
+    {
+      "id": 1686,
+      "name": "Leo Xu",
+      "aliases": [],
+      "state": "New Jersey",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Leo Xu",
+          "rank": "20",
+          "score": "20.87"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Leo Xu",
+          "rank": "20",
+          "score": "28.31"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Leo Xu",
+          "rank": "15",
+          "total_score": "49.18",
+          "general_score": "28.31",
+          "theme_score": "20.87"
+        }
+      ]
+    },
+    {
+      "id": 1687,
+      "name": "Alex Lige Dong",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Alex Lige Dong",
+          "rank": "19",
+          "score": "21.84"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Alex Lige Dong",
+          "rank": "35",
+          "score": "23.19"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Alex Lige Dong",
+          "rank": "24",
+          "total_score": "45.03",
+          "general_score": "23.19",
+          "theme_score": "21.84"
+        }
+      ]
+    },
+    {
+      "id": 1688,
+      "name": "Kai",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Kai",
+          "rank": "8",
+          "score": "34.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Kai",
+          "rank": "26",
+          "total_score": "43.88",
+          "general_score": "34.67",
+          "theme_score": "9.21"
+        }
+      ]
+    },
+    {
+      "id": 1689,
+      "name": "Jason Zhong",
+      "aliases": [],
+      "state": "New York",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jason Zhong",
+          "rank": "32",
+          "score": "18.54"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Jason Zhong",
+          "rank": "30",
+          "score": "24.15"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jason Zhong",
+          "rank": "31",
+          "total_score": "42.69",
+          "general_score": "24.15",
+          "theme_score": "18.54"
+        }
+      ]
+    },
+    {
+      "id": 1690,
+      "name": "Kylan Z Huang",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Kylan Z Huang",
+          "rank": "18",
+          "score": "28.32"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Kylan Z Huang",
+          "rank": "33",
+          "total_score": "41.63",
+          "general_score": "28.32",
+          "theme_score": "13.32"
+        }
+      ]
+    },
+    {
+      "id": 1691,
+      "name": "Alexander Bai",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Alexander Bai",
+          "rank": "32",
+          "score": "18.54"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Alexander Bai",
+          "rank": "37",
+          "score": "23.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Alexander Bai",
+          "rank": "34",
+          "total_score": "41.62",
+          "general_score": "23.08",
+          "theme_score": "18.54"
+        }
+      ]
+    },
+    {
+      "id": 1692,
+      "name": "Sally Yuejie Wang",
+      "aliases": [],
+      "state": "",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Sally Yuejie Wang",
+          "rank": "32",
+          "score": "18.54"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Sally Yuejie Wang",
+          "rank": "44",
+          "score": "21.82"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Sally Yuejie Wang",
+          "rank": "37",
+          "total_score": "40.36",
+          "general_score": "21.82",
+          "theme_score": "18.54"
+        }
+      ]
+    },
+    {
+      "id": 1693,
+      "name": "Tanush Aggarwal",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Tanush Aggarwal",
+          "rank": "37",
+          "score": "23.08"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Tanush Aggarwal",
+          "rank": "41",
+          "total_score": "37.57",
+          "general_score": "23.08",
+          "theme_score": "14.49"
+        }
+      ]
+    },
+    {
+      "id": 1694,
+      "name": "Benjamin",
+      "aliases": [],
+      "state": "Massachusetts",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Benjamin",
+          "rank": "31",
+          "score": "24.12"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Benjamin",
+          "rank": "43",
+          "total_score": "37.5",
+          "general_score": "24.12",
+          "theme_score": "13.38"
+        }
+      ]
+    },
+    {
+      "id": 1695,
+      "name": "Jason Z. Liu",
+      "aliases": [],
+      "state": "Pennsylvania",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Jason Z. Liu",
+          "rank": "32",
+          "score": "18.54"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Jason Z. Liu",
+          "rank": "44",
+          "total_score": "37.41",
+          "general_score": "18.87",
+          "theme_score": "18.54"
+        }
+      ]
+    },
+    {
+      "id": 1696,
+      "name": "Derek Yimo Gao",
+      "aliases": [],
+      "state": "Massachusetts",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Derek Yimo Gao",
+          "rank": "32",
+          "score": "18.54"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Derek Yimo Gao",
+          "rank": "48",
+          "total_score": "36.31",
+          "general_score": "17.77",
+          "theme_score": "18.54"
+        }
+      ]
+    },
+    {
+      "id": 1697,
+      "name": "Charles Chen",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Charles Chen",
+          "rank": "26",
+          "score": "27.24"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2022",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Charles Chen",
+          "rank": "50",
+          "total_score": "35.4",
+          "general_score": "27.24",
+          "theme_score": "8.16"
+        }
+      ]
+    },
+    {
+      "id": 1698,
+      "name": "Xuancheng Li",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Xuancheng Li",
+          "rank": "25",
+          "score": "27.71"
+        }
+      ]
+    },
+    {
+      "id": 1699,
+      "name": "David Li",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "David Li",
+          "rank": "32",
+          "score": "24.09"
+        }
+      ]
+    },
+    {
+      "id": 1700,
+      "name": "Om Mahesh",
+      "aliases": [],
+      "state": "California",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Om Mahesh",
+          "rank": "39",
+          "score": "23.03"
+        }
+      ]
+    },
+    {
+      "id": 1701,
+      "name": "Tony Zhang",
+      "aliases": [],
+      "state": "Maryland",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Tony Zhang",
+          "rank": "44",
+          "score": "21.82"
+        }
+      ]
+    },
+    {
+      "id": 1702,
+      "name": "Justin Mo",
+      "aliases": [],
+      "state": "New York",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Justin Mo",
+          "rank": "44",
+          "score": "21.82"
+        }
+      ]
+    },
+    {
+      "id": 1703,
+      "name": "Benjamin Witzel",
+      "aliases": [],
+      "state": "Illinois",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Benjamin Witzel",
+          "rank": "44",
+          "score": "21.82"
+        }
+      ]
+    },
+    {
+      "id": 1704,
+      "name": "Michael Voigt",
+      "aliases": [],
+      "state": "Massachusetts",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Michael Voigt",
+          "rank": "44",
+          "score": "21.82"
+        }
+      ]
+    },
+    {
+      "id": 1705,
+      "name": "Alex Todd",
+      "aliases": [],
+      "state": "Pennsylvania",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — General",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Alex Todd",
+          "rank": "44",
+          "score": "21.82"
+        }
+      ]
+    },
+    {
+      "id": 1706,
+      "name": "Abdd Sharma",
+      "aliases": [],
+      "state": "New Jersey",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Abdd Sharma",
+          "rank": "24",
+          "score": "20.81"
+        }
+      ]
+    },
+    {
+      "id": 1707,
+      "name": "Anton Levonian",
+      "aliases": [],
+      "state": "New Jersey",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Anton Levonian",
+          "rank": "26",
+          "score": "20.73"
+        }
+      ]
+    },
+    {
+      "id": 1708,
+      "name": "Benjamin Walsh",
+      "aliases": [],
+      "state": "Illinois",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Benjamin Walsh",
+          "rank": "31",
+          "score": "20.6"
+        }
+      ]
+    },
+    {
+      "id": 1709,
+      "name": "Sitong Yi",
+      "aliases": [],
+      "state": "New York",
+      "gender": "female",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Sitong Yi",
+          "rank": "32",
+          "score": "18.54"
+        }
+      ]
+    },
+    {
+      "id": 1710,
+      "name": "Arsenii Zharkov",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Arsenii Zharkov",
+          "rank": "32",
+          "score": "18.54"
+        }
+      ]
+    },
+    {
+      "id": 1711,
+      "name": "Aren",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Aren",
+          "rank": "44",
+          "score": "16.69"
+        }
+      ]
+    },
+    {
+      "id": 1712,
+      "name": "Benjamin Wu",
+      "aliases": [],
+      "state": "Pennsylvania",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Benjamin Wu",
+          "rank": "45",
+          "score": "16.5"
+        }
+      ]
+    },
+    {
+      "id": 1713,
+      "name": "Harry Shen",
+      "aliases": [],
+      "state": "New York",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Harry Shen",
+          "rank": "46",
+          "score": "15.65"
+        }
+      ]
+    },
+    {
+      "id": 1714,
+      "name": "Justin Lai",
+      "aliases": [],
+      "state": "Texas",
+      "gender": "male",
+      "records": [
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2022",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Justin Lai",
+          "rank": "48",
+          "score": "15.58"
         }
       ]
     }
@@ -53148,12 +58378,21 @@
       "2026": "results.csv"
     },
     "hmmt-nov": {
+      "2022": "results.csv",
+      "2023": "results.csv",
+      "2024": "results.csv",
       "2025": "results.csv"
     },
     "hmmt-nov-general": {
+      "2022": "results.csv",
+      "2023": "results.csv",
+      "2024": "results.csv",
       "2025": "results.csv"
     },
     "hmmt-nov-theme": {
+      "2022": "results.csv",
+      "2023": "results.csv",
+      "2024": "results.csv",
       "2025": "results.csv"
     },
     "imo": {
