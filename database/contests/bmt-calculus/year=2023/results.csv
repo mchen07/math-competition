@@ -1,0 +1,42 @@
+student_id,student_name,state,year,bmt_student_id,award,rank,score
+90,Rohan Das,California,2023,007D,Distinguished HM (Top 20%),1,9
+413,Jacopo Rizzo,California,2023,105B,Distinguished HM (Top 20%),2,8
+166,Roger Fan,California,2023,039D,Distinguished HM (Top 20%),3,8
+99,Rohan Bodke,California,2023,007B,Distinguished HM (Top 20%),4,8
+331,Ritwin Narra,California,2023,007F,Distinguished HM (Top 20%),5,8
+957,Larry Xing,California,2023,115A,Distinguished HM (Top 20%),6,8
+1419,Zhan Jin,,2023,065A,Distinguished HM (Top 20%),7,8
+972,Eddy Li,California,2023,004C,Distinguished HM (Top 20%),8,7
+1935,Neil Kolekar,,2023,005D,Distinguished HM (Top 20%),8,7
+1852,Sarthak Jain,,2023,034F,Distinguished HM (Top 20%),8,7
+1936,Daniel Kou,,2023,041F,Distinguished HM (Top 20%),8,7
+1269,Shenlone Wu,Nevada,2023,064C,Distinguished HM (Top 20%),8,7
+1875,Vedanth Dala,,2023,073D,Distinguished HM (Top 20%),8,7
+1888,Brian Lu,,2023,099A,Distinguished HM (Top 20%),8,7
+1897,Ishaan Desai,,2023,111B,Distinguished HM (Top 20%),8,7
+1236,Ricky Hu,California,2023,119A,Distinguished HM (Top 20%),8,7
+1076,Kevin Li,California,2023,004A,Honorable Mention (Top 50%),,
+1222,Patrick Chu,,2023,027F,Honorable Mention (Top 50%),,
+1925,Evan Liu,,2023,029C,Honorable Mention (Top 50%),,
+1926,Max Rombakh,,2023,037A,Honorable Mention (Top 50%),,
+1693,Tanush Aggarwal,California,2023,039B,Honorable Mention (Top 50%),,
+929,Nathan Ye,California,2023,039F,Honorable Mention (Top 50%),,
+1858,Haridas Chowdhury,,2023,040E,Honorable Mention (Top 50%),,
+1927,Satvik Sivaraman,,2023,041E,Honorable Mention (Top 50%),,
+1869,Krishan Gupta,,2023,054B,Honorable Mention (Top 50%),,
+1928,Enze Chen,,2023,065B,Honorable Mention (Top 50%),,
+1874,Julian Stockton,,2023,070D,Honorable Mention (Top 50%),,
+1929,Mark Rhee,,2023,080A,Honorable Mention (Top 50%),,
+1930,Sanjay Mukhyala,,2023,080B,Honorable Mention (Top 50%),,
+26,Ryan Li,Ohio,2023,096E,Honorable Mention (Top 50%),,
+1921,Veenu Damarla,,2023,099C,Honorable Mention (Top 50%),,
+1889,Nathan Jiang,,2023,099D,Honorable Mention (Top 50%),,
+616,William Wang,South Carolina,2023,099E,Honorable Mention (Top 50%),,
+1890,Forrest Chou,,2023,099F,Honorable Mention (Top 50%),,
+1931,Koren Gila,,2023,112A,Honorable Mention (Top 50%),,
+729,Julian Kuang,Nevada,2023,116D,Honorable Mention (Top 50%),,
+1932,Rohan Dhillon,,2023,117E,Honorable Mention (Top 50%),,
+1933,Saravanan Valliappan,,2023,120C,Honorable Mention (Top 50%),,
+1934,Marius Rutkowski,,2023,122B,Honorable Mention (Top 50%),,
+1904,Noel Zhang,,2023,123B,Honorable Mention (Top 50%),,
+

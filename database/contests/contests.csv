@@ -24,3 +24,8 @@ dmm,DMM,Duke Math Meet - Annual mathematics competition hosted by Duke Universit
 cmm,CMM,Caltech Math Meet - Annual mathematics competition hosted by Caltech. Individual rankings.,https://www.caltechmathmeet.org/
 mpfg,MPFG,Math Prize for Girls - Annual competition at MIT by Advantage Testing Foundation. Top female high school mathematicians.,https://mathprize.atfoundation.org/
 mmaths,MMATHS,Math Majors of America Tournament for High Schools. Team-based competition hosted at multiple university campuses, run by undergraduate math students.,https://www.mmaths.org/mmaths
+bmt,BMT,Berkeley Math Tournament. Annual mathematics competition at UC Berkeley with individual and team rounds.,https://bmt.berkeley.edu/
+bmt-algebra,BMT — Algebra,Algebra subject test at the Berkeley Math Tournament.,https://bmt.berkeley.edu/
+bmt-calculus,BMT — Calculus,Calculus subject test at the Berkeley Math Tournament.,https://bmt.berkeley.edu/
+bmt-discrete,BMT — Discrete,Discrete mathematics subject test at the Berkeley Math Tournament.,https://bmt.berkeley.edu/
+bmt-geometry,BMT — Geometry,Geometry subject test at the Berkeley Math Tournament.,https://bmt.berkeley.edu/

@@ -58307,6 +58307,31 @@
       "contest_name": "MMATHS",
       "description": "Math Majors of America Tournament for High Schools. Team-based competition hosted at multiple university campuses",
       "website": "run by undergraduate math students."
+    },
+    "bmt": {
+      "contest_name": "BMT",
+      "description": "Berkeley Math Tournament. Annual mathematics competition at UC Berkeley with individual and team rounds.",
+      "website": "https://bmt.berkeley.edu/"
+    },
+    "bmt-algebra": {
+      "contest_name": "BMT — Algebra",
+      "description": "Algebra subject test at the Berkeley Math Tournament.",
+      "website": "https://bmt.berkeley.edu/"
+    },
+    "bmt-calculus": {
+      "contest_name": "BMT — Calculus",
+      "description": "Calculus subject test at the Berkeley Math Tournament.",
+      "website": "https://bmt.berkeley.edu/"
+    },
+    "bmt-discrete": {
+      "contest_name": "BMT — Discrete",
+      "description": "Discrete mathematics subject test at the Berkeley Math Tournament.",
+      "website": "https://bmt.berkeley.edu/"
+    },
+    "bmt-geometry": {
+      "contest_name": "BMT — Geometry",
+      "description": "Geometry subject test at the Berkeley Math Tournament.",
+      "website": "https://bmt.berkeley.edu/"
     }
   },
   "contest_year_files": {
@@ -58480,6 +58505,11 @@
     "dmm",
     "cmm",
     "mpfg",
-    "mmaths"
+    "mmaths",
+    "bmt",
+    "bmt-algebra",
+    "bmt-calculus",
+    "bmt-discrete",
+    "bmt-geometry"
   ]
 }
