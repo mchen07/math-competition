@@ -556,10 +556,6 @@
         }
         data.contest_order_map = orderMap;
         setLoading(false);
-        if (gradeFilterWrapEl) {
-          var params = new URLSearchParams(window.location.search);
-          gradeFilterWrapEl.hidden = params.get("g") !== "1";
-        }
         renderContestList();
         renderTopStudentsByRecords();
         bindContestListPopover();
