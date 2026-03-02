@@ -17,7 +17,14 @@ CONTESTS_CSV = CONTESTS_DIR / "contests.csv"
 OUTPUT_JSON = REPO_ROOT / "docs" / "data.json"
 
 # Contest slugs to exclude from data.json (still kept in database).
-CONTESTS_SKIP_FOR_SEARCH = {"mathcounts-national"}
+CONTESTS_SKIP_FOR_SEARCH = {
+    "mathcounts-national",
+    "bmt",
+    "bmt-algebra",
+    "bmt-calculus",
+    "bmt-discrete",
+    "bmt-geometry",
+}
 
 
 def humanize_contest(slug: str) -> str:
@@ -73,7 +80,8 @@ def load_students() -> dict:
             alias = (row.get("alias") or "").strip()
             aliases = [a.strip() for a in alias.split("|") if a.strip()] if alias else []
             gender = (row.get("gender") or "").strip().lower() or "male"
-            by_id[sid] = {"name": name, "aliases": aliases, "state": state, "gender": gender}
+            grade_in_2026 = (row.get("grade_in_2026") or "").strip()
+            by_id[sid] = {"name": name, "aliases": aliases, "state": state, "gender": gender, "grade_in_2026": grade_in_2026 or None}
     return by_id
 
 
@@ -143,7 +151,7 @@ def main() -> None:
             if sid not in students:
                 name = (row.get("student_name") or "").strip()
                 state = (row.get("state") or "").strip()
-                students[sid] = {"name": name or f"Student {sid}", "aliases": [], "state": state, "gender": "male"}
+                students[sid] = {"name": name or f"Student {sid}", "aliases": [], "state": state, "gender": "male", "grade_in_2026": None}
 
     def infer_state_from_records(records: list[dict]) -> str:
         """Best-effort fallback: pick first non-empty state from contest records."""
@@ -157,7 +165,7 @@ def main() -> None:
     for sid in sorted(records_by_id.keys()):
         recs = records_by_id[sid]
         recs.sort(key=lambda r: (r.get("year", ""), r.get("contest", "")), reverse=True)
-        info = students.get(sid, {"name": f"Student {sid}", "aliases": [], "state": "", "gender": "male"})
+        info = students.get(sid, {"name": f"Student {sid}", "aliases": [], "state": "", "gender": "male", "grade_in_2026": None})
         state = (info.get("state") or "").strip() or infer_state_from_records(recs)
         result_students.append({
             "id": sid,
@@ -165,6 +173,7 @@ def main() -> None:
             "aliases": info["aliases"],
             "state": state,
             "gender": (info.get("gender") or "male").strip().lower() or "male",
+            "grade_in_2026": info.get("grade_in_2026"),
             "records": recs,
         })
 

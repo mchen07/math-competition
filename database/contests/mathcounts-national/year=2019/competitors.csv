@@ -1,0 +1,225 @@
+student_id,state,student_name,grade,city,school
+1976,Alabama,Justin Pan,8,Madison,Discovery Middle School
+1977,Alabama,Siddharth Doppalapudi,8,Birmingham,Altamont School
+1978,Alabama,Ruoge Li,7,Vestavia Hills,Louis Pizitz Middle School
+1979,Alabama,Daniel Zhao,8,Birmingham,Alabama School of Fine Arts
+1980,Alaska,Alex Loomis,8,Anchorage,Romig Middle School
+1981,Alaska,Camden Armstrong,8,Anchorage,Romig Middle School
+1982,Alaska,Sean Raften,8,Kenai,Kenai Middle School
+1983,Alaska,Elias Bailey,8,Anchorage,Romig Middle School
+1984,Arizona,Marcus Giorza,8,Phoenix,Madison #1 Middle School
+1985,Arizona,Sai Konkimalla,8,Oro Valley,BASIS Oro Valley
+1986,Arizona,Shaan Keole,7,Phoenix,BASIS Phoenix
+1221,Arizona,Yoobin Cha,6,Chandler,Arizona College Prep-Oakland
+1987,Arkansas,Soren Schmidt,8,Bentonville,Thaden School
+1988,Arkansas,Aaron Liu,8,Little Rock,LISA Academy
+1989,Arkansas,Dinesh Vasireddy,8,Bentonville,Fulbright Junior High School
+1990,Arkansas,Ellie Feng,7,Conway,Ruth Doyle Middle School
+135,California,Eric Shen,8,San Jose,Miller Middle School
+162,California,Alan Lee,8,Palo Alto,Ellen Fletcher Middle School
+1031,California,William Chen,8,Fremont,William Hopkins Junior High
+878,California,Andrew Wen,8,Fremont,William Hopkins Junior High
+1991,Colorado,Ari Wang,8,Colorado Springs,Mountain Ridge Middle School
+121,Colorado,Srinivas Arun,7,Greenwood Village,Campus Middle School
+462,Colorado,Jackson Dryg,7,Fort Collins,Preston Middle School
+1992,Colorado,Rishi Rai,7,Denver,Challenge School
+1993,Connecticut,Adeethyia Shankar,8,Brookfield,Whisconier Middle School
+399,Connecticut,Mingwen Duan,7,Niantic,East Lyme Middle School
+1994,Connecticut,Yunrui Yang,8,New Haven,The Foote School
+1995,Connecticut,Alan Wang,8,Farmington,Irving A. Robbins Middle School
+1996,Delaware,Perryn Chang,8,Wilmington,PS DuPont Middle School
+1997,Delaware,Jonathan Pei,8,Wilmington,PS DuPont Middle School
+1998,Delaware,Mia Lu,8,Newark,The Independence School
+1999,Delaware,Anand John,8,Wilmington,PS DuPont Middle School
+2000,Department of Defense,Faisal Ramzi Al Sewaidi,8,Bahrain,Bahrain Middle/High School
+2001,Department of Defense,Mason Parker,8,Germany,Ramstein Middle School
+2002,Department of Defense,Brian Song,8,Korea,Humphreys Middle School
+2003,Department of Defense,Seth Robles,8,Germany,Hohenfels Middle High School
+2004,District of Columbia,Robert Foster,7,Washington,Sidwell Friends School
+2005,District of Columbia,Jonathan Nixon,8,Washington,Sidwell Friends School
+2006,District of Columbia,Matthew Weitzner,6,Washington,Alice Deal Middle School
+2007,District of Columbia,Sherlock Grigsby II,6,Washington,Georgetown Day School
+2008,Florida,Wesley Chen,8,Tallahassee,Deerlake Middle School
+159,Florida,Karthik Vedula,8,Tallahassee,Fairview Middle School
+95,Florida,Razzi Masroor,7,Miami,Doral Academy Charter Middle School
+115,Florida,Aaron Hu,7,Tallahassee,Deerlake Middle School
+2009,Georgia,Ethan Gao,8,Alpharetta,Fulton Science Academy
+2010,Georgia,Richard Yu,8,Alpharetta,Fulton Science Academy
+2011,Georgia,Andy Zhang,8,Cumming,South Forsyth Middle School
+2012,Georgia,Kevin Yuan,8,Alpharetta,Fulton Science Academy
+2013,Guam,Seungryeol Tae,8,Upper Tumon,St. John's School
+2014,Guam,Kevin Choi,7,Upper Tumon,St. John's School
+2015,Guam,Kangsan Yoon,7,Barrigada,Harvest Christian Academy
+2016,Guam,Elizabeth Mamczarz,7,Barrigada,Harvest Christian Academy
+2017,Hawaii,Adam Yoshiaki Inamasu,8,Honolulu,Washington Middle School
+2018,Hawaii,Felicity Zhou,8,Honolulu,Washington Middle School
+2019,Hawaii,Allison Eto,8,Honolulu,Iolani School
+2020,Hawaii,Zachary Tyrrell,8,Honolulu,Washington Middle School
+2021,Idaho,Zihongbo Wang,8,Boise,East Junior High School
+2022,Idaho,Kevin Xu,8,Boise,East Junior High School
+2023,Idaho,Srikar Surapaneni,8,Rathdrum,North Idaho STEM Charter Academy
+2024,Idaho,Jieming Mei,8,Boise,East Junior High School
+170,Illinois,Krishna Pothapragada,7,Lisle,Kennedy Junior High School
+518,Illinois,Nate Maydanchik,6,Oak Brook,Butler Junior High School
+1295,Illinois,Jeffrey Chen,8,Chicago,University of Chicago Laboratory Schools
+2025,Illinois,Nathan Ma,8,Lincolnshire,Daniel Wright Junior High School
+2026,Indiana,Ray Li,8,West Lafayette,West Lafayette Junior Senior High School
+2027,Indiana,Harry Zheng,8,Carmel,Clay Middle School
+2028,Indiana,Minnie Liang,8,West Lafayette,West Lafayette Junior Senior High School
+492,Indiana,Grace Yang,8,Indianapolis,Sycamore School
+2029,Iowa,Joe Su,8,Clive,Indian Hills Junior High School
+2030,Iowa,Anish Lodh,8,Coralville,Northwest Junior High
+2031,Iowa,Ashley Seo,8,Coralville,Northwest Junior High
+2032,Iowa,SangHyuk Im,8,Coralville,Northwest Junior High
+2033,Kansas,Naveen Kannan,8,Overland Park,Pleasant Ridge Middle School
+2034,Kansas,Rebecca Xue,7,Overland Park,Lakewood Middle School
+2035,Kansas,Nathan Zhang,8,Olathe,California Trail Middle School
+2036,Kansas,David Han,8,Overland Park,Lakewood Middle School
+2037,Kentucky,Luke Mo,8,Louisville,Meyzeek Middle School
+1231,Kentucky,Joseph Vulakh,7,Lexington,Tates Creek Middle School
+2038,Kentucky,Krishna Bhatraju,8,Lexington,Winburn Middle School
+2039,Kentucky,Shaurya Jadhav,8,Henderson,Holy Name School
+2040,Louisiana,Alex Wu,8,Baton Rouge,LSU Lab School
+2041,Louisiana,Julian Vertigan,7,Baton Rouge,Vertigan Family Homeschool
+2042,Louisiana,Ryan Ding,8,Baton Rouge,Glasgow Middle School
+2043,Louisiana,Ethan Guo,8,Baton Rouge,Glasgow Middle School
+2044,Maine,Albert Bai,7,Hermon,Hermon Middle School
+2045,Maine,Noah Manning,8,Kennebunk,Middle School of the Kennebunks
+2046,Maine,Eamon Flint McGlashan,8,Kennebunk,Middle School of the Kennebunks
+2047,Maine,Karl Hokkanen,7,Camden,Camden-Rockport Middle School
+2048,Maryland,Joshua Hsieh,8,Silver Spring,Takoma Park Middle School
+1441,Maryland,Andrew Yuan,8,Germantown,Roberto Clemente Middle School
+2049,Maryland,Nathan Shan,8,Silver Spring,Takoma Park Middle School
+1699,Maryland,David Li,8,Ellicott City,Burleigh Manor Middle School
+165,Massachusetts,Max Xu,8,Westford,Stony Brook Middle School
+1131,Massachusetts,Daniel Mai,8,Acton,RJ Grey Junior High School
+144,Massachusetts,Huaye Lin,8,Lexington,Jonas Clarke Middle School
+1159,Massachusetts,Kaylee Ji,8,Andover,Doherty Middle School
+2050,Michigan,Vikram Goddla,7,Beverly Hills,Detroit Country Day Middle School
+119,Michigan,Jason Zhang,7,Plymouth,East Middle School
+548,Michigan,Michael Lu,6,Bloomfield Hills,Bloomfield Hills Middle School
+59,Michigan,Henry Jiang,6,Beverly Hills,Detroit Country Day Middle School
+2051,Minnesota,Andrew Zhang,8,Plymouth,Wayzata Central Middle School
+2052,Minnesota,Linden Li,8,North Oaks,Chippewa Middle School
+2053,Minnesota,Aurora Wang,8,North Oaks,Chippewa Middle School
+1220,Minnesota,Henry Zheng,7,Edina,Valley View Middle School
+2054,Mississippi,Kenichiro Suzuki,8,Madison,Madison Middle School
+2055,Mississippi,Leo Mei,8,Madison,Madison Middle School
+2056,Mississippi,Dhanush Kondabathini,8,Madison,Germantown Middle School
+2057,Mississippi,Landon Tu,7,Madison,Madison Middle School
+2058,Missouri,Nicole Li,8,Saint Louis,Ladue Middle School
+945,Missouri,Alex Chen,8,Ellisville,Crestview Middle School
+2059,Missouri,Wilson Gao,8,Chesterfield,Parkway West Middle School
+2060,Missouri,Yuvan Chali,8,Saint Louis,Ladue Middle School
+2061,Montana,Edward Guthrie,8,Bozeman,Gallatin Valley Homeschool
+2062,Montana,Yuan Du,7,Missoula,Washington Middle School
+2063,Montana,Cadien Archer,7,Billings,Lewis & Clark Middle School
+2064,Montana,Jonas Zeiler,7,Billings,Lewis & Clark Middle School
+2065,Nebraska,Cole Welstead,8,Lincoln,Lux Middle School
+1504,Nebraska,Jason Jiang,7,Lincoln,Hazel G. Scott Middle School
+2066,Nebraska,Nixon Hanna,7,Lincoln,Lux Middle School
+2067,Nebraska,Kaleb Whitmore,7,Clay Center,Sandy Creek Middle School
+2068,Nevada,Frank Abbeduto,8,Henderson,Bob Miller Middle School
+2069,Nevada,Audrey Lim,8,Reno,Davidson Academy
+2070,Nevada,Megan Davi,8,Reno,Davidson Academy
+402,Nevada,Christopher Bao,6,Las Vegas,The Adelson Educational Campus School
+2071,New Hampshire,Garima Rastogi,7,Concord,Rastogi Homeschool
+2072,New Hampshire,Anshul Rastogi,8,Concord,Rastogi Homeschool
+2073,New Hampshire,Roxane Park,6,Lyme,Crossroads Academy
+2074,New Hampshire,Deetya Nagri,7,Nashua,Academy for Science and Design
+2075,New Jersey,Kishan Bava,8,Livingston,Heritage Middle School
+435,New Jersey,Qirui Cai,8,West Windsor,Thomas Grover Middle School
+1176,New Jersey,George Cao,8,Skillman,Montgomery Middle School
+2076,New Jersey,Bryan Zhang,8,Green,Brook Green Brook Middle School
+2077,New Mexico,Charles Cai,8,Los,Alamos Los Alamos Middle School
+2078,New Mexico,Alexander Livescu,8,Los,Alamos Los Alamos Middle School
+2079,New Mexico,Grant Staten,8,Albuquerque,Desert Ridge Middle School
+2080,New Mexico,Harmony Guan,7,Albuquerque,Desert Ridge Middle School
+1146,New York,Matthew Zhao,8,Scarsdale,Scarsdale Middle School
+2081,New York,Forrest Gao,8,Clifton Park,Acadia Middle School
+2082,New York,Davis Zong Jr.,7,New York,Hunter College High School
+1497,New York,Brandon Lou,8,New York,Hunter College High School
+1133,North Carolina,Minseok Park,8,Raleigh,Carnage Middle School
+128,North Carolina,Brian Zhang,7,Raleigh,Carnage Middle School
+2083,North Carolina,Sukrith Velmineti,8,Raleigh,Carnage Middle School
+2084,North Carolina,Eric Wu,7,Cary,Triangle Math And Science Academy
+2085,North Dakota,Nolan Severance,8,Hunter,Northern Cass Public School
+2086,North Dakota,Dylan Raaum,8,Grand Forks,Schroeder Middle School
+2087,North Dakota,Rick Peng,7,Fargo,Discovery Middle School
+2088,North Dakota,Patrick Shen,7,Fargo,Discovery Middle School
+2089,Ohio,Edward Kong,8,Mason,Mason Middle School
+1681,Ohio,Tanishq Pauskar,7,Massillon,Jackson Memorial Middle School
+2090,Ohio,Michael Zuo,8,Mason,Mason Middle School
+2091,Ohio,Riddhi Gupta,8,Upper Arlington,Jones Middle School
+1217,Oklahoma,Daniel Wang,8,Jenks,Jenks Middle School
+2092,Oklahoma,Timothy Stroup,8,Jenks,Jenks Middle School
+2093,Oklahoma,Raymond Jiang,8,Jenks,Jenks Middle School
+2094,Oklahoma,Nathaniel Willcox,8,Tulsa,University School
+1152,Oregon,Ram Goel,8,Portland,Krishna Homeschool
+149,Oregon,Suyash Pandit,8,Portland,Cedar Park Middle School
+1128,Oregon,Alan Kappler,8,Hillsboro,Davidson Academy
+2095,Oregon,Nividh Singh,8,Portland,Stoller Middle School
+123,Pennsylvania,Vivian Loh,7,Pittsburgh,Winchester Thurston School
+143,Pennsylvania,Ethan Liu,8,Wayne,Valley Forge Middle School
+2096,Pennsylvania,Thrisha Kalpatthi,7,Wexford,Marshall Middle School
+139,Pennsylvania,Skyler Le,8,Wayne,Radnor Middle School
+93,Puerto Rico,Jessica Wan,7,San Juan,Saint John's School
+2097,Puerto Rico,Gustavo Carrion Rodriguez,8,Caguas,Cimatec School
+2098,Puerto Rico,Fernando Mediavilla,8,San Juan,Colegio San Ignaciode Loyola
+2099,Puerto Rico,Jerry Chen,7,San Juan,Saint John's School
+2100,Rhode Island,Andrew Song,7,East Providence,Gordon School
+612,Rhode Island,William Bruno,6,Providence,The Wheeler School
+2101,Rhode Island,Louise Marie Choi Schattle,8,Barrington,Barrington Middle School
+2102,Rhode Island,Kamran Pahlavi,8,Barrington,Barrington Middle School
+2103,South Carolina,Kaylee Chen,8,Irmo,Dutch Fork Middle School
+2104,South Carolina,Ahan Shi,7,Central,R.C. Edwards Middle School
+2105,South Carolina,Scott Fowler,8,Lyman,DR Hill Middle School
+2106,South Carolina,Angela Mei,8,North Charleston,Charleston County School of the Arts
+2107,South Dakota,Megan Zhu,8,Rapid City,Southwest Middle School
+2108,South Dakota,Sampada Nepal,7,Brookings,George S. Mickelson Middle School
+2109,South Dakota,Vanessa An,7,Brookings,George S. Mickelson Middle School
+2110,South Dakota,Gianna Stangeland,8,Pierre,George S. Mickelson Middle School
+2111,State Department,Owen Lalis,8,Japan,Nagoya International School
+2112,State Department,Avi Kabra,8,Singapore,Singapore American School
+622,State Department,Josh Shin,6,Singapore,Singapore American School
+2113,State Department,Jaeha Hwang,8,India,American Embassy School
+2114,Tennessee,George Hu,7,Knoxville,Farragut Middle School
+1,Tennessee,Alexander Wang,8,Nashville,Montgomery Bell Academy
+2115,Tennessee,Bryan Ding,7,Memphis,Memphis University School
+2116,Tennessee,Henry Pitt,8,Nashville,Montgomery Bell Academy
+151,Texas,Aaron Guo,8,Plano,Rice Middle School
+2117,Texas,Rich Wang,8,Missouri City,Quail Valley Middle School
+153,Texas,Ray Tang,8,Missouri City,Quail Valley Middle School
+2118,Texas,Amy Chang,8,Sugar Land,Fort Settlement Middle School
+2119,Utah,Zachary Klein,8,Salt,Lake City Rowland Hall
+2120,Utah,Marianne Liu,8,Salt,Lake City West High School
+2121,Utah,Brian Wei,6,Salt,Lake City Wasatch Junior High School
+76,Utah,Kiran Reddy,6,Sandy,Waterford School
+2122,Vermont,Kirk Smith,7,Rutland,Rutland Town School
+2123,Vermont,Keaton St. Martin,8,Vergennes,Vergennes Union Middle School
+2124,Vermont,Saksham Bhardwaj,8,South,Burlington F.H. Tuttle Middle School
+630,Vermont,Jacob Graham,6,Middlebury,Middlebury Union Middle School
+2125,Virgin Islands,Ronit Totwani,8,Saint Thomas,Antilles School
+2126,Virgin Islands,Julien Loewenstein,7,Saint Thomas,Antilles School
+2127,Virgin Islands,Ariel Paul,8,Saint Thomas,Antilles School
+2128,Virgin Islands,Aisha Khemani,8,Saint Thomas,Antilles School
+294,Virginia,Samuel Wang,8,McLean,BASIS Independent McLean
+1107,Virginia,Ethan Zhou,8,McLean,BASIS Independent McLean
+148,Virginia,Alan Vladimiroff,8,Falls Church,Longfellow Middle School
+1223,Virginia,Aiden Feyerherm,6,Vienna,Westbriar Elementary School
+1498,Washington,Joy An,8,Bellevue,Odle Middle School
+1144,Washington,Gene Yang,8,Bellevue,Odle Middle School
+2129,Washington,Albert Weng,8,Issaquah,Beaver Lake Middle School
+2130,Washington,Wilson Liu,8,Redmond,Evergreen Middle School
+2131,West Virginia,Amy Lu,8,Morgantown,Suncrest Middle School
+2132,West Virginia,Lauren Shen,7,Morgantown,Suncrest Middle School
+642,West Virginia,Austin Luo,6,Morgantown,Suncrest Middle School
+2133,West Virginia,Grace Yan,7,Morgantown,Suncrest Middle School
+2134,Wisconsin,Jacob Rottier,8,De,Pere West De Pere Middle School
+2135,Wisconsin,Kevin Song,8,Madison,Velma Hamilton Middle School
+646,Wisconsin,Kartik Ramachandrula,6,Brookfield,Wisconsin Hills Middle School
+2136,Wisconsin,Alexis Hu,8,Shorewood,Shorewood Intermediate School
+2137,Wyoming,Dane Lauritzen,8,Powell,Powell Middle School
+2138,Wyoming,Felicity Olsson,7,Lander,Lander Middle School
+2139,Wyoming,Cooper Kaligis,8,Laramie,Laramie Middle School
+2140,Wyoming,Jack Weiss,7,Gillette,Sage Valley Junior High School

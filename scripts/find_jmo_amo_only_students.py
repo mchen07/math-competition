@@ -22,11 +22,16 @@ Run from repo root:
     # Write output to file
     python scripts/find_jmo_amo_only_students.py -o jmo_amo_only.csv
 
+    # AMO 2025 students who have NO records in hmmt* or pumac* contests
+    # (quote patterns so the shell does not expand wildcards)
+    python scripts/find_jmo_amo_only_students.py amo --year 2025 --include "hmmt*,pumac*"
+
 You can also pass multiple years, e.g.:
     python scripts/find_jmo_amo_only_students.py --year 2023 --year 2024
 """
 
 import csv
+import fnmatch
 import sys
 from pathlib import Path
 
@@ -81,6 +86,27 @@ def load_students():
             "is_alias_duplicate": is_alias_duplicate,
         }
     return by_id
+
+
+def get_all_contest_slugs():
+    """Return set of all contest slugs (directory names under contests/)."""
+    slugs = set()
+    for contest_dir in CONTESTS_DIR.iterdir():
+        if contest_dir.is_dir() and not contest_dir.name.endswith(".csv"):
+            slugs.add(contest_dir.name)
+    return slugs
+
+
+def get_slugs_matching_patterns(patterns):
+    """Return set of contest slugs matching any of the fnmatch patterns."""
+    all_slugs = get_all_contest_slugs()
+    matching = set()
+    for slug in all_slugs:
+        for pattern in patterns:
+            if fnmatch.fnmatch(slug, pattern.strip()):
+                matching.add(slug)
+                break
+    return matching
 
 
 def collect_result_files():
@@ -212,7 +238,41 @@ def parse_year_filter(argv):
     return year_filter, remaining
 
 
-def find_jmo_amo_only_students(target_slugs, year_filter=None):
+def parse_include_filter(argv):
+    """Parse --include from argv.
+
+    Supports comma-separated wildcard patterns, e.g. --include hmmt*,pumac*
+    Returns (list_of_patterns_or_None, remaining_args).
+    """
+    patterns = None
+    remaining = []
+    skip_next = False
+
+    for i, arg in enumerate(argv):
+        if skip_next:
+            skip_next = False
+            continue
+        a = (arg or "").strip()
+        if not a:
+            continue
+        if a.startswith("--include="):
+            raw = a.split("=", 1)[1].strip()
+            if raw:
+                patterns = [p.strip() for p in raw.split(",") if p.strip()]
+            continue
+        if a == "--include":
+            if i + 1 < len(argv):
+                raw = (argv[i + 1] or "").strip()
+                if raw:
+                    patterns = [p.strip() for p in raw.split(",") if p.strip()]
+                skip_next = True
+            continue
+        remaining.append(arg)
+
+    return patterns, remaining
+
+
+def find_jmo_amo_only_students(target_slugs, year_filter=None, include_patterns=None):
     students = load_students()
     contests_by_sid = build_student_contest_map()
 
@@ -224,8 +284,13 @@ def find_jmo_amo_only_students(target_slugs, year_filter=None):
             continue
         if not (slugs & target_slugs):
             continue  # never in any target contest
-        if slugs - target_slugs:
-            continue  # appeared in some other contest too
+        if include_patterns is None:
+            if slugs - target_slugs:
+                continue  # appeared in some other contest too
+        else:
+            include_matching = get_slugs_matching_patterns(include_patterns)
+            if slugs & include_matching:
+                continue  # appeared in one of the include contests
         if year_filter is not None and not (years & year_filter):
             continue  # no results in the requested year(s)
         student_info = students.get(sid)
@@ -252,9 +317,14 @@ def find_jmo_amo_only_students(target_slugs, year_filter=None):
 def main():
     argv = sys.argv[1:]
     output_path, argv = parse_output_file(argv)
-    year_filter, slug_args = parse_year_filter(argv)
-    target_slugs = parse_target_slugs(slug_args)
-    matches = find_jmo_amo_only_students(target_slugs, year_filter=year_filter)
+    year_filter, argv = parse_year_filter(argv)
+    include_patterns, argv = parse_include_filter(argv)
+    target_slugs = parse_target_slugs(argv)
+    matches = find_jmo_amo_only_students(
+        target_slugs,
+        year_filter=year_filter,
+        include_patterns=include_patterns,
+    )
 
     out = open(output_path, "w", newline="", encoding="utf-8") if output_path else sys.stdout
     try:
@@ -271,14 +341,14 @@ def main():
     target_list = ", ".join(sorted(target_slugs))
     # Send human-readable summary to stderr so CSV redirection
     # (e.g. `> jmo_amo_only_students.csv`) doesn't include it.
+    parts = [f"Found {len(matches)} students who are only in: {target_list}"]
     if year_filter:
         year_list = ", ".join(sorted(year_filter))
-        msg = (
-            f"Found {len(matches)} students who are only in: {target_list} "
-            f"for year(s): {year_list}."
-        )
-    else:
-        msg = f"Found {len(matches)} students who are only in: {target_list}."
+        parts.append(f"for year(s): {year_list}")
+    if include_patterns:
+        inc_str = ", ".join(include_patterns)
+        parts.append(f"with no records in: {inc_str}")
+    msg = " ".join(parts) + "."
     print(msg, file=sys.stderr)
 
 

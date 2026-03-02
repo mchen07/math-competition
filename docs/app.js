@@ -12,6 +12,8 @@
   var topStudentsSectionEl = document.getElementById("top-students-section");
   var searchClearEl = document.getElementById("search-clear");
   var girlsOnlyEl = document.getElementById("girls-only");
+  var gradeFilterEl = document.getElementById("grade-filter");
+  var gradeFilterWrapEl = document.getElementById("grade-filter-wrap");
 
   function setLoading(busy) {
     loadingEl.setAttribute("aria-busy", busy ? "true" : "false");
@@ -36,6 +38,39 @@
     var div = document.createElement("div");
     div.textContent = s;
     return div.innerHTML;
+  }
+
+  /**
+   * Current grade based on grade_in_2026 (grade at Jan 1, 2026).
+   * New school year starts Sept 1 each year.
+   * Returns null if gradeIn2026 is missing or invalid.
+   */
+  function getCurrentGrade(gradeIn2026) {
+    if (gradeIn2026 == null || gradeIn2026 === "") return null;
+    var g = parseInt(String(gradeIn2026).trim(), 10);
+    if (isNaN(g)) return null;
+    var d = new Date();
+    var y = d.getFullYear();
+    var m = d.getMonth() + 1;
+    var day = d.getDate();
+    if (y < 2026) return g;
+    var bumps = (m > 9 || (m === 9 && day >= 1)) ? (y - 2026 + 1) : (y - 2026);
+    return g + bumps;
+  }
+
+  /** Returns grade label string (e.g. "G10", "U1") or "" if no grade. */
+  function getGradeLabel(gradeIn2026) {
+    var currentGrade = getCurrentGrade(gradeIn2026);
+    if (currentGrade == null) return "";
+    return currentGrade <= 12 ? "G" + currentGrade : "U" + (currentGrade - 12);
+  }
+
+  /** Sort key for grade labels: G6..G12 then U1, U2, ... */
+  function gradeLabelSortKey(label) {
+    if (!label || label === "") return -1;
+    if (label.charAt(0) === "G") return parseInt(label.slice(1), 10);
+    if (label.charAt(0) === "U") return 12 + parseInt(label.slice(1), 10);
+    return -1;
   }
 
   function recordToDisplayKeys(record) {
@@ -191,6 +226,9 @@
     }
     var slugs = [];
     for (var k in contests) if (Object.prototype.hasOwnProperty.call(contests, k)) slugs.push(k);
+    slugs = slugs.filter(function (slug) {
+      return !slug.toLowerCase().startsWith("bmt");
+    });
     slugs.sort(compareContestSlugs);
     var parts = [];
     var githubBase = "https://github.com/x-du/math-competition/blob/main/database/contests/";
@@ -223,11 +261,57 @@
   function renderTopStudentsByRecords() {
     if (!awardsRankingListEl) return;
     var students = data.students || [];
+    var withRecords = (students || []).filter(function (s) {
+      var recs = s.records || [];
+      return recs.length > 0;
+    });
+
+    var gradeLabelSet = {};
+    var hasNoGrade = false;
+    for (var i = 0; i < withRecords.length; i++) {
+      var lab = getGradeLabel(withRecords[i].grade_in_2026);
+      if (lab === "") hasNoGrade = true;
+      else gradeLabelSet[lab] = true;
+    }
+    var gradeLabels = [];
+    for (var k in gradeLabelSet) if (Object.prototype.hasOwnProperty.call(gradeLabelSet, k)) gradeLabels.push(k);
+    gradeLabels.sort(function (a, b) {
+      return gradeLabelSortKey(a) - gradeLabelSortKey(b);
+    });
+
+    if (gradeFilterEl) {
+      var currentValue = gradeFilterEl.value;
+      gradeFilterEl.innerHTML = "<option value=\"\">All grades</option>";
+      for (var j = 0; j < gradeLabels.length; j++) {
+        var opt = document.createElement("option");
+        opt.value = gradeLabels[j];
+        opt.textContent = gradeLabels[j];
+        gradeFilterEl.appendChild(opt);
+      }
+      if (hasNoGrade) {
+        var noneOpt = document.createElement("option");
+        noneOpt.value = "__none__";
+        noneOpt.textContent = "No grade";
+        gradeFilterEl.appendChild(noneOpt);
+      }
+      if (currentValue && gradeFilterEl.querySelector("option[value=\"" + currentValue + "\"]")) {
+        gradeFilterEl.value = currentValue;
+      }
+    }
+
     if (girlsOnlyEl && girlsOnlyEl.checked) {
       students = students.filter(function (s) {
         return (s.gender || "").toLowerCase() === "female";
       });
     }
+    if (gradeFilterEl && gradeFilterWrapEl && !gradeFilterWrapEl.hidden && gradeFilterEl.value && gradeFilterEl.value !== "") {
+      var wantLabel = gradeFilterEl.value;
+      students = students.filter(function (s) {
+        var lab = getGradeLabel(s.grade_in_2026);
+        return wantLabel === "__none__" ? lab === "" : lab === wantLabel;
+      });
+    }
+
     var totalCountEl = document.getElementById("total-student-count");
     if (totalCountEl) totalCountEl.textContent = String(students.length);
     var counts = [];
@@ -267,11 +351,16 @@
       if (state) {
         displayName += " (" + state + ")";
       }
+      var gradeHtml = "";
+      var gradeLabel = getGradeLabel(s.grade_in_2026);
+      if (gradeLabel) {
+        gradeHtml = " <span class=\"awards-ranking-grade\" title=\"Current grade (school year starts Sept 1)\">" + gradeLabel + "</span>";
+      }
       var label = entry.recordsCount === 1 ? "record" : "records";
       items.push(
         "<li class=\"awards-ranking-item\">" +
           "<span class=\"awards-ranking-position\">#" + (i + 1) + "</span>" +
-          "<span class=\"awards-ranking-name\" data-student-name=\"" + escapeHtml(String(s.name || "")) + "\">" + escapeHtml(displayName) + "</span>" +
+          "<span class=\"awards-ranking-name\" data-student-name=\"" + escapeHtml(String(s.name || "")) + "\">" + escapeHtml(displayName) + gradeHtml + "</span>" +
           "<span class=\"awards-ranking-count\" data-student-name=\"" + escapeHtml(String(s.name || "")) + "\">" + escapeHtml(String(entry.recordsCount)) + " " + label + "</span>" +
         "</li>"
       );
@@ -467,6 +556,10 @@
         }
         data.contest_order_map = orderMap;
         setLoading(false);
+        if (gradeFilterWrapEl) {
+          var params = new URLSearchParams(window.location.search);
+          gradeFilterWrapEl.hidden = params.get("g") !== "1";
+        }
         renderContestList();
         renderTopStudentsByRecords();
         bindContestListPopover();
@@ -494,6 +587,12 @@
 
   if (girlsOnlyEl) {
     girlsOnlyEl.addEventListener("change", function () {
+      renderTopStudentsByRecords();
+    });
+  }
+
+  if (gradeFilterEl) {
+    gradeFilterEl.addEventListener("change", function () {
       renderTopStudentsByRecords();
     });
   }
