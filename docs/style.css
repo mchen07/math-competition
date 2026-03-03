@@ -374,6 +374,30 @@ body {
   color: var(--text);
 }
 
+.awards-ranking-controls .state-filter-wrap {
+  margin-left: 1rem;
+}
+
+.awards-ranking-controls .state-filter-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.awards-ranking-controls .state-filter-caption {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.awards-ranking-controls .state-filter-select {
+  font: inherit;
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+}
+
 .awards-ranking-list {
   margin: 0;
   padding: 0;

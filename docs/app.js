@@ -14,6 +14,20 @@
   var girlsOnlyEl = document.getElementById("girls-only");
   var gradeFilterEl = document.getElementById("grade-filter");
   var gradeFilterWrapEl = document.getElementById("grade-filter-wrap");
+  var stateFilterEl = document.getElementById("state-filter");
+
+  var US_STATES = [
+    "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
+    "Delaware", "District of Columbia", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa",
+    "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
+    "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire",
+    "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio",
+    "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota",
+    "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia",
+    "Wisconsin", "Wyoming"
+  ];
+  var US_STATES_SET = {};
+  for (var i = 0; i < US_STATES.length; i++) US_STATES_SET[US_STATES[i]] = true;
 
   function setLoading(busy) {
     loadingEl.setAttribute("aria-busy", busy ? "true" : "false");
@@ -311,6 +325,16 @@
         return wantLabel === "__none__" ? lab === "" : lab === wantLabel;
       });
     }
+    if (stateFilterEl && stateFilterEl.value && stateFilterEl.value !== "") {
+      var wantState = stateFilterEl.value;
+      students = students.filter(function (s) {
+        var st = (s.state || "").trim();
+        if (wantState === "__other__") {
+          return !st || !US_STATES_SET[st];
+        }
+        return st === wantState;
+      });
+    }
 
     var totalCountEl = document.getElementById("total-student-count");
     if (totalCountEl) totalCountEl.textContent = String(students.length);
@@ -589,6 +613,12 @@
 
   if (gradeFilterEl) {
     gradeFilterEl.addEventListener("change", function () {
+      renderTopStudentsByRecords();
+    });
+  }
+
+  if (stateFilterEl) {
+    stateFilterEl.addEventListener("change", function () {
       renderTopStudentsByRecords();
     });
   }
