@@ -211,10 +211,16 @@
       stateHtml = "<span class=\"student-state\">(" + escapeHtml(String(state)) + ")</span>";
     }
 
+    var gradeHtml = "";
+    var gradeLabel = getGradeLabel(student.grade_in_2026);
+    if (gradeLabel) {
+      gradeHtml = " <span class=\"awards-ranking-grade\" title=\"Current grade (school year starts Sept 1)\">" + escapeHtml(gradeLabel) + "</span>";
+    }
+
     return (
       "<article class=\"student-card\" data-student-id=\"" + escapeHtml(String(student.id)) + "\">" +
         "<div class=\"student-header\">" +
-          "<h2 class=\"student-name\" data-student-name=\"" + escapeHtml(String(student.name || "")) + "\">" + escapeHtml(student.name) + (stateHtml ? " " + stateHtml : "") + "</h2>" +
+          "<h2 class=\"student-name\" data-student-name=\"" + escapeHtml(String(student.name || "")) + "\">" + escapeHtml(student.name) + (stateHtml ? " " + stateHtml : "") + gradeHtml + "</h2>" +
           aliasesHtml +
           "<button type=\"button\" class=\"export-pdf-student-btn\" aria-label=\"Export this student to PDF\">Export to PDF</button>" +
         "</div>" +

@@ -48922,7 +48922,7 @@
       ],
       "state": "Connecticut",
       "gender": "male",
-      "grade_in_2026": null,
+      "grade_in_2026": "12",
       "records": [
         {
           "contest": "MMATHS",
@@ -49050,7 +49050,7 @@
       "aliases": [],
       "state": "Connecticut",
       "gender": "male",
-      "grade_in_2026": null,
+      "grade_in_2026": "10",
       "records": [
         {
           "contest": "MMATHS",
@@ -49078,7 +49078,7 @@
       "aliases": [],
       "state": "Connecticut",
       "gender": "male",
-      "grade_in_2026": null,
+      "grade_in_2026": "11",
       "records": [
         {
           "contest": "ARML",

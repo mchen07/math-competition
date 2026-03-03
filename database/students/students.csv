@@ -1221,12 +1221,12 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 1276,Tiger Li,,,,male,
 1277,Jeff Zhou,,,,male,
 1278,Kaylyn Zhang,"Ontario, Canada",,,female,10
-1279,Jack Whitney-Epstein,Connecticut,267|312,Jack Whitney,male,
+1279,Jack Whitney-Epstein,Connecticut,267|312,Jack Whitney,male,12
 1281,Rick Zhou,,,,male,
 1282,Lewis Lou,,,,male,
 1283,Zenghan (Yoll) Feng,,,,male,
-1284,Jonathan Zhou,Connecticut,289,,male,
-1285,Raine Ma,Connecticut,,,male,
+1284,Jonathan Zhou,Connecticut,289,,male,10
+1285,Raine Ma,Connecticut,,,male,11
 1286,Aarav Mann,,,,male,
 1287,Prince Zhang,,,,male,
 1288,Eric Jia,,,,male,
