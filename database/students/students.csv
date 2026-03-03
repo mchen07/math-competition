@@ -812,7 +812,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 846,Roland Li,Indiana,182,,male,8
 847,Sophia Han,Oregon,204,,female,9
 848,Arjun Raman,Indiana,182,,male,9
-849,Aiden Wei,Georgia,177,,male,9
+849,Aiden Wei,Georgia,177,Aiden Yudong Wei,male,9
 850,Eric Huang,Massachusetts,189,,male,9
 851,Soham Samanta,Massachusetts,189|268|317,,male,9
 852,Vivaan Mukherjee,Washington,216,,male,9
@@ -1467,7 +1467,6 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 1524,David Zhang,New Jersey,,,male,13
 1525,Aaron Xie,Florida,,,male,
 1526,Patrick Liang,California,,,male,
-1527,Aiden Yudong Wei,,,,male,
 1528,Huanqi Zhang,Massachusetts,,,male,
 1529,Daniel Gong Li,Maryland,,,male,
 1530,Youran Gu,California,,,male,

@@ -37272,7 +37272,9 @@
     {
       "id": 849,
       "name": "Aiden Wei",
-      "aliases": [],
+      "aliases": [
+        "Aiden Yudong Wei"
+      ],
       "state": "Georgia",
       "gender": "male",
       "grade_in_2026": "9",
@@ -37285,6 +37287,14 @@
           "state": "Georgia",
           "rank": "23",
           "grade": "8"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2025",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Aiden Yudong Wei",
+          "rank": "4",
+          "score": "31.67"
         }
       ]
     },
@@ -55991,14 +56001,6 @@
       "gender": "male",
       "grade_in_2026": null,
       "records": [
-        {
-          "contest": "HMMT November — Theme",
-          "year": "2025",
-          "contest_slug": "hmmt-nov-theme",
-          "student_name": "Aiden Yudong Wei",
-          "rank": "4",
-          "score": "31.67"
-        },
         {
           "contest": "HMMT November",
           "year": "2025",
