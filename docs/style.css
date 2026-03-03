@@ -341,6 +341,10 @@ body {
 .awards-ranking-controls {
   margin: 0 0 0.75rem;
   font-size: 0.9rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 1rem;
 }
 
 .awards-ranking-controls .girls-only-label {
@@ -354,7 +358,6 @@ body {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
-  margin-left: 1rem;
 }
 
 .awards-ranking-controls .grade-filter-caption {

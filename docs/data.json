@@ -257,6 +257,16 @@
           "award": "Gold"
         },
         {
+          "contest": "RMM",
+          "year": "2023",
+          "contest_slug": "rmm",
+          "student_name": "Alexander Wang",
+          "us_rank": "1",
+          "international_rank": "2",
+          "total_score": "31",
+          "award": "Gold"
+        },
+        {
           "contest": "PUMaC — Number Theory",
           "year": "2023",
           "contest_slug": "pumac-number-theory",
@@ -629,6 +639,16 @@
           "award": "Bronze"
         },
         {
+          "contest": "RMM",
+          "year": "2025",
+          "contest_slug": "rmm",
+          "student_name": "Oron Wang",
+          "us_rank": "4",
+          "international_rank": "19",
+          "total_score": "22",
+          "award": "Silver"
+        },
+        {
           "contest": "PUMaC — Geometry",
           "year": "2025",
           "contest_slug": "pumac-geometry",
@@ -881,6 +901,16 @@
       "gender": "male",
       "grade_in_2026": "11",
       "records": [
+        {
+          "contest": "RMM",
+          "year": "2026",
+          "contest_slug": "rmm",
+          "student_name": "Liam Reddy",
+          "us_rank": "1",
+          "international_rank": "1",
+          "total_score": "35",
+          "award": "Gold"
+        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2026",
@@ -1588,6 +1618,16 @@
       "gender": "male",
       "grade_in_2026": "12",
       "records": [
+        {
+          "contest": "RMM",
+          "year": "2026",
+          "contest_slug": "rmm",
+          "student_name": "Jonathan Du",
+          "us_rank": "2",
+          "international_rank": "4",
+          "total_score": "27",
+          "award": "Gold"
+        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2026",
@@ -2379,6 +2419,16 @@
           "student_name": "Michael Zhao",
           "state": "Texas",
           "award": "Bronze"
+        },
+        {
+          "contest": "RMM",
+          "year": "2025",
+          "contest_slug": "rmm",
+          "student_name": "Michael Zhao",
+          "us_rank": "3",
+          "international_rank": "16",
+          "total_score": "23",
+          "award": "Silver"
         },
         {
           "contest": "PUMaC — Number Theory",
@@ -5112,6 +5162,16 @@
       "grade_in_2026": "11",
       "records": [
         {
+          "contest": "RMM",
+          "year": "2026",
+          "contest_slug": "rmm",
+          "student_name": "Grant Blitz",
+          "us_rank": "3",
+          "international_rank": "8",
+          "total_score": "24",
+          "award": "Gold"
+        },
+        {
           "contest": "HMMT February — Combinatorics",
           "year": "2026",
           "contest_slug": "hmmt-feb-combo",
@@ -7011,6 +7071,16 @@
       "grade_in_2026": "10",
       "records": [
         {
+          "contest": "RMM",
+          "year": "2026",
+          "contest_slug": "rmm",
+          "student_name": "Channing Yang",
+          "us_rank": "4",
+          "international_rank": "15",
+          "total_score": "22",
+          "award": "Silver"
+        },
+        {
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
@@ -7437,6 +7507,16 @@
           "student_name": "Hannah Fox",
           "state": "California",
           "award": "Gold"
+        },
+        {
+          "contest": "RMM",
+          "year": "2024",
+          "contest_slug": "rmm",
+          "student_name": "Hannah Fox",
+          "us_rank": "6",
+          "international_rank": "19",
+          "total_score": "25",
+          "award": "Silver"
         },
         {
           "contest": "MPFG",
@@ -8795,6 +8875,16 @@
           "contest_slug": "amo",
           "student_name": "Andrew Carratu",
           "state": "New Hampshire",
+          "award": "Silver"
+        },
+        {
+          "contest": "RMM",
+          "year": "2024",
+          "contest_slug": "rmm",
+          "student_name": "Andrew Carratu",
+          "us_rank": "4",
+          "international_rank": "10",
+          "total_score": "28",
           "award": "Silver"
         },
         {
@@ -10663,6 +10753,16 @@
           "award": "Gold"
         },
         {
+          "contest": "RMM",
+          "year": "2025",
+          "contest_slug": "rmm",
+          "student_name": "Andrew Lin",
+          "us_rank": "5",
+          "international_rank": "22",
+          "total_score": "21",
+          "award": "Silver"
+        },
+        {
           "contest": "IMO",
           "year": "2025",
           "contest_slug": "imo",
@@ -11421,6 +11521,16 @@
           "award": "Gold"
         },
         {
+          "contest": "RMM",
+          "year": "2024",
+          "contest_slug": "rmm",
+          "student_name": "Qiao Zhang",
+          "us_rank": "1",
+          "international_rank": "2",
+          "total_score": "35",
+          "award": "Gold"
+        },
+        {
           "contest": "IMO",
           "year": "2024",
           "contest_slug": "imo",
@@ -11802,6 +11912,16 @@
           "award": "Gold"
         },
         {
+          "contest": "RMM",
+          "year": "2025",
+          "contest_slug": "rmm",
+          "student_name": "Rohan Bodke",
+          "us_rank": "6",
+          "international_rank": "26",
+          "total_score": "19",
+          "award": "Bronze"
+        },
+        {
           "contest": "CMM",
           "year": "2025",
           "contest_slug": "cmm",
@@ -12073,6 +12193,16 @@
           "contest_slug": "amo",
           "student_name": "Allen Wang",
           "state": "New Jersey",
+          "award": "Gold"
+        },
+        {
+          "contest": "RMM",
+          "year": "2024",
+          "contest_slug": "rmm",
+          "student_name": "Allen Wang",
+          "us_rank": "3",
+          "international_rank": "8",
+          "total_score": "30",
           "award": "Gold"
         },
         {
@@ -12742,6 +12872,16 @@
           "award": "Gold"
         },
         {
+          "contest": "RMM",
+          "year": "2025",
+          "contest_slug": "rmm",
+          "student_name": "Feodor Yevtushenko",
+          "us_rank": "1",
+          "international_rank": "10",
+          "total_score": "26",
+          "award": "Silver"
+        },
+        {
           "contest": "CMM",
           "year": "2025",
           "contest_slug": "cmm",
@@ -13242,6 +13382,16 @@
           "contest_slug": "amo",
           "student_name": "Linus Tang",
           "state": "California",
+          "award": "Gold"
+        },
+        {
+          "contest": "RMM",
+          "year": "2024",
+          "contest_slug": "rmm",
+          "student_name": "Linus Tang",
+          "us_rank": "2",
+          "international_rank": "3",
+          "total_score": "34",
           "award": "Gold"
         },
         {
@@ -14547,6 +14697,16 @@
           "award": "Gold"
         },
         {
+          "contest": "RMM",
+          "year": "2023",
+          "contest_slug": "rmm",
+          "student_name": "Maximus Lu",
+          "us_rank": "3",
+          "international_rank": "5",
+          "total_score": "27",
+          "award": "Gold"
+        },
+        {
           "contest": "IMO",
           "year": "2023",
           "contest_slug": "imo",
@@ -15386,6 +15546,16 @@
           "award": "Silver"
         },
         {
+          "contest": "RMM",
+          "year": "2023",
+          "contest_slug": "rmm",
+          "student_name": "Alan Bu",
+          "us_rank": "5",
+          "international_rank": "13",
+          "total_score": "21",
+          "award": "Silver"
+        },
+        {
           "contest": "HMMT February — Geometry",
           "year": "2023",
           "contest_slug": "hmmt-feb-geometry",
@@ -15492,6 +15662,16 @@
           "award": "Gold"
         },
         {
+          "contest": "RMM",
+          "year": "2023",
+          "contest_slug": "rmm",
+          "student_name": "Huaye Lin",
+          "us_rank": "2",
+          "international_rank": "4",
+          "total_score": "29",
+          "award": "Gold"
+        },
+        {
           "contest": "IMO",
           "year": "2023",
           "contest_slug": "imo",
@@ -15573,6 +15753,16 @@
       "gender": "male",
       "grade_in_2026": null,
       "records": [
+        {
+          "contest": "RMM",
+          "year": "2023",
+          "contest_slug": "rmm",
+          "student_name": "Alex Zhao",
+          "us_rank": "4",
+          "international_rank": "7",
+          "total_score": "25",
+          "award": "Gold"
+        },
         {
           "contest": "HMMT February — Geometry",
           "year": "2023",
@@ -17169,6 +17359,16 @@
           "student_name": "Krishna Pothapragada",
           "state": "Illinois",
           "award": "Gold"
+        },
+        {
+          "contest": "RMM",
+          "year": "2024",
+          "contest_slug": "rmm",
+          "student_name": "Krishna Pothapragada",
+          "us_rank": "5",
+          "international_rank": "12",
+          "total_score": "28",
+          "award": "Silver"
         },
         {
           "contest": "IMO",
@@ -23667,6 +23867,16 @@
           "award": "Bronze"
         },
         {
+          "contest": "RMM",
+          "year": "2025",
+          "contest_slug": "rmm",
+          "student_name": "Aprameya Tripathy",
+          "us_rank": "2",
+          "international_rank": "11",
+          "total_score": "25",
+          "award": "Silver"
+        },
+        {
           "contest": "USAMO",
           "year": "2024",
           "contest_slug": "amo",
@@ -26796,6 +27006,16 @@
       "gender": "male",
       "grade_in_2026": null,
       "records": [
+        {
+          "contest": "RMM",
+          "year": "2026",
+          "contest_slug": "rmm",
+          "student_name": "Hengrui Liang",
+          "us_rank": "5",
+          "international_rank": "31",
+          "total_score": "19",
+          "award": "Bronze"
+        },
         {
           "contest": "USAMO",
           "year": "2025",
@@ -37672,6 +37892,16 @@
       "grade_in_2026": null,
       "records": [
         {
+          "contest": "RMM",
+          "year": "2026",
+          "contest_slug": "rmm",
+          "student_name": "Shihan Kanungo",
+          "us_rank": "6",
+          "international_rank": "49",
+          "total_score": "16",
+          "award": "Bronze"
+        },
+        {
           "contest": "USAMO",
           "year": "2025",
           "contest_slug": "amo",
@@ -45171,6 +45401,16 @@
       "gender": "male",
       "grade_in_2026": null,
       "records": [
+        {
+          "contest": "RMM",
+          "year": "2023",
+          "contest_slug": "rmm",
+          "student_name": "Kevin Wu",
+          "us_rank": "6",
+          "international_rank": "25",
+          "total_score": "17",
+          "award": "Bronze"
+        },
         {
           "contest": "USAMO",
           "year": "2022",
@@ -59586,6 +59826,11 @@
       "description": "International Mathematical Olympiad. Official results by country and year.",
       "website": "https://www.imo-official.org/"
     },
+    "rmm": {
+      "contest_name": "RMM",
+      "description": "Romanian Master of Mathematics — elite international olympiad-style competition held annually in Bucharest.",
+      "website": "https://rmms.lbi.ro/"
+    },
     "amo": {
       "contest_name": "USAMO",
       "description": "USA Mathematical Olympiad. Top-tier national math olympiad for high school students.",
@@ -59876,10 +60121,17 @@
       "2023": "results_A.csv",
       "2024": "results_A.csv",
       "2025": "results_A.csv"
+    },
+    "rmm": {
+      "2023": "results.csv",
+      "2024": "results.csv",
+      "2025": "results.csv",
+      "2026": "results.csv"
     }
   },
   "contest_order": [
     "imo",
+    "rmm",
     "amo",
     "jmo",
     "hmmt-feb",

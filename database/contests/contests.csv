@@ -1,5 +1,6 @@
 folder_name,contest_name,description,website
 imo,IMO,International Mathematical Olympiad. Official results by country and year.,https://www.imo-official.org/
+rmm,RMM,Romanian Master of Mathematics — elite international olympiad-style competition held annually in Bucharest.,https://rmms.lbi.ro/
 amo,USAMO,USA Mathematical Olympiad. Top-tier national math olympiad for high school students.,https://maa.org/
 jmo,USAJMO,USA Junior Mathematical Olympiad. National math olympiad for younger high school students.,https://maa.org/
 hmmt-feb,HMMT February,"Annual February Harvard-MIT Mathematics Tournament. Overall individual scores from the Algebra, Geometry, and Combinatorics rounds. Difficulty: mid-AIME to olympiad. Nov vs Feb. https://www.hmmt.org/www/tournaments/novfeb. Student cannot attend both Nov and Feb in the same school year.",https://www.hmmt.org/
