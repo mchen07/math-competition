@@ -22,10 +22,10 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 21,David Fox,California,9|94,,male,
 22,Ian Rui,Washington,20,,male,11
 23,Jeffrey Yin,Virginia,21,,male,12
-24,Ruien Chen,,7,,male,
+24,Ruien Chen,Washington,7|89,Ryan Chen,male,10
 25,Rohan Garg,California,9|94|118,,male,12
 26,Ryan Li,Ohio,5,,male,
-27,Bolei Wang,New Hampshire,3|71,,male,
+27,Bolei Wang,New Hampshire,3|71,Benny Wang,male,12
 28,Rohan Nayak Mallick,California,2|59,,male,10
 29,Patrick Du,Virginia,10|72|85|215|290,,male,11
 30,Eric Dai,New Jersey,22,,male,11
@@ -213,7 +213,6 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 237,Steven Chan,,101,,male,
 238,Shamik Khowala,,94,,male,
 239,Satvik Sharma,Pennsylvania,73,,male,
-240,Ryan Chen,Washington,89,,male,
 241,Eliot Flowers,,105,,male,
 242,Adam Ge,Massachusetts,26|261,,male,11
 243,Aarush Prasad,New Jersey,66|323,,male,
@@ -1224,7 +1223,6 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 1277,Jeff Zhou,,,,male,
 1278,Kaylyn Zhang,"Ontario, Canada",,,female,10
 1279,Jack Whitney-Epstein,,267|312,,male,
-1280,Benny Wang,,,,male,
 1281,Rick Zhou,,,,male,
 1282,Lewis Lou,,,,male,
 1283,Zenghan (Yoll) Feng,,,,male,

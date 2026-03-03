@@ -3603,10 +3603,12 @@
     {
       "id": 24,
       "name": "Ruien Chen",
-      "aliases": [],
-      "state": "",
+      "aliases": [
+        "Ryan Chen"
+      ],
+      "state": "Washington",
       "gender": "male",
-      "grade_in_2026": null,
+      "grade_in_2026": "10",
       "records": [
         {
           "contest": "HMMT February — Geometry",
@@ -3634,6 +3636,66 @@
           "algebra_score": "25.17",
           "geometry_score": "26.37",
           "combinatorics_score": "19.82"
+        },
+        {
+          "contest": "USAMO",
+          "year": "2025",
+          "contest_slug": "amo",
+          "student_name": "Ryan Chen",
+          "state": "Washington",
+          "award": "Silver"
+        },
+        {
+          "contest": "PUMaC — Algebra",
+          "year": "2025",
+          "contest_slug": "pumac-algebra",
+          "student_name": "Ryan Chen",
+          "division": "A",
+          "rank": "25",
+          "score": "6.905",
+          "p1": "1",
+          "p2": "1",
+          "p3": "1",
+          "p4": "0",
+          "p5": "0",
+          "p6": "0",
+          "p7": "0",
+          "p8": "0"
+        },
+        {
+          "contest": "USAJMO",
+          "year": "2024",
+          "contest_slug": "jmo",
+          "student_name": "Ryan Chen",
+          "state": "Washington",
+          "award": "Honorable Mention"
+        },
+        {
+          "contest": "PUMaC — Geometry",
+          "year": "2024",
+          "contest_slug": "pumac-geometry",
+          "student_name": "Ryan Chen",
+          "division": "A",
+          "rank": "3",
+          "score": "9.567",
+          "p1": "1",
+          "p2": "1",
+          "p3": "1",
+          "p4": "1",
+          "p5": "1",
+          "p6": "1",
+          "p7": "0",
+          "p8": "0"
+        },
+        {
+          "contest": "PUMaC",
+          "year": "2024",
+          "contest_slug": "pumac",
+          "student_name": "Ryan Chen",
+          "division": "A",
+          "rank": "32",
+          "total_score": "2.681",
+          "finals_score": "14"
         }
       ]
     },
@@ -3952,10 +4014,12 @@
     {
       "id": 27,
       "name": "Bolei Wang",
-      "aliases": [],
+      "aliases": [
+        "Benny Wang"
+      ],
       "state": "New Hampshire",
       "gender": "male",
-      "grade_in_2026": null,
+      "grade_in_2026": "12",
       "records": [
         {
           "contest": "HMMT February — Geometry",
@@ -4012,6 +4076,15 @@
           "combinatorics_score": "25.24"
         },
         {
+          "contest": "ARML",
+          "year": "2025",
+          "contest_slug": "arml",
+          "student_name": "Benny Wang",
+          "place": "49",
+          "site": "S",
+          "team": "PEA Lions A1"
+        },
+        {
           "contest": "USAMO",
           "year": "2024",
           "contest_slug": "amo",
@@ -4034,6 +4107,33 @@
           "student_name": "Bolei Wang",
           "state": "New Hampshire",
           "award": "Honorable Mention"
+        },
+        {
+          "contest": "PUMaC — Geometry",
+          "year": "2023",
+          "contest_slug": "pumac-geometry",
+          "student_name": "Benny Wang",
+          "division": "A",
+          "rank": "6",
+          "score": "11.13",
+          "p1": "1",
+          "p2": "0",
+          "p3": "1",
+          "p4": "1",
+          "p5": "1",
+          "p6": "1",
+          "p7": "0",
+          "p8": "0"
+        },
+        {
+          "contest": "PUMaC",
+          "year": "2023",
+          "contest_slug": "pumac",
+          "student_name": "Benny Wang",
+          "division": "A",
+          "rank": "18",
+          "total_score": "2.817",
+          "finals_score": "11"
         },
         {
           "contest": "HMMT February — Geometry",
@@ -21587,76 +21687,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        }
-      ]
-    },
-    {
-      "id": 240,
-      "name": "Ryan Chen",
-      "aliases": [],
-      "state": "Washington",
-      "gender": "male",
-      "grade_in_2026": null,
-      "records": [
-        {
-          "contest": "USAMO",
-          "year": "2025",
-          "contest_slug": "amo",
-          "student_name": "Ryan Chen",
-          "state": "Washington",
-          "award": "Silver"
-        },
-        {
-          "contest": "PUMaC — Algebra",
-          "year": "2025",
-          "contest_slug": "pumac-algebra",
-          "student_name": "Ryan Chen",
-          "division": "A",
-          "rank": "25",
-          "score": "6.905",
-          "p1": "1",
-          "p2": "1",
-          "p3": "1",
-          "p4": "0",
-          "p5": "0",
-          "p6": "0",
-          "p7": "0",
-          "p8": "0"
-        },
-        {
-          "contest": "USAJMO",
-          "year": "2024",
-          "contest_slug": "jmo",
-          "student_name": "Ryan Chen",
-          "state": "Washington",
-          "award": "Honorable Mention"
-        },
-        {
-          "contest": "PUMaC — Geometry",
-          "year": "2024",
-          "contest_slug": "pumac-geometry",
-          "student_name": "Ryan Chen",
-          "division": "A",
-          "rank": "3",
-          "score": "9.567",
-          "p1": "1",
-          "p2": "1",
-          "p3": "1",
-          "p4": "1",
-          "p5": "1",
-          "p6": "1",
-          "p7": "0",
-          "p8": "0"
-        },
-        {
-          "contest": "PUMaC",
-          "year": "2024",
-          "contest_slug": "pumac",
-          "student_name": "Ryan Chen",
-          "division": "A",
-          "rank": "32",
-          "total_score": "2.681",
-          "finals_score": "14"
         }
       ]
     },
@@ -48937,52 +48967,6 @@
           "rank": "34",
           "score": "9",
           "team": "Mass ARML Suns"
-        }
-      ]
-    },
-    {
-      "id": 1280,
-      "name": "Benny Wang",
-      "aliases": [],
-      "state": "",
-      "gender": "male",
-      "grade_in_2026": null,
-      "records": [
-        {
-          "contest": "ARML",
-          "year": "2025",
-          "contest_slug": "arml",
-          "student_name": "Benny Wang",
-          "place": "49",
-          "site": "S",
-          "team": "PEA Lions A1"
-        },
-        {
-          "contest": "PUMaC — Geometry",
-          "year": "2023",
-          "contest_slug": "pumac-geometry",
-          "student_name": "Benny Wang",
-          "division": "A",
-          "rank": "6",
-          "score": "11.13",
-          "p1": "1",
-          "p2": "0",
-          "p3": "1",
-          "p4": "1",
-          "p5": "1",
-          "p6": "1",
-          "p7": "0",
-          "p8": "0"
-        },
-        {
-          "contest": "PUMaC",
-          "year": "2023",
-          "contest_slug": "pumac",
-          "student_name": "Benny Wang",
-          "division": "A",
-          "rank": "18",
-          "total_score": "2.817",
-          "finals_score": "11"
         }
       ]
     },
