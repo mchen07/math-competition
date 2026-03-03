@@ -37295,6 +37295,16 @@
           "student_name": "Aiden Yudong Wei",
           "rank": "4",
           "score": "31.67"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2025",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Aiden Yudong Wei",
+          "rank": "20",
+          "total_score": "49.57",
+          "general_score": "17.9",
+          "theme_score": "31.67"
         }
       ]
     },
@@ -55990,26 +56000,6 @@
           "student_name": "Patrick Liang",
           "school": "Portola Highly Gifted Magnet School",
           "rank": "Honorable Mention"
-        }
-      ]
-    },
-    {
-      "id": 1527,
-      "name": "Aiden Yudong Wei",
-      "aliases": [],
-      "state": "",
-      "gender": "male",
-      "grade_in_2026": null,
-      "records": [
-        {
-          "contest": "HMMT November",
-          "year": "2025",
-          "contest_slug": "hmmt-nov",
-          "student_name": "Aiden Yudong Wei",
-          "rank": "20",
-          "total_score": "49.57",
-          "general_score": "17.9",
-          "theme_score": "31.67"
         }
       ]
     },
