@@ -38,7 +38,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 37,Grant Blitz,New Hampshire,3,,male,11
 38,Andy Lu,California,27|93,,male,11
 39,Maxwell Sun,Rhode Island,28,,male,9
-40,Darsh Patel,Florida,19,,male,
+40,Darsh Patel,Florida,19,,male,12
 41,Eddy Zhang,Pennsylvania,1|32|73,,male,10
 42,Benjamin Song,New York,29,Ben Song,male,10
 43,Christopher Peng,Washington,7|89,,male,
@@ -54,7 +54,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 54,HyunWoo Choi,,33,,male,
 55,Zongshu Wu,California,17|44|112,,male,
 56,Channing Yang,Texas,24,,male,10
-57,Christopher Qiu,New Jersey,1|32|73,,male,
+57,Christopher Qiu,New Jersey,1|32|73,,male,13
 58,Hannah Fox,California,9,,female,13
 59,Henry Jiang,Michigan,34|75,,male,13
 60,Haotian Zhou,,35,,male,
@@ -82,7 +82,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 85,Sophia Zhang,New Jersey,42,,female,12
 86,Vikram Sarkar,Connecticut,43|92|267|312,,male,12
 87,Max Zhao,Virginia,10|85,,male,12
-89,Jordan Lefkowitz,Connecticut,43,,male,
+89,Jordan Lefkowitz,Connecticut,43,,male,14
 90,Rohan Das,California,9,,male,
 91,Andrew Lin,New Jersey,1|32|73,,male,13
 92,Marvin Mao,New Jersey,45,,male,13
@@ -94,7 +94,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 99,Rohan Bodke,California,9,,male,13
 100,Langkun Yu,,44,,male,
 102,Andrew Li,New York,49|253,,male,
-103,Allen Wang,New Jersey,1|32|73,,male,
+103,Allen Wang,New Jersey,1|32|73,,male,14
 105,Myungbeen Choi,,50,,male,
 106,Yunlang Zheng,,44,,male,
 107,Annabel Ge,Washington,7,,female,14
@@ -115,11 +115,11 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 122,David Jiahui Zhang,,9|16,,male,
 123,Vivian Loh,Pennsylvania,47,,female,14
 124,Zeyan Li,,52,,male,
-125,Pavan Jayaraman,New Jersey,56|66,,male,
+125,Pavan Jayaraman,New Jersey,56|66,,male,14
 126,Weian Xie,Connecticut,57,,male,
 127,David Ji,New Jersey,22,,male,
 128,Brian Zhang,North Carolina,34,,male,13
-132,Jason Mao,New Jersey,1|32|73|264,,male,
+132,Jason Mao,New Jersey,1|32|73|264,,male,13
 134,Maximus Lu,New York,61,,male,
 135,Eric Shen,California,9,,male,15
 136,Jeffrey Chen,Illinois,11,,male,15
