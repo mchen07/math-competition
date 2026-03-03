@@ -37665,6 +37665,50 @@
           "state": "Connecticut",
           "rank": "45",
           "grade": "8"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2025",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Ethan Shi",
+          "rank": "19",
+          "score": "24.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2025",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Ethan Shi",
+          "rank": "50",
+          "score": "19.82"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2025",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Ethan Shi",
+          "rank": "29",
+          "total_score": "44.07",
+          "general_score": "19.82",
+          "theme_score": "24.24"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2023",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Ethan Shi",
+          "rank": "38",
+          "score": "29.59"
+        },
+        {
+          "contest": "HMMT November",
+          "year": "2023",
+          "contest_slug": "hmmt-nov",
+          "student_name": "Ethan Shi",
+          "rank": "44",
+          "total_score": "48.42",
+          "general_score": "29.59",
+          "theme_score": "18.82"
         }
       ]
     },
@@ -44134,24 +44178,6 @@
       ]
     },
     {
-      "id": 1091,
-      "name": "Jack Whitney",
-      "aliases": [],
-      "state": "Connecticut",
-      "gender": "male",
-      "grade_in_2026": null,
-      "records": [
-        {
-          "contest": "USAJMO",
-          "year": "2024",
-          "contest_slug": "jmo",
-          "student_name": "Jack Whitney",
-          "state": "Connecticut",
-          "award": "Honorable Mention"
-        }
-      ]
-    },
-    {
       "id": 1092,
       "name": "Kyle Yang",
       "aliases": [],
@@ -48891,8 +48917,10 @@
     {
       "id": 1279,
       "name": "Jack Whitney-Epstein",
-      "aliases": [],
-      "state": "",
+      "aliases": [
+        "Jack Whitney"
+      ],
+      "state": "Connecticut",
       "gender": "male",
       "grade_in_2026": null,
       "records": [
@@ -48939,6 +48967,14 @@
           "place": "44",
           "site": "S",
           "team": "Connecticut A1"
+        },
+        {
+          "contest": "USAJMO",
+          "year": "2024",
+          "contest_slug": "jmo",
+          "student_name": "Jack Whitney",
+          "state": "Connecticut",
+          "award": "Honorable Mention"
         },
         {
           "contest": "MMATHS",
@@ -49012,7 +49048,7 @@
       "id": 1284,
       "name": "Jonathan Zhou",
       "aliases": [],
-      "state": "",
+      "state": "Connecticut",
       "gender": "male",
       "grade_in_2026": null,
       "records": [
@@ -49040,7 +49076,7 @@
       "id": 1285,
       "name": "Raine Ma",
       "aliases": [],
-      "state": "",
+      "state": "Connecticut",
       "gender": "male",
       "grade_in_2026": null,
       "records": [
@@ -56138,60 +56174,6 @@
           "total_score": "44.19",
           "general_score": "23.15",
           "theme_score": "21.03"
-        }
-      ]
-    },
-    {
-      "id": 1533,
-      "name": "Ethan Shi",
-      "aliases": [],
-      "state": "New York",
-      "gender": "male",
-      "grade_in_2026": "9",
-      "records": [
-        {
-          "contest": "HMMT November — Theme",
-          "year": "2025",
-          "contest_slug": "hmmt-nov-theme",
-          "student_name": "Ethan Shi",
-          "rank": "19",
-          "score": "24.24"
-        },
-        {
-          "contest": "HMMT November — General",
-          "year": "2025",
-          "contest_slug": "hmmt-nov-general",
-          "student_name": "Ethan Shi",
-          "rank": "50",
-          "score": "19.82"
-        },
-        {
-          "contest": "HMMT November",
-          "year": "2025",
-          "contest_slug": "hmmt-nov",
-          "student_name": "Ethan Shi",
-          "rank": "29",
-          "total_score": "44.07",
-          "general_score": "19.82",
-          "theme_score": "24.24"
-        },
-        {
-          "contest": "HMMT November — General",
-          "year": "2023",
-          "contest_slug": "hmmt-nov-general",
-          "student_name": "Ethan Shi",
-          "rank": "38",
-          "score": "29.59"
-        },
-        {
-          "contest": "HMMT November",
-          "year": "2023",
-          "contest_slug": "hmmt-nov",
-          "student_name": "Ethan Shi",
-          "rank": "44",
-          "total_score": "48.42",
-          "general_score": "29.59",
-          "theme_score": "18.82"
         }
       ]
     },

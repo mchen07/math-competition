@@ -1036,7 +1036,6 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 1087,Justin Seo,Michigan,298,,male,
 1088,Kallie Wang,California,,,female,12
 1090,Immanuel Whang,Washington,,,male,
-1091,Jack Whitney,Connecticut,,,male,
 1092,Kyle Yang,Massachusetts,,,male,
 1093,Michael Yang,Washington,,,male,
 1094,Yuxi Yang,"Ontario, Canada",,,male,
@@ -1222,12 +1221,12 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 1276,Tiger Li,,,,male,
 1277,Jeff Zhou,,,,male,
 1278,Kaylyn Zhang,"Ontario, Canada",,,female,10
-1279,Jack Whitney-Epstein,,267|312,,male,
+1279,Jack Whitney-Epstein,Connecticut,267|312,Jack Whitney,male,
 1281,Rick Zhou,,,,male,
 1282,Lewis Lou,,,,male,
 1283,Zenghan (Yoll) Feng,,,,male,
-1284,Jonathan Zhou,,289,,male,
-1285,Raine Ma,,,,male,
+1284,Jonathan Zhou,Connecticut,289,,male,
+1285,Raine Ma,Connecticut,,,male,
 1286,Aarav Mann,,,,male,
 1287,Prince Zhang,,,,male,
 1288,Eric Jia,,,,male,
@@ -1474,7 +1473,6 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 1530,Youran Gu,California,,,male,
 1531,Yutong Zhao,California,,,male,
 1532,SIRUI WU,,,"WU, SIRUI",male,
-1533,Ethan Shi,New York,,,male,9
 1534,Girish Prasad,New York,,,male,10
 1535,Aashritha Kolli,New Jersey,,,female,
 1536,Jay Wang,California,,,male,8
