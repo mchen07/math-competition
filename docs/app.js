@@ -302,6 +302,17 @@
     if (gradeFilterEl) {
       var currentValue = gradeFilterEl.value;
       gradeFilterEl.innerHTML = "<option value=\"\">All grades</option>";
+
+      var hsOpt = document.createElement("option");
+      hsOpt.value = "__hs__";
+      hsOpt.textContent = "High School";
+      gradeFilterEl.appendChild(hsOpt);
+
+      var preHsOpt = document.createElement("option");
+      preHsOpt.value = "__prehs__";
+      preHsOpt.textContent = "Pre High School";
+      gradeFilterEl.appendChild(preHsOpt);
+
       for (var j = 0; j < gradeLabels.length; j++) {
         var opt = document.createElement("option");
         opt.value = gradeLabels[j];
@@ -328,7 +339,18 @@
       var wantLabel = gradeFilterEl.value;
       students = students.filter(function (s) {
         var lab = getGradeLabel(s.grade_in_2026);
-        return wantLabel === "__none__" ? lab === "" : lab === wantLabel;
+        if (wantLabel === "__none__") {
+          return lab === "";
+        }
+        if (wantLabel === "__hs__") {
+          var keyHs = gradeLabelSortKey(lab);
+          return keyHs >= 9 && keyHs <= 12;
+        }
+        if (wantLabel === "__prehs__") {
+          var keyPre = gradeLabelSortKey(lab);
+          return keyPre > 0 && keyPre < 9;
+        }
+        return lab === wantLabel;
       });
     }
     if (stateFilterEl && stateFilterEl.value && stateFilterEl.value !== "") {
