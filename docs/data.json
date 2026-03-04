@@ -36154,7 +36154,7 @@
           "year": "2023",
           "contest_slug": "mpfg",
           "student_name": "Angeline Zhao",
-          "state": "New York",
+          "state": "Massachusetts",
           "grade": "11th",
           "school": "Phillips Academy Andover",
           "place": "27",
@@ -59864,15 +59864,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        },
-        {
-          "contest": "MMATHS",
-          "year": "2024",
-          "contest_slug": "mmaths",
-          "student_name": "Andrew Kalashnikov",
-          "rank": "70",
-          "score": "8",
-          "team": "MathSchool 2"
         }
       ]
     },
@@ -77381,6 +77372,25 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
+        }
+      ]
+    },
+    {
+      "id": 2340,
+      "name": "Andrew Kalashnikov",
+      "aliases": [],
+      "state": "",
+      "gender": "male",
+      "grade_in_2026": null,
+      "records": [
+        {
+          "contest": "MMATHS",
+          "year": "2024",
+          "contest_slug": "mmaths",
+          "student_name": "Andrew Kalashnikov",
+          "rank": "70",
+          "score": "8",
+          "team": "MathSchool 2"
         }
       ]
     }
