@@ -61172,7 +61172,7 @@
     },
     {
       "id": 1532,
-      "name": "SIRUI WU",
+      "name": "Sirui Wu",
       "aliases": [
         "WU, SIRUI"
       ],
@@ -61184,15 +61184,23 @@
           "contest": "HMMT November — Theme",
           "year": "2025",
           "contest_slug": "hmmt-nov-theme",
-          "student_name": "SIRUI WU",
+          "student_name": "Sirui Wu",
           "rank": "41",
           "score": "21.03"
+        },
+        {
+          "contest": "HMMT November — General",
+          "year": "2025",
+          "contest_slug": "hmmt-nov-general",
+          "student_name": "Sirui Wu",
+          "rank": "30",
+          "score": "23.15"
         },
         {
           "contest": "HMMT November",
           "year": "2025",
           "contest_slug": "hmmt-nov",
-          "student_name": "SIRUI WU",
+          "student_name": "Sirui Wu",
           "rank": "27",
           "total_score": "44.19",
           "general_score": "23.15",
@@ -61928,37 +61936,6 @@
           "student_name": "Daniel Tian Wu",
           "rank": "29",
           "score": "24.28"
-        }
-      ]
-    },
-    {
-      "id": 1553,
-      "name": "SIRUI WU",
-      "aliases": [],
-      "state": "",
-      "gender": "male",
-      "grade_in_2026": null,
-      "records": [
-        {
-          "contest": "HMMT November — General",
-          "year": "2025",
-          "contest_slug": "hmmt-nov-general",
-          "student_name": "SIRUI WU",
-          "rank": "30",
-          "score": "23.15"
-        },
-        {
-          "contest": "PUMaC — Division B",
-          "year": "2023",
-          "contest_slug": "pumac-b",
-          "team_name": "Ward Melville Math Team",
-          "student_name": "Michael Retakh",
-          "division": "B",
-          "rank": "28",
-          "total_score": "2.521",
-          "finals_score": "9",
-          "test1": "6.694 (ALG)",
-          "test2": "2.409 (CMB)"
         }
       ]
     },
@@ -63683,6 +63660,19 @@
           "p6": "1",
           "p7": "0",
           "p8": "0"
+        },
+        {
+          "contest": "PUMaC — Division B",
+          "year": "2023",
+          "contest_slug": "pumac-b",
+          "team_name": "Ward Melville Math Team",
+          "student_name": "Michael Retakh",
+          "division": "B",
+          "rank": "28",
+          "total_score": "2.521",
+          "finals_score": "9",
+          "test1": "6.694 (ALG)",
+          "test2": "2.409 (CMB)"
         }
       ]
     },
