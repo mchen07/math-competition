@@ -15,6 +15,10 @@
   var gradeFilterEl = document.getElementById("grade-filter");
   var gradeFilterWrapEl = document.getElementById("grade-filter-wrap");
   var stateFilterEl = document.getElementById("state-filter");
+  var contestFilterWrapEl = document.getElementById("contest-filter-wrap");
+  var contestFilterEl = document.getElementById("contest-filter");
+  var contestFilterTriggerEl = document.getElementById("contest-filter-trigger");
+  var contestFilterSummaryEl = document.getElementById("contest-filter-summary");
 
   var US_STATES = [
     "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
@@ -28,6 +32,91 @@
   ];
   var US_STATES_SET = {};
   for (var i = 0; i < US_STATES.length; i++) US_STATES_SET[US_STATES[i]] = true;
+
+  var CONTEST_FILTER_CONFIG = {
+    all: function () { return true; },
+    usamo: function (slug) { return slug === "amo"; },
+    usajmo: function (slug) { return slug === "jmo"; },
+    imo: function (slug) { return slug.indexOf("imo") !== -1; },
+    rmm: function (slug) { return slug.indexOf("rmm") !== -1; },
+    "hmmt-feb": function (slug) { return slug.indexOf("hmmt-feb") === 0; },
+    "hmmt-nov": function (slug) { return slug.indexOf("hmmt-nov") === 0; },
+    "pumac-a": function (slug) {
+      if (slug.indexOf("pumac-b") === 0) return false;
+      return slug.indexOf("pumac") === 0;
+    },
+    "pumac-b": function (slug) { return slug.indexOf("pumac-b") === 0; },
+    mathcounts: function (slug) { return slug.indexOf("mathcounts") !== -1; },
+    cmimc: function (slug) { return slug.indexOf("cmimc") !== -1; },
+    arml: function (slug) { return slug.indexOf("arml") !== -1; },
+    dmm: function (slug) { return slug.indexOf("dmm") !== -1; },
+    cmm: function (slug) { return slug.indexOf("cmm") !== -1; },
+    mpfg: function (slug) { return slug === "mpfg"; },
+    "mpfg-olympiad": function (slug) { return slug.indexOf("mpfg-olympiad") !== -1; },
+    "bamo-8": function (slug) { return slug.indexOf("bamo-8") !== -1; },
+    "bamo-12": function (slug) { return slug.indexOf("bamo-12") !== -1; }
+  };
+
+  function getActiveContestFilterValues() {
+    if (!contestFilterEl) return [];
+    var inputs = contestFilterEl.querySelectorAll("input[type='checkbox']");
+    var selected = [];
+    for (var i = 0; i < inputs.length; i++) {
+      if (inputs[i].checked) selected.push(inputs[i].value);
+    }
+    if (!selected.length || selected.indexOf("all") !== -1) {
+      return ["all"];
+    }
+    return selected;
+  }
+
+  function updateContestFilterSummary() {
+    if (!contestFilterEl || !contestFilterSummaryEl) return;
+    var boxes = contestFilterEl.querySelectorAll("input[type='checkbox']");
+    var allBox = contestFilterEl.querySelector("input[type='checkbox'][value='all']");
+    var totalOptions = boxes.length - (allBox ? 1 : 0);
+    var selectedNonAll = [];
+
+    for (var i = 0; i < boxes.length; i++) {
+      var box = boxes[i];
+      if (box.value === "all") continue;
+      if (box.checked) {
+        var label = box.parentNode && box.parentNode.textContent
+          ? box.parentNode.textContent.trim()
+          : box.value;
+        selectedNonAll.push(label);
+      }
+    }
+
+    var text = "";
+    if (allBox && allBox.checked && selectedNonAll.length === totalOptions) {
+      text = "All selected";
+    } else if (selectedNonAll.length === 0) {
+      text = "All selected";
+    } else if (selectedNonAll.length === 1) {
+      text = selectedNonAll[0] + " selected";
+    } else {
+      text = String(selectedNonAll.length) + " contests selected";
+    }
+
+    contestFilterSummaryEl.textContent = text;
+  }
+
+  function recordMatchesContestFilter(record) {
+    if (!record) return false;
+    if (!contestFilterEl || !contestFilterWrapEl || contestFilterWrapEl.hidden) return true;
+    var slug = record.contest_slug || record.contest || "";
+    if (!slug) return false;
+    slug = String(slug).toLowerCase();
+    var selected = getActiveContestFilterValues();
+    if (!selected.length || selected.indexOf("all") !== -1) return true;
+    for (var i = 0; i < selected.length; i++) {
+      var key = selected[i];
+      var fn = CONTEST_FILTER_CONFIG[key];
+      if (typeof fn === "function" && fn(slug)) return true;
+    }
+    return false;
+  }
 
   function setLoading(busy) {
     loadingEl.setAttribute("aria-busy", busy ? "true" : "false");
@@ -164,7 +253,8 @@
   }
 
   function renderStudent(student, contestsMap) {
-    var records = student.records || [];
+    var records = (student.records || []).slice();
+    records = records.filter(recordMatchesContestFilter);
     var grouped = groupRecordsByContest(records);
     var bySlug = grouped.bySlug;
     var slugs = grouped.slugs;
@@ -364,19 +454,20 @@
       });
     }
 
-    var totalCountEl = document.getElementById("total-student-count");
-    if (totalCountEl) totalCountEl.textContent = String(students.length);
     var counts = [];
     if (students && students.length) {
       for (var i = 0; i < students.length; i++) {
         var student = students[i];
-        var records = student.records || [];
+        var records = (student.records || []).filter(recordMatchesContestFilter);
         var count = records.length;
         if (count > 0) {
           counts.push({ student: student, recordsCount: count });
         }
       }
     }
+
+    var totalCountEl = document.getElementById("total-student-count");
+    if (totalCountEl) totalCountEl.textContent = String(counts.length);
 
     if (!counts.length) {
       var emptyMsg = (girlsOnlyEl && girlsOnlyEl.checked)
@@ -460,13 +551,28 @@
     }
 
     var matched = data.students.filter(function (s) { return matchStudent(s, query); });
-    hintEl.textContent = matched.length === 0
-      ? "No students found."
-      : matched.length === 1
-        ? "1 student found."
-        : matched.length + " students found.";
 
-    if (matched.length === 0) {
+    var filteredByContest = matched.map(function (s) {
+      var copy = {};
+      for (var k in s) {
+        if (Object.prototype.hasOwnProperty.call(s, k) && k !== "records") {
+          copy[k] = s[k];
+        }
+      }
+      var recs = s.records || [];
+      copy.records = recs.filter(recordMatchesContestFilter);
+      return copy;
+    }).filter(function (s) {
+      return (s.records || []).length > 0;
+    });
+
+    hintEl.textContent = filteredByContest.length === 0
+      ? "No students found."
+      : filteredByContest.length === 1
+        ? "1 student found."
+        : filteredByContest.length + " students found.";
+
+    if (filteredByContest.length === 0) {
       emptyEl.hidden = false;
       if (topStudentsSectionEl) topStudentsSectionEl.hidden = false;
       return;
@@ -474,7 +580,7 @@
 
     if (topStudentsSectionEl) topStudentsSectionEl.hidden = true;
 
-    resultsEl.innerHTML = matched.map(function (s) { return renderStudent(s, data.contests || {}); }).join("");
+    resultsEl.innerHTML = filteredByContest.map(function (s) { return renderStudent(s, data.contests || {}); }).join("");
   }
 
   function keysForPdfDisplay(records, slug) {
@@ -636,6 +742,7 @@
         data.contest_order_map = orderMap;
         setLoading(false);
         renderContestList();
+        updateContestFilterSummary();
         renderTopStudentsByRecords();
         bindContestListPopover();
         runSearch();
@@ -675,6 +782,72 @@
   if (stateFilterEl) {
     stateFilterEl.addEventListener("change", function () {
       renderTopStudentsByRecords();
+    });
+  }
+
+  if (contestFilterTriggerEl && contestFilterWrapEl) {
+    (function () {
+      var popover = document.getElementById("contest-filter-popover");
+      if (!popover) return;
+      var closeBtn = popover.querySelector(".contest-filter-popover-close");
+      var backdrop = popover.querySelector(".contest-filter-popover-backdrop");
+
+      function openPopover() {
+        popover.hidden = false;
+        contestFilterTriggerEl.setAttribute("aria-expanded", "true");
+      }
+
+      function closePopover() {
+        popover.hidden = true;
+        contestFilterTriggerEl.setAttribute("aria-expanded", "false");
+      }
+
+      contestFilterTriggerEl.addEventListener("click", function () {
+        if (popover.hidden) openPopover(); else closePopover();
+      });
+      if (closeBtn) {
+        closeBtn.addEventListener("click", closePopover);
+      }
+      if (backdrop) {
+        backdrop.addEventListener("click", closePopover);
+      }
+    })();
+  }
+
+  if (contestFilterEl) {
+    contestFilterEl.addEventListener("change", function (event) {
+      var target = event.target;
+      if (!target || !target.type || target.type !== "checkbox") {
+        renderTopStudentsByRecords();
+        runSearch();
+        return;
+      }
+      var allBox = contestFilterEl.querySelector("input[type='checkbox'][value='all']");
+      var boxes = contestFilterEl.querySelectorAll("input[type='checkbox']");
+      if (target.value === "all") {
+        for (var i = 0; i < boxes.length; i++) {
+          if (boxes[i] !== allBox) {
+            boxes[i].checked = target.checked;
+          }
+        }
+      } else if (allBox) {
+        if (!target.checked) {
+          allBox.checked = false;
+        } else {
+          var allChecked = true;
+          for (var j = 0; j < boxes.length; j++) {
+            if (boxes[j] === allBox) continue;
+            if (!boxes[j].checked) {
+              allChecked = false;
+              break;
+            }
+          }
+          allBox.checked = allChecked;
+        }
+      }
+      updateContestFilterSummary();
+      renderTopStudentsByRecords();
+      runSearch();
     });
   }
 

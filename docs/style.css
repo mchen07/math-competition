@@ -197,6 +197,115 @@ body {
   text-decoration: underline;
 }
 
+/* Contest filter (top students controls) */
+.contest-filter-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.contest-filter-trigger {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.contest-filter-summary {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.contest-filter-trigger:hover {
+  border-color: var(--accent);
+  color: var(--accent-hover);
+}
+
+#contest-filter-popover[hidden] {
+  display: none !important;
+  pointer-events: none !important;
+}
+
+.contest-filter-popover {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.contest-filter-popover-backdrop {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.contest-filter-popover-inner {
+  position: relative;
+  z-index: 1;
+  max-width: 26rem;
+  width: 100%;
+  max-height: 75vh;
+  overflow-y: auto;
+  padding: 1.25rem 1.5rem 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  font-size: 0.9rem;
+}
+
+.contest-filter-popover-title {
+  margin: 0 2rem 0.75rem 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.contest-filter-popover-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: var(--text-muted);
+  background: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.contest-filter-popover-close:hover {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.contest-filter-options {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr));
+  gap: 0.4rem 1rem;
+}
+
+.contest-filter-option {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  color: var(--text);
+}
+
 /* Main */
 .main {
   max-width: 72rem;
@@ -205,7 +314,7 @@ body {
 }
 
 .search-wrap {
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.75rem;
 }
 
 .search-input-wrap {
@@ -279,6 +388,11 @@ body {
   color: var(--text-muted);
 }
 
+.contest-filter-row {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
 /* Export PDF (per-student button in card header) */
 .export-pdf-student-btn {
   display: inline-block;
@@ -344,7 +458,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0 1rem;
+  gap: 0.4rem 1rem;
 }
 
 .awards-ranking-controls .girls-only-label {
@@ -352,6 +466,44 @@ body {
   align-items: center;
   gap: 0.4rem;
   cursor: pointer;
+}
+
+.awards-ranking-controls .girls-only-label input[type="checkbox"],
+.contest-filter-option input[type="checkbox"] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  margin: 0;
+}
+
+.awards-ranking-controls .girls-only-label input[type="checkbox"]:focus-visible,
+.contest-filter-option input[type="checkbox"]:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.awards-ranking-controls .girls-only-label input[type="checkbox"]:checked,
+.contest-filter-option input[type="checkbox"]:checked {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.awards-ranking-controls .girls-only-label input[type="checkbox"]:checked::after,
+.contest-filter-option input[type="checkbox"]:checked::after {
+  content: "✓";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -55%);
+  font-size: 0.75rem;
+  color: var(--bg);
 }
 
 .awards-ranking-controls .grade-filter-label {

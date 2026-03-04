@@ -14,6 +14,108 @@
     <h1>Math Competition Records</h1>
     <p class="tagline">Search by student name to view competition history.</p>
     <button type="button" id="contest-list-trigger" class="contest-list-trigger" aria-expanded="false" aria-haspopup="true" aria-controls="contest-list-popover">Contests in this database</button>
+    <div class="contest-filter-row">
+      <span id="contest-filter-wrap" class="contest-filter-wrap">
+        <button
+          type="button"
+          id="contest-filter-trigger"
+          class="contest-filter-trigger"
+          aria-expanded="false"
+          aria-haspopup="true"
+          aria-controls="contest-filter-popover"
+        >
+          Contest filter
+        </button>
+        <span id="contest-filter-summary" class="contest-filter-summary">All selected</span>
+        <div
+          id="contest-filter-popover"
+          class="contest-filter-popover"
+          hidden
+          role="dialog"
+          aria-labelledby="contest-filter-popover-title"
+        >
+          <div class="contest-filter-popover-inner">
+            <h3 id="contest-filter-popover-title" class="contest-filter-popover-title">Filter by contest</h3>
+            <div id="contest-filter" class="contest-filter-options" aria-label="Filter by contest">
+              <label class="contest-filter-option">
+                <input type="checkbox" value="all" checked>
+                All
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="usamo">
+                USAMO
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="usajmo">
+                USAJMO
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="imo">
+                IMO
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="rmm">
+                RMM
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="hmmt-feb">
+                HMMT Feb
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="hmmt-nov">
+                HMMT Nov
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="pumac-a">
+                PUMaC Div A
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="pumac-b">
+                PUMaC Div B
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="mathcounts">
+                Mathcounts
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="cmimc">
+                CMIMC
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="arml">
+                ARML
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="dmm">
+                DMM
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="cmm">
+                CMM
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="mpfg">
+                MPFG
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="mpfg-olympiad">
+                MPFG Olympiad
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="bamo-8">
+                BAMO-8
+              </label>
+              <label class="contest-filter-option">
+                <input type="checkbox" value="bamo-12">
+                BAMO-12
+              </label>
+            </div>
+            <button type="button" class="contest-filter-popover-close" aria-label="Close">×</button>
+          </div>
+          <div class="contest-filter-popover-backdrop" aria-hidden="true"></div>
+        </div>
+      </span>
+    </div>
     <div id="contest-list-popover" class="contest-list-popover" hidden role="dialog" aria-labelledby="contest-list-popover-title">
       <div class="contest-list-popover-inner">
         <h2 id="contest-list-popover-title" class="contest-list-popover-title">Contests in this database</h2>
