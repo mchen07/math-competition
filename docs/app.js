@@ -558,6 +558,33 @@
         doc.text(contestTitle, margin, y);
         y += 6;
 
+        var contestDescription = (contestInfo && contestInfo.description) ? String(contestInfo.description) : "";
+        if (contestDescription) {
+          if (y > 260) {
+            doc.addPage();
+            y = margin;
+          }
+          doc.setFontSize(9);
+          doc.setTextColor(80, 80, 80);
+          var descLines = doc.splitTextToSize(contestDescription, 190 - margin * 2);
+          doc.text(descLines, margin, y);
+          doc.setTextColor(0, 0, 0);
+          y += (descLines.length * 4.5);
+        }
+
+        var contestWebsite = (contestInfo && contestInfo.website) ? String(contestInfo.website) : "";
+        if (contestWebsite) {
+          if (y > 270) {
+            doc.addPage();
+            y = margin;
+          }
+          doc.setFontSize(8);
+          doc.setTextColor(0, 0, 238);
+          doc.text(contestWebsite, margin, y);
+          doc.setTextColor(0, 0, 0);
+          y += 5;
+        }
+
         var headers = ["Year"].concat(keys.map(function (k) { return k.replace(/_/g, " "); }));
         var body = contestRecords.map(function (r) {
           var row = [r.year != null ? String(r.year) : ""];

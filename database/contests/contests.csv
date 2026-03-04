@@ -1,34 +1,39 @@
 folder_name,contest_name,description,website
 imo,IMO,International Mathematical Olympiad. Official results by country and year.,https://www.imo-official.org/
-rmm,RMM,Romanian Master of Mathematics — elite international olympiad-style competition held annually in Bucharest.,https://rmms.lbi.ro/
-amo,USAMO,USA Mathematical Olympiad. Top-tier national math olympiad for high school students.,https://maa.org/
-jmo,USAJMO,USA Junior Mathematical Olympiad. National math olympiad for younger high school students.,https://maa.org/
-hmmt-feb,HMMT February,"Annual February Harvard-MIT Mathematics Tournament. Overall individual scores from the Algebra, Geometry, and Combinatorics rounds. Difficulty: mid-AIME to olympiad. Nov vs Feb. https://www.hmmt.org/www/tournaments/novfeb. Student cannot attend both Nov and Feb in the same school year.",https://www.hmmt.org/
-hmmt-nov,HMMT November,"Annual November Harvard-MIT Mathematics Tournament. Overall individual scores from the General and Theme rounds. Difficulty: mid-AMC to upper-AIME. Nov vs Feb. https://www.hmmt.org/www/tournaments/novfeb. Student cannot attend both Nov and Feb in the same school year.",https://www.hmmt.org/
-hmmt-nov-general,HMMT November — General,General round (subject test) at the November HMMT.,https://www.hmmt.org/
-hmmt-nov-theme,HMMT November — Theme,Theme round (subject test) at the November HMMT.,https://www.hmmt.org/
-hmmt-feb-algebra-number-theory,HMMT February — Algebra & Number Theory,Algebra and Number Theory subject test at the February HMMT.,https://www.hmmt.org/
-hmmt-feb-geometry,HMMT February — Geometry,Geometry subject test at the February HMMT.,https://www.hmmt.org/
-hmmt-feb-combo,HMMT February — Combinatorics,Combinatorics subject test at the February HMMT.,https://www.hmmt.org/
-pumac,PUMaC,"Princeton University Mathematics Competition. Annual team and individual contest run by the Princeton University Math Club.",https://pumac.princeton.edu/
-pumac-algebra,PUMaC — Algebra,Algebra subject test at PUMaC.,https://pumac.princeton.edu/
-pumac-combinator,PUMaC — Combinatorics,Combinatorics subject test at PUMaC.,https://pumac.princeton.edu/
-pumac-geometry,PUMaC — Geometry,Geometry subject test at PUMaC.,https://pumac.princeton.edu/
-pumac-number-theory,PUMaC — Number Theory,Number Theory subject test at PUMaC.,https://pumac.princeton.edu/
+rmm,RMM,Romanian Master of Mathematics — elite international olympiad held annually in Bucharest.,https://rmms.lbi.ro/
+amo,USAMO,USA Mathematical Olympiad. Top-tier national olympiad for high school students.,https://maa.org/
+jmo,USAJMO,USA Junior Mathematical Olympiad. National olympiad for students in grade 10 or below.,https://maa.org/
+hmmt-feb,HMMT February,"February Harvard-MIT Mathematics Tournament. Individual scores from Algebra, Geometry, and Combinatorics rounds. Difficulty: mid-AIME to olympiad. Students may not attend both November and February in the same school year.",https://www.hmmt.org/
+hmmt-nov,HMMT November,November Harvard-MIT Mathematics Tournament. Individual scores from General and Theme rounds. Difficulty: mid-AMC to upper-AIME. Students may not attend both November and February in the same school year.,https://www.hmmt.org/
+hmmt-nov-general,HMMT November — General,General round subject test at November HMMT.,https://www.hmmt.org/
+hmmt-nov-theme,HMMT November — Theme,Theme round subject test at November HMMT.,https://www.hmmt.org/
+hmmt-feb-algebra-number-theory,HMMT February — Algebra & Number Theory,Algebra and Number Theory subject test at February HMMT.,https://www.hmmt.org/
+hmmt-feb-geometry,HMMT February — Geometry,Geometry subject test at February HMMT.,https://www.hmmt.org/
+hmmt-feb-combo,HMMT February — Combinatorics,Combinatorics subject test at February HMMT.,https://www.hmmt.org/
+pumac,PUMaC — Division A,"Princeton University Mathematics Competition, Division A. Annual team and individual contest.",https://pumac.princeton.edu/
+pumac-b,PUMaC — Division B,"Princeton University Mathematics Competition, Division B. Annual team and individual contest.",https://pumac.princeton.edu/
+pumac-algebra,PUMaC — Division A Algebra,Algebra subject test (Division A) at PUMaC.,https://pumac.princeton.edu/
+pumac-b-algebra,PUMaC — Division B Algebra,Algebra subject test (Division B) at PUMaC.,https://pumac.princeton.edu/
+pumac-combinator,PUMaC — Division A Combinatorics,Combinatorics subject test (Division A) at PUMaC.,https://pumac.princeton.edu/
+pumac-geometry,PUMaC — Division A Geometry,Geometry subject test (Division A) at PUMaC.,https://pumac.princeton.edu/
+pumac-b-geometry,PUMaC — Division B Geometry,Geometry subject test (Division B) at PUMaC.,https://pumac.princeton.edu/
+pumac-number-theory,PUMaC — Division A Number Theory,Number Theory subject test (Division A) at PUMaC.,https://pumac.princeton.edu/
+pumac-b-combinator,PUMaC — Division B Combinatorics,Combinatorics subject test (Division B) at PUMaC.,https://pumac.princeton.edu/
+pumac-b-number-theory,PUMaC — Division B Number Theory,Number Theory subject test (Division B) at PUMaC.,https://pumac.princeton.edu/
 mathcounts-national-rank,MATHCOUNTS National — Rankings,National-level rankings for the MATHCOUNTS competition series.,https://www.mathcounts.org/
-cmimc,CMIMC,"Carnegie Mellon Informatics and Mathematics Competition. Annual math contest at CMU with individual and team rounds.",https://cmimc.math.cmu.edu/math
-cmimc-algebra,CMIMC - Algebra and Number Theory,Algebra and Number Theory subject test at CMIMC.,https://cmimc.math.cmu.edu/math
-cmimc-comb,CMIMC - Combinatorics and Computer Science,Combinatorics and Computer Science subject test at CMIMC.,https://cmimc.math.cmu.edu/math
-cmimc-geometry,CMIMC - Geometry,Geometry subject test at CMIMC.,https://cmimc.math.cmu.edu/math
-arml,ARML,American Regions Mathematics League.,https://arml3.com/
-dmm,DMM,Duke Math Meet - Annual mathematics competition hosted by Duke University. Individual and team rounds.,https://dukemathmeet.org/
-cmm,CMM,Caltech Math Meet - Annual mathematics competition hosted by Caltech. Individual rankings.,https://www.caltechmathmeet.org/
-mpfg,MPFG,Math Prize for Girls - Annual competition at MIT by Advantage Testing Foundation. Top female high school mathematicians.,https://mathprize.atfoundation.org/
-mmaths,MMATHS,Math Majors of America Tournament for High Schools. Team-based competition hosted at multiple university campuses, run by undergraduate math students.,https://www.mmaths.org/mmaths
-bmt,BMT,Berkeley Math Tournament. Annual mathematics competition at UC Berkeley with individual and team rounds.,https://bmt.berkeley.edu/
+cmimc,CMIMC,Carnegie Mellon Informatics and Mathematics Competition. Annual contest at CMU with individual and team rounds.,https://cmimc.math.cmu.edu/math
+cmimc-algebra,CMIMC — Algebra and Number Theory,Algebra and Number Theory subject test at CMIMC.,https://cmimc.math.cmu.edu/math
+cmimc-comb,CMIMC — Combinatorics and Computer Science,Combinatorics and Computer Science subject test at CMIMC.,https://cmimc.math.cmu.edu/math
+cmimc-geometry,CMIMC — Geometry,Geometry subject test at CMIMC.,https://cmimc.math.cmu.edu/math
+arml,ARML,American Regions Mathematics League. Regional team competition with power and individual rounds.,https://arml3.com/
+dmm,DMM,Duke Math Meet. Annual mathematics competition at Duke University with individual and team rounds.,https://dukemathmeet.org/
+cmm,CMM,Caltech Math Meet. Annual mathematics competition at Caltech with individual rankings.,https://www.caltechmathmeet.org/
+mpfg,MPFG,Math Prize for Girls. Annual competition at MIT by Advantage Testing Foundation for top female high school mathematicians.,https://mathprize.atfoundation.org/
+mmaths,MMATHS,"Math Majors of America Tournament for High Schools. Team-based contest at multiple university sites, run by undergraduate math students.",https://www.mmaths.org/mmaths
+bmt,BMT,Berkeley Math Tournament. Annual competition at UC Berkeley with individual and team rounds.,https://bmt.berkeley.edu/
 bmt-algebra,BMT — Algebra,Algebra subject test at the Berkeley Math Tournament.,https://bmt.berkeley.edu/
 bmt-calculus,BMT — Calculus,Calculus subject test at the Berkeley Math Tournament.,https://bmt.berkeley.edu/
 bmt-discrete,BMT — Discrete,Discrete mathematics subject test at the Berkeley Math Tournament.,https://bmt.berkeley.edu/
 bmt-geometry,BMT — Geometry,Geometry subject test at the Berkeley Math Tournament.,https://bmt.berkeley.edu/
-bamo-8,BAMO-8,Bay Area Mathematical Olympiad - Middle School Division. Annual proof contest for middle and high school students in the Bay Area. ,https://www.bamo.org/
-bamo-12,BAMO-12,Bay Area Mathematical Olympiad - High School Division. Annual proof contest for middle and high school students in the Bay Area. ,https://www.bamo.org/
+bamo-8,BAMO-8,"Bay Area Mathematical Olympiad, middle school division. Annual proof-based contest for students in the Bay Area.",https://www.bamo.org/
+bamo-12,BAMO-12,"Bay Area Mathematical Olympiad, high school division. Annual proof-based contest for students in the Bay Area.",https://www.bamo.org/

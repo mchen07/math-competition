@@ -7,7 +7,7 @@ student_id,student_name,year,rank,total_score,general_score,theme_score
 1600,Peter Wang,2024,6,62.62,36.3,26.32
 575,Pratham Mukewar,2024,7,62.6,36.08,26.51
 1601,Dongyoon Shin,2024,8,62.48,36.3,26.17
-1602,Eric P Zhu,2024,9,61.4,37.16,24.24
+210,Eric P Zhu,2024,9,61.4,37.16,24.24
 1005,Anji Wang,2024,10,61.19,30.59,30.59
 1603,Xingguo Ding,2024,11,56.36,29.73,26.63
 809,Advait Joshi,2024,12,54.98,24.24,30.73
@@ -38,7 +38,7 @@ student_id,student_name,year,rank,total_score,general_score,theme_score
 1614,Sirawit Pipittanaban,2024,37,49.04,22.47,26.57
 1615,Gong Cheng,2024,38,49.03,29.73,19.3
 392,Justin Guo,2024,39,48.56,24.32,24.24
-1616,Christopher Lu,2024,40,48.49,24.24,24.24
+297,Christopher Lu,2024,40,48.49,24.24,24.24
 1078,Jason Lian,2024,41,47.62,23.38,24.24
 1617,Michael Retakh,2024,42,47.57,30.67,16.91
 1618,Brayden Choi,2024,43,47.37,24.24,23.12

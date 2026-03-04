@@ -1,5 +1,5 @@
 student_id,student_name,year,rank,score
-1602,Eric P Zhu,2024,1,37.16
+210,Eric P Zhu,2024,1,37.16
 1600,Peter Wang,2024,2,36.3
 1601,Dongyoon Shin,2024,2,36.3
 575,Pratham Mukewar,2024,4,36.08
@@ -50,6 +50,6 @@ student_id,student_name,year,rank,score
 392,Justin Guo,2024,45,24.32
 1632,Eric Zang,2024,45,24.32
 794,Zizhan Wang,2024,45,24.32
-1522,Brandon Ni,2024,45,24.32
+811,Brandon Ni,2024,45,24.32
 545,Matthew Qian,2024,45,24.32
 1633,William Du,2024,45,24.32
