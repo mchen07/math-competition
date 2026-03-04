@@ -16694,7 +16694,9 @@
     {
       "id": 144,
       "name": "Huaye Lin",
-      "aliases": [],
+      "aliases": [
+        "Jeff Lin"
+      ],
       "state": "Massachusetts",
       "gender": "male",
       "grade_in_2026": "15",
@@ -16755,12 +16757,64 @@
           "combinatorics_score": "33.59"
         },
         {
+          "contest": "CMIMC — Combinatorics and Computer Science",
+          "year": "2023",
+          "contest_slug": "cmimc-comb",
+          "student_name": "Jeff Lin",
+          "rank": "8",
+          "score": "32.59"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
           "student_name": "Huaye Lin",
           "state": "Massachusetts",
           "award": "Gold"
+        },
+        {
+          "contest": "PUMaC — Division A Combinatorics",
+          "year": "2022",
+          "contest_slug": "pumac-combinator",
+          "student_name": "Jeff Lin",
+          "division": "A",
+          "rank": "18",
+          "score": "6.988",
+          "p1": "1",
+          "p2": "1",
+          "p3": "1",
+          "p4": "0",
+          "p5": "0",
+          "p6": "1",
+          "p7": "0",
+          "p8": "0"
+        },
+        {
+          "contest": "PUMaC — Division A Algebra",
+          "year": "2022",
+          "contest_slug": "pumac-algebra",
+          "student_name": "Jeff Lin",
+          "division": "A",
+          "rank": "9",
+          "score": "9.798",
+          "p1": "1",
+          "p2": "0",
+          "p3": "0",
+          "p4": "1",
+          "p5": "1",
+          "p6": "1",
+          "p7": "0",
+          "p8": "0"
+        },
+        {
+          "contest": "PUMaC — Division A",
+          "year": "2022",
+          "contest_slug": "pumac",
+          "student_name": "Jeff Lin",
+          "division": "A",
+          "rank": "13",
+          "total_score": "3.09",
+          "finals_score": "15"
         },
         {
           "contest": "HMMT February — Combinatorics",
@@ -16788,6 +16842,16 @@
           "algebra_score": "20.82",
           "geometry_score": "29.32",
           "combinatorics_score": "15.6"
+        },
+        {
+          "contest": "ARML",
+          "year": "2022",
+          "contest_slug": "arml",
+          "student_name": "Jeff Lin",
+          "place": "8",
+          "team": "Lexington A1",
+          "ind_score": "9",
+          "prize": "$500"
         }
       ]
     },
@@ -41223,78 +41287,6 @@
           "student_name": "Benjamin Chen",
           "rank": "14",
           "score": "20.82"
-        }
-      ]
-    },
-    {
-      "id": 883,
-      "name": "Jeff Lin",
-      "aliases": [],
-      "state": "",
-      "gender": "male",
-      "grade_in_2026": null,
-      "records": [
-        {
-          "contest": "CMIMC — Combinatorics and Computer Science",
-          "year": "2023",
-          "contest_slug": "cmimc-comb",
-          "student_name": "Jeff Lin",
-          "rank": "8",
-          "score": "32.59"
-        },
-        {
-          "contest": "PUMaC — Division A Combinatorics",
-          "year": "2022",
-          "contest_slug": "pumac-combinator",
-          "student_name": "Jeff Lin",
-          "division": "A",
-          "rank": "18",
-          "score": "6.988",
-          "p1": "1",
-          "p2": "1",
-          "p3": "1",
-          "p4": "0",
-          "p5": "0",
-          "p6": "1",
-          "p7": "0",
-          "p8": "0"
-        },
-        {
-          "contest": "PUMaC — Division A Algebra",
-          "year": "2022",
-          "contest_slug": "pumac-algebra",
-          "student_name": "Jeff Lin",
-          "division": "A",
-          "rank": "9",
-          "score": "9.798",
-          "p1": "1",
-          "p2": "0",
-          "p3": "0",
-          "p4": "1",
-          "p5": "1",
-          "p6": "1",
-          "p7": "0",
-          "p8": "0"
-        },
-        {
-          "contest": "PUMaC — Division A",
-          "year": "2022",
-          "contest_slug": "pumac",
-          "student_name": "Jeff Lin",
-          "division": "A",
-          "rank": "13",
-          "total_score": "3.09",
-          "finals_score": "15"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Jeff Lin",
-          "place": "8",
-          "team": "Lexington A1",
-          "ind_score": "9",
-          "prize": "$500"
         }
       ]
     },

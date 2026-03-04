@@ -128,7 +128,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 141,Amol Rama,California,60|74,,male,
 142,Alan Bu,New Hampshire,63,,male,14
 143,Ethan Liu,California,24,,male,15
-144,Huaye Lin,Massachusetts,26,,male,15
+144,Huaye Lin,Massachusetts,26,Jeff Lin,male,15
 145,Alex Li,,19,,male,
 147,Zachary Jacob Perry,,26,,male,
 148,Alan Vladimiroff,Virginia,10,,male,15
@@ -843,7 +843,6 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 879,Andy Xu,,14,,male,
 881,Yichen Cedric Xiao,,42,,male,
 882,Benjamin Chen,Illinois,241,,male,
-883,Jeff Lin,,26,,male,
 884,Shihan Kanungo,California,,,male,
 885,Aarush Vailaya,California,,,male,
 886,Warren Bei,"British Columbia, Canada",,,male,13
