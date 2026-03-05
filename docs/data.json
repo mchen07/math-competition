@@ -55059,6 +55059,14 @@
           "place": "18",
           "score": "11",
           "prize": "$800"
+        },
+        {
+          "contest": "HMMT November — Theme",
+          "year": "2025",
+          "contest_slug": "hmmt-nov-theme",
+          "student_name": "Sophie Zhang",
+          "rank": "19",
+          "score": "24.24"
         }
       ]
     },
@@ -62581,24 +62589,6 @@
           "year": "2025",
           "contest_slug": "hmmt-nov-theme",
           "student_name": "Larry Lee",
-          "rank": "19",
-          "score": "24.24"
-        }
-      ]
-    },
-    {
-      "id": 1585,
-      "name": "Sophie Zhang",
-      "aliases": [],
-      "state": "California",
-      "gender": "female",
-      "grade_in_2026": "12",
-      "records": [
-        {
-          "contest": "HMMT November — Theme",
-          "year": "2025",
-          "contest_slug": "hmmt-nov-theme",
-          "student_name": "Sophie Zhang",
           "rank": "19",
           "score": "24.24"
         }
