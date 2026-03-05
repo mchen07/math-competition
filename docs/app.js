@@ -39,6 +39,7 @@
     usajmo: function (slug) { return slug === "jmo"; },
     imo: function (slug) { return slug.indexOf("imo") !== -1; },
     rmm: function (slug) { return slug.indexOf("rmm") !== -1; },
+    egmo: function (slug) { return slug.indexOf("egmo") !== -1; },
     "hmmt-feb": function (slug) { return slug.indexOf("hmmt-feb") === 0; },
     "hmmt-nov": function (slug) { return slug.indexOf("hmmt-nov") === 0; },
     "pumac-a": function (slug) {

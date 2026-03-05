@@ -145,7 +145,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Alexander Wang",
-          "place": "36",
+          "rank": "36",
           "site": "P",
           "team": "Lehigh Valley A1"
         },
@@ -243,9 +243,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Alexander Wang",
-          "place": "1",
+          "rank": "1",
           "team": "Lehigh Valley A",
-          "ind_score": "10",
+          "score": "10",
           "prize": "$1,500"
         },
         {
@@ -452,11 +452,12 @@
           "combinatorics_score": "21.89"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Alexander Wang",
-          "team_name": "Lehigh Valley A1",
+          "site": "offsite",
+          "team": "Lehigh Valley A1",
           "rank": "4",
           "score": "8",
           "prize": "$750"
@@ -739,7 +740,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Oron Wang",
-          "place": "26",
+          "rank": "26",
           "site": "S",
           "team": "PEA Lions A1"
         },
@@ -827,9 +828,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Oron Wang",
-          "place": "7",
+          "rank": "7",
           "team": "Phillips Exeter Academy Red A1",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$750"
         },
         {
@@ -1089,7 +1090,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Liam Reddy",
-          "place": "23",
+          "rank": "23",
           "site": "N",
           "team": "Utah B1"
         },
@@ -1125,9 +1126,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Liam Reddy",
-          "place": "24",
+          "rank": "24",
           "team": "Utah B1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAMO",
@@ -1147,6 +1148,16 @@
           "grade": "8"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Liam Reddy",
+          "rank": "6",
+          "team": "Utah B1",
+          "score": "9",
+          "prize": "$500"
+        },
+        {
           "contest": "MATHCOUNTS National — Rankings",
           "year": "2022",
           "contest_slug": "mathcounts-national-rank",
@@ -1154,16 +1165,6 @@
           "state": "Utah",
           "rank": "Q (Quarter-finalist)",
           "grade": "7"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Liam Reddy",
-          "place": "6",
-          "team": "Utah B1",
-          "ind_score": "9",
-          "prize": "$500"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -1576,7 +1577,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Vincent Wang",
-          "place": "30",
+          "rank": "30",
           "site": "I",
           "team": "Texas A1"
         },
@@ -1954,7 +1955,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Ruilin Wang",
-          "place": "35",
+          "rank": "35",
           "site": "P",
           "team": "TJHSST A1"
         },
@@ -2034,9 +2035,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Ruilin Wang",
-          "place": "9",
+          "rank": "9",
           "team": "TJHSST A1",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$750"
         },
         {
@@ -2548,7 +2549,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Michael Zhao",
-          "place": "45",
+          "rank": "45",
           "site": "I",
           "team": "Texas A1"
         },
@@ -2581,9 +2582,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Michael Zhao",
-          "place": "10",
+          "rank": "10",
           "team": "Texas A",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$750"
         },
         {
@@ -2724,7 +2725,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Nathan Liu",
-          "place": "2",
+          "rank": "2",
           "site": "I",
           "team": "Texas A1",
           "prize": "$1,250"
@@ -2906,7 +2907,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "James Stewart",
-          "place": "5",
+          "rank": "5",
           "site": "I",
           "team": "Texas A2",
           "prize": "$1,000"
@@ -2980,7 +2981,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Dylan Wang",
-          "place": "51",
+          "rank": "51",
           "site": "N",
           "team": "SFBA/NorCal A2"
         },
@@ -3148,9 +3149,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Vihaan Gupta",
-          "place": "26",
+          "rank": "26",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8"
+          "score": "8"
         }
       ]
     },
@@ -3441,7 +3442,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Ian Rui",
-          "place": "46",
+          "rank": "46",
           "site": "N",
           "team": "Washington A1"
         },
@@ -3549,9 +3550,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Jeffrey Yin",
-          "place": "13",
+          "rank": "13",
           "team": "Northern Virginia / Fairfax B1",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$500"
         },
         {
@@ -3953,9 +3954,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Rohan Garg",
-          "place": "31",
+          "rank": "31",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAJMO",
@@ -4123,7 +4124,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Benny Wang",
-          "place": "49",
+          "rank": "49",
           "site": "S",
           "team": "PEA Lions A1"
         },
@@ -4896,11 +4897,12 @@
           "grade": "7"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Benjamin Jiang",
-          "team_name": "Pine Views B1",
+          "site": "offsite",
+          "team": "Pine Views B1",
           "rank": "20",
           "score": "8"
         }
@@ -5197,9 +5199,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Jiahe Liu",
-          "place": "2",
+          "rank": "2",
           "team": "Ohio B",
-          "ind_score": "10",
+          "score": "10",
           "prize": "$1,250"
         },
         {
@@ -5732,7 +5734,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Andy Lu",
-          "place": "3",
+          "rank": "3",
           "site": "N",
           "team": "SFBA/NorCal A1",
           "prize": "$1,250"
@@ -6078,7 +6080,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Eddy Zhang",
-          "place": "14",
+          "rank": "14",
           "site": "P",
           "team": "Lehigh Valley A1",
           "prize": "$500"
@@ -6187,7 +6189,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Benjamin Song",
-          "place": "47",
+          "rank": "47",
           "site": "P",
           "team": "Upstate New York B1"
         },
@@ -6908,7 +6910,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Varun Gadi",
-          "place": "8",
+          "rank": "8",
           "site": "W",
           "team": "Georgia A1",
           "prize": "$750"
@@ -6926,9 +6928,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Varun Gadi",
-          "place": "18",
+          "rank": "18",
           "team": "Georgia A1",
-          "ind_score": "8",
+          "score": "8",
           "prize": "$500"
         },
         {
@@ -7541,7 +7543,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Channing Yang",
-          "place": "18",
+          "rank": "18",
           "site": "I",
           "team": "Texas A1",
           "prize": "$500"
@@ -7644,6 +7646,15 @@
           "grade": "7"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Channing Yang",
+          "rank": "11",
+          "team": "Texas A1",
+          "score": "8"
+        },
+        {
           "contest": "USAJMO",
           "year": "2022",
           "contest_slug": "jmo",
@@ -7676,15 +7687,6 @@
           "total_score": "49.18",
           "general_score": "28.31",
           "theme_score": "20.87"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Channing Yang",
-          "place": "11",
-          "team": "Texas A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -7744,7 +7746,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Christopher Qiu",
-          "place": "1",
+          "rank": "1",
           "site": "P",
           "team": "Central Jersey A1",
           "prize": "$1,500"
@@ -7779,9 +7781,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Christopher Qiu",
-          "place": "12",
+          "rank": "12",
           "team": "Central Jersey A1",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$500"
         },
         {
@@ -7866,11 +7868,12 @@
           "combinatorics_score": "27.17"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Christopher Qiu",
-          "team_name": "Lehigh Valley A1",
+          "site": "offsite",
+          "team": "Lehigh Valley A1",
           "rank": "1",
           "score": "10",
           "prize": "$1,500"
@@ -7923,6 +7926,22 @@
           "combinatorics_score": "19.96"
         },
         {
+          "contest": "EGMO",
+          "year": "2025",
+          "contest_slug": "egmo",
+          "student_name": "Hannah Fox",
+          "award": "Gold Medal",
+          "rank": "9",
+          "us_rank": "2",
+          "P1": "7",
+          "P2": "7",
+          "P3": "7",
+          "P4": "5",
+          "P5": "5",
+          "P6": "1",
+          "total": "32"
+        },
+        {
           "contest": "BAMO-12",
           "year": "2025",
           "contest_slug": "bamo-12",
@@ -7936,7 +7955,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Hannah Fox",
-          "place": "33",
+          "rank": "33",
           "site": "N",
           "team": "SFBA/NorCal A1"
         },
@@ -7979,6 +7998,22 @@
           "place": "8",
           "score": "14",
           "prize": "$1000"
+        },
+        {
+          "contest": "EGMO",
+          "year": "2024",
+          "contest_slug": "egmo",
+          "student_name": "Hannah Fox",
+          "award": "Gold Medal",
+          "rank": "1",
+          "us_rank": "1",
+          "P1": "7",
+          "P2": "7",
+          "P3": "7",
+          "P4": "7",
+          "P5": "7",
+          "P6": "6",
+          "total": "41"
         },
         {
           "contest": "BAMO-12",
@@ -9282,9 +9317,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Kevin Liu",
-          "place": "39",
+          "rank": "39",
           "team": "Western PA B1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAJMO",
@@ -9312,11 +9347,12 @@
           "grade": "8"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Kevin Liu",
-          "team_name": "Florida A1",
+          "site": "offsite",
+          "team": "Florida A1",
           "rank": "3",
           "score": "9",
           "prize": "$1,000"
@@ -9568,7 +9604,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Kiran Reddy",
-          "place": "50",
+          "rank": "50",
           "site": "N",
           "team": "Utah B1"
         },
@@ -9968,9 +10004,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Lerchen Zhong",
-          "place": "28",
+          "rank": "28",
           "team": "Texas A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAMO",
@@ -10036,6 +10072,22 @@
           "combinatorics_score": "32.8"
         },
         {
+          "contest": "EGMO",
+          "year": "2025",
+          "contest_slug": "egmo",
+          "student_name": "Angela Liu",
+          "award": "Gold Medal",
+          "rank": "7",
+          "us_rank": "1",
+          "P1": "7",
+          "P2": "7",
+          "P3": "6",
+          "P4": "7",
+          "P5": "7",
+          "P6": "0",
+          "total": "34"
+        },
+        {
           "contest": "USAMO",
           "year": "2024",
           "contest_slug": "amo",
@@ -10091,6 +10143,22 @@
           "algebra_score": "19.82",
           "geometry_score": "25.17",
           "combinatorics_score": "20.82"
+        },
+        {
+          "contest": "EGMO",
+          "year": "2024",
+          "contest_slug": "egmo",
+          "student_name": "Angela Liu",
+          "award": "Gold Medal",
+          "rank": "6",
+          "us_rank": "3",
+          "P1": "7",
+          "P2": "7",
+          "P3": "7",
+          "P4": "7",
+          "P5": "7",
+          "P6": "1",
+          "total": "36"
         },
         {
           "contest": "USAJMO",
@@ -10166,6 +10234,15 @@
           "rank": "Honorable Mention"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Angela Liu",
+          "rank": "29",
+          "team": "SFBA/NorCal A1",
+          "score": "8"
+        },
+        {
           "contest": "MPFG Olympiad",
           "year": "2022",
           "contest_slug": "mpfg-olympiad",
@@ -10205,15 +10282,6 @@
           "algebra_score": "16.6",
           "geometry_score": "15.54",
           "combinatorics_score": "21.95"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Angela Liu",
-          "place": "29",
-          "team": "SFBA/NorCal A1",
-          "ind_score": "8"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -10258,7 +10326,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Edward Li",
-          "place": "20 (tie)",
+          "rank": "20 (tie)",
           "site": "I",
           "team": "Iowa",
           "prize": "$500"
@@ -10676,7 +10744,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Vikram Sarkar",
-          "place": "39",
+          "rank": "39",
           "site": "S",
           "team": "Connecticut A1"
         },
@@ -11025,9 +11093,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Jordan Lefkowitz",
-          "place": "8",
+          "rank": "8",
           "team": "Connecticut A1",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$750"
         },
         {
@@ -11159,11 +11227,12 @@
           "finals_score": "13"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Jordan Lefkowitz",
-          "team_name": "Connecticut B1",
+          "site": "offsite",
+          "team": "Connecticut B1",
           "rank": "10",
           "score": "8",
           "prize": "$500"
@@ -11243,9 +11312,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Rohan Das",
-          "place": "4",
+          "rank": "4",
           "team": "SFBA/NorCal A1",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$1,000"
         },
         {
@@ -11263,6 +11332,15 @@
           "student_name": "Rohan Das",
           "school": "Basis Independent Silicon Valley",
           "rank": "Honorable Mention"
+        },
+        {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Rohan Das",
+          "rank": "31",
+          "team": "SFBA/NorCal A1",
+          "score": "8"
         },
         {
           "contest": "USAJMO",
@@ -11288,15 +11366,6 @@
           "school": "Basis Independent Silicon Valley",
           "rank": "3",
           "score": "34"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Rohan Das",
-          "place": "31",
-          "team": "SFBA/NorCal A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -11420,9 +11489,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Andrew Lin",
-          "place": "6",
+          "rank": "6",
           "team": "Lehigh Valley A",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$1,000"
         },
         {
@@ -11557,11 +11626,12 @@
           "combinatorics_score": "16.67"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Andrew Lin",
-          "team_name": "Lehigh Valley A1",
+          "site": "offsite",
+          "team": "Lehigh Valley A1",
           "rank": "5",
           "score": "8",
           "prize": "$500"
@@ -11633,9 +11703,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Marvin Mao",
-          "place": "37",
+          "rank": "37",
           "team": "Bergen County Academies A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAMO",
@@ -11865,6 +11935,22 @@
           "combinatorics_score": "17.77"
         },
         {
+          "contest": "EGMO",
+          "year": "2024",
+          "contest_slug": "egmo",
+          "student_name": "Jessica Wan",
+          "award": "Gold Medal",
+          "rank": "2",
+          "us_rank": "2",
+          "P1": "7",
+          "P2": "7",
+          "P3": "7",
+          "P4": "7",
+          "P5": "7",
+          "P6": "3",
+          "total": "38"
+        },
+        {
           "contest": "USAMO",
           "year": "2023",
           "contest_slug": "amo",
@@ -11922,6 +12008,22 @@
           "combinatorics_score": "40.21"
         },
         {
+          "contest": "EGMO",
+          "year": "2023",
+          "contest_slug": "egmo",
+          "student_name": "Jessica Wan",
+          "award": "Gold Medal",
+          "rank": "1",
+          "us_rank": "2",
+          "P1": "7",
+          "P2": "7",
+          "P3": "7",
+          "P4": "7",
+          "P5": "7",
+          "P6": "7",
+          "total": "42"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
@@ -11977,6 +12079,22 @@
           "algebra_score": "28.17",
           "geometry_score": "11.32",
           "combinatorics_score": "21.95"
+        },
+        {
+          "contest": "EGMO",
+          "year": "2022",
+          "contest_slug": "egmo",
+          "student_name": "Jessica Wan",
+          "award": "Gold Medal",
+          "rank": "1",
+          "us_rank": "1",
+          "P1": "7",
+          "P2": "7",
+          "P3": "7",
+          "P4": "7",
+          "P5": "7",
+          "P6": "7",
+          "total": "42"
         }
       ]
     },
@@ -12359,11 +12477,12 @@
           "theme_score": "33.31"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Qiao Zhang",
-          "team_name": "SoCal ARML A1",
+          "site": "offsite",
+          "team": "SoCal ARML A1",
           "rank": "2",
           "score": "9",
           "prize": "$1,250"
@@ -12598,9 +12717,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Elliott Liu",
-          "place": "33",
+          "rank": "33",
           "team": "San Diego A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAMO",
@@ -12711,7 +12830,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Rohan Bodke",
-          "place": "4",
+          "rank": "4",
           "site": "N",
           "team": "SFBA/NorCal A1",
           "prize": "$1,000"
@@ -12760,21 +12879,21 @@
           "award": "Bronze"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Rohan Bodke",
+          "rank": "20",
+          "team": "SFBA/NorCal A1",
+          "score": "8"
+        },
+        {
           "contest": "USAJMO",
           "year": "2022",
           "contest_slug": "jmo",
           "student_name": "Rohan Bodke",
           "state": "California",
           "award": "Honors"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Rohan Bodke",
-          "place": "20",
-          "team": "SFBA/NorCal A1",
-          "ind_score": "8"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -12901,9 +13020,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Andrew Li",
-          "place": "23",
+          "rank": "23",
           "team": "NYC A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "PUMaC — Division A Number Theory",
@@ -13471,9 +13590,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Wilbert Chu",
-          "place": "16",
+          "rank": "16",
           "team": "Chicago A1",
-          "ind_score": "8",
+          "score": "8",
           "prize": "$500"
         },
         {
@@ -14029,9 +14148,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Justin Zhang",
-          "place": "43",
+          "rank": "43",
           "team": "San Diego A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "HMMT February — Geometry",
@@ -14363,11 +14482,12 @@
           "score": "20.82"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Jason Zhang",
-          "team_name": "Michigan All Stars A1",
+          "site": "offsite",
+          "team": "Michigan All Stars A1",
           "rank": "15",
           "score": "8"
         }
@@ -14675,9 +14795,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Vivian Loh",
-          "place": "35",
+          "rank": "35",
           "team": "Western PA B",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAMO",
@@ -14752,6 +14872,22 @@
           "place": "27",
           "score": "8",
           "prize": "Honorable Mention"
+        },
+        {
+          "contest": "EGMO",
+          "year": "2023",
+          "contest_slug": "egmo",
+          "student_name": "Vivian Loh",
+          "award": "Gold Medal",
+          "rank": "1",
+          "us_rank": "3",
+          "P1": "7",
+          "P2": "7",
+          "P3": "7",
+          "P4": "7",
+          "P5": "7",
+          "P6": "7",
+          "total": "42"
         },
         {
           "contest": "CMIMC — Geometry",
@@ -14874,6 +15010,22 @@
           "student_name": "Vivian Loh",
           "rank": "32",
           "score": "20.82"
+        },
+        {
+          "contest": "EGMO",
+          "year": "2022",
+          "contest_slug": "egmo",
+          "student_name": "Vivian Loh",
+          "award": "Gold Medal",
+          "rank": "9",
+          "us_rank": "3",
+          "P1": "7",
+          "P2": "3",
+          "P3": "7",
+          "P4": "7",
+          "P5": "7",
+          "P6": "2",
+          "total": "33"
         }
       ]
     },
@@ -14962,9 +15114,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Pavan Jayaraman",
-          "place": "20",
+          "rank": "20",
           "team": "WWP^2 A1",
-          "ind_score": "8",
+          "score": "8",
           "prize": "$500"
         },
         {
@@ -15028,6 +15180,16 @@
           "combinatorics_score": "29.54"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Pavan Jayaraman",
+          "rank": "10",
+          "team": "WWP^2 A1",
+          "score": "8",
+          "prize": "$500"
+        },
+        {
           "contest": "USAJMO",
           "year": "2022",
           "contest_slug": "jmo",
@@ -15086,16 +15248,6 @@
           "student_name": "Pavan Jayaraman",
           "rank": "14",
           "score": "20.82"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Pavan Jayaraman",
-          "place": "10",
-          "team": "WWP^2 A1",
-          "ind_score": "8",
-          "prize": "$500"
         }
       ]
     },
@@ -15427,7 +15579,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Jason Mao",
-          "place": "19",
+          "rank": "19",
           "site": "P",
           "team": "Lehigh Valley A1",
           "prize": "$500"
@@ -15505,9 +15657,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Jason Mao",
-          "place": "17",
+          "rank": "17",
           "team": "Lehigh Valley A1",
-          "ind_score": "8",
+          "score": "8",
           "prize": "$500"
         },
         {
@@ -15649,11 +15801,12 @@
           "combinatorics_score": "21.95"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Jason Mao",
-          "team_name": "Lehigh Valley A1",
+          "site": "offsite",
+          "team": "Lehigh Valley A1",
           "rank": "12",
           "score": "8"
         }
@@ -15828,6 +15981,15 @@
           "combinatorics_score": "27.17"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Eric Shen",
+          "rank": "13",
+          "team": "SFBA/NorCal A1",
+          "score": "8"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
@@ -15879,15 +16041,6 @@
           "algebra_score": "20.82",
           "geometry_score": "21.82",
           "combinatorics_score": "29.31"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Eric Shen",
-          "place": "13",
-          "team": "SFBA/NorCal A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -16296,6 +16449,22 @@
           "combinatorics_score": "21.82"
         },
         {
+          "contest": "EGMO",
+          "year": "2023",
+          "contest_slug": "egmo",
+          "student_name": "Isabella Zhu",
+          "award": "Gold Medal",
+          "rank": "1",
+          "us_rank": "1",
+          "P1": "7",
+          "P2": "7",
+          "P3": "7",
+          "P4": "7",
+          "P5": "7",
+          "P6": "7",
+          "total": "42"
+        },
+        {
           "contest": "CMIMC — Geometry",
           "year": "2023",
           "contest_slug": "cmimc-geometry",
@@ -16318,6 +16487,15 @@
           "student_name": "Isabella Zhu",
           "rank": "2",
           "total_score": "126.56"
+        },
+        {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Isabella Zhu",
+          "rank": "27",
+          "team": "Thomas Jefferson A1",
+          "score": "8"
         },
         {
           "contest": "PUMaC — Division A Number Theory",
@@ -16421,13 +16599,20 @@
           "combinatorics_score": "27.17"
         },
         {
-          "contest": "ARML",
+          "contest": "EGMO",
           "year": "2022",
-          "contest_slug": "arml",
+          "contest_slug": "egmo",
           "student_name": "Isabella Zhu",
-          "place": "27",
-          "team": "Thomas Jefferson A1",
-          "ind_score": "8"
+          "award": "Gold Medal",
+          "rank": "4",
+          "us_rank": "2",
+          "P1": "7",
+          "P2": "7",
+          "P3": "2",
+          "P4": "7",
+          "P5": "7",
+          "P6": "7",
+          "total": "37"
         }
       ]
     },
@@ -16726,6 +16911,16 @@
           "score": "32.59"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Jeff Lin",
+          "rank": "8",
+          "team": "Lexington A1",
+          "score": "9",
+          "prize": "$500"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
@@ -16803,16 +16998,6 @@
           "algebra_score": "20.82",
           "geometry_score": "29.32",
           "combinatorics_score": "15.6"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Jeff Lin",
-          "place": "8",
-          "team": "Lexington A1",
-          "ind_score": "9",
-          "prize": "$500"
         }
       ]
     },
@@ -17502,6 +17687,15 @@
           "combinatorics_score": "34.67"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Edward Xiong",
+          "rank": "16",
+          "team": "WWP^2 A1",
+          "score": "8"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
@@ -17542,15 +17736,6 @@
           "p6": "0",
           "p7": "0",
           "p8": "0"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Edward Xiong",
-          "place": "16",
-          "team": "WWP^2 A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -17905,6 +18090,15 @@
           "rank": "Honorable Mention"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Alan Lee",
+          "rank": "14",
+          "team": "SFBA/NorCal A1",
+          "score": "8"
+        },
+        {
           "contest": "BAMO-12",
           "year": "2022",
           "contest_slug": "bamo-12",
@@ -17912,15 +18106,6 @@
           "school": "Henry M. Gunn",
           "rank": "8",
           "score": "33"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Alan Lee",
-          "place": "14",
-          "team": "SFBA/NorCal A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -18607,11 +18792,12 @@
           "award": "Bronze"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Evan Chang",
-          "team_name": "Lehigh Valley A2",
+          "site": "offsite",
+          "team": "Lehigh Valley A2",
           "rank": "13",
           "score": "8"
         }
@@ -18680,6 +18866,16 @@
       "grade_in_2026": "16",
       "records": [
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Luke Robitaille",
+          "rank": "1",
+          "team": "Texas A1",
+          "score": "10",
+          "prize": "$1,500"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
@@ -18731,16 +18927,6 @@
           "algebra_score": "48.53",
           "geometry_score": "43.08",
           "combinatorics_score": "53.81"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Luke Robitaille",
-          "place": "1",
-          "team": "Texas A1",
-          "ind_score": "10",
-          "prize": "$1,500"
         }
       ]
     },
@@ -18849,11 +19035,12 @@
           "combinatorics_score": "13.58"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Rishabh Das",
-          "team_name": "NYC Math Team - Tin Man A1",
+          "site": "offsite",
+          "team": "NYC Math Team - Tin Man A1",
           "rank": "7",
           "score": "8",
           "prize": "$500"
@@ -18996,6 +19183,16 @@
       "grade_in_2026": "16",
       "records": [
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Andrew Gu",
+          "rank": "3",
+          "team": "Orange County A1",
+          "score": "9",
+          "prize": "$1,000"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
@@ -19039,16 +19236,6 @@
           "algebra_score": "12.38",
           "geometry_score": "21.82",
           "combinatorics_score": "28.24"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Andrew Gu",
-          "place": "3",
-          "team": "Orange County A1",
-          "ind_score": "9",
-          "prize": "$1,000"
         }
       ]
     },
@@ -19163,6 +19350,15 @@
           "p8": "0"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Kevin Zhao",
+          "rank": "17",
+          "team": "Lexington A1",
+          "score": "8"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
@@ -19196,15 +19392,6 @@
           "algebra_score": "12.32",
           "geometry_score": "21.82",
           "combinatorics_score": "25.21"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Kevin Zhao",
-          "place": "17",
-          "team": "Lexington A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -19344,6 +19531,16 @@
       "grade_in_2026": null,
       "records": [
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Rowechen Zhong",
+          "rank": "5",
+          "team": "Texas A1",
+          "score": "9",
+          "prize": "$500"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
@@ -19377,16 +19574,6 @@
           "algebra_score": "16.77",
           "geometry_score": "18.85",
           "combinatorics_score": "20.82"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Rowechen Zhong",
-          "place": "5",
-          "team": "Texas A1",
-          "ind_score": "9",
-          "prize": "$500"
         }
       ]
     },
@@ -19398,6 +19585,15 @@
       "gender": "male",
       "grade_in_2026": null,
       "records": [
+        {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Jack Albright",
+          "rank": "19",
+          "team": "SFBA/NorCal A1",
+          "score": "8"
+        },
         {
           "contest": "USAMO",
           "year": "2022",
@@ -19424,15 +19620,6 @@
           "algebra_score": "16.72",
           "geometry_score": "23.95",
           "combinatorics_score": "15.54"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Jack Albright",
-          "place": "19",
-          "team": "SFBA/NorCal A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -19917,7 +20104,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Alexander Svoronos",
-          "place": "28",
+          "rank": "28",
           "site": "S",
           "team": "Connecticut A1"
         },
@@ -20179,7 +20366,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Eric Xie",
-          "place": "7",
+          "rank": "7",
           "site": "P",
           "team": "Montgomery B1",
           "prize": "$750"
@@ -20675,7 +20862,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Darren Han",
-          "place": "38",
+          "rank": "38",
           "site": "I",
           "team": "Texas A1"
         },
@@ -20752,9 +20939,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Darren Han",
-          "place": "42",
+          "rank": "42",
           "team": "Texas A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAJMO",
@@ -21824,7 +22011,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "George Paret",
-          "place": "57",
+          "rank": "57",
           "site": "W",
           "team": "Frazer A2"
         },
@@ -23123,7 +23310,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Shaheem Samsudeen",
-          "place": "29",
+          "rank": "29",
           "site": "I",
           "team": "Texas A3"
         }
@@ -25106,9 +25293,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Aprameya Tripathy",
-          "place": "38",
+          "rank": "38",
           "team": "WWP^2 B1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAMO",
@@ -26103,7 +26290,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Kyle Wu",
-          "place": "31",
+          "rank": "31",
           "site": "P",
           "team": "NYC A1"
         },
@@ -26907,6 +27094,22 @@
           "student_name": "Alansha Jiang",
           "rank": "43",
           "score": "21.08"
+        },
+        {
+          "contest": "EGMO",
+          "year": "2025",
+          "contest_slug": "egmo",
+          "student_name": "Alansha Jiang",
+          "award": "Gold Medal",
+          "rank": "12",
+          "us_rank": "3",
+          "P1": "7",
+          "P2": "7",
+          "P3": "2",
+          "P4": "7",
+          "P5": "5",
+          "P6": "2",
+          "total": "30"
         },
         {
           "contest": "USAMO",
@@ -28392,7 +28595,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Aryan Agrawal",
-          "place": "11",
+          "rank": "11",
           "site": "N",
           "team": "Washington A1",
           "prize": "$500"
@@ -29079,7 +29282,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Soham Dam",
-          "place": "10",
+          "rank": "10",
           "site": "P",
           "team": "Western PA A1",
           "prize": "$750"
@@ -29089,9 +29292,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Soham Dam",
-          "place": "32",
+          "rank": "32",
           "team": "Western PA B1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAJMO",
@@ -29271,9 +29474,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Eric Ding",
-          "place": "27",
+          "rank": "27",
           "team": "Minnesota B1",
-          "ind_score": "8"
+          "score": "8"
         }
       ]
     },
@@ -29704,7 +29907,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Michael Luo",
-          "place": "64",
+          "rank": "64",
           "site": "I",
           "team": "Minnesota B1"
         }
@@ -29751,7 +29954,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Ekam Kaur",
-          "place": "22",
+          "rank": "22",
           "site": "I",
           "team": "Texas A2"
         },
@@ -30220,9 +30423,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Albert Lu",
-          "place": "34",
+          "rank": "34",
           "team": "Phillips Exeter Red A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAJMO",
@@ -30465,7 +30668,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Royce Yao",
-          "place": "13",
+          "rank": "13",
           "site": "N",
           "team": "Wild Wild West B1",
           "prize": "$500"
@@ -31138,7 +31341,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Chris Bao",
-          "place": "20 (tie)",
+          "rank": "20 (tie)",
           "site": "N",
           "team": "Northern Nevada Math Club B1",
           "prize": "$500"
@@ -31164,9 +31367,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Christopher Bao",
-          "place": "5",
+          "rank": "5",
           "team": "NNVMath B1",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$1,000"
         },
         {
@@ -31178,22 +31381,22 @@
           "award": "Silver"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Christopher Bao",
+          "rank": "9",
+          "team": "Las Vegas Math Circle B1",
+          "score": "9",
+          "prize": "$500"
+        },
+        {
           "contest": "USAJMO",
           "year": "2022",
           "contest_slug": "jmo",
           "student_name": "Christopher Bao",
           "state": "Nevada",
           "award": "Honors"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Christopher Bao",
-          "place": "9",
-          "team": "Las Vegas Math Circle B1",
-          "ind_score": "9",
-          "prize": "$500"
         }
       ]
     },
@@ -32160,9 +32363,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Derek Zhao",
-          "place": "21",
+          "rank": "21",
           "team": "Lexington A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAJMO",
@@ -32520,9 +32723,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Sargam Mondal",
-          "place": "3",
+          "rank": "3",
           "team": "Central Jersey A",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$1,250"
         },
         {
@@ -32578,6 +32781,16 @@
           "score": "27.17"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Sargam Mondal",
+          "rank": "2",
+          "team": "Central Jersey B1",
+          "score": "10",
+          "prize": "$1,250"
+        },
+        {
           "contest": "PUMaC — Division A Algebra",
           "year": "2022",
           "contest_slug": "pumac-algebra",
@@ -32611,16 +32824,6 @@
           "student_name": "Sargam Mondal",
           "rank": "46",
           "score": "17.79"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Sargam Mondal",
-          "place": "2",
-          "team": "Central Jersey B1",
-          "ind_score": "10",
-          "prize": "$1,250"
         }
       ]
     },
@@ -33427,12 +33630,12 @@
         },
         {
           "contest": "ARML",
-          "year": "2022",
+          "year": "2023",
           "contest_slug": "arml",
           "student_name": "Minseok Eli Park",
-          "place": "22",
+          "rank": "22",
           "team": "NC A1",
-          "ind_score": "8"
+          "score": "8"
         }
       ]
     },
@@ -33511,6 +33714,15 @@
           "score": "29.54"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Espen Slettnes",
+          "rank": "28",
+          "team": "SFBA/NorCal A1",
+          "score": "8"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
@@ -33534,15 +33746,6 @@
           "school": "Stanford Online High School",
           "rank": "11",
           "score": "32"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Espen Slettnes",
-          "place": "28",
-          "team": "SFBA/NorCal A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -33675,11 +33878,12 @@
           "score": "23.01"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Joseph Othman",
-          "team_name": "NYC Math Team - Tin Man A1",
+          "site": "offsite",
+          "team": "NYC Math Team - Tin Man A1",
           "rank": "21",
           "score": "8"
         }
@@ -33872,9 +34076,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Jackson Dryg",
-          "place": "19",
+          "rank": "19",
           "team": "Colorado A1",
-          "ind_score": "8",
+          "score": "8",
           "prize": "$500"
         },
         {
@@ -33902,11 +34106,12 @@
           "award": "Honors"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Jackson Dryg",
-          "team_name": "Colorado A1",
+          "site": "offsite",
+          "team": "Colorado A1",
           "rank": "9",
           "score": "8",
           "prize": "$500"
@@ -33988,7 +34193,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Allan Yuan",
-          "place": "41",
+          "rank": "41",
           "site": "W",
           "team": "Alabama B1"
         },
@@ -34053,21 +34258,21 @@
           "award": "Top Honors"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Benjamin Jeter",
+          "rank": "30",
+          "team": "Wild Wild West B1",
+          "score": "8"
+        },
+        {
           "contest": "USAJMO",
           "year": "2022",
           "contest_slug": "jmo",
           "student_name": "Benjamin Jeter",
           "state": "Arizona",
           "award": "Honors"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Benjamin Jeter",
-          "place": "30",
-          "team": "Wild Wild West B1",
-          "ind_score": "8"
         },
         {
           "contest": "MATHCOUNTS National — Rankings",
@@ -34238,12 +34443,12 @@
         },
         {
           "contest": "ARML",
-          "year": "2022",
+          "year": "2023",
           "contest_slug": "arml",
           "student_name": "David Zhang",
-          "place": "4",
+          "rank": "4",
           "team": "SFBA/NorCal A1",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$750"
         },
         {
@@ -36616,11 +36821,27 @@
           "prize": "$11,400"
         },
         {
+          "contest": "EGMO",
+          "year": "2025",
+          "contest_slug": "egmo",
+          "student_name": "Shruti Arun",
+          "award": "Gold Medal",
+          "rank": "21",
+          "us_rank": "4",
+          "P1": "7",
+          "P2": "7",
+          "P3": "1",
+          "P4": "7",
+          "P5": "5",
+          "P6": "0",
+          "total": "27"
+        },
+        {
           "contest": "ARML",
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Shruti Arun",
-          "place": "24",
+          "rank": "24",
           "site": "N",
           "team": "Colorado B1"
         },
@@ -39043,7 +39264,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Jonathan Wu",
-          "place": "54",
+          "rank": "54",
           "site": "N",
           "team": "Utah B1"
         },
@@ -40038,7 +40259,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Eric Huang",
-          "place": "12",
+          "rank": "12",
           "site": "S",
           "team": "Massachusetts B1",
           "prize": "$500"
@@ -40204,7 +40425,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Benjamin Lu",
-          "place": "25",
+          "rank": "25",
           "site": "P",
           "team": "Lehigh Valley A2"
         }
@@ -41044,6 +41265,15 @@
           "score": "43.3"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Andrew Wen",
+          "rank": "15",
+          "team": "Phillips Academy B1",
+          "score": "8"
+        },
+        {
           "contest": "PUMaC — Division A Algebra",
           "year": "2022",
           "contest_slug": "pumac-algebra",
@@ -41069,15 +41299,6 @@
           "rank": "26",
           "total_score": "2.411",
           "finals_score": "5"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Andrew Wen",
-          "place": "15",
-          "team": "Phillips Academy B1",
-          "ind_score": "8"
         }
       ]
     },
@@ -41718,7 +41939,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Perry Dai",
-          "place": "48",
+          "rank": "48",
           "site": "P",
           "team": "Ontario Math Circles A1"
         },
@@ -41823,9 +42044,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Dylan Frake",
-          "place": "15",
+          "rank": "15",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8",
+          "score": "8",
           "prize": "$500"
         }
       ]
@@ -41940,7 +42161,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Eden He",
-          "place": "61",
+          "rank": "61",
           "site": "P",
           "team": "Lehigh Valley A2"
         },
@@ -43710,11 +43931,12 @@
           "award": "Honors"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Tanishq Pauskar",
-          "team_name": "Ohio B1",
+          "site": "offsite",
+          "team": "Ohio B1",
           "rank": "19",
           "score": "8"
         }
@@ -43859,6 +44081,22 @@
           "award": "Bronze"
         },
         {
+          "contest": "EGMO",
+          "year": "2024",
+          "contest_slug": "egmo",
+          "student_name": "Kristie Sue",
+          "award": "Gold Medal",
+          "rank": "6",
+          "us_rank": "4",
+          "P1": "7",
+          "P2": "7",
+          "P3": "7",
+          "P4": "7",
+          "P5": "7",
+          "P6": "1",
+          "total": "36"
+        },
+        {
           "contest": "USAMO",
           "year": "2023",
           "contest_slug": "amo",
@@ -43877,6 +44115,22 @@
           "place": "19",
           "score": "9",
           "prize": "Honorable Mention"
+        },
+        {
+          "contest": "EGMO",
+          "year": "2023",
+          "contest_slug": "egmo",
+          "student_name": "Kristie Sue",
+          "award": "Gold Medal",
+          "rank": "18",
+          "us_rank": "4",
+          "P1": "7",
+          "P2": "7",
+          "P3": "7",
+          "P4": "7",
+          "P5": "3",
+          "P6": "7",
+          "total": "38"
         },
         {
           "contest": "USAMO",
@@ -44744,7 +44998,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Leo Wu",
-          "place": "17",
+          "rank": "17",
           "site": "P",
           "team": "Ontario Math Circles A1",
           "prize": "$500"
@@ -44762,9 +45016,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Leo Wu",
-          "place": "40",
+          "rank": "40",
           "team": "Ontario Math Circles B1",
-          "ind_score": "8"
+          "score": "8"
         }
       ]
     },
@@ -45193,7 +45447,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "David Wang",
-          "place": "43",
+          "rank": "43",
           "site": "P",
           "team": "Montgomery B1"
         },
@@ -45491,7 +45745,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Michael Chang",
-          "place": "34",
+          "rank": "34",
           "site": "I",
           "team": "Texas A2"
         }
@@ -45558,7 +45812,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Lanie Deng",
-          "place": "58",
+          "rank": "58",
           "site": "I",
           "team": "Missouri B1"
         },
@@ -45633,7 +45887,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Bach Kieu",
-          "place": "40",
+          "rank": "40",
           "site": "I",
           "team": "Indiana B1"
         },
@@ -46243,7 +46497,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Michael Sun",
-          "place": "15",
+          "rank": "15",
           "site": "P",
           "team": "Ontario Math Circles A1",
           "prize": "$500"
@@ -46524,7 +46778,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Jonathan Yu",
-          "place": "16",
+          "rank": "16",
           "site": "N",
           "team": "Southern California B1",
           "prize": "$500"
@@ -48737,12 +48991,12 @@
         },
         {
           "contest": "ARML",
-          "year": "2022",
+          "year": "2023",
           "contest_slug": "arml",
           "student_name": "William Dai",
-          "place": "18",
+          "rank": "18",
           "team": "Texas A2",
-          "ind_score": "8"
+          "score": "8"
         }
       ]
     },
@@ -49321,6 +49575,15 @@
           "award": "Honorable Mention"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Michelle Kang",
+          "rank": "24",
+          "team": "Thomas Jefferson A1",
+          "score": "8"
+        },
+        {
           "contest": "USAJMO",
           "year": "2022",
           "contest_slug": "jmo",
@@ -49349,15 +49612,6 @@
           "place": "18",
           "score": "8",
           "prize": "Honorable Mention"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Michelle Kang",
-          "place": "24",
-          "team": "Thomas Jefferson A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -49423,6 +49677,15 @@
           "score": "29"
         },
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Catherine Li",
+          "rank": "25",
+          "team": "SFBA/NorCal A1",
+          "score": "8"
+        },
+        {
           "contest": "MPFG",
           "year": "2022",
           "contest_slug": "mpfg",
@@ -49449,15 +49712,6 @@
           "student_name": "Catherine Li",
           "school": "The Harker School",
           "rank": "Honorable Mention"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Catherine Li",
-          "place": "25",
-          "team": "SFBA/NorCal A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -50206,6 +50460,22 @@
           "student_name": "Kaylee Ji",
           "state": "California",
           "award": "Silver"
+        },
+        {
+          "contest": "EGMO",
+          "year": "2022",
+          "contest_slug": "egmo",
+          "student_name": "Kaylee Ji",
+          "award": "Silver Medal",
+          "rank": "24",
+          "us_rank": "4",
+          "P1": "7",
+          "P2": "5",
+          "P3": "0",
+          "P4": "7",
+          "P5": "7",
+          "P6": "2",
+          "total": "28"
         }
       ]
     },
@@ -50334,6 +50604,16 @@
       "grade_in_2026": null,
       "records": [
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Adam Tang",
+          "rank": "7",
+          "team": "SFBA/NorCal A1",
+          "score": "9",
+          "prize": "$500"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
@@ -50356,16 +50636,6 @@
           "student_name": "Adam Tang",
           "school": "Basis Independent Silicon Valley",
           "rank": "Honorable Mention"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Adam Tang",
-          "place": "7",
-          "team": "SFBA/NorCal A1",
-          "ind_score": "9",
-          "prize": "$500"
         }
       ]
     },
@@ -50386,11 +50656,12 @@
           "award": "Silver"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Albert Wang",
-          "team_name": "Florida A1",
+          "site": "offsite",
+          "team": "Florida A1",
           "rank": "8",
           "score": "8",
           "prize": "$500"
@@ -50486,11 +50757,12 @@
           "award": "Silver"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Kevin Wu",
-          "team_name": "Montgomery A1",
+          "site": "offsite",
+          "team": "Montgomery A1",
           "rank": "16",
           "score": "8"
         }
@@ -50557,11 +50829,12 @@
           "score": "18.81"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Daniel Yuan",
-          "team_name": "Montgomery A1",
+          "site": "offsite",
+          "team": "Montgomery A1",
           "rank": "6",
           "score": "8",
           "prize": "$500"
@@ -50716,21 +50989,21 @@
       "grade_in_2026": null,
       "records": [
         {
+          "contest": "ARML",
+          "year": "2023",
+          "contest_slug": "arml",
+          "student_name": "Arnav Goel",
+          "rank": "21",
+          "team": "Chicago A1",
+          "score": "8"
+        },
+        {
           "contest": "USAMO",
           "year": "2022",
           "contest_slug": "amo",
           "student_name": "Arnav Goel",
           "state": "Illinois",
           "award": "Bronze"
-        },
-        {
-          "contest": "ARML",
-          "year": "2022",
-          "contest_slug": "arml",
-          "student_name": "Arnav Goel",
-          "place": "21",
-          "team": "Chicago A1",
-          "ind_score": "8"
         }
       ]
     },
@@ -50863,11 +51136,12 @@
           "score": "19.85"
         },
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Tristan Kay",
-          "team_name": "Washington A1",
+          "site": "offsite",
+          "team": "Washington A1",
           "rank": "17",
           "score": "8"
         }
@@ -51222,9 +51496,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "David Zhang",
-          "place": "25",
+          "rank": "25",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "USAJMO",
@@ -51328,9 +51602,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Samuel Wang",
-          "place": "22",
+          "rank": "22",
           "team": "Lexington",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "PUMaC — Division A Algebra",
@@ -53278,7 +53552,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Angelica Feng",
-          "place": "6",
+          "rank": "6",
           "site": "P",
           "team": "WWP^2",
           "prize": "$1,000"
@@ -53298,7 +53572,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Kevin Hu",
-          "place": "9",
+          "rank": "9",
           "site": "I",
           "team": "Texas A3",
           "prize": "$750"
@@ -53318,7 +53592,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Rohith Thomas",
-          "place": "27",
+          "rank": "27",
           "site": "N",
           "team": "Colorado B1"
         }
@@ -53337,7 +53611,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Tiger Li",
-          "place": "32",
+          "rank": "32",
           "site": "P",
           "team": "Ontario Math Circles A1"
         }
@@ -53356,7 +53630,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Jeff Zhou",
-          "place": "37",
+          "rank": "37",
           "site": "I",
           "team": "Minnesota B1"
         }
@@ -53397,7 +53671,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Kaylyn Zhang",
-          "place": "42",
+          "rank": "42",
           "site": "P",
           "team": "Ontario Math Circles A1"
         }
@@ -53453,7 +53727,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Jack Whitney-Epstein",
-          "place": "44",
+          "rank": "44",
           "site": "S",
           "team": "Connecticut A1"
         },
@@ -53489,7 +53763,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Rick Zhou",
-          "place": "52",
+          "rank": "52",
           "site": "N",
           "team": "Washington A2"
         }
@@ -53508,7 +53782,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Lewis Lou",
-          "place": "53",
+          "rank": "53",
           "site": "P",
           "team": "Montgomery B1"
         }
@@ -53527,7 +53801,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Zenghan (Yoll) Feng",
-          "place": "55",
+          "rank": "55",
           "site": "S",
           "team": "Phillips Academy Andover"
         }
@@ -53555,7 +53829,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Jonathan Zhou",
-          "place": "56",
+          "rank": "56",
           "site": "S",
           "team": "Connecticut A2"
         }
@@ -53574,7 +53848,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Raine Ma",
-          "place": "59",
+          "rank": "59",
           "site": "S",
           "team": "Connecticut A1"
         }
@@ -53593,7 +53867,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Aarav Mann",
-          "place": "60",
+          "rank": "60",
           "site": "N",
           "team": "SFBA/NorCal A5"
         }
@@ -53612,7 +53886,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Prince Zhang",
-          "place": "62",
+          "rank": "62",
           "site": "P",
           "team": "Ontario Math Circles A2"
         }
@@ -53631,7 +53905,7 @@
           "year": "2025",
           "contest_slug": "arml",
           "student_name": "Eric Jia",
-          "place": "63",
+          "rank": "63",
           "site": "P",
           "team": "Ontario Math Circles A1"
         }
@@ -53650,9 +53924,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Rui Jiang",
-          "place": "11",
+          "rank": "11",
           "team": "Florida A1",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$500"
         },
         {
@@ -53687,9 +53961,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Madhav Krishnuswamy",
-          "place": "14",
+          "rank": "14",
           "team": "TJHSST A1",
-          "ind_score": "9",
+          "score": "9",
           "prize": "$500"
         }
       ]
@@ -53707,9 +53981,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Alex Jun",
-          "place": "29",
+          "rank": "29",
           "team": "Texas A1",
-          "ind_score": "8"
+          "score": "8"
         }
       ]
     },
@@ -53726,9 +54000,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Tanishq Paushkar",
-          "place": "30",
+          "rank": "30",
           "team": "Ohio B1",
-          "ind_score": "8"
+          "score": "8"
         }
       ]
     },
@@ -53745,9 +54019,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Olivia Xu",
-          "place": "36",
+          "rank": "36",
           "team": "SFBA/NorCal A1",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "MPFG Olympiad",
@@ -53824,9 +54098,9 @@
           "year": "2024",
           "contest_slug": "arml",
           "student_name": "Mikayla Lin",
-          "place": "41",
+          "rank": "41",
           "team": "NYC A2",
-          "ind_score": "8"
+          "score": "8"
         },
         {
           "contest": "MPFG",
@@ -57642,12 +57916,12 @@
       "records": [
         {
           "contest": "ARML",
-          "year": "2022",
+          "year": "2023",
           "contest_slug": "arml",
           "student_name": "Jake Frazer",
-          "place": "12",
+          "rank": "12",
           "team": "Buchholz A1",
-          "ind_score": "8"
+          "score": "8"
         }
       ]
     },
@@ -57661,12 +57935,12 @@
       "records": [
         {
           "contest": "ARML",
-          "year": "2022",
+          "year": "2023",
           "contest_slug": "arml",
           "student_name": "Isaac Zhu",
-          "place": "23",
+          "rank": "23",
           "team": "NC A2",
-          "ind_score": "8"
+          "score": "8"
         }
       ]
     },
@@ -57680,12 +57954,12 @@
       "records": [
         {
           "contest": "ARML",
-          "year": "2022",
+          "year": "2023",
           "contest_slug": "arml",
           "student_name": "Samuel Goodman",
-          "place": "26",
+          "rank": "26",
           "team": "Las Vegas Math Circle B1",
-          "ind_score": "8"
+          "score": "8"
         }
       ]
     },
@@ -78967,11 +79241,12 @@
       "grade_in_2026": null,
       "records": [
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Darren Jia",
-          "team_name": "Lehigh Valley A2",
+          "site": "offsite",
+          "team": "Lehigh Valley A2",
           "rank": "11",
           "score": "8"
         }
@@ -78986,11 +79261,12 @@
       "grade_in_2026": null,
       "records": [
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Krish Mody",
-          "team_name": "Oklahoma All-Stars B1",
+          "site": "offsite",
+          "team": "Oklahoma All-Stars B1",
           "rank": "14",
           "score": "8"
         }
@@ -79005,11 +79281,12 @@
       "grade_in_2026": null,
       "records": [
         {
-          "contest": "ARML Offsite",
+          "contest": "ARML",
           "year": "2022",
-          "contest_slug": "arml-offsite",
+          "contest_slug": "arml",
           "student_name": "Jackson Gong",
-          "team_name": "Michigan All Stars A1",
+          "site": "offsite",
+          "team": "Michigan All Stars A1",
           "rank": "18",
           "score": "8"
         }
@@ -79026,6 +79303,11 @@
       "contest_name": "RMM",
       "description": "Romanian Master of Mathematics — elite international olympiad held annually in Bucharest.",
       "website": "https://rmms.lbi.ro/"
+    },
+    "egmo": {
+      "contest_name": "EGMO",
+      "description": "European Girls' Mathematical Olympiad. International olympiad for female students.",
+      "website": "https://www.egmo.org/"
     },
     "amo": {
       "contest_name": "USAMO",
@@ -79152,11 +79434,6 @@
       "description": "American Regions Mathematics League. Regional team competition with power and individual rounds.",
       "website": "https://arml3.com/"
     },
-    "arml-offsite": {
-      "contest_name": "ARML Offsite",
-      "description": "ARML Offsite top individuals by score (remote competition).",
-      "website": "https://arml3.com/"
-    },
     "dmm": {
       "contest_name": "DMM",
       "description": "Duke Math Meet. Annual mathematics competition at Duke University with individual and team rounds.",
@@ -79227,11 +79504,9 @@
     },
     "arml": {
       "2022": "results.csv",
+      "2023": "results.csv",
       "2024": "results.csv",
       "2025": "results.csv"
-    },
-    "arml-offsite": {
-      "2022": "results.csv"
     },
     "bamo-12": {
       "2022": "results.csv",
@@ -79271,6 +79546,12 @@
     },
     "dmm": {
       "2023": "results.csv",
+      "2025": "results.csv"
+    },
+    "egmo": {
+      "2022": "results.csv",
+      "2023": "results.csv",
+      "2024": "results.csv",
       "2025": "results.csv"
     },
     "hmmt-feb": {
@@ -79428,6 +79709,7 @@
   "contest_order": [
     "imo",
     "rmm",
+    "egmo",
     "amo",
     "jmo",
     "hmmt-feb",
@@ -79453,7 +79735,6 @@
     "cmimc-comb",
     "cmimc-geometry",
     "arml",
-    "arml-offsite",
     "dmm",
     "cmm",
     "mpfg",

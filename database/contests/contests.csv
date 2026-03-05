@@ -1,6 +1,7 @@
 folder_name,contest_name,description,website
 imo,IMO,International Mathematical Olympiad. Official results by country and year.,https://www.imo-official.org/
 rmm,RMM,Romanian Master of Mathematics — elite international olympiad held annually in Bucharest.,https://rmms.lbi.ro/
+egmo,EGMO,European Girls' Mathematical Olympiad. International olympiad for female students.,https://www.egmo.org/
 amo,USAMO,USA Mathematical Olympiad. Top-tier national olympiad for high school students.,https://maa.org/
 jmo,USAJMO,USA Junior Mathematical Olympiad. National olympiad for students in grade 10 or below.,https://maa.org/
 hmmt-feb,HMMT February,"February Harvard-MIT Mathematics Tournament. Individual scores from Algebra, Geometry, and Combinatorics rounds. Difficulty: mid-AIME to olympiad. Students may not attend both November and February in the same school year.",https://www.hmmt.org/
@@ -26,7 +27,6 @@ cmimc-algebra,CMIMC — Algebra and Number Theory,Algebra and Number Theory subj
 cmimc-comb,CMIMC — Combinatorics and Computer Science,Combinatorics and Computer Science subject test at CMIMC.,https://cmimc.math.cmu.edu/math
 cmimc-geometry,CMIMC — Geometry,Geometry subject test at CMIMC.,https://cmimc.math.cmu.edu/math
 arml,ARML,American Regions Mathematics League. Regional team competition with power and individual rounds.,https://arml3.com/
-arml-offsite,ARML Offsite,ARML Offsite top individuals by score (remote competition).,https://arml3.com/
 dmm,DMM,Duke Math Meet. Annual mathematics competition at Duke University with individual and team rounds.,https://dukemathmeet.org/
 cmm,CMM,Caltech Math Meet. Annual mathematics competition at Caltech with individual rankings.,https://www.caltechmathmeet.org/
 mpfg,MPFG,Math Prize for Girls. Annual competition at MIT by Advantage Testing Foundation for top female high school mathematicians.,https://mathprize.atfoundation.org/

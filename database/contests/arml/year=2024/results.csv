@@ -1,44 +1,44 @@
-student_id,student_name,place,team,ind_score,tb_corr,tb_time,prize
-1,Alexander Wang,1,Lehigh Valley A,10,1,226,"$1,500"
-34,Jiahe Liu,2,Ohio B,10,2,265,"$1,250"
-434,Sargam Mondal,3,Central Jersey A,9,1,88,"$1,250"
-90,Rohan Das,4,SFBA/NorCal A1,9,1,252,"$1,000"
-402,Christopher Bao,5,NNVMath B1,9,1,280,"$1,000"
-91,Andrew Lin,6,Lehigh Valley A,9,1,336,"$1,000"
-3,Oron Wang,7,Phillips Exeter Academy Red A1,9,2,27,$750
-89,Jordan Lefkowitz,8,Connecticut A1,9,2,28,$750
-10,Ruilin Wang,9,TJHSST A1,9,2,60,$750
-13,Michael Zhao,10,Texas A,9,2,97,$750
-1289,Rui Jiang,11,Florida A1,9,2,112,$500
-57,Christopher Qiu,12,Central Jersey A1,9,2,135,$500
-23,Jeffrey Yin,13,Northern Virginia / Fairfax B1,9,3,37,$500
-1290,Madhav Krishnuswamy,14,TJHSST A1,9,3,360,$500
-897,Dylan Frake,15,SFBA/NorCal A1,8,1,355,$500
-110,Wilbert Chu,16,Chicago A1,8,1,372,$500
-132,Jason Mao,17,Lehigh Valley A1,8,1,416,$500
-48,Varun Gadi,18,Georgia A1,8,1,460,$500
-462,Jackson Dryg,19,Colorado A1,8,1,470,$500
-125,Pavan Jayaraman,20,WWP^2 A1,8,1,532,$500
-424,Derek Zhao,21,Lexington A1,8,1,594,
-1203,Samuel Wang,22,Lexington,8,2,32,
-102,Andrew Li,23,NYC A1,8,2,40,
-4,Liam Reddy,24,Utah B1,8,2,44,
-1201,David Zhang,25,SFBA/NorCal A1,8,2,45,
-19,Vihaan Gupta,26,SFBA/NorCal A1,8,2,46,
-352,Eric Ding,27,Minnesota B1,8,2,48,
-80,Lerchen Zhong,28,Texas A1,8,2,57,
-1291,Alex Jun,29,Texas A1,8,2,58,
-1292,Tanishq Paushkar,30,Ohio B1,8,2,60,
-25,Rohan Garg,31,SFBA/NorCal A1,8,2,66,
-345,Soham Dam,32,Western PA B1,8,2,79,
-98,Elliott Liu,33,San Diego A1,8,2,89,
-381,Albert Lu,34,Phillips Exeter Red A1,8,2,112,
-123,Vivian Loh,35,Western PA B,8,2,112,
-1293,Olivia Xu,36,SFBA/NorCal A1,8,2,113,
-92,Marvin Mao,37,Bergen County Academies A1,8,2,121,
-277,Aprameya Tripathy,38,WWP^2 B1,8,2,125,
-72,Kevin Liu,39,Western PA B1,8,2,125,
-990,Leo Wu,40,Ontario Math Circles B1,8,2,177,
-1294,Mikayla Lin,41,NYC A2,8,2,189,
-213,Darren Han,42,Texas A1,8,2,251,
-116,Justin Zhang,43,San Diego A1,8,4,0,
+student_id,student_name,rank,team,score,prize
+1,Alexander Wang,1,Lehigh Valley A,10,"$1,500"
+34,Jiahe Liu,2,Ohio B,10,"$1,250"
+434,Sargam Mondal,3,Central Jersey A,9,"$1,250"
+90,Rohan Das,4,SFBA/NorCal A1,9,"$1,000"
+402,Christopher Bao,5,NNVMath B1,9,"$1,000"
+91,Andrew Lin,6,Lehigh Valley A,9,"$1,000"
+3,Oron Wang,7,Phillips Exeter Academy Red A1,9,$750
+89,Jordan Lefkowitz,8,Connecticut A1,9,$750
+10,Ruilin Wang,9,TJHSST A1,9,$750
+13,Michael Zhao,10,Texas A,9,$750
+1289,Rui Jiang,11,Florida A1,9,$500
+57,Christopher Qiu,12,Central Jersey A1,9,$500
+23,Jeffrey Yin,13,Northern Virginia / Fairfax B1,9,$500
+1290,Madhav Krishnuswamy,14,TJHSST A1,9,$500
+897,Dylan Frake,15,SFBA/NorCal A1,8,$500
+110,Wilbert Chu,16,Chicago A1,8,$500
+132,Jason Mao,17,Lehigh Valley A1,8,$500
+48,Varun Gadi,18,Georgia A1,8,$500
+462,Jackson Dryg,19,Colorado A1,8,$500
+125,Pavan Jayaraman,20,WWP^2 A1,8,$500
+424,Derek Zhao,21,Lexington A1,8,
+1203,Samuel Wang,22,Lexington,8,
+102,Andrew Li,23,NYC A1,8,
+4,Liam Reddy,24,Utah B1,8,
+1201,David Zhang,25,SFBA/NorCal A1,8,
+19,Vihaan Gupta,26,SFBA/NorCal A1,8,
+352,Eric Ding,27,Minnesota B1,8,
+80,Lerchen Zhong,28,Texas A1,8,
+1291,Alex Jun,29,Texas A1,8,
+1292,Tanishq Paushkar,30,Ohio B1,8,
+25,Rohan Garg,31,SFBA/NorCal A1,8,
+345,Soham Dam,32,Western PA B1,8,
+98,Elliott Liu,33,San Diego A1,8,
+381,Albert Lu,34,Phillips Exeter Red A1,8,
+123,Vivian Loh,35,Western PA B,8,
+1293,Olivia Xu,36,SFBA/NorCal A1,8,
+92,Marvin Mao,37,Bergen County Academies A1,8,
+277,Aprameya Tripathy,38,WWP^2 B1,8,
+72,Kevin Liu,39,Western PA B1,8,
+990,Leo Wu,40,Ontario Math Circles B1,8,
+1294,Mikayla Lin,41,NYC A2,8,
+213,Darren Han,42,Texas A1,8,
+116,Justin Zhang,43,San Diego A1,8,

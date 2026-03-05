@@ -141,8 +141,6 @@ def main() -> None:
                     continue
                 k = k.strip()
                 if k and k not in ("student_id", "student_id "):
-                    if slug == "arml" and k in ("tb_corr", "tb_time"):
-                        continue
                     if v is not None and str(v).strip() != "":
                         record[k] = v.strip() if isinstance(v, str) else v
             if sid not in records_by_id:
