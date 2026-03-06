@@ -26077,7 +26077,7 @@
       "aliases": [],
       "state": "Florida",
       "gender": "male",
-      "grade_in_2026": null,
+      "grade_in_2026": "13",
       "records": [
         {
           "contest": "USAMO",
@@ -30485,24 +30485,6 @@
           "student_name": "Jack Wang",
           "state": "British Columbia, Canada",
           "award": "Honors"
-        },
-        {
-          "contest": "PUMaC — Division B Algebra",
-          "year": "2024",
-          "contest_slug": "pumac-b-algebra",
-          "team_name": "Knights B",
-          "student_name": "Jack Wang",
-          "division": "B",
-          "rank": "18",
-          "score": "3.77",
-          "p1": "1",
-          "p2": "1",
-          "p3": "1",
-          "p4": "0",
-          "p5": "0",
-          "p6": "0",
-          "p7": "0",
-          "p8": "0"
         }
       ]
     },
@@ -79279,6 +79261,24 @@
       "gender": "male",
       "grade_in_2026": null,
       "records": [
+        {
+          "contest": "PUMaC — Division B Algebra",
+          "year": "2024",
+          "contest_slug": "pumac-b-algebra",
+          "team_name": "Knights B",
+          "student_name": "Jack Wang",
+          "division": "B",
+          "rank": "18",
+          "score": "3.77",
+          "p1": "1",
+          "p2": "1",
+          "p3": "1",
+          "p4": "0",
+          "p5": "0",
+          "p6": "0",
+          "p7": "0",
+          "p8": "0"
+        },
         {
           "contest": "PUMaC — Division B Number Theory",
           "year": "2022",
