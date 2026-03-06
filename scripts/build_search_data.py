@@ -147,7 +147,12 @@ def main() -> None:
                         record[k] = v.strip() if isinstance(v, str) else v
             if sid not in records_by_id:
                 records_by_id[sid] = []
-            records_by_id[sid].append(record)
+            recs = records_by_id[sid]
+            # Deduplicate: same contest_slug+year for this student (from multiple CSVs)
+            key = (record["contest_slug"], record["year"])
+            if any((r.get("contest_slug"), r.get("year")) == key for r in recs):
+                continue
+            recs.append(record)
             if sid not in students:
                 name = (row.get("student_name") or "").strip()
                 state = (row.get("state") or "").strip()
@@ -187,12 +192,17 @@ def main() -> None:
 
     OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
-        json.dump({
-            "students": result_students,
-            "contests": contests,
-            "contest_year_files": contest_year_files,
-            "contest_order": contest_order,
-        }, f, indent=2, ensure_ascii=False)
+        json.dump(
+            {
+                "students": result_students,
+                "contests": contests,
+                "contest_year_files": contest_year_files,
+                "contest_order": contest_order,
+            },
+            f,
+            ensure_ascii=False,
+            separators=(",", ":"),
+        )
 
     print(f"Wrote {len(result_students)} students with records to {OUTPUT_JSON}")
 

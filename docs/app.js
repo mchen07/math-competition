@@ -33,6 +33,15 @@
   var US_STATES_SET = {};
   for (var i = 0; i < US_STATES.length; i++) US_STATES_SET[US_STATES[i]] = true;
 
+  function debounce(fn, ms) {
+    var timeout;
+    return function () {
+      var args = arguments;
+      clearTimeout(timeout);
+      timeout = setTimeout(function () { fn.apply(null, args); }, ms);
+    };
+  }
+
   var CONTEST_FILTER_CONFIG = {
     all: function () { return true; },
     usamo: function (slug) { return slug === "amo"; },
@@ -136,6 +145,34 @@
       if (normalize(student.aliases[i]).indexOf(q) !== -1) return true;
     }
     return false;
+  }
+
+  function applyDemographicFilters(students) {
+    var out = students || [];
+    if (girlsOnlyEl && girlsOnlyEl.checked) {
+      out = out.filter(function (s) {
+        return (s.gender || "").toLowerCase() === "female";
+      });
+    }
+    if (gradeFilterEl && gradeFilterWrapEl && !gradeFilterWrapEl.hidden && gradeFilterEl.value && gradeFilterEl.value !== "") {
+      var wantLabel = gradeFilterEl.value;
+      out = out.filter(function (s) {
+        var lab = getGradeLabel(s.grade_in_2026);
+        if (wantLabel === "__none__") return lab === "";
+        if (wantLabel === "__hs__") return gradeLabelSortKey(lab) >= 9 && gradeLabelSortKey(lab) <= 12;
+        if (wantLabel === "__prehs__") return gradeLabelSortKey(lab) > 0 && gradeLabelSortKey(lab) < 9;
+        return lab === wantLabel;
+      });
+    }
+    if (stateFilterEl && stateFilterEl.value && stateFilterEl.value !== "") {
+      var wantState = stateFilterEl.value;
+      out = out.filter(function (s) {
+        var st = (s.state || "").trim();
+        if (wantState === "__other__") return !st || !US_STATES_SET[st];
+        return st === wantState;
+      });
+    }
+    return out;
   }
 
   function escapeHtml(s) {
@@ -557,6 +594,7 @@
     }
 
     var matched = data.students.filter(function (s) { return matchStudent(s, query); });
+    matched = applyDemographicFilters(matched);
 
     var filteredByContest = matched.map(function (s) {
       var copy = {};
@@ -747,11 +785,13 @@
         }
         data.contest_order_map = orderMap;
         setLoading(false);
-        renderContestList();
-        updateContestFilterSummary();
-        renderTopStudentsByRecords();
-        bindContestListPopover();
-        runSearch();
+        requestAnimationFrame(function () {
+          renderContestList();
+          updateContestFilterSummary();
+          renderTopStudentsByRecords();
+          bindContestListPopover();
+          runSearch();
+        });
       })
       .catch(function (err) {
         setLoading(false);
@@ -760,7 +800,8 @@
   }
 
   if (searchEl) {
-    searchEl.addEventListener("input", runSearch);
+    var debouncedSearch = debounce(runSearch, 120);
+    searchEl.addEventListener("input", debouncedSearch);
     searchEl.addEventListener("search", runSearch);
   }
 
@@ -776,18 +817,21 @@
   if (girlsOnlyEl) {
     girlsOnlyEl.addEventListener("change", function () {
       renderTopStudentsByRecords();
+      runSearch();
     });
   }
 
   if (gradeFilterEl) {
     gradeFilterEl.addEventListener("change", function () {
       renderTopStudentsByRecords();
+      runSearch();
     });
   }
 
   if (stateFilterEl) {
     stateFilterEl.addEventListener("change", function () {
       renderTopStudentsByRecords();
+      runSearch();
     });
   }
 
