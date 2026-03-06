@@ -20,6 +20,17 @@
   var contestFilterTriggerEl = document.getElementById("contest-filter-trigger");
   var contestFilterSummaryEl = document.getElementById("contest-filter-summary");
 
+  var amoAlertList = [];
+
+  function isAmoAlertFeatureEnabled() {
+    try {
+      var params = new URLSearchParams(window.location.search);
+      return params.get("a") === "1";
+    } catch (e) {
+      return false;
+    }
+  }
+
   var US_STATES = [
     "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
     "Delaware", "District of Columbia", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa",
@@ -578,6 +589,83 @@
     if (backdrop) backdrop.addEventListener("click", close);
   }
 
+  function clearAllFilters() {
+    if (girlsOnlyEl) girlsOnlyEl.checked = false;
+    if (gradeFilterEl) gradeFilterEl.value = "";
+    if (stateFilterEl) stateFilterEl.value = "";
+    if (contestFilterEl) {
+      var allBox = contestFilterEl.querySelector("input[type='checkbox'][value='all']");
+      var boxes = contestFilterEl.querySelectorAll("input[type='checkbox']");
+      if (allBox) allBox.checked = true;
+      for (var i = 0; i < boxes.length; i++) {
+        if (boxes[i] !== allBox) boxes[i].checked = true;
+      }
+      updateContestFilterSummary();
+    }
+    renderTopStudentsByRecords();
+  }
+
+  function bindAmoAlertPopover() {
+    var trigger = document.getElementById("amo-alert-trigger");
+    var popover = document.getElementById("amo-alert-popover");
+    var summaryEl = document.getElementById("amo-alert-summary");
+    var listEl = document.getElementById("amo-alert-list");
+    var closeBtn = popover && popover.querySelector(".amo-alert-popover-close");
+    var backdrop = popover && popover.querySelector(".amo-alert-popover-backdrop");
+    if (!trigger || !popover || !listEl) return;
+
+    function closePopover() {
+      popover.hidden = true;
+      trigger.setAttribute("aria-expanded", "false");
+    }
+
+    function openPopover() {
+      var n = amoAlertList.length;
+      if (summaryEl) {
+        summaryEl.textContent = n === 1
+          ? "1 student with AMO 2025 Gold, Silver, Bronze, or Honorable Mention has no prior track in JMO, AMO (prior years), HMMT Feb, HMMT Nov, CMIMC, BAMO-12, PUMaC Div A, or ARML. Tap a name to search."
+          : n + " students with AMO 2025 Gold, Silver, Bronze, or Honorable Mention have no prior track in JMO, AMO (prior years), HMMT Feb, HMMT Nov, CMIMC, BAMO-12, PUMaC Div A, or ARML. Tap a name to search.";
+      }
+      var items = [];
+      for (var i = 0; i < amoAlertList.length; i++) {
+        var s = amoAlertList[i];
+        var label = escapeHtml(s.name || "");
+        if (s.state) label += " <span class=\"amo-alert-state\">(" + escapeHtml(s.state) + ")</span>";
+        if (s.award) label += " <span class=\"amo-alert-award\">(" + escapeHtml(s.award) + ")</span>";
+        items.push("<li class=\"amo-alert-list-item\"><button type=\"button\" class=\"amo-alert-student\" data-student-name=\"" + escapeHtml(String(s.name || "")) + "\">" + label + "</button></li>");
+      }
+      listEl.innerHTML = items.join("");
+      popover.hidden = false;
+      trigger.setAttribute("aria-expanded", "true");
+    }
+
+    trigger.addEventListener("click", function () {
+      if (popover.hidden) openPopover(); else closePopover();
+    });
+    if (closeBtn) closeBtn.addEventListener("click", closePopover);
+    if (backdrop) backdrop.addEventListener("click", closePopover);
+
+    listEl.addEventListener("click", function (ev) {
+      var btn = ev.target && ev.target.closest && ev.target.closest(".amo-alert-student");
+      if (!btn) return;
+      var name = (btn.getAttribute("data-student-name") || "").trim();
+      if (!name || !searchEl) return;
+      closePopover();
+      clearAllFilters();
+      searchEl.value = name;
+      runSearch();
+      searchEl.focus();
+      if (typeof searchEl.setSelectionRange === "function") {
+        var len = name.length;
+        searchEl.setSelectionRange(len, len);
+      }
+      var firstCard = resultsEl && resultsEl.querySelector(".student-card");
+      if (firstCard && typeof firstCard.scrollIntoView === "function") {
+        firstCard.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    });
+  }
+
   function runSearch() {
     var query = (searchEl && searchEl.value) ? searchEl.value.trim() : "";
     emptyEl.hidden = true;
@@ -785,11 +873,17 @@
         }
         data.contest_order_map = orderMap;
         setLoading(false);
+        if (typeof window.AmoAlertCheck !== "undefined" && window.AmoAlertCheck.getAmo2025GoldSilverNoTrack) {
+          amoAlertList = window.AmoAlertCheck.getAmo2025GoldSilverNoTrack(data.students || []);
+        }
+        var amoTrigger = document.getElementById("amo-alert-trigger");
+        if (amoTrigger) amoTrigger.hidden = !(isAmoAlertFeatureEnabled() && amoAlertList.length > 0);
         requestAnimationFrame(function () {
           renderContestList();
           updateContestFilterSummary();
           renderTopStudentsByRecords();
           bindContestListPopover();
+          bindAmoAlertPopover();
           runSearch();
         });
       })

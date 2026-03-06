@@ -129,6 +129,17 @@
       </div>
       <div class="contest-list-popover-backdrop" aria-hidden="true"></div>
     </div>
+
+    <button type="button" id="amo-alert-trigger" class="amo-alert-trigger" aria-label="AMO 2025 Gold/Silver/Bronze/Honorable Mention no-track alert" hidden>AMO alert</button>
+    <div id="amo-alert-popover" class="amo-alert-popover" hidden role="dialog" aria-labelledby="amo-alert-popover-title">
+      <div class="amo-alert-popover-inner">
+        <h2 id="amo-alert-popover-title" class="amo-alert-popover-title">AMO 2025 awardee with no prior track</h2>
+        <p id="amo-alert-summary" class="amo-alert-summary"></p>
+        <ul id="amo-alert-list" class="amo-alert-list"></ul>
+        <button type="button" class="amo-alert-popover-close" aria-label="Close">×</button>
+      </div>
+      <div class="amo-alert-popover-backdrop" aria-hidden="true"></div>
+    </div>
   </header>
 
   <main class="main">
@@ -253,6 +264,7 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.3/jspdf.plugin.autotable.min.js" crossorigin="anonymous"></script>
+  <script src="amo-alert-check.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
