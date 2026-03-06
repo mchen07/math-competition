@@ -106,7 +106,7 @@ def main() -> None:
     students = load_students()
     contests, contest_order = load_contests()
     records_by_id = {}
-    contest_year_files = {}  # slug -> { year -> filename }
+    contest_year_files = {}  # slug -> { year -> filename or [filenames] }
 
     for slug, year, csv_path in collect_result_files():
         if slug in CONTESTS_SKIP_FOR_SEARCH:
@@ -115,7 +115,9 @@ def main() -> None:
         contest_title = (contest_info.get("contest_name") or "").strip() or humanize_contest(slug)
         if slug not in contest_year_files:
             contest_year_files[slug] = {}
-        contest_year_files[slug][year] = csv_path.name
+        if year not in contest_year_files[slug]:
+            contest_year_files[slug][year] = []
+        contest_year_files[slug][year].append(csv_path.name)
         with open(csv_path, newline="", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             rows = list(reader)
@@ -174,6 +176,14 @@ def main() -> None:
             "grade_in_2026": info.get("grade_in_2026"),
             "records": recs,
         })
+
+    # Normalize contest_year_files: single file -> string, multiple -> array
+    for slug in contest_year_files:
+        for year in contest_year_files[slug]:
+            files = contest_year_files[slug][year]
+            if len(files) == 1:
+                contest_year_files[slug][year] = files[0]
+            # else keep as list for multiple files
 
     OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:

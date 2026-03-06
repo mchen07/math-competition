@@ -359,9 +359,14 @@
       var filesByYear = contestYearFiles[slug] || {};
       for (var j = 0; j < years.length; j++) {
         var yr = years[j];
-        var filename = filesByYear[yr] || "results.csv";
-        var yearHref = githubBase + slug + "/year%3D" + yr + "/" + filename;
-        yearLinks.push("<a href=\"" + yearHref + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"contest-list-year-link\">" + escapeHtml(yr) + "</a>");
+        var fileEntry = filesByYear[yr] || "results.csv";
+        var filenames = Array.isArray(fileEntry) ? fileEntry : [fileEntry];
+        for (var f = 0; f < filenames.length; f++) {
+          var filename = filenames[f] || "results.csv";
+          var yearHref = githubBase + slug + "/year%3D" + yr + "/" + encodeURIComponent(filename);
+          var label = filenames.length > 1 ? yr + " (" + filename.replace(/^results_?/, "").replace(/\.csv$/i, "") + ")" : yr;
+          yearLinks.push("<a href=\"" + yearHref + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"contest-list-year-link\">" + escapeHtml(label) + "</a>");
+        }
       }
       var yearLine = yearLinks.length ? "<span class=\"contest-list-years\">" + yearLinks.join(", ") + "</span>" : "";
       parts.push("<div class=\"contest-list-block\">" + nameHtml + (yearLine ? "<br>" + yearLine : "") + "</div>");
