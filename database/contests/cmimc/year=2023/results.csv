@@ -1,11 +1,11 @@
-student_id,student_name,year,rank,total_score
-881,Yichen Cedric Xiao,2023,1,126.87
-140,Isabella Zhu,2023,2,126.56
-123,Vivian Loh,2023,3,116.06
-92,Marvin Mao,2023,4,114.96
-159,Karthik Vedula,2023,5,113.91
-400,Kelin Zhu,2023,6,107.51
-89,Jordan Lefkowitz,2023,7,106.2
-148,Alan Vladimiroff,2023,8,106
-164,Steve Zhang,2023,9,100.98
-136,Jeffrey Chen,2023,10,99.85
+student_id,student_name,year,rank,total_score,mcp_rank
+881,Yichen Cedric Xiao,2023,1,126.87,1
+140,Isabella Zhu,2023,2,126.56,2
+123,Vivian Loh,2023,3,116.06,3
+92,Marvin Mao,2023,4,114.96,4
+159,Karthik Vedula,2023,5,113.91,5
+400,Kelin Zhu,2023,6,107.51,6
+89,Jordan Lefkowitz,2023,7,106.2,7
+148,Alan Vladimiroff,2023,8,106,8
+164,Steve Zhang,2023,9,100.98,9
+136,Jeffrey Chen,2023,10,99.85,10

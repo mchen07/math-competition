@@ -1,36 +1,36 @@
-student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8
-1078,Individuals Team 161,Jason Lian,2024,B,1,14.96,1,1,1,1,1,1,0,1
-918,Arcadia High School,Jiawen Huang,2024,B,2,14.554,1,1,1,1,1,1,1,0
-2208,Individuals Team 162,YEOJUN JAY JUNG,2024,B,3,13.082,1,0,1,1,1,1,1,0
-899,Not Great Valley,Eden He,2024,B,4,10.309,1,1,1,1,1,1,0,0
-2209,PRISMS Baby Falcons,Terry Huang,2024,B,4,10.309,1,1,1,1,1,1,0,0
-582,Ward Melville Math Team,Shirley Xiong,2024,B,6,9.786,1,1,1,1,0,0,1,0
-2171,MHSProfessionalJobbers,Minhe Liu,2024,B,7,9.135,0,0,1,1,1,0,0,1
-1226,Theta Math Club,Katherine Li,2024,B,8,8.837,1,0,1,1,1,1,0,0
-2213,MathSchool 2,Alexander Mitev,2024,B,9,8.816,0,1,1,1,1,1,0,0
-738,Jericho A,Liran Zhou,2024,B,9,8.816,0,1,1,1,1,1,0,0
-1963,Sierra Canyon School,James Browning,2024,B,11,8.399,1,1,1,1,0,1,0,0
-2217,MHSProfessionalJobbers,Joel Pulikkan,2024,B,11,8.399,1,1,1,1,0,1,0,0
-2222,Theta Math Club,Franklin Lee,2024,B,13,7.45,1,1,1,1,1,0,0,0
-2210,Knights B,Krivi Partani,2024,B,13,7.45,1,1,1,1,1,0,0,0
-2169,Millburn Mathematical Madpeople,Karson Jiang,2024,B,13,7.45,1,1,1,1,1,0,0,0
-2175,Millburn Mathematical Madpeople,Alethea Liu,2024,B,13,7.45,1,1,1,1,1,0,0,0
-2187,Not Great Valley,Daniel Wu,2024,B,13,7.45,1,1,1,1,1,0,0,0
-2142,Ward Melville Math Team,Harry Gao,2024,B,13,7.45,1,1,1,1,1,0,0,0
-2238,Jericho B,Dian Yang,2024,B,13,7.45,1,1,1,1,1,0,0,0
-754,PHS Apricot,William Liu,2024,B,13,7.45,1,1,1,1,1,0,0,0
-2242,PHS Apricot,Zihan Yu,2024,B,13,7.45,1,1,1,1,1,0,0,0
-844,Theta Math Club,Ryan Zhang,2024,B,13,7.45,1,1,1,1,1,0,0,0
-2243,Knights B,Shannon Xu,2024,B,13,7.45,1,1,1,1,1,0,0,0
-2244,Sierra Canyon School,Michael Wang,2024,B,13,7.45,1,1,1,1,1,0,0,0
-2488,CRH Math Team,Alex Zhao,2024,B,25,6.906,0,1,1,1,0,1,0,0
-184,MHSProfessionalJobbers,Kevin Zhao,2024,B,26,6.077,1,1,1,0,1,0,0,0
-42,Theta Math Club,Benjamin Song,2024,B,27,5.978,1,0,1,1,1,0,0,0
-2164,Pingry Blue,Derek Peng,2024,B,27,5.978,1,0,1,1,1,0,0,0
-30,Individuals Team 161,Eric Dai,2024,B,29,5.957,0,1,1,1,1,0,0,0
-1046,Individuals Team 162,Terence Wu,2024,B,30,5.54,1,1,1,1,0,0,0,0
-1631,Individuals Team 160,Kaiqi Xu,2024,B,30,5.54,1,1,1,1,0,0,0,0
-2146,PRISMS Young Falcons,Xinqi Jessie Wang,2024,B,30,5.54,1,1,1,1,0,0,0,0
-2239,Jericho A,Vincent Yang,2024,B,30,5.54,1,1,1,1,0,0,0,0
-2245,PHS Blueberry,Zachary Ji,2024,B,30,5.54,1,1,1,1,0,0,0,0
-1962,Sierra Canyon School,Atticus Masuzawa,2024,B,30,5.54,1,1,1,1,0,0,0,0
+student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8,mcp_rank
+1078,Individuals Team 161,Jason Lian,2024,B,1,14.96,1,1,1,1,1,1,0,1,1
+918,Arcadia High School,Jiawen Huang,2024,B,2,14.554,1,1,1,1,1,1,1,0,2
+2208,Individuals Team 162,YEOJUN JAY JUNG,2024,B,3,13.082,1,0,1,1,1,1,1,0,3
+899,Not Great Valley,Eden He,2024,B,4,10.309,1,1,1,1,1,1,0,0,4.5
+2209,PRISMS Baby Falcons,Terry Huang,2024,B,4,10.309,1,1,1,1,1,1,0,0,4.5
+582,Ward Melville Math Team,Shirley Xiong,2024,B,6,9.786,1,1,1,1,0,0,1,0,6
+2171,MHSProfessionalJobbers,Minhe Liu,2024,B,7,9.135,0,0,1,1,1,0,0,1,7
+1226,Theta Math Club,Katherine Li,2024,B,8,8.837,1,0,1,1,1,1,0,0,8
+2213,MathSchool 2,Alexander Mitev,2024,B,9,8.816,0,1,1,1,1,1,0,0,9.5
+738,Jericho A,Liran Zhou,2024,B,9,8.816,0,1,1,1,1,1,0,0,9.5
+1963,Sierra Canyon School,James Browning,2024,B,11,8.399,1,1,1,1,0,1,0,0,11.5
+2217,MHSProfessionalJobbers,Joel Pulikkan,2024,B,11,8.399,1,1,1,1,0,1,0,0,11.5
+2222,Theta Math Club,Franklin Lee,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+2210,Knights B,Krivi Partani,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+2169,Millburn Mathematical Madpeople,Karson Jiang,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+2175,Millburn Mathematical Madpeople,Alethea Liu,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+2187,Not Great Valley,Daniel Wu,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+2142,Ward Melville Math Team,Harry Gao,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+2238,Jericho B,Dian Yang,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+754,PHS Apricot,William Liu,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+2242,PHS Apricot,Zihan Yu,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+844,Theta Math Club,Ryan Zhang,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+2243,Knights B,Shannon Xu,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+2244,Sierra Canyon School,Michael Wang,2024,B,13,7.45,1,1,1,1,1,0,0,0,18.5
+2488,CRH Math Team,Alex Zhao,2024,B,25,6.906,0,1,1,1,0,1,0,0,25
+184,MHSProfessionalJobbers,Kevin Zhao,2024,B,26,6.077,1,1,1,0,1,0,0,0,26
+42,Theta Math Club,Benjamin Song,2024,B,27,5.978,1,0,1,1,1,0,0,0,27.5
+2164,Pingry Blue,Derek Peng,2024,B,27,5.978,1,0,1,1,1,0,0,0,27.5
+30,Individuals Team 161,Eric Dai,2024,B,29,5.957,0,1,1,1,1,0,0,0,29
+1046,Individuals Team 162,Terence Wu,2024,B,30,5.54,1,1,1,1,0,0,0,0,32.5
+1631,Individuals Team 160,Kaiqi Xu,2024,B,30,5.54,1,1,1,1,0,0,0,0,32.5
+2146,PRISMS Young Falcons,Xinqi Jessie Wang,2024,B,30,5.54,1,1,1,1,0,0,0,0,32.5
+2239,Jericho A,Vincent Yang,2024,B,30,5.54,1,1,1,1,0,0,0,0,32.5
+2245,PHS Blueberry,Zachary Ji,2024,B,30,5.54,1,1,1,1,0,0,0,0,32.5
+1962,Sierra Canyon School,Atticus Masuzawa,2024,B,30,5.54,1,1,1,1,0,0,0,0,32.5

@@ -1,49 +1,49 @@
-student_id,team_name,student_name,year,division,rank,total_score,finals_score,test1,test2
-96,Sierra Canyon School,Qiao Zhang,2023,B,1,3.942,21,27.065 (GEO),20.449 (NTY)
-2180,Hotchkiss,Andrew Xie,2023,B,2,3.403,21,6.351 (CMB),11.087 (NTY)
-1003,MCA Underdogs,Sounak Bagchi,2023,B,3,3.245,13,12.445 (ALG),6.556 (CMB)
-738,Jericho Mathletes,Liran Zhou,2023,B,4,3.222,9,10.242 (CMB),6.783 (NTY)
-407,Pingry Blue,Elbert Ho,2023,B,5,3.151,9,12.578 (ALG),3.199 (GEO)
-548,Ward Melville Math Team,Michael Lu,2023,B,6,3.143,3,16.153 (ALG),16.181 (GEO)
-2257,Pingry Blue,Evan Xie,2023,B,7,3.133,12,8.870 (ALG),3.733 (GEO)
-1078,CCC,Jason Lian,2023,B,8,3.128,7,12.578 (ALG),5.194 (GEO)
-2289,MHSProfessionalJobbers,Yiming Huang,2023,B,9,3.108,7,12.057 (CMB),3.668 (NTY)
-1038,MHSProfessionalJobbers,Jason Lu,2023,B,10,3.101,7,16.153 (ALG),3.309 (NTY)
-2140,Millburn Mathematical Madpeople,Charles Wang,2023,B,11,3.055,14,5.751 (ALG),7.701 (CMB)
-1874,Sierra Canyon School,Alex Bai,2023,B,12,3.030,10,6.351 (CMB),7.471 (NTY)
-1539,Ward Melville Math Team,Eric Zhong,2023,B,13,2.970,8,5.162 (ALG),10.242 (CMB)
-2246,GVHS Math Club,Pranav Vijay,2023,B,14,2.961,9,5.194 (GEO),3.527 (NTY)
-2205,PRISMS Young Falcons,Hongjian Gary Zheng,2023,B,15,2.924,8,3.826 (ALG),14.057 (NTY)
-2291,Fat L Club,Timothy Wu,2023,B,16,2.869,4,10.242 (CMB),3.199 (GEO)
-582,Ward Melville Math Team,Shirley Xiong,2023,B,17,2.796,4,3.199 (GEO),8.726 (NTY)
-2488,CRH Math Team,Alex Zhao,2023,B,18,2.786,4,9.905 (CMB),3.527 (NTY)
-2206,Individuals Team 162,Jacob Chung,2023,B,19,2.774,3,5.194 (GEO),8.726 (NTY)
-2258,CRH Math Team,Andy Chin,2023,B,20,2.750,3,8.737 (ALG),7.592 (GEO)
-2239,Jericho Mathletes,Vincent Yang,2023,B,21,2.748,9,3.119 (ALG),5.194 (GEO)
-1406,PRISMS Young Falcons,Yunlu Rafi Shang,2023,B,22,2.742,4,7.592 (GEO),3.668 (NTY)
-2256,Cougz,James Li,2023,B,23,2.717,5,12.578 (ALG),4.147 (CMB)
-30,MCA Underdogs,Eric Dai,2023,B,24,2.703,3,8.760 (CMB),5.252 (NTY)
-2254,PRISMS Young Falcons,Wenqing Eric Mao,2023,B,25,2.671,3,8.737 (ALG),7.833 (CMB)
-362,Knights B,Rithik Gumpu,2023,B,26,2.554,4,4.613 (CMB),5.194 (GEO)
-2273,Millburn Mathematical Madpeople,Yujie Sun,2023,B,27,2.531,4,3.119 (ALG),8.028 (GEO)
-1617,Ward Melville Math Team,Michael Retakh,2023,B,28,2.521,9,6.694 (ALG),2.409 (CMB)
-2216,PHS Math Team,Amy Lin,2023,B,29,2.508,3,5.162 (ALG),5.194 (GEO)
-2164,Pingry Blue,Derek Peng,2023,B,29,2.508,3,5.162 (ALG),5.194 (GEO)
-1084,PHS Math Team,Maiya Qiu,2023,B,31,2.501,3,5.162 (ALG),8.038 (CMB)
-2272,BCA 2,Danny Paik,2023,B,32,2.466,1,9.618 (GEO),5.252 (NTY)
-2237,MHSProfessionalJobbers,Jacqueline Lu,2023,B,33,2.455,2,5.194 (GEO),3.309 (NTY)
-2186,Sierra Canyon School,Thomas McCurley,2023,B,34,2.412,1,3.199 (GEO),8.726 (NTY)
-1464,Jericho Mathletes,Kevin Yu,2023,B,35,2.300,1,5.194 (GEO),3.668 (NTY)
-1558,CCC,Brian Sun,2023,B,36,2.281,1,5.194 (GEO),3.309 (NTY)
-1355,Fat L Club,Fiona Chen,2023,B,37,2.273,2,3.380 (ALG),5.194 (GEO)
-2222,Jericho Mathletes,Franklin Lee,2023,B,38,2.219,3,1.336 (ALG),5.194 (GEO)
-2262,Individuals Team 162,Howard Ziyuan Tang,2023,B,39,2.215,1,5.162 (ALG),5.194 (GEO)
-1962,Sierra Canyon School,Atticus Masuzawa,2023,B,40,2.170,1,4.613 (CMB),5.194 (GEO)
-263,Wellesley Raiders,Jonathan Liu,2023,B,41,2.161,1,5.194 (GEO),1.584 (NTY)
-2201,Millburn Mathematical Madpeople,Florina Zhu,2023,B,42,2.157,0,9.519 (CMB),8.726 (NTY)
-2279,CRH Math Team,Joyce Liu,2023,B,43,2.050,1,0.000 (GEO),7.001 (NTY)
-2274,BCA 2,Max Gong,2023,B,44,1.977,1,2.409 (CMB),5.194 (GEO)
-1055,Pingry Blue,Maddie Zhu,2023,B,45,1.961,2,6.694 (ALG),1.739 (CMB)
-949,CRH Math Team,Peyton Li,2023,B,46,1.951,0,6.351 (CMB),7.622 (GEO)
-2264,Knights B,Ishan Guthikonda,2023,B,47,1.776,0,5.162 (ALG),7.701 (CMB)
-2276,PRISMS Baby Falcons,Derek Li,2023,B,48,1.776,0,4.818 (CMB),5.194 (GEO)
+student_id,team_name,student_name,year,division,rank,total_score,finals_score,test1,test2,mcp_rank
+96,Sierra Canyon School,Qiao Zhang,2023,B,1,3.942,21,27.065 (GEO),20.449 (NTY),1
+2180,Hotchkiss,Andrew Xie,2023,B,2,3.403,21,6.351 (CMB),11.087 (NTY),2
+1003,MCA Underdogs,Sounak Bagchi,2023,B,3,3.245,13,12.445 (ALG),6.556 (CMB),3
+738,Jericho Mathletes,Liran Zhou,2023,B,4,3.222,9,10.242 (CMB),6.783 (NTY),4
+407,Pingry Blue,Elbert Ho,2023,B,5,3.151,9,12.578 (ALG),3.199 (GEO),5
+548,Ward Melville Math Team,Michael Lu,2023,B,6,3.143,3,16.153 (ALG),16.181 (GEO),6
+2257,Pingry Blue,Evan Xie,2023,B,7,3.133,12,8.870 (ALG),3.733 (GEO),7
+1078,CCC,Jason Lian,2023,B,8,3.128,7,12.578 (ALG),5.194 (GEO),8
+2289,MHSProfessionalJobbers,Yiming Huang,2023,B,9,3.108,7,12.057 (CMB),3.668 (NTY),9
+1038,MHSProfessionalJobbers,Jason Lu,2023,B,10,3.101,7,16.153 (ALG),3.309 (NTY),10
+2140,Millburn Mathematical Madpeople,Charles Wang,2023,B,11,3.055,14,5.751 (ALG),7.701 (CMB),11
+1874,Sierra Canyon School,Alex Bai,2023,B,12,3.030,10,6.351 (CMB),7.471 (NTY),12
+1539,Ward Melville Math Team,Eric Zhong,2023,B,13,2.970,8,5.162 (ALG),10.242 (CMB),13
+2246,GVHS Math Club,Pranav Vijay,2023,B,14,2.961,9,5.194 (GEO),3.527 (NTY),14
+2205,PRISMS Young Falcons,Hongjian Gary Zheng,2023,B,15,2.924,8,3.826 (ALG),14.057 (NTY),15
+2291,Fat L Club,Timothy Wu,2023,B,16,2.869,4,10.242 (CMB),3.199 (GEO),16
+582,Ward Melville Math Team,Shirley Xiong,2023,B,17,2.796,4,3.199 (GEO),8.726 (NTY),17
+2488,CRH Math Team,Alex Zhao,2023,B,18,2.786,4,9.905 (CMB),3.527 (NTY),18
+2206,Individuals Team 162,Jacob Chung,2023,B,19,2.774,3,5.194 (GEO),8.726 (NTY),19
+2258,CRH Math Team,Andy Chin,2023,B,20,2.750,3,8.737 (ALG),7.592 (GEO),20
+2239,Jericho Mathletes,Vincent Yang,2023,B,21,2.748,9,3.119 (ALG),5.194 (GEO),21
+1406,PRISMS Young Falcons,Yunlu Rafi Shang,2023,B,22,2.742,4,7.592 (GEO),3.668 (NTY),22
+2256,Cougz,James Li,2023,B,23,2.717,5,12.578 (ALG),4.147 (CMB),23
+30,MCA Underdogs,Eric Dai,2023,B,24,2.703,3,8.760 (CMB),5.252 (NTY),24
+2254,PRISMS Young Falcons,Wenqing Eric Mao,2023,B,25,2.671,3,8.737 (ALG),7.833 (CMB),25
+362,Knights B,Rithik Gumpu,2023,B,26,2.554,4,4.613 (CMB),5.194 (GEO),26
+2273,Millburn Mathematical Madpeople,Yujie Sun,2023,B,27,2.531,4,3.119 (ALG),8.028 (GEO),27
+1617,Ward Melville Math Team,Michael Retakh,2023,B,28,2.521,9,6.694 (ALG),2.409 (CMB),28
+2216,PHS Math Team,Amy Lin,2023,B,29,2.508,3,5.162 (ALG),5.194 (GEO),29.5
+2164,Pingry Blue,Derek Peng,2023,B,29,2.508,3,5.162 (ALG),5.194 (GEO),29.5
+1084,PHS Math Team,Maiya Qiu,2023,B,31,2.501,3,5.162 (ALG),8.038 (CMB),31
+2272,BCA 2,Danny Paik,2023,B,32,2.466,1,9.618 (GEO),5.252 (NTY),32
+2237,MHSProfessionalJobbers,Jacqueline Lu,2023,B,33,2.455,2,5.194 (GEO),3.309 (NTY),33
+2186,Sierra Canyon School,Thomas McCurley,2023,B,34,2.412,1,3.199 (GEO),8.726 (NTY),34
+1464,Jericho Mathletes,Kevin Yu,2023,B,35,2.300,1,5.194 (GEO),3.668 (NTY),35
+1558,CCC,Brian Sun,2023,B,36,2.281,1,5.194 (GEO),3.309 (NTY),36
+1355,Fat L Club,Fiona Chen,2023,B,37,2.273,2,3.380 (ALG),5.194 (GEO),37
+2222,Jericho Mathletes,Franklin Lee,2023,B,38,2.219,3,1.336 (ALG),5.194 (GEO),38
+2262,Individuals Team 162,Howard Ziyuan Tang,2023,B,39,2.215,1,5.162 (ALG),5.194 (GEO),39
+1962,Sierra Canyon School,Atticus Masuzawa,2023,B,40,2.170,1,4.613 (CMB),5.194 (GEO),40
+263,Wellesley Raiders,Jonathan Liu,2023,B,41,2.161,1,5.194 (GEO),1.584 (NTY),41
+2201,Millburn Mathematical Madpeople,Florina Zhu,2023,B,42,2.157,0,9.519 (CMB),8.726 (NTY),42
+2279,CRH Math Team,Joyce Liu,2023,B,43,2.050,1,0.000 (GEO),7.001 (NTY),43
+2274,BCA 2,Max Gong,2023,B,44,1.977,1,2.409 (CMB),5.194 (GEO),44
+1055,Pingry Blue,Maddie Zhu,2023,B,45,1.961,2,6.694 (ALG),1.739 (CMB),45
+949,CRH Math Team,Peyton Li,2023,B,46,1.951,0,6.351 (CMB),7.622 (GEO),46
+2264,Knights B,Ishan Guthikonda,2023,B,47,1.776,0,5.162 (ALG),7.701 (CMB),47
+2276,PRISMS Baby Falcons,Derek Li,2023,B,48,1.776,0,4.818 (CMB),5.194 (GEO),48

@@ -1,21 +1,21 @@
-student_id,student_name,state,grade,school,award
-58,Hannah Fox,California,11th,Proof School,Gold
-544,Ivy Guo,Maryland,11th,Montgomery Blair HS,Gold
-93,Jessica Wan,Florida,12th,Florida Virtual School,Gold
-107,Annabel Ge,Washington,12th,Lakeside School,Silver
-81,Angela Liu,California,11th,Homeschool,Silver
-123,Vivian Loh,Pennsylvania,12th,Winchester Thurston School,Silver
-1369,Reese Long,Washington,11th,Tesla STEM HS,Silver
-275,Catherine Xu,Iowa,10th,Iowa City West SHS,Silver
-337,Emily Yu,New York,11th,Mendon HS,Silver
-666,Shruti Arun,Colorado,10th,Cherry Creek HS,Bronze
-961,Alyssa Chu,New York,11th,Rye Country Day School,Bronze
-439,Victoria Hu,California,12th,Saratoga HS,Bronze
-303,Alansha Jiang,Washington,11th,Newport HS,Bronze
-444,Michelle Liang,California,12th,Canyon Crest Academy,Bronze
-950,Kristine Lu,California,12th,University HS,Bronze
-1132,Heyang Ni,New Jersey,12th,PRISMS,Bronze
-1336,Miranda Wang,New Jersey,12th,Kent Place School,Bronze
-1293,Olivia Xu,California,12th,Harker School,Bronze
-85,Sophia Zhang,New Jersey,10th,PRISMS,Bronze
-637,Angeline Zhao,Massachusetts,11th,Phillips Academy Andover,Bronze
+student_id,student_name,state,grade,school,award,mcp_rank
+58,Hannah Fox,California,11th,Proof School,Gold,2
+544,Ivy Guo,Maryland,11th,Montgomery Blair HS,Gold,2
+93,Jessica Wan,Florida,12th,Florida Virtual School,Gold,2
+107,Annabel Ge,Washington,12th,Lakeside School,Silver,6.5
+81,Angela Liu,California,11th,Homeschool,Silver,6.5
+123,Vivian Loh,Pennsylvania,12th,Winchester Thurston School,Silver,6.5
+1369,Reese Long,Washington,11th,Tesla STEM HS,Silver,6.5
+275,Catherine Xu,Iowa,10th,Iowa City West SHS,Silver,6.5
+337,Emily Yu,New York,11th,Mendon HS,Silver,6.5
+666,Shruti Arun,Colorado,10th,Cherry Creek HS,Bronze,15
+961,Alyssa Chu,New York,11th,Rye Country Day School,Bronze,15
+439,Victoria Hu,California,12th,Saratoga HS,Bronze,15
+303,Alansha Jiang,Washington,11th,Newport HS,Bronze,15
+444,Michelle Liang,California,12th,Canyon Crest Academy,Bronze,15
+950,Kristine Lu,California,12th,University HS,Bronze,15
+1132,Heyang Ni,New Jersey,12th,PRISMS,Bronze,15
+1336,Miranda Wang,New Jersey,12th,Kent Place School,Bronze,15
+1293,Olivia Xu,California,12th,Harker School,Bronze,15
+85,Sophia Zhang,New Jersey,10th,PRISMS,Bronze,15
+637,Angeline Zhao,Massachusetts,11th,Phillips Academy Andover,Bronze,15

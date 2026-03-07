@@ -1,11 +1,11 @@
-student_id,student_name,year,rank,total_score
-25,Rohan Garg,2025,1,250.95
-34,Jiahe Liu,2025,2,246.98
-3,Oron Wang,2025,3,239.78
-874,Sreehari Vijaybhaskar,2025,4,227.66
-45,Aaryan Vaishya,2025,5,208.27
-876,Aiden Dai,2025,6,167.65
-482,David Zhang,2025,7,165.68
-72,Kevin Liu,2025,8,165.28
-8,Vincent Wang,2025,9,164.15
-308,Muztaba Syed,2025,10,163.23
+student_id,student_name,year,rank,total_score,mcp_rank
+25,Rohan Garg,2025,1,250.95,1
+34,Jiahe Liu,2025,2,246.98,2
+3,Oron Wang,2025,3,239.78,3
+874,Sreehari Vijaybhaskar,2025,4,227.66,4
+45,Aaryan Vaishya,2025,5,208.27,5
+876,Aiden Dai,2025,6,167.65,6
+482,David Zhang,2025,7,165.68,7
+72,Kevin Liu,2025,8,165.28,8
+8,Vincent Wang,2025,9,164.15,9
+308,Muztaba Syed,2025,10,163.23,10

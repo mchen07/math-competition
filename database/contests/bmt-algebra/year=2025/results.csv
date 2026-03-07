@@ -1,12 +1,12 @@
-student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score
-1770,Bosman Botha,2025,Algebra,167F,AlphaStar Mars,AlphaStar Academy,Top Scores,1,10
-341,Alex Zhan,2025,Algebra,199A,BISV Team 1,BISV,Top Scores,2,9
-1734,Sohum Uttamchandani,2025,Algebra,242C,Lynbrook Wasabi,Lynbrook High School,Top Scores,3,9
-25,Rohan Garg,2025,Algebra,211C,AV Ananas,AV Math Team,Top Scores,4,9
-113,Feodor Yevtushenko,2025,Algebra,092C,,,Top Scores,5,9
-211,Chenghao Hu,2025,Algebra,236A,Monta Vista Team A,Monta Vista High School Math and Science Club,Top Scores,6,8
-396,Elena Ahn Beckman,2025,Algebra,011C,Areteem Institute,Areteem Institute,Top Scores,7,8
-2501,Aidan Shin,2025,Algebra,122D,OC Math Team,OC Math Team,Top Scores,7,8
-972,Eddy Li,2025,Algebra,165C,AlphaStar Saturn,AlphaStar Academy,Top Scores,7,8
-1726,Mittansh Bhatia,2025,Algebra,199B,BISV Team 1,BISV,Top Scores,7,8
-2500,Mehul Biala,2025,Algebra,199E,BISV Team 1,BISV,Top Scores,7,8
+student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score,mcp_rank
+1770,Bosman Botha,2025,Algebra,167F,AlphaStar Mars,AlphaStar Academy,Top Scores,1,10,1
+341,Alex Zhan,2025,Algebra,199A,BISV Team 1,BISV,Top Scores,2,9,2
+1734,Sohum Uttamchandani,2025,Algebra,242C,Lynbrook Wasabi,Lynbrook High School,Top Scores,3,9,3
+25,Rohan Garg,2025,Algebra,211C,AV Ananas,AV Math Team,Top Scores,4,9,4
+113,Feodor Yevtushenko,2025,Algebra,092C,,,Top Scores,5,9,5
+211,Chenghao Hu,2025,Algebra,236A,Monta Vista Team A,Monta Vista High School Math and Science Club,Top Scores,6,8,6
+396,Elena Ahn Beckman,2025,Algebra,011C,Areteem Institute,Areteem Institute,Top Scores,7,8,9
+2501,Aidan Shin,2025,Algebra,122D,OC Math Team,OC Math Team,Top Scores,7,8,9
+972,Eddy Li,2025,Algebra,165C,AlphaStar Saturn,AlphaStar Academy,Top Scores,7,8,9
+1726,Mittansh Bhatia,2025,Algebra,199B,BISV Team 1,BISV,Top Scores,7,8,9
+2500,Mehul Biala,2025,Algebra,199E,BISV Team 1,BISV,Top Scores,7,8,9

@@ -1,36 +1,36 @@
-student_id,student_name,school,year,rank,score
-1029,Atticus Stewart,Mirman School,2023,1,34
-341,Alex Zhan,Basis Independent Silicon Valley,2023,1,34
-1011,Krittika Chandra,Jane Lathrop Stanford Middle School,2023,3,33
-2430,Prince Rohatgi,Medea Creek Middle School,2023,4,32
-2413,Kieran Callahan,Synapse School,2023,5,31
-2431,Daphne Chen,Basis Independent Silicon Valley,2023,5,31
-2415,Minghao Guo,Portola Highly Gifted Magnet School,2023,5,31
-2432,Nupur Krishnan,Gale Ranch Middle School,2023,8,30
-1947,Tejo Madhavarapu,Rivendell Academy of Fremont,2023,9,29
-2433,Nathan Chen,Basis Independent Silicon Valley,2023,10,28
-2434,Satyaki Sen,John F. Kennedy Middle School,2023,10,28
-2435,Anshuman Arun,Harvest Park Middle School,2023,Honorable Mention,
-2436,Manalee Chowdhury,The Harker School,2023,Honorable Mention,
-2437,Alexey Chub,Odle Middle School,2023,Honorable Mention,
-2438,Anshul Dandekar,Bayside Academy,2023,Honorable Mention,
-2439,Kaiyuan Ding,Ellen Fletcher Middle School,2023,Honorable Mention,
-2440,Itai Firstenberg,Helios School,2023,Honorable Mention,
-2441,Aiden Fong,Orinda Intermediate School,2023,Honorable Mention,
-2442,Allison Guan,The Nueva School,2023,Honorable Mention,
-2443,Seojin Kim,Harvest Park Middle School,2023,Honorable Mention,
-69,Connor Leong,Crocker Middle School,2023,Honorable Mention,
-1526,Patrick Liang,Portola Highly Gifted Magnet School,2023,Honorable Mention,
-2444,Kevin Lu,Bayside Academy,2023,Honorable Mention,
-2445,Elliot Maa,Frank S. Greene Jr. Middle School,2023,Honorable Mention,
-2446,Henry Meier,Jane Addams Middle School,2023,Honorable Mention,
-2447,Bridget Procter,Proof School,2023,Honorable Mention,
-2416,Jayson Quah,Harvest Park Middle School,2023,Honorable Mention,
-2448,Vsevolod Titov,Rose Hill Middle School,2023,Honorable Mention,
-2411,Alan Verbitsky,Willows Preparatory School,2023,Honorable Mention,
-2449,Kyle Wan,Proof School,2023,Honorable Mention,
-2418,Alice Wang,Bayside Academy,2023,Honorable Mention,
-2450,Derek Wu,Dorris-Eaton School,2023,Honorable Mention,
-2451,Graham Zhang,Proof School,2023,Honorable Mention,
-1780,Pablo Zhang,The Nueva School,2023,Honorable Mention,
-2452,Randy Zhong,Ellen Fletcher Middle School,2023,Honorable Mention,
+student_id,student_name,school,year,rank,score,mcp_rank
+1029,Atticus Stewart,Mirman School,2023,1,34,1.5
+341,Alex Zhan,Basis Independent Silicon Valley,2023,1,34,1.5
+1011,Krittika Chandra,Jane Lathrop Stanford Middle School,2023,3,33,3
+2430,Prince Rohatgi,Medea Creek Middle School,2023,4,32,4
+2413,Kieran Callahan,Synapse School,2023,5,31,6
+2431,Daphne Chen,Basis Independent Silicon Valley,2023,5,31,6
+2415,Minghao Guo,Portola Highly Gifted Magnet School,2023,5,31,6
+2432,Nupur Krishnan,Gale Ranch Middle School,2023,8,30,8
+1947,Tejo Madhavarapu,Rivendell Academy of Fremont,2023,9,29,9
+2433,Nathan Chen,Basis Independent Silicon Valley,2023,10,28,10.5
+2434,Satyaki Sen,John F. Kennedy Middle School,2023,10,28,10.5
+2435,Anshuman Arun,Harvest Park Middle School,2023,Honorable Mention,,23.5
+2436,Manalee Chowdhury,The Harker School,2023,Honorable Mention,,23.5
+2437,Alexey Chub,Odle Middle School,2023,Honorable Mention,,23.5
+2438,Anshul Dandekar,Bayside Academy,2023,Honorable Mention,,23.5
+2439,Kaiyuan Ding,Ellen Fletcher Middle School,2023,Honorable Mention,,23.5
+2440,Itai Firstenberg,Helios School,2023,Honorable Mention,,23.5
+2441,Aiden Fong,Orinda Intermediate School,2023,Honorable Mention,,23.5
+2442,Allison Guan,The Nueva School,2023,Honorable Mention,,23.5
+2443,Seojin Kim,Harvest Park Middle School,2023,Honorable Mention,,23.5
+69,Connor Leong,Crocker Middle School,2023,Honorable Mention,,23.5
+1526,Patrick Liang,Portola Highly Gifted Magnet School,2023,Honorable Mention,,23.5
+2444,Kevin Lu,Bayside Academy,2023,Honorable Mention,,23.5
+2445,Elliot Maa,Frank S. Greene Jr. Middle School,2023,Honorable Mention,,23.5
+2446,Henry Meier,Jane Addams Middle School,2023,Honorable Mention,,23.5
+2447,Bridget Procter,Proof School,2023,Honorable Mention,,23.5
+2416,Jayson Quah,Harvest Park Middle School,2023,Honorable Mention,,23.5
+2448,Vsevolod Titov,Rose Hill Middle School,2023,Honorable Mention,,23.5
+2411,Alan Verbitsky,Willows Preparatory School,2023,Honorable Mention,,23.5
+2449,Kyle Wan,Proof School,2023,Honorable Mention,,23.5
+2418,Alice Wang,Bayside Academy,2023,Honorable Mention,,23.5
+2450,Derek Wu,Dorris-Eaton School,2023,Honorable Mention,,23.5
+2451,Graham Zhang,Proof School,2023,Honorable Mention,,23.5
+1780,Pablo Zhang,The Nueva School,2023,Honorable Mention,,23.5
+2452,Randy Zhong,Ellen Fletcher Middle School,2023,Honorable Mention,,23.5

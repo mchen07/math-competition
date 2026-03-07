@@ -1,41 +1,41 @@
-student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8
-96,Sierra Canyon School,Qiao Zhang,2022,B,1,21.024,1,1,1,1,1,0,1,1
-1134,CRLS Omega,Sebastian Prasanna,2022,B,2,12.55,1,1,1,0,1,0,1,0
-548,Ward Melville Math Team,Michael Lu,2022,B,3,11.99,1,1,1,0,1,1,0,0
-2323,CRH Math Team,Danny Yoon,2022,B,4,11.893,1,0,1,0,0,0,1,1
-2299,Just Woo It,Gloria Yu,2022,B,5,9.219,1,1,1,1,0,0,0,0
-2239,Jericho High School A,Vincent Yang,2022,B,6,8.659,1,1,1,0,1,0,0,0
-2338,Millburn Mathematical Madpeople,Derek Sun,2022,B,6,8.659,1,1,1,0,0,1,0,0
-2300,PRISMS Young Falcons,Deven Butani,2022,B,8,7.895,1,0,0,0,1,1,0,0
-1419,Individuals Team 153,Zhan Jin,2022,B,9,7.31,1,0,1,0,0,0,1,0
-2337,Jericho High School A,Jay Li,2022,B,10,6.75,1,0,1,0,0,1,0,0
-2008,Ridge Mu Alpha Theta,Wesley Chen,2022,B,11,5.516,0,0,1,0,1,0,0,0
-2222,Jericho High School A,Franklin Lee,2022,B,12,5.329,1,1,1,0,0,0,0,0
-2320,Individuals Team 152,Cody Cheng,2022,B,12,5.329,1,1,1,0,0,0,0,0
-1355,Big L Club,Fiona Chen,2022,B,12,5.329,1,1,1,0,0,0,0,0
-126,Hotchkiss Blue,Weian Xie,2022,B,12,5.329,1,1,1,0,0,0,0,0
-2324,Pingry Team A,Sophia Guild,2022,B,12,5.329,1,1,1,0,0,0,0,0
-1707,Warriors,Anton Levonian,2022,B,12,5.329,1,1,1,0,0,0,0,0
-2313,Sierra Canyon School,Wendy Wang,2022,B,18,5.124,1,0,0,1,0,0,0,0
-2291,Big L Club,Timothy Wu,2022,B,18,5.124,1,0,0,1,0,0,0,0
-2186,Sierra Canyon School,Thomas McCurley,2022,B,20,4.564,1,0,0,0,0,1,0,0
-2317,Just Woo It,Alice Xie,2022,B,20,4.564,1,0,0,0,0,1,0,0
-445,MHSProfessionalJobbers,Jeffrey Xu,2022,B,20,4.564,1,0,0,0,0,1,0,0
-554,Big L Club,Ryan Wu,2022,B,20,4.564,1,0,0,0,1,0,0,0
-1685,Individuals Team 152,James Lian,2022,B,24,3.419,1,0,1,0,0,0,0,0
-2335,CRLS Omega,Hugh Koschwanez,2022,B,24,3.419,1,0,1,0,0,0,0,0
-2258,CRH Math Team,Andy Chin,2022,B,24,3.419,1,0,1,0,0,0,0,0
-2246,Garnet Valley Math Team,Pranav Vijay,2022,B,24,3.419,1,0,1,0,0,0,0,0
-2326,Millburn Mathematical Madpeople,Stanley Liu,2022,B,24,3.419,1,0,1,0,0,0,0,0
-2327,Team :blobcosy:,Alexander Dang,2022,B,29,3.143,1,1,0,0,0,0,0,0
-949,CRH Math Team,Peyton Li,2022,B,29,3.143,1,1,0,0,0,0,0,0
-2285,Hotchkiss Blue,Jeffrey Lin,2022,B,29,3.143,1,1,0,0,0,0,0,0
-2328,Edison Academy Magnet School,Vedant Badoni,2022,B,29,3.143,1,1,0,0,0,0,0,0
-2329,Warriors,Austin Lin,2022,B,29,3.143,1,1,0,0,0,0,0,0
-2171,MHSProfessionalJobbers,Minhe Liu,2022,B,29,3.143,1,1,0,0,0,0,0,0
-1623,Pingry Team A,Albert Wu,2022,B,29,3.143,1,1,0,0,0,0,0,0
-1686,Pingry Team A,Leo Xu,2022,B,29,3.143,1,1,0,0,0,0,0,0
-2339,Ward Melville Math Team,Amy Chen,2022,B,29,3.143,1,1,0,0,0,0,0,0
-2330,Garnet Valley Math Team,Victoria Li,2022,B,29,3.143,1,1,0,0,0,0,0,0
-2191,Sierra Canyon School,Nikhil McGowan,2022,B,29,3.143,1,1,0,0,0,0,0,0
-2253,Millburn Mathematical Madpeople,Ayan Dalmia,2022,B,29,3.143,1,1,0,0,0,0,0,0
+student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8,mcp_rank
+96,Sierra Canyon School,Qiao Zhang,2022,B,1,21.024,1,1,1,1,1,0,1,1,1
+1134,CRLS Omega,Sebastian Prasanna,2022,B,2,12.55,1,1,1,0,1,0,1,0,2
+548,Ward Melville Math Team,Michael Lu,2022,B,3,11.99,1,1,1,0,1,1,0,0,3
+2323,CRH Math Team,Danny Yoon,2022,B,4,11.893,1,0,1,0,0,0,1,1,4
+2299,Just Woo It,Gloria Yu,2022,B,5,9.219,1,1,1,1,0,0,0,0,5
+2239,Jericho High School A,Vincent Yang,2022,B,6,8.659,1,1,1,0,1,0,0,0,6.5
+2338,Millburn Mathematical Madpeople,Derek Sun,2022,B,6,8.659,1,1,1,0,0,1,0,0,6.5
+2300,PRISMS Young Falcons,Deven Butani,2022,B,8,7.895,1,0,0,0,1,1,0,0,8
+1419,Individuals Team 153,Zhan Jin,2022,B,9,7.31,1,0,1,0,0,0,1,0,9
+2337,Jericho High School A,Jay Li,2022,B,10,6.75,1,0,1,0,0,1,0,0,10
+2008,Ridge Mu Alpha Theta,Wesley Chen,2022,B,11,5.516,0,0,1,0,1,0,0,0,11
+2222,Jericho High School A,Franklin Lee,2022,B,12,5.329,1,1,1,0,0,0,0,0,14.5
+2320,Individuals Team 152,Cody Cheng,2022,B,12,5.329,1,1,1,0,0,0,0,0,14.5
+1355,Big L Club,Fiona Chen,2022,B,12,5.329,1,1,1,0,0,0,0,0,14.5
+126,Hotchkiss Blue,Weian Xie,2022,B,12,5.329,1,1,1,0,0,0,0,0,14.5
+2324,Pingry Team A,Sophia Guild,2022,B,12,5.329,1,1,1,0,0,0,0,0,14.5
+1707,Warriors,Anton Levonian,2022,B,12,5.329,1,1,1,0,0,0,0,0,14.5
+2313,Sierra Canyon School,Wendy Wang,2022,B,18,5.124,1,0,0,1,0,0,0,0,18.5
+2291,Big L Club,Timothy Wu,2022,B,18,5.124,1,0,0,1,0,0,0,0,18.5
+2186,Sierra Canyon School,Thomas McCurley,2022,B,20,4.564,1,0,0,0,0,1,0,0,21.5
+2317,Just Woo It,Alice Xie,2022,B,20,4.564,1,0,0,0,0,1,0,0,21.5
+445,MHSProfessionalJobbers,Jeffrey Xu,2022,B,20,4.564,1,0,0,0,0,1,0,0,21.5
+554,Big L Club,Ryan Wu,2022,B,20,4.564,1,0,0,0,1,0,0,0,21.5
+1685,Individuals Team 152,James Lian,2022,B,24,3.419,1,0,1,0,0,0,0,0,26
+2335,CRLS Omega,Hugh Koschwanez,2022,B,24,3.419,1,0,1,0,0,0,0,0,26
+2258,CRH Math Team,Andy Chin,2022,B,24,3.419,1,0,1,0,0,0,0,0,26
+2246,Garnet Valley Math Team,Pranav Vijay,2022,B,24,3.419,1,0,1,0,0,0,0,0,26
+2326,Millburn Mathematical Madpeople,Stanley Liu,2022,B,24,3.419,1,0,1,0,0,0,0,0,26
+2327,Team :blobcosy:,Alexander Dang,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+949,CRH Math Team,Peyton Li,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+2285,Hotchkiss Blue,Jeffrey Lin,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+2328,Edison Academy Magnet School,Vedant Badoni,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+2329,Warriors,Austin Lin,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+2171,MHSProfessionalJobbers,Minhe Liu,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+1623,Pingry Team A,Albert Wu,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+1686,Pingry Team A,Leo Xu,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+2339,Ward Melville Math Team,Amy Chen,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+2330,Garnet Valley Math Team,Victoria Li,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+2191,Sierra Canyon School,Nikhil McGowan,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5
+2253,Millburn Mathematical Madpeople,Ayan Dalmia,2022,B,29,3.143,1,1,0,0,0,0,0,0,34.5

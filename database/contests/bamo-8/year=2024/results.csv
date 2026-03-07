@@ -1,31 +1,31 @@
-student_id,student_name,school,year,rank,score
-2409,Oscar Varodayan,Greene Middle School,2024,1,32
-2410,Ayan Sharma,Harvest Park MS,2024,2,29
-2411,Alan Verbitsky,BASIS Independent Bellevue,2024,3,28
-1825,Jeffery Wang,The Harker School,2024,3,28
-2412,Ethan Yin,Miraleste,2024,3,28
-1526,Patrick Liang,Portola Highly Gifted Magnet,2024,3,28
-2413,Kieran Callahan,Synapse School,2024,7,27
-396,Elena Ahn Beckman,The Knox School of Santa Barbara,2024,7,27
-2414,Xei Sackett,Hall Middle School,2024,7,27
-2415,Minghao Guo,Portola Highly Gifted Magnet,2024,7,27
-2416,Jayson Quah,Harvest Park MS,2024,7,27
-2417,Nathan Song,Berkeley Math Circle,2024,Honorable Mention,
-1794,Atticus Lin,The Nueva School,2024,Honorable Mention,
-21,David Fox,Proof School,2024,Honorable Mention,
-2360,Joey Guo,The Nueva School,2024,Honorable Mention,
-2418,Alice Wang,Bayside Academy,2024,Honorable Mention,
-1053,Eric Zhang,The Harker School,2024,Honorable Mention,
-2419,Sohum Tavisala,Harvest Park MS,2024,Honorable Mention,
-2420,Aiden Shan,Bowditch Middle School,2024,Honorable Mention,
-2421,Chris Xu,Bayside Academy,2024,Honorable Mention,
-2422,Daniel Luo,Ellen Fletcher Middle School,2024,Honorable Mention,
-2423,Ava Berenji,Davidson Academy Online,2024,Honorable Mention,
-2424,Tiffany Meng,Bayside Academy,2024,Honorable Mention,
-2370,Junu Pae,Pacific Trails Middle School,2024,Honorable Mention,
-2352,Jayden Gong,Pinewood,2024,Honorable Mention,
-2358,Cris Chai,Proof School,2024,Honorable Mention,
-1731,Yanlin Huang,Basis Independent Silicon Valley,2024,Honorable Mention,
-2425,Vedanth Chakravarthi,San Jose Math Circle,2024,Honorable Mention,
-1722,Temujin Battulga,Ellen Fletcher Middle School,2024,Honorable Mention,
-2426,Phuong Le,Egan Junior High School,2024,Honorable Mention,
+student_id,student_name,school,year,rank,score,mcp_rank
+2409,Oscar Varodayan,Greene Middle School,2024,1,32,1
+2410,Ayan Sharma,Harvest Park MS,2024,2,29,2
+2411,Alan Verbitsky,BASIS Independent Bellevue,2024,3,28,4.5
+1825,Jeffery Wang,The Harker School,2024,3,28,4.5
+2412,Ethan Yin,Miraleste,2024,3,28,4.5
+1526,Patrick Liang,Portola Highly Gifted Magnet,2024,3,28,4.5
+2413,Kieran Callahan,Synapse School,2024,7,27,9
+396,Elena Ahn Beckman,The Knox School of Santa Barbara,2024,7,27,9
+2414,Xei Sackett,Hall Middle School,2024,7,27,9
+2415,Minghao Guo,Portola Highly Gifted Magnet,2024,7,27,9
+2416,Jayson Quah,Harvest Park MS,2024,7,27,9
+2417,Nathan Song,Berkeley Math Circle,2024,Honorable Mention,,21
+1794,Atticus Lin,The Nueva School,2024,Honorable Mention,,21
+21,David Fox,Proof School,2024,Honorable Mention,,21
+2360,Joey Guo,The Nueva School,2024,Honorable Mention,,21
+2418,Alice Wang,Bayside Academy,2024,Honorable Mention,,21
+1053,Eric Zhang,The Harker School,2024,Honorable Mention,,21
+2419,Sohum Tavisala,Harvest Park MS,2024,Honorable Mention,,21
+2420,Aiden Shan,Bowditch Middle School,2024,Honorable Mention,,21
+2421,Chris Xu,Bayside Academy,2024,Honorable Mention,,21
+2422,Daniel Luo,Ellen Fletcher Middle School,2024,Honorable Mention,,21
+2423,Ava Berenji,Davidson Academy Online,2024,Honorable Mention,,21
+2424,Tiffany Meng,Bayside Academy,2024,Honorable Mention,,21
+2370,Junu Pae,Pacific Trails Middle School,2024,Honorable Mention,,21
+2352,Jayden Gong,Pinewood,2024,Honorable Mention,,21
+2358,Cris Chai,Proof School,2024,Honorable Mention,,21
+1731,Yanlin Huang,Basis Independent Silicon Valley,2024,Honorable Mention,,21
+2425,Vedanth Chakravarthi,San Jose Math Circle,2024,Honorable Mention,,21
+1722,Temujin Battulga,Ellen Fletcher Middle School,2024,Honorable Mention,,21
+2426,Phuong Le,Egan Junior High School,2024,Honorable Mention,,21

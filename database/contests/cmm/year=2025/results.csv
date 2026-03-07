@@ -1,11 +1,11 @@
-student_id,student_name,state,rank
-99,Rohan Bodke,California,1
-96,Tiger Zhang,California,2
-331,Ritwin Narra,California,3
-28,Rohan Nayak Mallick,California,4
-55,Zongshu Wu,California,5
-113,Feodor Yevtushenko,California,6
-884,Shihan Kanungo,California,7
-21,David Fox,California,8
-402,Christopher Bao,Nevada,9
-482,David Zhang,California,10
+student_id,student_name,state,rank,mcp_rank
+99,Rohan Bodke,California,1,1
+96,Tiger Zhang,California,2,2
+331,Ritwin Narra,California,3,3
+28,Rohan Nayak Mallick,California,4,4
+55,Zongshu Wu,California,5,5
+113,Feodor Yevtushenko,California,6,6
+884,Shihan Kanungo,California,7,7
+21,David Fox,California,8,8
+402,Christopher Bao,Nevada,9,9
+482,David Zhang,California,10,10

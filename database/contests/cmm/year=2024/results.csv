@@ -1,11 +1,11 @@
-student_id,student_name,state,rank
-96,Qiao Zhang,California,1
-117,Advaith Avadhanam,California,2
-1251,Jerry Guo,California,3
-398,Neal Yan,California,4
-972,Eddy Li,California,5
-1205,Brian Bi,,6
-1326,Yufei Chen,California,7
-365,Harish Loghashankar,California,8
-118,Linus Tang,Nevada,9
-99,Rohan Bodke,California,10
+student_id,student_name,state,rank,mcp_rank
+96,Qiao Zhang,California,1,1
+117,Advaith Avadhanam,California,2,2
+1251,Jerry Guo,California,3,3
+398,Neal Yan,California,4,4
+972,Eddy Li,California,5,5
+1205,Brian Bi,,6,6
+1326,Yufei Chen,California,7,7
+365,Harish Loghashankar,California,8,8
+118,Linus Tang,Nevada,9,9
+99,Rohan Bodke,California,10,10

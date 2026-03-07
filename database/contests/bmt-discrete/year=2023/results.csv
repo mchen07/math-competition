@@ -1,98 +1,97 @@
-student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score
-118,Linus Tang,2023,Discrete,007A,AlphaStar PI,AlphaStar Academy,Top Scores,1,9
-138,Alex Zhao,2023,Discrete,118A,WA Gold 1,Seattle Infinity Math Circle,Top Scores,2,9
-99,Rohan Bodke,2023,Discrete,007B,AlphaStar PI,AlphaStar Academy,Top Scores,3,9
-907,Brian Xue,2023,Discrete,030F,Lynbrook Purple,Lynbrook HS,Top Scores,4,8
-402,Christopher Bao,2023,Discrete,007C,AlphaStar PI,AlphaStar Academy,Top Scores,5,8
-331,Ritwin Narra,2023,Discrete,007F,AlphaStar PI,AlphaStar Academy,Top Scores,6,8
-25,Rohan Garg,2023,Discrete,003B,AlphaStar SIGMA,AlphaStar Academy,Top Scores,6,8
-9,Jonathan Du,2023,Discrete,003E,AlphaStar SIGMA,AlphaStar Academy,Top Scores,8,7
-90,Rohan Das,2023,Discrete,007D,AlphaStar PI,AlphaStar Academy,Top Scores,8,7
-945,Alex Chen,2023,Discrete,007E,AlphaStar PI,AlphaStar Academy,Top Scores,8,7
-444,Michelle Liang,2023,Discrete,017D,CCA Conspiracy,Canyon Crest Academy Math Team,Top Scores,8,7
-978,Evan Yang,2023,Discrete,027E,MSJ A,MSJ Math Club,Top Scores,8,7
-164,Steve Zhang,2023,Discrete,039E,GMC Acacia,Henry M. Gunn HS,Top Scores,8,7
-439,Victoria Hu,2023,Discrete,043B,Saratoga 1,Saratoga HS,Top Scores,8,7
-83,Skyler Mao,2023,Discrete,043D,Saratoga 1,Saratoga HS,Top Scores,8,7
-483,Lawson Wang,2023,Discrete,043F,Saratoga 1,Saratoga HS,Top Scores,8,7
-96,Qiao Zhang,2023,Discrete,057C,Sierra Canyon School,Sierra Canyon School,Top Scores,8,7
-482,David Zhang,2023,Discrete,074F,DVHS Wildkitties 1,Dougherty Valley HS,Top Scores,8,7
-679,William Wu,2023,Discrete,111F,Team A,Monta Vista HS,Top Scores,8,7
-1090,Immanuel Whang,2023,Discrete,118B,WA Gold 1,Seattle Infinity Math Circle,Top Scores,8,7
-205,Mingyue Yang,2023,Discrete,118D,WA Gold 1,Seattle Infinity Math Circle,Top Scores,8,7
-1924,Uma Shukla,2023,Discrete,122D,LCHS,La Canada HS,Top Scores,8,7
-1058,Aiden Jeong,2023,Discrete,003A,,,Distinguished HM (Top 20%),,
-1947,Tejo Madhavarapu,2023,Discrete,005B,,,Distinguished HM (Top 20%),,
-1827,Pranav Bodapati,2023,Discrete,011A,,,Distinguished HM (Top 20%),,
-1832,Andrew Tian,2023,Discrete,015E,,,Distinguished HM (Top 20%),,
-1948,Ethan K Song,2023,Discrete,017C,,,Distinguished HM (Top 20%),,
-665,Sohil Rathi,2023,Discrete,030D,,,Distinguished HM (Top 20%),,
-1431,Neel Kolhe,2023,Discrete,030E,,,Distinguished HM (Top 20%),,
-211,Chenghao Hu,2023,Discrete,034A,,,Distinguished HM (Top 20%),,
-365,Harish Loghashankar,2023,Discrete,034C,,,Distinguished HM (Top 20%),,
-622,Josh Shin,2023,Discrete,039C,,,Distinguished HM (Top 20%),,
-1949,Emily Wu,2023,Discrete,044A,,,Distinguished HM (Top 20%),,
-887,Neil Krishnan,2023,Discrete,046B,,,Distinguished HM (Top 20%),,
-730,Dev Saxena,2023,Discrete,064F,,,Distinguished HM (Top 20%),,
-1371,Zaee Shah,2023,Discrete,080C,,,Distinguished HM (Top 20%),,
-1922,Sidarth Erat,2023,Discrete,105C,,,Distinguished HM (Top 20%),,
-113,Feodor Yevtushenko,2023,Discrete,115B,,,Distinguished HM (Top 20%),,
-292,Justin Mu,2023,Discrete,115E,,,Distinguished HM (Top 20%),,
-1932,Rohan Dhillon,2023,Discrete,117E,,,Distinguished HM (Top 20%),,
-416,Onkit Samanta,2023,Discrete,117F,,,Distinguished HM (Top 20%),,
-1901,Neal Frankenberg,2023,Discrete,122A,,,Distinguished HM (Top 20%),,
-58,Hannah Fox,2023,Discrete,003C,,,Honorable Mention (Top 50%),,
-1250,Peter Ferolito,2023,Discrete,003D,,,Honorable Mention (Top 50%),,
-433,Aarush Khare,2023,Discrete,003F,,,Honorable Mention (Top 50%),,
-1824,Eddie Wang,2023,Discrete,004E,,,Honorable Mention (Top 50%),,
-1359,Alena Kutsuk,2023,Discrete,005E,,,Honorable Mention (Top 50%),,
-1828,Brianna Zheng,2023,Discrete,011B,,,Honorable Mention (Top 50%),,
-1345,Anna Deng,2023,Discrete,014B,,,Honorable Mention (Top 50%),,
-338,Katrina Liu,2023,Discrete,015B,,,Honorable Mention (Top 50%),,
-1831,Alex Backues,2023,Discrete,015C,,,Honorable Mention (Top 50%),,
-992,Aidan Bai,2023,Discrete,015D,,,Honorable Mention (Top 50%),,
-422,Ryan Bai,2023,Discrete,017A,,,Honorable Mention (Top 50%),,
-1268,Larry Wu,2023,Discrete,017F,,,Honorable Mention (Top 50%),,
-1912,Gore Fee,2023,Discrete,018B,,,Honorable Mention (Top 50%),,
-1838,Yuan Chen,2023,Discrete,019C,,,Honorable Mention (Top 50%),,
-1262,Advaith Mopuri,2023,Discrete,027C,,,Honorable Mention (Top 50%),,
-1849,Varun Rao,2023,Discrete,027D,,,Honorable Mention (Top 50%),,
-1850,Abhinav Raja,2023,Discrete,028B,,,Honorable Mention (Top 50%),,
-1851,Zachary Pan,2023,Discrete,028C,,,Honorable Mention (Top 50%),,
-1937,Veeral Shroff,2023,Discrete,028D,,,Honorable Mention (Top 50%),,
-1938,Lucas Yuan,2023,Discrete,032C,,,Honorable Mention (Top 50%),,
-19,Vihaan Gupta,2023,Discrete,034B,,,Honorable Mention (Top 50%),,
-38,Andy Lu,2023,Discrete,034D,,,Honorable Mention (Top 50%),,
-1939,Kristiyan Kurtev,2023,Discrete,036E,,,Honorable Mention (Top 50%),,
-1857,Henry He,2023,Discrete,036F,,,Honorable Mention (Top 50%),,
-884,Shihan Kanungo,2023,Discrete,039A,,,Honorable Mention (Top 50%),,
-166,Roger Fan,2023,Discrete,039D,,,Honorable Mention (Top 50%),,
-929,Nathan Ye,2023,Discrete,039F,,,Honorable Mention (Top 50%),,
-1916,Nicholas Weng,2023,Discrete,041A,,,Honorable Mention (Top 50%),,
-516,Bryan Li,2023,Discrete,043A,,,Honorable Mention (Top 50%),,
-885,Aarush Vailaya,2023,Discrete,046D,,,Honorable Mention (Top 50%),,
-1397,Sylvia Chen,2023,Discrete,047B,,,Honorable Mention (Top 50%),,
-1867,Kyle Lei,2023,Discrete,052C,,,Honorable Mention (Top 50%),,
-1493,Daniel Yang,2023,Discrete,053F,,,Honorable Mention (Top 50%),,
-1940,Alex Bai,2023,Discrete,057B,,,Honorable Mention (Top 50%),,
-1941,Matthew Fakler,2023,Discrete,064A,,,Honorable Mention (Top 50%),,
-21,David Fox,2023,Discrete,069E,,,Honorable Mention (Top 50%),,
-1919,Agniv Sarkar,2023,Discrete,069F,,,Honorable Mention (Top 50%),,
-1942,Rivka Lipkovitz,2023,Discrete,070F,,,Honorable Mention (Top 50%),,
-1943,Taran Ajith,2023,Discrete,073C,,,Honorable Mention (Top 50%),,
-1878,Ankit Muppala,2023,Discrete,074B,,,Honorable Mention (Top 50%),,
-1881,Isaac Lee,2023,Discrete,076B,,,Honorable Mention (Top 50%),,
-1944,Christopher Chen,2023,Discrete,096A,,,Honorable Mention (Top 50%),,
-878,Andrew Wen,2023,Discrete,099B,,,Honorable Mention (Top 50%),,
-1648,Andrew Wang,2023,Discrete,100C,,,Honorable Mention (Top 50%),,
-1123,Aaron Chen,2023,Discrete,115C,,,Honorable Mention (Top 50%),,
-303,Alansha Jiang,2023,Discrete,118F,,,Honorable Mention (Top 50%),,
-1902,Blake Chang,2023,Discrete,122E,,,Honorable Mention (Top 50%),,
-1905,Zheyuan Li,2023,Discrete,123C,,,Honorable Mention (Top 50%),,
-1906,Henry McNamara,2023,Discrete,123E,,,Honorable Mention (Top 50%),,
-1945,Tommy Zhou,2023,Discrete,124F,,,Honorable Mention (Top 50%),,
-97,Eric Wang,2023,Discrete,125B,,,Honorable Mention (Top 50%),,
-1910,Amudhan Gurumoorthy,2023,Discrete,125D,,,Honorable Mention (Top 50%),,
-1946,Ivan Yu,2023,Discrete,125E,,,Honorable Mention (Top 50%),,
-1911,Sanya Badhe,2023,Discrete,126D,,,Honorable Mention (Top 50%),,
-
+student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score,mcp_rank
+118,Linus Tang,2023,Discrete,007A,AlphaStar PI,AlphaStar Academy,Top Scores,1,9,1
+138,Alex Zhao,2023,Discrete,118A,WA Gold 1,Seattle Infinity Math Circle,Top Scores,2,9,2
+99,Rohan Bodke,2023,Discrete,007B,AlphaStar PI,AlphaStar Academy,Top Scores,3,9,3
+907,Brian Xue,2023,Discrete,030F,Lynbrook Purple,Lynbrook HS,Top Scores,4,8,4
+402,Christopher Bao,2023,Discrete,007C,AlphaStar PI,AlphaStar Academy,Top Scores,5,8,5
+331,Ritwin Narra,2023,Discrete,007F,AlphaStar PI,AlphaStar Academy,Top Scores,6,8,6.5
+25,Rohan Garg,2023,Discrete,003B,AlphaStar SIGMA,AlphaStar Academy,Top Scores,6,8,6.5
+9,Jonathan Du,2023,Discrete,003E,AlphaStar SIGMA,AlphaStar Academy,Top Scores,8,7,15
+90,Rohan Das,2023,Discrete,007D,AlphaStar PI,AlphaStar Academy,Top Scores,8,7,15
+945,Alex Chen,2023,Discrete,007E,AlphaStar PI,AlphaStar Academy,Top Scores,8,7,15
+444,Michelle Liang,2023,Discrete,017D,CCA Conspiracy,Canyon Crest Academy Math Team,Top Scores,8,7,15
+978,Evan Yang,2023,Discrete,027E,MSJ A,MSJ Math Club,Top Scores,8,7,15
+164,Steve Zhang,2023,Discrete,039E,GMC Acacia,Henry M. Gunn HS,Top Scores,8,7,15
+439,Victoria Hu,2023,Discrete,043B,Saratoga 1,Saratoga HS,Top Scores,8,7,15
+83,Skyler Mao,2023,Discrete,043D,Saratoga 1,Saratoga HS,Top Scores,8,7,15
+483,Lawson Wang,2023,Discrete,043F,Saratoga 1,Saratoga HS,Top Scores,8,7,15
+96,Qiao Zhang,2023,Discrete,057C,Sierra Canyon School,Sierra Canyon School,Top Scores,8,7,15
+482,David Zhang,2023,Discrete,074F,DVHS Wildkitties 1,Dougherty Valley HS,Top Scores,8,7,15
+679,William Wu,2023,Discrete,111F,Team A,Monta Vista HS,Top Scores,8,7,15
+1090,Immanuel Whang,2023,Discrete,118B,WA Gold 1,Seattle Infinity Math Circle,Top Scores,8,7,15
+205,Mingyue Yang,2023,Discrete,118D,WA Gold 1,Seattle Infinity Math Circle,Top Scores,8,7,15
+1924,Uma Shukla,2023,Discrete,122D,LCHS,La Canada HS,Top Scores,8,7,15
+1058,Aiden Jeong,2023,Discrete,003A,,,Distinguished HM (Top 20%),,,
+1947,Tejo Madhavarapu,2023,Discrete,005B,,,Distinguished HM (Top 20%),,,
+1827,Pranav Bodapati,2023,Discrete,011A,,,Distinguished HM (Top 20%),,,
+1832,Andrew Tian,2023,Discrete,015E,,,Distinguished HM (Top 20%),,,
+1948,Ethan K Song,2023,Discrete,017C,,,Distinguished HM (Top 20%),,,
+665,Sohil Rathi,2023,Discrete,030D,,,Distinguished HM (Top 20%),,,
+1431,Neel Kolhe,2023,Discrete,030E,,,Distinguished HM (Top 20%),,,
+211,Chenghao Hu,2023,Discrete,034A,,,Distinguished HM (Top 20%),,,
+365,Harish Loghashankar,2023,Discrete,034C,,,Distinguished HM (Top 20%),,,
+622,Josh Shin,2023,Discrete,039C,,,Distinguished HM (Top 20%),,,
+1949,Emily Wu,2023,Discrete,044A,,,Distinguished HM (Top 20%),,,
+887,Neil Krishnan,2023,Discrete,046B,,,Distinguished HM (Top 20%),,,
+730,Dev Saxena,2023,Discrete,064F,,,Distinguished HM (Top 20%),,,
+1371,Zaee Shah,2023,Discrete,080C,,,Distinguished HM (Top 20%),,,
+1922,Sidarth Erat,2023,Discrete,105C,,,Distinguished HM (Top 20%),,,
+113,Feodor Yevtushenko,2023,Discrete,115B,,,Distinguished HM (Top 20%),,,
+292,Justin Mu,2023,Discrete,115E,,,Distinguished HM (Top 20%),,,
+1932,Rohan Dhillon,2023,Discrete,117E,,,Distinguished HM (Top 20%),,,
+416,Onkit Samanta,2023,Discrete,117F,,,Distinguished HM (Top 20%),,,
+1901,Neal Frankenberg,2023,Discrete,122A,,,Distinguished HM (Top 20%),,,
+58,Hannah Fox,2023,Discrete,003C,,,Honorable Mention (Top 50%),,,
+1250,Peter Ferolito,2023,Discrete,003D,,,Honorable Mention (Top 50%),,,
+433,Aarush Khare,2023,Discrete,003F,,,Honorable Mention (Top 50%),,,
+1824,Eddie Wang,2023,Discrete,004E,,,Honorable Mention (Top 50%),,,
+1359,Alena Kutsuk,2023,Discrete,005E,,,Honorable Mention (Top 50%),,,
+1828,Brianna Zheng,2023,Discrete,011B,,,Honorable Mention (Top 50%),,,
+1345,Anna Deng,2023,Discrete,014B,,,Honorable Mention (Top 50%),,,
+338,Katrina Liu,2023,Discrete,015B,,,Honorable Mention (Top 50%),,,
+1831,Alex Backues,2023,Discrete,015C,,,Honorable Mention (Top 50%),,,
+992,Aidan Bai,2023,Discrete,015D,,,Honorable Mention (Top 50%),,,
+422,Ryan Bai,2023,Discrete,017A,,,Honorable Mention (Top 50%),,,
+1268,Larry Wu,2023,Discrete,017F,,,Honorable Mention (Top 50%),,,
+1912,Gore Fee,2023,Discrete,018B,,,Honorable Mention (Top 50%),,,
+1838,Yuan Chen,2023,Discrete,019C,,,Honorable Mention (Top 50%),,,
+1262,Advaith Mopuri,2023,Discrete,027C,,,Honorable Mention (Top 50%),,,
+1849,Varun Rao,2023,Discrete,027D,,,Honorable Mention (Top 50%),,,
+1850,Abhinav Raja,2023,Discrete,028B,,,Honorable Mention (Top 50%),,,
+1851,Zachary Pan,2023,Discrete,028C,,,Honorable Mention (Top 50%),,,
+1937,Veeral Shroff,2023,Discrete,028D,,,Honorable Mention (Top 50%),,,
+1938,Lucas Yuan,2023,Discrete,032C,,,Honorable Mention (Top 50%),,,
+19,Vihaan Gupta,2023,Discrete,034B,,,Honorable Mention (Top 50%),,,
+38,Andy Lu,2023,Discrete,034D,,,Honorable Mention (Top 50%),,,
+1939,Kristiyan Kurtev,2023,Discrete,036E,,,Honorable Mention (Top 50%),,,
+1857,Henry He,2023,Discrete,036F,,,Honorable Mention (Top 50%),,,
+884,Shihan Kanungo,2023,Discrete,039A,,,Honorable Mention (Top 50%),,,
+166,Roger Fan,2023,Discrete,039D,,,Honorable Mention (Top 50%),,,
+929,Nathan Ye,2023,Discrete,039F,,,Honorable Mention (Top 50%),,,
+1916,Nicholas Weng,2023,Discrete,041A,,,Honorable Mention (Top 50%),,,
+516,Bryan Li,2023,Discrete,043A,,,Honorable Mention (Top 50%),,,
+885,Aarush Vailaya,2023,Discrete,046D,,,Honorable Mention (Top 50%),,,
+1397,Sylvia Chen,2023,Discrete,047B,,,Honorable Mention (Top 50%),,,
+1867,Kyle Lei,2023,Discrete,052C,,,Honorable Mention (Top 50%),,,
+1493,Daniel Yang,2023,Discrete,053F,,,Honorable Mention (Top 50%),,,
+1940,Alex Bai,2023,Discrete,057B,,,Honorable Mention (Top 50%),,,
+1941,Matthew Fakler,2023,Discrete,064A,,,Honorable Mention (Top 50%),,,
+21,David Fox,2023,Discrete,069E,,,Honorable Mention (Top 50%),,,
+1919,Agniv Sarkar,2023,Discrete,069F,,,Honorable Mention (Top 50%),,,
+1942,Rivka Lipkovitz,2023,Discrete,070F,,,Honorable Mention (Top 50%),,,
+1943,Taran Ajith,2023,Discrete,073C,,,Honorable Mention (Top 50%),,,
+1878,Ankit Muppala,2023,Discrete,074B,,,Honorable Mention (Top 50%),,,
+1881,Isaac Lee,2023,Discrete,076B,,,Honorable Mention (Top 50%),,,
+1944,Christopher Chen,2023,Discrete,096A,,,Honorable Mention (Top 50%),,,
+878,Andrew Wen,2023,Discrete,099B,,,Honorable Mention (Top 50%),,,
+1648,Andrew Wang,2023,Discrete,100C,,,Honorable Mention (Top 50%),,,
+1123,Aaron Chen,2023,Discrete,115C,,,Honorable Mention (Top 50%),,,
+303,Alansha Jiang,2023,Discrete,118F,,,Honorable Mention (Top 50%),,,
+1902,Blake Chang,2023,Discrete,122E,,,Honorable Mention (Top 50%),,,
+1905,Zheyuan Li,2023,Discrete,123C,,,Honorable Mention (Top 50%),,,
+1906,Henry McNamara,2023,Discrete,123E,,,Honorable Mention (Top 50%),,,
+1945,Tommy Zhou,2023,Discrete,124F,,,Honorable Mention (Top 50%),,,
+97,Eric Wang,2023,Discrete,125B,,,Honorable Mention (Top 50%),,,
+1910,Amudhan Gurumoorthy,2023,Discrete,125D,,,Honorable Mention (Top 50%),,,
+1946,Ivan Yu,2023,Discrete,125E,,,Honorable Mention (Top 50%),,,
+1911,Sanya Badhe,2023,Discrete,126D,,,Honorable Mention (Top 50%),,,

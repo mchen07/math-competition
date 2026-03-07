@@ -1,11 +1,11 @@
-student_id,student_name,year,rank,score
-89,Jordan Lefkowitz,2024,1,35.82
-34,Jiahe Liu,2024,2,30.43
-59,Henry Jiang,2024,3,30.39
-123,Vivian Loh,2024,4,29.24
-23,Jeffrey Yin,2024,4,29.24
-86,Vikram Sarkar,2024,4,29.24
-46,Ray Zhao,2024,7,27.17
-324,Benjamin Yin,2024,7,27.17
-281,Andrew Xing,2024,7,27.17
-172,Sumedh Vangara,2024,7,27.17
+student_id,student_name,year,rank,score,mcp_rank
+89,Jordan Lefkowitz,2024,1,35.82,1
+34,Jiahe Liu,2024,2,30.43,2
+59,Henry Jiang,2024,3,30.39,3
+123,Vivian Loh,2024,4,29.24,5
+23,Jeffrey Yin,2024,4,29.24,5
+86,Vikram Sarkar,2024,4,29.24,5
+46,Ray Zhao,2024,7,27.17,8.5
+324,Benjamin Yin,2024,7,27.17,8.5
+281,Andrew Xing,2024,7,27.17,8.5
+172,Sumedh Vangara,2024,7,27.17,8.5

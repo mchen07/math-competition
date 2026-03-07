@@ -1,57 +1,57 @@
-student_id,student_name,state,year,rank,grade
-32,Ben Jiang,Florida,2024,1,8
-65,Selena Ge,Massachusetts,2024,2,8
-42,Benjamin Song,New York,2024,S (Semi-finalist),8
-383,Laura Wang,Washington,2024,S (Semi-finalist),8
-56,Channing Yang,Texas,2024,Q (Quarter-finalist),8
-77,Shunyao Yan,Virginia,2024,Q (Quarter-finalist),8
-8,Vincent Wang,Texas,2024,Q (Quarter-finalist),8
-341,Alex Zhan,California,2024,Q (Quarter-finalist),8
-352,Eric Ding,Minnesota,2024,C (9-12),8
-28,Rohan Nayak Mallick,California,2024,C (9-12),8
-284,Alex Liu,Virginia,2024,C (9-12),8
-809,Advait Joshi,New Jersey,2024,C (9-12),6
-810,Danyang Xu,Massachusetts,2024,13,8
-232,Aashita Mandiwal,Utah,2024,14,7
-389,Keshav Karumbunathan,Oregon,2024,15,8
-811,Brandon Ni,Massachusetts,2024,16,6
-323,Isaac Chan-Osborn,Illinois,2024,17,7
-694,Christopher Sakaliyski,Illinois,2024,18,8
-812,Drake Tan,Texas,2024,19,8
-813,Joseph Liang,Oregon,2024,20,8
-6,Jefferson Zhou,Minnesota,2024,21,8
-814,Rayoon Kim,Pennsylvania,2024,22,8
-660,Quentin Hill,Arizona,2024,23,8
-14,Nathan Liu,Texas,2024,24,7
-729,Julian Kuang,Nevada,2024,25,8
-815,Puranjay Madupu,Arizona,2024,26,7
-816,Vivek Kalyankar,Arkansas,2024,27,6
-817,Girish Prasad,Connecticut,2024,28,8
-41,Eddy Zhang,Pennsylvania,2024,29,8
-818,Jonathan Wu,Utah,2024,30,7
-802,Arush Krisp,Ohio,2024,31,8
-819,William Shan,Arizona,2024,32,8
-820,Anirudh Pulugurtha,New Hampshire,2024,33,8
-821,Taiwen Feng,Michigan,2024,34,8
-822,Charlie Wang,Alaska,2024,35,8
-318,David Yu,Maryland,2024,36,8
-823,Daniel Wei,Florida,2024,37,8
-824,Wesley Wu,Washington,2024,38,8
-394,Alexander Yang,Washington,2024,39,7
-826,Max Tsai,Nevada,2024,40,7
-827,Easton Wei,New Jersey,2024,41,7
-828,Henry Wang,North Carolina,2024,42,7
-829,Joseph Girotto,Connecticut,2024,43,8
-343,Jason Lee,North Carolina,2024,44,8
-830,Rajarshi Mandal,Massachusetts,2024,45,8
-797,Bowen Shan,Arizona,2024,46,7
-831,Alex Gao,Indiana,2024,47,8
-371,Akshaj Arora,Georgia,2024,48,8
-801,Leo Hong,North Carolina,2024,49,7
-832,Bryant Yu,Wisconsin,2024,50,8
-833,Marty Ho,Georgia,2024,51,8
-834,Henry Lu,Ohio,2024,52,7
-835,Sean Lee,State Department,2024,53,8
-836,Ethan Wang,New Jersey,2024,54,8
-1447,William Wu,Illinois,2024,55,6
-837,Evan Ho,Hawaii,2024,56,8
+student_id,student_name,state,year,rank,grade,mcp_rank
+32,Ben Jiang,Florida,2024,1,8,1
+65,Selena Ge,Massachusetts,2024,2,8,2
+42,Benjamin Song,New York,2024,S (Semi-finalist),8,3.5
+383,Laura Wang,Washington,2024,S (Semi-finalist),8,3.5
+56,Channing Yang,Texas,2024,Q (Quarter-finalist),8,6.5
+77,Shunyao Yan,Virginia,2024,Q (Quarter-finalist),8,6.5
+8,Vincent Wang,Texas,2024,Q (Quarter-finalist),8,6.5
+341,Alex Zhan,California,2024,Q (Quarter-finalist),8,6.5
+352,Eric Ding,Minnesota,2024,C (9-12),8,10.5
+28,Rohan Nayak Mallick,California,2024,C (9-12),8,10.5
+284,Alex Liu,Virginia,2024,C (9-12),8,10.5
+809,Advait Joshi,New Jersey,2024,C (9-12),6,10.5
+810,Danyang Xu,Massachusetts,2024,13,8,13
+232,Aashita Mandiwal,Utah,2024,14,7,14
+389,Keshav Karumbunathan,Oregon,2024,15,8,15
+811,Brandon Ni,Massachusetts,2024,16,6,16
+323,Isaac Chan-Osborn,Illinois,2024,17,7,17
+694,Christopher Sakaliyski,Illinois,2024,18,8,18
+812,Drake Tan,Texas,2024,19,8,19
+813,Joseph Liang,Oregon,2024,20,8,20
+6,Jefferson Zhou,Minnesota,2024,21,8,21
+814,Rayoon Kim,Pennsylvania,2024,22,8,22
+660,Quentin Hill,Arizona,2024,23,8,23
+14,Nathan Liu,Texas,2024,24,7,24
+729,Julian Kuang,Nevada,2024,25,8,25
+815,Puranjay Madupu,Arizona,2024,26,7,26
+816,Vivek Kalyankar,Arkansas,2024,27,6,27
+817,Girish Prasad,Connecticut,2024,28,8,28
+41,Eddy Zhang,Pennsylvania,2024,29,8,29
+818,Jonathan Wu,Utah,2024,30,7,30
+802,Arush Krisp,Ohio,2024,31,8,31
+819,William Shan,Arizona,2024,32,8,32
+820,Anirudh Pulugurtha,New Hampshire,2024,33,8,33
+821,Taiwen Feng,Michigan,2024,34,8,34
+822,Charlie Wang,Alaska,2024,35,8,35
+318,David Yu,Maryland,2024,36,8,36
+823,Daniel Wei,Florida,2024,37,8,37
+824,Wesley Wu,Washington,2024,38,8,38
+394,Alexander Yang,Washington,2024,39,7,39
+826,Max Tsai,Nevada,2024,40,7,40
+827,Easton Wei,New Jersey,2024,41,7,41
+828,Henry Wang,North Carolina,2024,42,7,42
+829,Joseph Girotto,Connecticut,2024,43,8,43
+343,Jason Lee,North Carolina,2024,44,8,44
+830,Rajarshi Mandal,Massachusetts,2024,45,8,45
+797,Bowen Shan,Arizona,2024,46,7,46
+831,Alex Gao,Indiana,2024,47,8,47
+371,Akshaj Arora,Georgia,2024,48,8,48
+801,Leo Hong,North Carolina,2024,49,7,49
+832,Bryant Yu,Wisconsin,2024,50,8,50
+833,Marty Ho,Georgia,2024,51,8,51
+834,Henry Lu,Ohio,2024,52,7,52
+835,Sean Lee,State Department,2024,53,8,53
+836,Ethan Wang,New Jersey,2024,54,8,54
+1447,William Wu,Illinois,2024,55,6,55
+837,Evan Ho,Hawaii,2024,56,8,56

@@ -1,51 +1,51 @@
-student_id,student_name,year,rank,score
-1,Alexander Wang,2026,1,40.23
-2,Bryan Sicheng Guo,2026,1,40.23
-5,Tianyi Li,2026,3,40.16
-4,Liam Reddy,2026,4,40.08
-11,Dou Lai,2026,5,32.67
-6,Jefferson Tiger Zhou,2026,5,32.67
-15,Jiayu Ellie Su,2026,5,32.67
-3,Oron Wang,2026,8,32.59
-44,Krithik Manoharan,2026,8,32.59
-8,Vincent Wang,2026,10,28.56
-41,Eddy Zhang,2026,11,28.52
-252,Arnav Iyengar,2026,12,27.32
-16,James Stewart,2026,13,27.24
-38,Andy Lu,2026,14,25.17
-14,Nathan Liu,2026,14,25.17
-62,Evan Fan,2026,14,25.17
-31,Lewis Lau,2026,14,25.17
-32,Benjamin Jiang,2026,14,25.17
-39,Maxwell Sun,2026,14,25.17
-29,Patrick Du,2026,14,25.17
-10,Ruilin Wang,2026,14,25.17
-24,Ruien Chen,2026,14,25.17
-33,Roger Zhen,2026,14,25.17
-367,Aryan Shome,2026,14,25.17
-19,Vihaan Gupta,2026,14,25.17
-238,Shamik Khowala,2026,14,25.17
-21,David Fox,2026,14,25.17
-25,Rohan Garg,2026,14,25.17
-17,Dylan Wang,2026,14,25.17
-366,Ethan Kun Song,2026,14,25.17
-368,Sepehr Salehi Golsefidy,2026,14,25.17
-369,Mark Tokarev,2026,14,25.17
-12,Alan Cheng,2026,14,25.17
-30,Eric Dai,2026,14,25.17
-27,Bolei Wang,2026,35,24.15
-323,Isaac Chan-Osborn,2026,36,24.08
-40,Darsh Patel,2026,37,23.46
-13,Michael Zhao,2026,38,23.35
-69,Connor Leong,2026,38,23.35
-34,Jiahe Liu,2026,40,23.24
-370,Victor Chen,2026,41,22.11
-42,Benjamin Song,2026,42,22.01
-204,Alexander Svoronos,2026,43,21.96
-236,Jennifer Zhou,2026,44,21.14
-371,Akshaj Arora,2026,45,21.07
-26,Ryan Li,2026,45,21.07
-47,Shaohuan Zhang,2026,45,21.07
-293,Gabriel Levin,2026,45,21.07
-372,Eric Shu,2026,45,21.07
-36,Jialai She,2026,45,21.07
+student_id,student_name,year,rank,score,mcp_rank
+1,Alexander Wang,2026,1,40.23,1.5
+2,Bryan Sicheng Guo,2026,1,40.23,1.5
+5,Tianyi Li,2026,3,40.16,3
+4,Liam Reddy,2026,4,40.08,4
+11,Dou Lai,2026,5,32.67,6
+6,Jefferson Tiger Zhou,2026,5,32.67,6
+15,Jiayu Ellie Su,2026,5,32.67,6
+3,Oron Wang,2026,8,32.59,8.5
+44,Krithik Manoharan,2026,8,32.59,8.5
+8,Vincent Wang,2026,10,28.56,10
+41,Eddy Zhang,2026,11,28.52,11
+252,Arnav Iyengar,2026,12,27.32,12
+16,James Stewart,2026,13,27.24,13
+38,Andy Lu,2026,14,25.17,24
+14,Nathan Liu,2026,14,25.17,24
+62,Evan Fan,2026,14,25.17,24
+31,Lewis Lau,2026,14,25.17,24
+32,Benjamin Jiang,2026,14,25.17,24
+39,Maxwell Sun,2026,14,25.17,24
+29,Patrick Du,2026,14,25.17,24
+10,Ruilin Wang,2026,14,25.17,24
+24,Ruien Chen,2026,14,25.17,24
+33,Roger Zhen,2026,14,25.17,24
+367,Aryan Shome,2026,14,25.17,24
+19,Vihaan Gupta,2026,14,25.17,24
+238,Shamik Khowala,2026,14,25.17,24
+21,David Fox,2026,14,25.17,24
+25,Rohan Garg,2026,14,25.17,24
+17,Dylan Wang,2026,14,25.17,24
+366,Ethan Kun Song,2026,14,25.17,24
+368,Sepehr Salehi Golsefidy,2026,14,25.17,24
+369,Mark Tokarev,2026,14,25.17,24
+12,Alan Cheng,2026,14,25.17,24
+30,Eric Dai,2026,14,25.17,24
+27,Bolei Wang,2026,35,24.15,35
+323,Isaac Chan-Osborn,2026,36,24.08,36
+40,Darsh Patel,2026,37,23.46,37
+13,Michael Zhao,2026,38,23.35,38.5
+69,Connor Leong,2026,38,23.35,38.5
+34,Jiahe Liu,2026,40,23.24,40
+370,Victor Chen,2026,41,22.11,41
+42,Benjamin Song,2026,42,22.01,42
+204,Alexander Svoronos,2026,43,21.96,43
+236,Jennifer Zhou,2026,44,21.14,44
+371,Akshaj Arora,2026,45,21.07,47.5
+26,Ryan Li,2026,45,21.07,47.5
+47,Shaohuan Zhang,2026,45,21.07,47.5
+293,Gabriel Levin,2026,45,21.07,47.5
+372,Eric Shu,2026,45,21.07,47.5
+36,Jialai She,2026,45,21.07,47.5

@@ -1,11 +1,11 @@
-student_id,student_name,year,rank,score
-140,Isabella Zhu,2023,1,48.65
-148,Alan Vladimiroff,2023,2,48.65
-273,Evin Liang,2023,3,46.46
-86,Vikram Sarkar,2023,4,43.43
-10,Ruilin Wang,2023,5,43.37
-136,Jeffrey Chen,2023,5,43.37
-92,Marvin Mao,2023,5,43.37
-400,Kelin Zhu,2023,8,42.23
-89,Jordan Lefkowitz,2023,9,42.16
-451,Hankai Zhang,2023,9,42.16
+student_id,student_name,year,rank,score,mcp_rank
+140,Isabella Zhu,2023,1,48.65,1
+148,Alan Vladimiroff,2023,2,48.65,2
+273,Evin Liang,2023,3,46.46,3
+86,Vikram Sarkar,2023,4,43.43,4
+10,Ruilin Wang,2023,5,43.37,6
+136,Jeffrey Chen,2023,5,43.37,6
+92,Marvin Mao,2023,5,43.37,6
+400,Kelin Zhu,2023,8,42.23,8
+89,Jordan Lefkowitz,2023,9,42.16,9.5
+451,Hankai Zhang,2023,9,42.16,9.5

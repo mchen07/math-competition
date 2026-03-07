@@ -1,31 +1,31 @@
-student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8
-3,Millburn Mathematical Madpeople,Oron Wang,2022,B,1,15.943,1,1,1,1,1,1,0,0
-126,Hotchkiss Blue,Weian Xie,2022,B,2,15.355,1,1,1,1,0,1,0,1
-127,MHSProfessionalJobbers,David Ji,2022,B,3,14.439,1,1,1,1,1,0,0,1
-2305,Just Woo It,Tristan Wan,2022,B,4,13.95,1,1,1,0,0,0,1,1
-2319,PRISMS Young Falcons,Zhifei Sigma Liu,2022,B,5,11.318,1,1,1,1,1,0,0,0
-1686,Pingry Team A,Leo Xu,2022,B,6,10.731,1,1,1,1,0,0,0,1
-979,Jericho High School A,Haocheng Zhang,2022,B,6,10.731,1,1,1,1,0,0,0,1
-949,CRH Math Team,Peyton Li,2022,B,6,10.731,1,1,1,1,0,0,0,1
-1859,Warriors,Benjamin Liu,2022,B,9,9.242,0,1,1,1,0,0,0,1
-407,Pingry Team A,Elbert Ho,2022,B,10,7.61,1,1,1,1,0,0,0,0
-657,Big L Club,Kevin Zhang,2022,B,11,7.08,1,0,1,0,1,0,0,0
-2263,Knights Beta,Sujay Konda,2022,B,12,6.828,0,0,0,0,1,0,0,1
-2320,Individuals Team 152,Cody Cheng,2022,B,13,6.708,1,0,0,1,0,0,0,1
-2406,Ward Melville Math Team,Alex Huang,2022,B,14,6.122,0,1,1,1,0,0,0,0
-2321,Individuals Team 153,Yaliang Yuan,2022,B,15,5.727,1,1,0,1,0,0,0,0
-1940,Sierra Canyon School,Alex Bai,2022,B,15,5.727,1,1,0,1,0,0,0,0
-1712,Garnet Valley Math Team,Benjamin Wu,2022,B,17,5.512,1,1,1,0,0,0,0,0
-2265,Sierra Canyon School,Dylan Ochoa,2022,B,17,5.512,1,1,1,0,0,0,0,0
-2076,Warriors,Bryan Zhang,2022,B,17,5.512,1,1,1,0,0,0,0,0
-2322,Big L Club,Renee Hong,2022,B,17,5.512,1,1,1,0,0,0,0,0
-2008,Ridge Mu Alpha Theta,Wesley Chen,2022,B,21,5.471,1,0,1,1,0,0,0,0
-1393,CRLS Omega,Charlotte Younger,2022,B,21,5.471,1,0,1,1,0,0,0,0
-2292,Edison Academy Magnet School,Fnu Prince,2022,B,21,5.471,1,0,1,1,0,0,0,0
-2234,Big L Club,Akshay Gupta,2022,B,24,4.023,0,1,1,0,0,0,0,0
-1652,Hotchkiss Blue,Lindsay Miao,2022,B,24,4.023,0,1,1,0,0,0,0,0
-2227,Pingry Team A,Christian ZhouZheng,2022,B,24,4.023,0,1,1,0,0,0,0,0
-2075,Big L Club,Kishan Bava,2022,B,24,4.023,0,1,1,0,0,0,0,0
-2311,Team :blobcosy:,Aaron Li,2022,B,28,3.982,0,0,1,1,0,0,0,0
-2336,Ward Melville Math Team,Ben Wu,2022,B,29,3.628,1,1,0,0,0,0,0,0
-2306,Individuals Team 152,Matthew Xie,2022,B,29,3.628,1,1,0,0,0,0,0,0
+student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8,mcp_rank
+3,Millburn Mathematical Madpeople,Oron Wang,2022,B,1,15.943,1,1,1,1,1,1,0,0,1
+126,Hotchkiss Blue,Weian Xie,2022,B,2,15.355,1,1,1,1,0,1,0,1,2
+127,MHSProfessionalJobbers,David Ji,2022,B,3,14.439,1,1,1,1,1,0,0,1,3
+2305,Just Woo It,Tristan Wan,2022,B,4,13.95,1,1,1,0,0,0,1,1,4
+2319,PRISMS Young Falcons,Zhifei Sigma Liu,2022,B,5,11.318,1,1,1,1,1,0,0,0,5
+1686,Pingry Team A,Leo Xu,2022,B,6,10.731,1,1,1,1,0,0,0,1,7
+979,Jericho High School A,Haocheng Zhang,2022,B,6,10.731,1,1,1,1,0,0,0,1,7
+949,CRH Math Team,Peyton Li,2022,B,6,10.731,1,1,1,1,0,0,0,1,7
+1859,Warriors,Benjamin Liu,2022,B,9,9.242,0,1,1,1,0,0,0,1,9
+407,Pingry Team A,Elbert Ho,2022,B,10,7.61,1,1,1,1,0,0,0,0,10
+657,Big L Club,Kevin Zhang,2022,B,11,7.08,1,0,1,0,1,0,0,0,11
+2263,Knights Beta,Sujay Konda,2022,B,12,6.828,0,0,0,0,1,0,0,1,12
+2320,Individuals Team 152,Cody Cheng,2022,B,13,6.708,1,0,0,1,0,0,0,1,13
+2406,Ward Melville Math Team,Alex Huang,2022,B,14,6.122,0,1,1,1,0,0,0,0,14
+2321,Individuals Team 153,Yaliang Yuan,2022,B,15,5.727,1,1,0,1,0,0,0,0,15.5
+1940,Sierra Canyon School,Alex Bai,2022,B,15,5.727,1,1,0,1,0,0,0,0,15.5
+1712,Garnet Valley Math Team,Benjamin Wu,2022,B,17,5.512,1,1,1,0,0,0,0,0,18.5
+2265,Sierra Canyon School,Dylan Ochoa,2022,B,17,5.512,1,1,1,0,0,0,0,0,18.5
+2076,Warriors,Bryan Zhang,2022,B,17,5.512,1,1,1,0,0,0,0,0,18.5
+2322,Big L Club,Renee Hong,2022,B,17,5.512,1,1,1,0,0,0,0,0,18.5
+2008,Ridge Mu Alpha Theta,Wesley Chen,2022,B,21,5.471,1,0,1,1,0,0,0,0,22
+1393,CRLS Omega,Charlotte Younger,2022,B,21,5.471,1,0,1,1,0,0,0,0,22
+2292,Edison Academy Magnet School,Fnu Prince,2022,B,21,5.471,1,0,1,1,0,0,0,0,22
+2234,Big L Club,Akshay Gupta,2022,B,24,4.023,0,1,1,0,0,0,0,0,25.5
+1652,Hotchkiss Blue,Lindsay Miao,2022,B,24,4.023,0,1,1,0,0,0,0,0,25.5
+2227,Pingry Team A,Christian ZhouZheng,2022,B,24,4.023,0,1,1,0,0,0,0,0,25.5
+2075,Big L Club,Kishan Bava,2022,B,24,4.023,0,1,1,0,0,0,0,0,25.5
+2311,Team :blobcosy:,Aaron Li,2022,B,28,3.982,0,0,1,1,0,0,0,0,28
+2336,Ward Melville Math Team,Ben Wu,2022,B,29,3.628,1,1,0,0,0,0,0,0,29.5
+2306,Individuals Team 152,Matthew Xie,2022,B,29,3.628,1,1,0,0,0,0,0,0,29.5

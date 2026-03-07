@@ -1,26 +1,26 @@
-student_id,student_name,school,year,rank,score
-98,Elliott Liu,Torrey Pines High School,2024,1,35
-331,Ritwin Narra,Silver Creek High,2024,1,35
-482,David Zhang,Dougherty Valley High School,2024,3,34
-90,Rohan Das,Basis Independent Silicon Valley,2024,4,33
-444,Michelle Liang,Canyon Crest Academy,2024,4,33
-897,Dylan Frake,Cupertino High School,2024,6,32
-78,William Zhao,Dougherty Valley High School,2024,7,31
-25,Rohan Garg,Amador Valley HS,2024,8,30
-9,Jonathan Du,Los Altos High School,2024,9,29
-1761,Thomas Della Vigna,Proof School,2024,9,29
-894,Kailua Cheng,Amador Valley HS,2024,9,29
-1058,Aiden Jeong,Branham High,2024,Honorable Mention,
-972,Eddy Li,The Nueva School,2024,Honorable Mention,
-105,Myungbeen Choi,The Quarry Lane School,2024,Honorable Mention,
-327,Hengrui Liang,The Harker School,2024,Honorable Mention,
-2427,Brandon Muliadi,Cupertino High School,2024,Honorable Mention,
-1065,Amelia Chen,Proof School,2024,Honorable Mention,
-58,Hannah Fox,Proof School,2024,Honorable Mention,
-2428,Spencer Hill,Proof School,2024,Honorable Mention,
-893,Hugh Cheng,Harvard-Westlake,2024,Honorable Mention,
-2429,Lily Shi,The Harker School,2024,Honorable Mention,
-1934,Marius Rutkowski,La Canada HS,2024,Honorable Mention,
-341,Alex Zhan,Basis Independent Silicon Valley,2024,Honorable Mention,
-413,Jacopo Rizzo,Torrey Pines High School,2024,Honorable Mention,
-447,Taiga Nishida,The Nueva School,2024,Honorable Mention,
+student_id,student_name,school,year,rank,score,mcp_rank
+98,Elliott Liu,Torrey Pines High School,2024,1,35,1.5
+331,Ritwin Narra,Silver Creek High,2024,1,35,1.5
+482,David Zhang,Dougherty Valley High School,2024,3,34,3
+90,Rohan Das,Basis Independent Silicon Valley,2024,4,33,4.5
+444,Michelle Liang,Canyon Crest Academy,2024,4,33,4.5
+897,Dylan Frake,Cupertino High School,2024,6,32,6
+78,William Zhao,Dougherty Valley High School,2024,7,31,7
+25,Rohan Garg,Amador Valley HS,2024,8,30,8
+9,Jonathan Du,Los Altos High School,2024,9,29,10
+1761,Thomas Della Vigna,Proof School,2024,9,29,10
+894,Kailua Cheng,Amador Valley HS,2024,9,29,10
+1058,Aiden Jeong,Branham High,2024,Honorable Mention,,18.5
+972,Eddy Li,The Nueva School,2024,Honorable Mention,,18.5
+105,Myungbeen Choi,The Quarry Lane School,2024,Honorable Mention,,18.5
+327,Hengrui Liang,The Harker School,2024,Honorable Mention,,18.5
+2427,Brandon Muliadi,Cupertino High School,2024,Honorable Mention,,18.5
+1065,Amelia Chen,Proof School,2024,Honorable Mention,,18.5
+58,Hannah Fox,Proof School,2024,Honorable Mention,,18.5
+2428,Spencer Hill,Proof School,2024,Honorable Mention,,18.5
+893,Hugh Cheng,Harvard-Westlake,2024,Honorable Mention,,18.5
+2429,Lily Shi,The Harker School,2024,Honorable Mention,,18.5
+1934,Marius Rutkowski,La Canada HS,2024,Honorable Mention,,18.5
+341,Alex Zhan,Basis Independent Silicon Valley,2024,Honorable Mention,,18.5
+413,Jacopo Rizzo,Torrey Pines High School,2024,Honorable Mention,,18.5
+447,Taiga Nishida,The Nueva School,2024,Honorable Mention,,18.5

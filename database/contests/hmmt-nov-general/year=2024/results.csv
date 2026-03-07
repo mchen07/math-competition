@@ -1,55 +1,55 @@
-student_id,student_name,year,rank,score
-210,Eric P Zhu,2024,1,37.16
-1600,Peter Wang,2024,2,36.3
-1601,Dongyoon Shin,2024,2,36.3
-575,Pratham Mukewar,2024,4,36.08
-1599,Joanna Wu,2024,4,36.08
-1519,Leo Wu,2024,6,34.21
-407,Elbert Ho,2024,7,32.94
-1598,Yichen Gong,2024,8,32.08
-18,Bowen Deng,2024,9,30.81
-851,Soham Samanta,2024,9,30.81
-1604,Gavin Guojun Zhao,2024,11,30.67
-1617,Michael Retakh,2024,11,30.67
-670,Sohan Javeri,2024,11,30.67
-1575,Charles Yuanrui Zheng,2024,11,30.67
-1608,Weihong Sun,2024,11,30.67
-1609,Tianyi Li,2024,11,30.67
-1621,Mengqi Xuan,2024,11,30.67
-901,Hyun-Jin Kim,2024,18,30.59
-1011,Krittika Chandra,2024,18,30.59
-1005,Anji Wang,2024,18,30.59
-1351,Annabel Rong,2024,18,30.59
-1615,Gong Cheng,2024,22,29.73
-1611,Ziyang Wu,2024,22,29.73
-895,Perry Dai,2024,22,29.73
-1603,Xingguo Ding,2024,22,29.73
-1619,Lingfei Sophia Tang,2024,22,29.73
-204,Alexander Svoronos,2024,27,27.76
-17,Dylan Wang,2024,28,26.66
-1606,Zizhuang Chen,2024,29,26.65
-780,Susie Lu,2024,29,26.65
-1607,PengYu Wu,2024,31,26.59
-1622,Kaicheng Zhang,2024,31,26.59
-1623,Albert Wu,2024,33,26.37
-1624,Jiya,2024,34,25.57
-1625,Clark Hu,2024,35,25.51
-264,Chloe Weng,2024,35,25.51
-44,Krithik Manoharan,2024,37,25.45
-1626,Mia Zhao,2024,37,25.45
-1627,Siyuan Du,2024,39,25.39
-8,Vincent Wang,2024,39,25.39
-1613,Kaylyn Jinglin Zhang,2024,39,25.39
-263,Jonathan Liu,2024,42,25.17
-249,Samuel Tsui,2024,42,25.17
-1628,Andrew Lau,2024,42,25.17
-1629,Jagan Mranal,2024,45,24.32
-1630,Maxime Demers,2024,45,24.32
-1631,Kaiqi Xu,2024,45,24.32
-1595,Yutong Wang,2024,45,24.32
-392,Justin Guo,2024,45,24.32
-1632,Eric Zang,2024,45,24.32
-794,Zizhan Wang,2024,45,24.32
-811,Brandon Ni,2024,45,24.32
-545,Matthew Qian,2024,45,24.32
-1633,William Du,2024,45,24.32
+student_id,student_name,year,rank,score,mcp_rank
+210,Eric P Zhu,2024,1,37.16,1
+1600,Peter Wang,2024,2,36.3,2.5
+1601,Dongyoon Shin,2024,2,36.3,2.5
+575,Pratham Mukewar,2024,4,36.08,4.5
+1599,Joanna Wu,2024,4,36.08,4.5
+1519,Leo Wu,2024,6,34.21,6
+407,Elbert Ho,2024,7,32.94,7
+1598,Yichen Gong,2024,8,32.08,8
+18,Bowen Deng,2024,9,30.81,9.5
+851,Soham Samanta,2024,9,30.81,9.5
+1604,Gavin Guojun Zhao,2024,11,30.67,14
+1617,Michael Retakh,2024,11,30.67,14
+670,Sohan Javeri,2024,11,30.67,14
+1575,Charles Yuanrui Zheng,2024,11,30.67,14
+1608,Weihong Sun,2024,11,30.67,14
+1609,Tianyi Li,2024,11,30.67,14
+1621,Mengqi Xuan,2024,11,30.67,14
+901,Hyun-Jin Kim,2024,18,30.59,19.5
+1011,Krittika Chandra,2024,18,30.59,19.5
+1005,Anji Wang,2024,18,30.59,19.5
+1351,Annabel Rong,2024,18,30.59,19.5
+1615,Gong Cheng,2024,22,29.73,24
+1611,Ziyang Wu,2024,22,29.73,24
+895,Perry Dai,2024,22,29.73,24
+1603,Xingguo Ding,2024,22,29.73,24
+1619,Lingfei Sophia Tang,2024,22,29.73,24
+204,Alexander Svoronos,2024,27,27.76,27
+17,Dylan Wang,2024,28,26.66,28
+1606,Zizhuang Chen,2024,29,26.65,29.5
+780,Susie Lu,2024,29,26.65,29.5
+1607,PengYu Wu,2024,31,26.59,31.5
+1622,Kaicheng Zhang,2024,31,26.59,31.5
+1623,Albert Wu,2024,33,26.37,33
+1624,Jiya,2024,34,25.57,34
+1625,Clark Hu,2024,35,25.51,35.5
+264,Chloe Weng,2024,35,25.51,35.5
+44,Krithik Manoharan,2024,37,25.45,37.5
+1626,Mia Zhao,2024,37,25.45,37.5
+1627,Siyuan Du,2024,39,25.39,40
+8,Vincent Wang,2024,39,25.39,40
+1613,Kaylyn Jinglin Zhang,2024,39,25.39,40
+263,Jonathan Liu,2024,42,25.17,43
+249,Samuel Tsui,2024,42,25.17,43
+1628,Andrew Lau,2024,42,25.17,43
+1629,Jagan Mranal,2024,45,24.32,49.5
+1630,Maxime Demers,2024,45,24.32,49.5
+1631,Kaiqi Xu,2024,45,24.32,49.5
+1595,Yutong Wang,2024,45,24.32,49.5
+392,Justin Guo,2024,45,24.32,49.5
+1632,Eric Zang,2024,45,24.32,49.5
+794,Zizhan Wang,2024,45,24.32,49.5
+811,Brandon Ni,2024,45,24.32,49.5
+545,Matthew Qian,2024,45,24.32,49.5
+1633,William Du,2024,45,24.32,49.5

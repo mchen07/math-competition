@@ -1,11 +1,11 @@
-student_id,student_name,year,rank,score
-25,Rohan Garg,2025,1,47.62
-874,Sreehari Vijaybhaskar,2025,2,41.81
-34,Jiahe Liu,2025,3,37.41
-45,Aaryan Vaishya,2025,4,37.41
-67,Andrew Shen,2025,5,32.31
-875,Rohan Pavuluri,2025,6,30.82
-3,Oron Wang,2025,7,29.19
-230,Peter Bai,2025,8,26.65
-229,Alex Sun,2025,9,25.38
-57,Christopher Qiu,2025,10,24.22
+student_id,student_name,year,rank,score,mcp_rank
+25,Rohan Garg,2025,1,47.62,1
+874,Sreehari Vijaybhaskar,2025,2,41.81,2
+34,Jiahe Liu,2025,3,37.41,3
+45,Aaryan Vaishya,2025,4,37.41,4
+67,Andrew Shen,2025,5,32.31,5
+875,Rohan Pavuluri,2025,6,30.82,6
+3,Oron Wang,2025,7,29.19,7
+230,Peter Bai,2025,8,26.65,8
+229,Alex Sun,2025,9,25.38,9
+57,Christopher Qiu,2025,10,24.22,10

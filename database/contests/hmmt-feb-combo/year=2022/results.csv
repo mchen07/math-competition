@@ -1,74 +1,74 @@
-student_id,student_name,year,rank,score
-173,Luke Robitaille,2022,1,48.53
-174,Dylan Yu,2022,2,37.74
-138,Alex Zhao,2022,3,28.17
-93,Jessica Wan,2022,3,28.17
-194,Linden Marcus Lee,2022,3,28.17
-155,Derek Liu,2022,6,26.14
-175,Rishabh Das,2022,7,25.21
-177,Reagan Choi,2022,8,24.12
-199,Jerry Liu,2022,9,24.07
-90,Rohan Das,2022,10,23.95
-198,Eddie Wei,2022,11,21.92
-452,Espen Slettnes,2022,12,20.99
-1293,Olivia Xu,2022,13,20.93
-1196,Daniel Xia,2022,14,20.82
-139,Skyler Le,2022,14,20.82
-103,Allen Wang,2022,14,20.82
-1,Alexander Wang,2022,14,20.82
-62,Evan Fan,2022,14,20.82
-1490,Alex Hu,2022,14,20.82
-1491,Samuel Charney,2022,14,20.82
-144,Huaye Lin,2022,14,20.82
-119,Jason Zhang,2022,14,20.82
-1492,Nicole Shen,2022,14,20.82
-1109,Chris Ge,2022,14,20.82
-1493,Daniel Yang,2022,14,20.82
-149,Suyash Pandit,2022,14,20.82
-1494,Jeffrey Fang,2022,14,20.82
-107,Annabel Ge,2022,14,20.82
-449,William Chenfeng Dai,2022,14,20.82
-1495,Jefferey,2022,14,20.82
-1198,Owen Yang,2022,14,20.82
-169,Nilay Mishra,2022,14,20.82
-454,Kavan Doctor,2022,14,20.82
-135,Eric Shen,2022,14,20.82
-183,Johan Ko,2022,14,20.82
-828,Henry Wang,2022,14,20.82
-1130,Catherine Li,2022,14,20.82
-945,Alex Chen,2022,14,20.82
-122,David Jiahui Zhang,2022,14,20.82
-189,Yuuki Sawanoi,2022,14,20.82
-638,Owen J Zhang,2022,14,20.82
-1496,Cecilia Sun,2022,14,20.82
-179,Adi Jasuja,2022,14,20.82
-1497,Brandon Lou,2022,14,20.82
-1498,Joy An,2022,14,20.82
-150,Kevin Joshua Wu,2022,14,20.82
-451,Hankai Zhang,2022,14,20.82
-200,Benjamin Andrew Fan,2022,14,20.82
-196,Won Jang,2022,14,20.82
-116,Justin Zhang,2022,14,20.82
-444,Michelle Liang,2022,14,20.82
-1499,Jiakang Chen,2022,14,20.82
-1181,Paul Hamrick,2022,14,20.82
-145,Alex Li,2022,14,20.82
-1500,Kevin Yang,2022,14,20.82
-187,Kenneth Ang Chen,2022,14,20.82
-1501,Justin Zhang,2022,14,20.82
-1438,Nikhil Mudumbi,2022,14,20.82
-151,Aaron Guo,2022,14,20.82
-1195,Christopher Wu,2022,14,20.82
-1502,Isabella Quan,2022,14,20.82
-1503,Maxwell Zen,2022,14,20.82
-457,Ashley Zhu,2022,14,20.82
-882,Benjamin Chen,2022,14,20.82
-154,Boris Tsvetanov Gachevski,2022,14,20.82
-1504,Jason Jiang,2022,14,20.82
-215,Michael Chen,2022,14,20.82
-125,Pavan Jayaraman,2022,14,20.82
-140,Isabella Zhu,2022,14,20.82
-1182,Garrett Heller,2022,14,20.82
-201,Zani Xu,2022,14,20.82
-197,Karthik Seetharaman,2022,14,20.82
-1505,Utkarsh Goyal,2022,14,20.82
+student_id,student_name,year,rank,score,mcp_rank
+173,Luke Robitaille,2022,1,48.53,1
+174,Dylan Yu,2022,2,37.74,2
+138,Alex Zhao,2022,3,28.17,4
+93,Jessica Wan,2022,3,28.17,4
+194,Linden Marcus Lee,2022,3,28.17,4
+155,Derek Liu,2022,6,26.14,6
+175,Rishabh Das,2022,7,25.21,7
+177,Reagan Choi,2022,8,24.12,8
+199,Jerry Liu,2022,9,24.07,9
+90,Rohan Das,2022,10,23.95,10
+198,Eddie Wei,2022,11,21.92,11
+452,Espen Slettnes,2022,12,20.99,12
+1293,Olivia Xu,2022,13,20.93,13
+1196,Daniel Xia,2022,14,20.82,43.5
+139,Skyler Le,2022,14,20.82,43.5
+103,Allen Wang,2022,14,20.82,43.5
+1,Alexander Wang,2022,14,20.82,43.5
+62,Evan Fan,2022,14,20.82,43.5
+1490,Alex Hu,2022,14,20.82,43.5
+1491,Samuel Charney,2022,14,20.82,43.5
+144,Huaye Lin,2022,14,20.82,43.5
+119,Jason Zhang,2022,14,20.82,43.5
+1492,Nicole Shen,2022,14,20.82,43.5
+1109,Chris Ge,2022,14,20.82,43.5
+1493,Daniel Yang,2022,14,20.82,43.5
+149,Suyash Pandit,2022,14,20.82,43.5
+1494,Jeffrey Fang,2022,14,20.82,43.5
+107,Annabel Ge,2022,14,20.82,43.5
+449,William Chenfeng Dai,2022,14,20.82,43.5
+1495,Jefferey,2022,14,20.82,43.5
+1198,Owen Yang,2022,14,20.82,43.5
+169,Nilay Mishra,2022,14,20.82,43.5
+454,Kavan Doctor,2022,14,20.82,43.5
+135,Eric Shen,2022,14,20.82,43.5
+183,Johan Ko,2022,14,20.82,43.5
+828,Henry Wang,2022,14,20.82,43.5
+1130,Catherine Li,2022,14,20.82,43.5
+945,Alex Chen,2022,14,20.82,43.5
+122,David Jiahui Zhang,2022,14,20.82,43.5
+189,Yuuki Sawanoi,2022,14,20.82,43.5
+638,Owen J Zhang,2022,14,20.82,43.5
+1496,Cecilia Sun,2022,14,20.82,43.5
+179,Adi Jasuja,2022,14,20.82,43.5
+1497,Brandon Lou,2022,14,20.82,43.5
+1498,Joy An,2022,14,20.82,43.5
+150,Kevin Joshua Wu,2022,14,20.82,43.5
+451,Hankai Zhang,2022,14,20.82,43.5
+200,Benjamin Andrew Fan,2022,14,20.82,43.5
+196,Won Jang,2022,14,20.82,43.5
+116,Justin Zhang,2022,14,20.82,43.5
+444,Michelle Liang,2022,14,20.82,43.5
+1499,Jiakang Chen,2022,14,20.82,43.5
+1181,Paul Hamrick,2022,14,20.82,43.5
+145,Alex Li,2022,14,20.82,43.5
+1500,Kevin Yang,2022,14,20.82,43.5
+187,Kenneth Ang Chen,2022,14,20.82,43.5
+1501,Justin Zhang,2022,14,20.82,43.5
+1438,Nikhil Mudumbi,2022,14,20.82,43.5
+151,Aaron Guo,2022,14,20.82,43.5
+1195,Christopher Wu,2022,14,20.82,43.5
+1502,Isabella Quan,2022,14,20.82,43.5
+1503,Maxwell Zen,2022,14,20.82,43.5
+457,Ashley Zhu,2022,14,20.82,43.5
+882,Benjamin Chen,2022,14,20.82,43.5
+154,Boris Tsvetanov Gachevski,2022,14,20.82,43.5
+1504,Jason Jiang,2022,14,20.82,43.5
+215,Michael Chen,2022,14,20.82,43.5
+125,Pavan Jayaraman,2022,14,20.82,43.5
+140,Isabella Zhu,2022,14,20.82,43.5
+1182,Garrett Heller,2022,14,20.82,43.5
+201,Zani Xu,2022,14,20.82,43.5
+197,Karthik Seetharaman,2022,14,20.82,43.5
+1505,Utkarsh Goyal,2022,14,20.82,43.5

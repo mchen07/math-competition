@@ -1,33 +1,33 @@
-student_id,student_name,school,year,rank,score
-1526,Patrick Liang,Portola Highly Gifted Magnet,2025,1,34
-2350,Donghyeon Kim,Stanford Online HS,2025,2,31
-1807,Brandon Nam,Proof School,2025,3,30
-1722,Temujin Battulga,Fletcher MS,2025,4,29
-2351,Theo Wolens,Proof School,2025,4,29
-2352,Jayden Gong,Proof School,2025,6,28
-2353,Time Sriburadej,Robert Eagle Staff MS,2025,6,28
-2354,Brenon Wang,Odle MS,2025,8,27
-2355,Sunay Miduthuri,Helios School,2025,9,26
-2356,Guiqing Zhang,The Harker School,2025,9,26
-2357,Alexander Braun,Stanford Online HS,2025,Honorable Mention,
-2358,Cris Chai,Proof School,2025,Honorable Mention,
-2359,Vihaan Dev,Evergreen MS,2025,Honorable Mention,
-2360,Joey Guo,Nueva,2025,Honorable Mention,
-2361,Vincent Huang,BASIS Independent Silicon Valley,2025,Honorable Mention,
-2362,Lionel Ip,Proof School,2025,Honorable Mention,
-2363,Dash Keffer,Proof School,2025,Honorable Mention,
-2364,Maxim Kolosov,Leota MS,2025,Honorable Mention,
-2365,Matthew Kostikov,Pine Lake MS,2025,Honorable Mention,
-2366,Annabelle Lee,Nueva,2025,Honorable Mention,
-2367,Liana Lee,Ocean Grove Charter School,2025,Honorable Mention,
-2143,Max Li,Jane L. Stanford MS,2025,Honorable Mention,
-2368,Ronchen Luo,Baymonte Christian,2025,Honorable Mention,
-2369,Sidharth Midhun,Challenger School Berryessa,2025,Honorable Mention,
-2370,Junu Pae,Pacific Trails MS,2025,Honorable Mention,
-2371,Max Pham,Harvest Park MS,2025,Honorable Mention,
-2372,Rohan Rajaram,Harker,2025,Honorable Mention,
-2373,Ritisha Srivastava,Kamiakin MS,2025,Honorable Mention,
-2374,Aiden Yan,Sycamore Ridge,2025,Honorable Mention,
-2375,Simon Yang,Dilworth Elementary,2025,Honorable Mention,
-2376,Tiancheng Zheng,BASIS Independent Silicon Valley,2025,Honorable Mention,
-2377,Madelyn Zhu,Proof School,2025,Honorable Mention,
+student_id,student_name,school,year,rank,score,mcp_rank
+1526,Patrick Liang,Portola Highly Gifted Magnet,2025,1,34,1
+2350,Donghyeon Kim,Stanford Online HS,2025,2,31,2
+1807,Brandon Nam,Proof School,2025,3,30,3
+1722,Temujin Battulga,Fletcher MS,2025,4,29,4.5
+2351,Theo Wolens,Proof School,2025,4,29,4.5
+2352,Jayden Gong,Proof School,2025,6,28,6.5
+2353,Time Sriburadej,Robert Eagle Staff MS,2025,6,28,6.5
+2354,Brenon Wang,Odle MS,2025,8,27,8
+2355,Sunay Miduthuri,Helios School,2025,9,26,9.5
+2356,Guiqing Zhang,The Harker School,2025,9,26,9.5
+2357,Alexander Braun,Stanford Online HS,2025,Honorable Mention,,21.5
+2358,Cris Chai,Proof School,2025,Honorable Mention,,21.5
+2359,Vihaan Dev,Evergreen MS,2025,Honorable Mention,,21.5
+2360,Joey Guo,Nueva,2025,Honorable Mention,,21.5
+2361,Vincent Huang,BASIS Independent Silicon Valley,2025,Honorable Mention,,21.5
+2362,Lionel Ip,Proof School,2025,Honorable Mention,,21.5
+2363,Dash Keffer,Proof School,2025,Honorable Mention,,21.5
+2364,Maxim Kolosov,Leota MS,2025,Honorable Mention,,21.5
+2365,Matthew Kostikov,Pine Lake MS,2025,Honorable Mention,,21.5
+2366,Annabelle Lee,Nueva,2025,Honorable Mention,,21.5
+2367,Liana Lee,Ocean Grove Charter School,2025,Honorable Mention,,21.5
+2143,Max Li,Jane L. Stanford MS,2025,Honorable Mention,,21.5
+2368,Ronchen Luo,Baymonte Christian,2025,Honorable Mention,,21.5
+2369,Sidharth Midhun,Challenger School Berryessa,2025,Honorable Mention,,21.5
+2370,Junu Pae,Pacific Trails MS,2025,Honorable Mention,,21.5
+2371,Max Pham,Harvest Park MS,2025,Honorable Mention,,21.5
+2372,Rohan Rajaram,Harker,2025,Honorable Mention,,21.5
+2373,Ritisha Srivastava,Kamiakin MS,2025,Honorable Mention,,21.5
+2374,Aiden Yan,Sycamore Ridge,2025,Honorable Mention,,21.5
+2375,Simon Yang,Dilworth Elementary,2025,Honorable Mention,,21.5
+2376,Tiancheng Zheng,BASIS Independent Silicon Valley,2025,Honorable Mention,,21.5
+2377,Madelyn Zhu,Proof School,2025,Honorable Mention,,21.5

@@ -1,37 +1,37 @@
-student_id,student_name,school,year,rank,score
-118,Linus Tang,Davidson Academy Online,2023,1,35
-1162,Justin Lee,Peach Blossom,2023,1,35
-98,Elliott Liu,Torrey Pines High School,2023,3,32
-2481,Robin Sharif,Mission Vista High School,2023,3,32
-2482,Sebastian Weinberger,College Prep,2023,5,31
-482,David Zhang,Dougherty Valley High School,2023,5,31
-941,Sheldon Tan,Monte Vista High School,2023,5,31
-1130,Catherine Li,The Harker School,2023,8,29
-447,Taiga Nishida,The Nueva School,2023,8,29
-413,Jacopo Rizzo,Torrey Pines High School,2023,8,29
-25,Rohan Garg,Amador Valley High School,2023,11,28
-331,Ritwin Narra,Silver Creek High School,2023,11,28
-1952,Yourui Shao,Basis Independent Silicon Valley,2023,11,28
-2408,Owen Xu,Branson,2023,11,28
-78,William Zhao,Dougherty Valley High School,2023,11,28
-2483,Fateh Aliyev,Venice High School,2023,Honorable Mention,
-2471,Anju Aoi,Proof School,2023,Honorable Mention,
-894,Kailua Cheng,Amador Valley High School,2023,Honorable Mention,
-893,Hugh Cheng,Harvard-Westlake School,2023,Honorable Mention,
-90,Rohan Das,Basis Independent Silicon Valley,2023,Honorable Mention,
-9,Jonathan Du,Los Altos High School,2023,Honorable Mention,
-58,Hannah Fox,Proof School,2023,Honorable Mention,
-1913,Ryan Fu,Amador Valley High School,2023,Honorable Mention,
-1126,Pico Gilman,Proof School,2023,Honorable Mention,
-2460,Jackson Gish,Proof School,2023,Honorable Mention,
-1935,Neil Kolekar,Los Altos High School,2023,Honorable Mention,
-162,Alan Lee,Gunn High School,2023,Honorable Mention,
-444,Michelle Liang,Canyon Crest Academy,2023,Honorable Mention,
-81,Angela Liu,Homeschooled,2023,Honorable Mention,
-2215,Felix Liu,Basis Independent Silicon Valley,2023,Honorable Mention,
-2464,Rohan Ramkumar,The Harker School,2023,Honorable Mention,
-2465,Arnav Ratna,College Prep,2023,Honorable Mention,
-1934,Marius Rutkowski,La Canada High School,2023,Honorable Mention,
-1061,Julia Xiang,Dougherty Valley High School,2023,Honorable Mention,
-929,Nathan Ye,Gunn High School,2023,Honorable Mention,
-2455,Alex Zitzewitz,Proof School,2023,Honorable Mention,
+student_id,student_name,school,year,rank,score,mcp_rank
+118,Linus Tang,Davidson Academy Online,2023,1,35,1.5
+1162,Justin Lee,Peach Blossom,2023,1,35,1.5
+98,Elliott Liu,Torrey Pines High School,2023,3,32,3.5
+2481,Robin Sharif,Mission Vista High School,2023,3,32,3.5
+2482,Sebastian Weinberger,College Prep,2023,5,31,6
+482,David Zhang,Dougherty Valley High School,2023,5,31,6
+941,Sheldon Tan,Monte Vista High School,2023,5,31,6
+1130,Catherine Li,The Harker School,2023,8,29,9
+447,Taiga Nishida,The Nueva School,2023,8,29,9
+413,Jacopo Rizzo,Torrey Pines High School,2023,8,29,9
+25,Rohan Garg,Amador Valley High School,2023,11,28,13
+331,Ritwin Narra,Silver Creek High School,2023,11,28,13
+1952,Yourui Shao,Basis Independent Silicon Valley,2023,11,28,13
+2408,Owen Xu,Branson,2023,11,28,13
+78,William Zhao,Dougherty Valley High School,2023,11,28,13
+2483,Fateh Aliyev,Venice High School,2023,Honorable Mention,,26
+2471,Anju Aoi,Proof School,2023,Honorable Mention,,26
+894,Kailua Cheng,Amador Valley High School,2023,Honorable Mention,,26
+893,Hugh Cheng,Harvard-Westlake School,2023,Honorable Mention,,26
+90,Rohan Das,Basis Independent Silicon Valley,2023,Honorable Mention,,26
+9,Jonathan Du,Los Altos High School,2023,Honorable Mention,,26
+58,Hannah Fox,Proof School,2023,Honorable Mention,,26
+1913,Ryan Fu,Amador Valley High School,2023,Honorable Mention,,26
+1126,Pico Gilman,Proof School,2023,Honorable Mention,,26
+2460,Jackson Gish,Proof School,2023,Honorable Mention,,26
+1935,Neil Kolekar,Los Altos High School,2023,Honorable Mention,,26
+162,Alan Lee,Gunn High School,2023,Honorable Mention,,26
+444,Michelle Liang,Canyon Crest Academy,2023,Honorable Mention,,26
+81,Angela Liu,Homeschooled,2023,Honorable Mention,,26
+2215,Felix Liu,Basis Independent Silicon Valley,2023,Honorable Mention,,26
+2464,Rohan Ramkumar,The Harker School,2023,Honorable Mention,,26
+2465,Arnav Ratna,College Prep,2023,Honorable Mention,,26
+1934,Marius Rutkowski,La Canada High School,2023,Honorable Mention,,26
+1061,Julia Xiang,Dougherty Valley High School,2023,Honorable Mention,,26
+929,Nathan Ye,Gunn High School,2023,Honorable Mention,,26
+2455,Alex Zitzewitz,Proof School,2023,Honorable Mention,,26

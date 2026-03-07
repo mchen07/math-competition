@@ -1,52 +1,52 @@
-student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8
-738,Jericho A,Liran Zhou,2025,B,1,15.983,1,1,1,1,1,1,0,0
-2150,EightTimesEpsilon,Kevin Feng,2025,B,2,12.344,1,1,1,1,0,1,0,0
-899,Not Great Valley,Eden He,2025,B,3,11.833,1,1,1,1,1,0,0,0
-1962,Sierra Canyon School,Atticus Masuzawa,2025,B,4,10.891,0,1,1,1,0,1,0,0
-2255,BCA 2,Alexander Wang,2025,B,5,10.019,1,0,1,1,1,0,0,0
-859,PHS Avocado,Jay Wang,2025,B,6,9.042,1,1,1,0,0,1,0,0
-1564,Jericho A,Hanru Zhang,2025,B,6,9.042,1,1,1,0,0,1,0,0
-1355,Big L Club,Fiona Chen,2025,B,6,9.042,1,1,1,0,0,1,0,0
-770,Ridge Mu Alpha Theta,Kevin Chen,2025,B,9,8.531,1,1,1,0,1,0,0,0
-2145,Individuals Team 190,Yeojun Jung,2025,B,9,8.531,1,1,1,0,1,0,0,0
-2155,THE Labubu,Joshua Shi,2025,B,9,8.531,1,1,1,0,1,0,0,0
-2151,Individuals Team 191,Ryan Gong,2025,B,9,8.531,1,1,1,0,1,0,0,0
-754,PHS Avocado,William Liu,2025,B,13,8.194,1,1,1,1,0,0,0,0
-2146,PRISMS Young Falcons,Xinqi Jessie Wang,2025,B,13,8.194,1,1,1,1,0,0,0,0
-1403,Lexington Gamma,Kalina Liu,2025,B,15,6.907,1,1,0,0,1,0,0,0
-1557,Tigers,Sidarth Singh,2025,B,16,6.716,1,0,1,0,1,0,0,0
-1189,CRH,Sophie Liu,2025,B,17,5.263,0,0,1,0,1,0,0,0
-1545,EightTimesEpsilon,Arda Eroz,2025,B,18,5.117,0,1,0,1,0,0,0,0
-2172,Stoga,Andy Wu,2025,B,18,5.117,0,1,0,1,0,0,0,0
-2158,BCA 2,Alexander Choi,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2173,Jericho B,Olivia Fang,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2174,Jericho B,Srinivasa Polisetty,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2175,Millburn Mathematical Madpeople,Alethea Liu,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2176,Hotchkiss,Alexander Buteau,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2177,PHS Avocado,Oscar Huang,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2178,Pirates B,Iris Gao,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2179,Individuals Team 189,Eric Yuan,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2180,Individuals Team 189,Chris Ping Liu,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2181,Millburn Mathematical Madpeople 2,Dhagesh Desai,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2182,Pingry,Angelina Gao,2025,B,20,4.892,1,1,1,0,0,0,0,0
-1623,Pingry,Albert Wu,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2183,OSS ORCAS,Arav Sonawane,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2170,Gunn Math,Sean Gao,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2184,Jericho A,Maggie Li,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2185,Jericho A,Sky Chen,2025,B,20,4.892,1,1,1,0,0,0,0,0
-1475,CRH,Hridaan Mehta,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2186,Sierra Canyon School,Thomas McCurley,2025,B,20,4.892,1,1,1,0,0,0,0,0
-1963,Sierra Canyon School,James Browning,2025,B,20,4.892,1,1,1,0,0,0,0,0
-1541,EightTimesEpsilon,Tane Park,2025,B,20,4.892,1,1,1,0,0,0,0,0
-768,Individuals Team 189,Eric Chen,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2187,Not Great Valley,Daniel Wu,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2188,Stoga,Victor Wang,2025,B,20,4.892,1,1,1,0,0,0,0,0
-672,THE Labubu,Miles Zhang,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2189,Greater Boston,Shreyan Dutt,2025,B,20,4.892,1,1,1,0,0,0,0,0
-1069,Hotchkiss,Sophie Chen,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2190,MH Math Knightmares,Oma Makhija,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2191,Sierra Canyon School,Nikhil McGowan,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2192,Lexington Gamma,Ray Cui,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2193,Not Great Valley,Ekantika Chaudhuri,2025,B,20,4.892,1,1,1,0,0,0,0,0
-2194,Jericho B,Bowen Li,2025,B,20,4.892,1,1,1,0,0,0,0,0
-362,Arcadia High School A,Rithik Gumpu,2025,B,20,4.892,1,1,1,0,0,0,0,0
+student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8,mcp_rank
+738,Jericho A,Liran Zhou,2025,B,1,15.983,1,1,1,1,1,1,0,0,1
+2150,EightTimesEpsilon,Kevin Feng,2025,B,2,12.344,1,1,1,1,0,1,0,0,2
+899,Not Great Valley,Eden He,2025,B,3,11.833,1,1,1,1,1,0,0,0,3
+1962,Sierra Canyon School,Atticus Masuzawa,2025,B,4,10.891,0,1,1,1,0,1,0,0,4
+2255,BCA 2,Alexander Wang,2025,B,5,10.019,1,0,1,1,1,0,0,0,5
+859,PHS Avocado,Jay Wang,2025,B,6,9.042,1,1,1,0,0,1,0,0,7
+1564,Jericho A,Hanru Zhang,2025,B,6,9.042,1,1,1,0,0,1,0,0,7
+1355,Big L Club,Fiona Chen,2025,B,6,9.042,1,1,1,0,0,1,0,0,7
+770,Ridge Mu Alpha Theta,Kevin Chen,2025,B,9,8.531,1,1,1,0,1,0,0,0,10.5
+2145,Individuals Team 190,Yeojun Jung,2025,B,9,8.531,1,1,1,0,1,0,0,0,10.5
+2155,THE Labubu,Joshua Shi,2025,B,9,8.531,1,1,1,0,1,0,0,0,10.5
+2151,Individuals Team 191,Ryan Gong,2025,B,9,8.531,1,1,1,0,1,0,0,0,10.5
+754,PHS Avocado,William Liu,2025,B,13,8.194,1,1,1,1,0,0,0,0,13.5
+2146,PRISMS Young Falcons,Xinqi Jessie Wang,2025,B,13,8.194,1,1,1,1,0,0,0,0,13.5
+1403,Lexington Gamma,Kalina Liu,2025,B,15,6.907,1,1,0,0,1,0,0,0,15
+1557,Tigers,Sidarth Singh,2025,B,16,6.716,1,0,1,0,1,0,0,0,16
+1189,CRH,Sophie Liu,2025,B,17,5.263,0,0,1,0,1,0,0,0,17
+1545,EightTimesEpsilon,Arda Eroz,2025,B,18,5.117,0,1,0,1,0,0,0,0,18.5
+2172,Stoga,Andy Wu,2025,B,18,5.117,0,1,0,1,0,0,0,0,18.5
+2158,BCA 2,Alexander Choi,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2173,Jericho B,Olivia Fang,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2174,Jericho B,Srinivasa Polisetty,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2175,Millburn Mathematical Madpeople,Alethea Liu,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2176,Hotchkiss,Alexander Buteau,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2177,PHS Avocado,Oscar Huang,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2178,Pirates B,Iris Gao,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2179,Individuals Team 189,Eric Yuan,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2180,Individuals Team 189,Chris Ping Liu,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2181,Millburn Mathematical Madpeople 2,Dhagesh Desai,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2182,Pingry,Angelina Gao,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+1623,Pingry,Albert Wu,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2183,OSS ORCAS,Arav Sonawane,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2170,Gunn Math,Sean Gao,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2184,Jericho A,Maggie Li,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2185,Jericho A,Sky Chen,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+1475,CRH,Hridaan Mehta,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2186,Sierra Canyon School,Thomas McCurley,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+1963,Sierra Canyon School,James Browning,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+1541,EightTimesEpsilon,Tane Park,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+768,Individuals Team 189,Eric Chen,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2187,Not Great Valley,Daniel Wu,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2188,Stoga,Victor Wang,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+672,THE Labubu,Miles Zhang,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2189,Greater Boston,Shreyan Dutt,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+1069,Hotchkiss,Sophie Chen,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2190,MH Math Knightmares,Oma Makhija,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2191,Sierra Canyon School,Nikhil McGowan,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2192,Lexington Gamma,Ray Cui,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2193,Not Great Valley,Ekantika Chaudhuri,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+2194,Jericho B,Bowen Li,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5
+362,Arcadia High School A,Rithik Gumpu,2025,B,20,4.892,1,1,1,0,0,0,0,0,35.5

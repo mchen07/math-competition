@@ -1,42 +1,41 @@
-student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score
-90,Rohan Das,2023,Calculus,007D,AlphaStar PI,AlphaStar Academy,Top Scores,1,9
-413,Jacopo Rizzo,2023,Calculus,105B,Torrey Pines Chamise,Torrey Pines,Top Scores,2,8
-166,Roger Fan,2023,Calculus,039D,GMC Acacia,Henry M. Gunn HS,Top Scores,3,8
-99,Rohan Bodke,2023,Calculus,007B,AlphaStar PI,AlphaStar Academy,Top Scores,4,8
-331,Ritwin Narra,2023,Calculus,007F,AlphaStar PI,AlphaStar Academy,Top Scores,5,8
-957,Larry Xing,2023,Calculus,115A,YEA Spice,Youth EUCLID Association,Top Scores,6,8
-1419,Zhan Jin,2023,Calculus,065A,FROM X TO INFINITY,FROM X TO INFINITY,Top Scores,7,8
-972,Eddy Li,2023,Calculus,004C,AlphaStar ZETA,AlphaStar Academy,Top Scores,8,7
-1935,Neil Kolekar,2023,Calculus,005D,AlphaStar GAMMA,AlphaStar Academy,Top Scores,8,7
-1852,Sarthak Jain,2023,Calculus,034F,Random Math Team B,Random Math,Top Scores,8,7
-1936,Daniel Kou,2023,Calculus,041F,GMC Birch,Henry M. Gunn HS,Top Scores,8,7
-1269,Shenlone Wu,2023,Calculus,064C,Vegas Strong,Las Vegas Math Circle,Top Scores,8,7
-1875,Vedanth Dala,2023,Calculus,073D,DVHS Wildkitties 2,Dougherty Valley HS,Top Scores,8,7
-1888,Brian Lu,2023,Calculus,099A,Monkey Team A,Palo Alto HS,Top Scores,8,7
-1897,Ishaan Desai,2023,Calculus,111B,Team A,Monta Vista HS,Top Scores,8,7
-1236,Ricky Hu,2023,Calculus,119A,Cougars2,Quarry Lane School,Top Scores,8,7
-1076,Kevin Li,2023,Calculus,004A,,,Honorable Mention (Top 50%),,
-1222,Patrick Chu,2023,Calculus,027F,,,Honorable Mention (Top 50%),,
-1925,Evan Liu,2023,Calculus,029C,,,Honorable Mention (Top 50%),,
-1926,Max Rombakh,2023,Calculus,037A,,,Honorable Mention (Top 50%),,
-1693,Tanush Aggarwal,2023,Calculus,039B,,,Honorable Mention (Top 50%),,
-929,Nathan Ye,2023,Calculus,039F,,,Honorable Mention (Top 50%),,
-1858,Haridas Chowdhury,2023,Calculus,040E,,,Honorable Mention (Top 50%),,
-1927,Satvik Sivaraman,2023,Calculus,041E,,,Honorable Mention (Top 50%),,
-1869,Krishan Gupta,2023,Calculus,054B,,,Honorable Mention (Top 50%),,
-1928,Enze Chen,2023,Calculus,065B,,,Honorable Mention (Top 50%),,
-1874,Julian Stockton,2023,Calculus,070D,,,Honorable Mention (Top 50%),,
-1929,Mark Rhee,2023,Calculus,080A,,,Honorable Mention (Top 50%),,
-1930,Sanjay Mukhyala,2023,Calculus,080B,,,Honorable Mention (Top 50%),,
-26,Ryan Li,2023,Calculus,096E,,,Honorable Mention (Top 50%),,
-1921,Veenu Damarla,2023,Calculus,099C,,,Honorable Mention (Top 50%),,
-1889,Nathan Jiang,2023,Calculus,099D,,,Honorable Mention (Top 50%),,
-616,William Wang,2023,Calculus,099E,,,Honorable Mention (Top 50%),,
-1890,Forrest Chou,2023,Calculus,099F,,,Honorable Mention (Top 50%),,
-1931,Koren Gila,2023,Calculus,112A,,,Honorable Mention (Top 50%),,
-729,Julian Kuang,2023,Calculus,116D,,,Honorable Mention (Top 50%),,
-1932,Rohan Dhillon,2023,Calculus,117E,,,Honorable Mention (Top 50%),,
-1933,Saravanan Valliappan,2023,Calculus,120C,,,Honorable Mention (Top 50%),,
-1934,Marius Rutkowski,2023,Calculus,122B,,,Honorable Mention (Top 50%),,
-1904,Noel Zhang,2023,Calculus,123B,,,Honorable Mention (Top 50%),,
-
+student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score,mcp_rank
+90,Rohan Das,2023,Calculus,007D,AlphaStar PI,AlphaStar Academy,Top Scores,1,9,1
+413,Jacopo Rizzo,2023,Calculus,105B,Torrey Pines Chamise,Torrey Pines,Top Scores,2,8,2
+166,Roger Fan,2023,Calculus,039D,GMC Acacia,Henry M. Gunn HS,Top Scores,3,8,3
+99,Rohan Bodke,2023,Calculus,007B,AlphaStar PI,AlphaStar Academy,Top Scores,4,8,4
+331,Ritwin Narra,2023,Calculus,007F,AlphaStar PI,AlphaStar Academy,Top Scores,5,8,5
+957,Larry Xing,2023,Calculus,115A,YEA Spice,Youth EUCLID Association,Top Scores,6,8,6
+1419,Zhan Jin,2023,Calculus,065A,FROM X TO INFINITY,FROM X TO INFINITY,Top Scores,7,8,7
+972,Eddy Li,2023,Calculus,004C,AlphaStar ZETA,AlphaStar Academy,Top Scores,8,7,12
+1935,Neil Kolekar,2023,Calculus,005D,AlphaStar GAMMA,AlphaStar Academy,Top Scores,8,7,12
+1852,Sarthak Jain,2023,Calculus,034F,Random Math Team B,Random Math,Top Scores,8,7,12
+1936,Daniel Kou,2023,Calculus,041F,GMC Birch,Henry M. Gunn HS,Top Scores,8,7,12
+1269,Shenlone Wu,2023,Calculus,064C,Vegas Strong,Las Vegas Math Circle,Top Scores,8,7,12
+1875,Vedanth Dala,2023,Calculus,073D,DVHS Wildkitties 2,Dougherty Valley HS,Top Scores,8,7,12
+1888,Brian Lu,2023,Calculus,099A,Monkey Team A,Palo Alto HS,Top Scores,8,7,12
+1897,Ishaan Desai,2023,Calculus,111B,Team A,Monta Vista HS,Top Scores,8,7,12
+1236,Ricky Hu,2023,Calculus,119A,Cougars2,Quarry Lane School,Top Scores,8,7,12
+1076,Kevin Li,2023,Calculus,004A,,,Honorable Mention (Top 50%),,,
+1222,Patrick Chu,2023,Calculus,027F,,,Honorable Mention (Top 50%),,,
+1925,Evan Liu,2023,Calculus,029C,,,Honorable Mention (Top 50%),,,
+1926,Max Rombakh,2023,Calculus,037A,,,Honorable Mention (Top 50%),,,
+1693,Tanush Aggarwal,2023,Calculus,039B,,,Honorable Mention (Top 50%),,,
+929,Nathan Ye,2023,Calculus,039F,,,Honorable Mention (Top 50%),,,
+1858,Haridas Chowdhury,2023,Calculus,040E,,,Honorable Mention (Top 50%),,,
+1927,Satvik Sivaraman,2023,Calculus,041E,,,Honorable Mention (Top 50%),,,
+1869,Krishan Gupta,2023,Calculus,054B,,,Honorable Mention (Top 50%),,,
+1928,Enze Chen,2023,Calculus,065B,,,Honorable Mention (Top 50%),,,
+1874,Julian Stockton,2023,Calculus,070D,,,Honorable Mention (Top 50%),,,
+1929,Mark Rhee,2023,Calculus,080A,,,Honorable Mention (Top 50%),,,
+1930,Sanjay Mukhyala,2023,Calculus,080B,,,Honorable Mention (Top 50%),,,
+26,Ryan Li,2023,Calculus,096E,,,Honorable Mention (Top 50%),,,
+1921,Veenu Damarla,2023,Calculus,099C,,,Honorable Mention (Top 50%),,,
+1889,Nathan Jiang,2023,Calculus,099D,,,Honorable Mention (Top 50%),,,
+616,William Wang,2023,Calculus,099E,,,Honorable Mention (Top 50%),,,
+1890,Forrest Chou,2023,Calculus,099F,,,Honorable Mention (Top 50%),,,
+1931,Koren Gila,2023,Calculus,112A,,,Honorable Mention (Top 50%),,,
+729,Julian Kuang,2023,Calculus,116D,,,Honorable Mention (Top 50%),,,
+1932,Rohan Dhillon,2023,Calculus,117E,,,Honorable Mention (Top 50%),,,
+1933,Saravanan Valliappan,2023,Calculus,120C,,,Honorable Mention (Top 50%),,,
+1934,Marius Rutkowski,2023,Calculus,122B,,,Honorable Mention (Top 50%),,,
+1904,Noel Zhang,2023,Calculus,123B,,,Honorable Mention (Top 50%),,,

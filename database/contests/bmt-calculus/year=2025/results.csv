@@ -1,13 +1,13 @@
-student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score
-21,David Fox,2025,Calculus,092B,,,Top Scores,1,8
-2506,Nathan Koo,2025,Calculus,011D,Areteem Institute,Areteem Institute,Top Scores,2,7
-2505,Aaron Cheng,2025,Calculus,073F,Bishop's Kumquats,Bishops Math Club,Top Scores,3,7
-1854,Arthur Li,2025,Calculus,097F,Carlmont Team Hatsune Miku,Carlmont High School,Top Scores,4,7
-1076,Kevin Li,2025,Calculus,097C,Carlmont Team Hatsune Miku,Carlmont High School,Top Scores,5,7
-2504,Brandon Young,2025,Calculus,090B,Cupertino High Black,Cupertino High School,Top Scores,6,7
-397,Ayush Bansal,2025,Calculus,089C,Cupertino High Gold,Cupertino High School,Top Scores,7,7
-878,Andrew Wen,2025,Calculus,221A,Paly Trolls,Palo Alto High School,Top Scores,8,6
-1822,Elaine Xu,2025,Calculus,180F,Harker Omega,The Harker School,Top Scores,8,6
-931,Matthew Yuan,2025,Calculus,165E,AlphaStar Saturn,AlphaStar Academy,Top Scores,10,6
-2503,Shreyus Sane,2025,Calculus,162E,AlphaStar Neptune,AlphaStar Academy,Top Scores,10,6
-2362,Lionel Ip,2025,Calculus,095A,Proof Monkeys,Proof School,Top Scores,10,6
+student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score,mcp_rank
+21,David Fox,2025,Calculus,092B,,,Top Scores,1,8,1
+2506,Nathan Koo,2025,Calculus,011D,Areteem Institute,Areteem Institute,Top Scores,2,7,2
+2505,Aaron Cheng,2025,Calculus,073F,Bishop's Kumquats,Bishops Math Club,Top Scores,3,7,3
+1854,Arthur Li,2025,Calculus,097F,Carlmont Team Hatsune Miku,Carlmont High School,Top Scores,4,7,4
+1076,Kevin Li,2025,Calculus,097C,Carlmont Team Hatsune Miku,Carlmont High School,Top Scores,5,7,5
+2504,Brandon Young,2025,Calculus,090B,Cupertino High Black,Cupertino High School,Top Scores,6,7,6
+397,Ayush Bansal,2025,Calculus,089C,Cupertino High Gold,Cupertino High School,Top Scores,7,7,7
+878,Andrew Wen,2025,Calculus,221A,Paly Trolls,Palo Alto High School,Top Scores,8,6,8.5
+1822,Elaine Xu,2025,Calculus,180F,Harker Omega,The Harker School,Top Scores,8,6,8.5
+931,Matthew Yuan,2025,Calculus,165E,AlphaStar Saturn,AlphaStar Academy,Top Scores,10,6,11
+2503,Shreyus Sane,2025,Calculus,162E,AlphaStar Neptune,AlphaStar Academy,Top Scores,10,6,11
+2362,Lionel Ip,2025,Calculus,095A,Proof Monkeys,Proof School,Top Scores,10,6,11

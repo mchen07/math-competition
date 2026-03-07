@@ -1,31 +1,31 @@
-student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8
-96,Sierra Canyon School,Qiao Zhang,2024,B,1,17.527,1,1,1,1,1,1,0,1
-2488,CRH Math Team,Alex Zhao,2024,B,2,15.581,1,1,1,1,1,1,1,0
-407,Pingry Blue,Elbert Ho,2024,B,2,15.581,1,1,1,1,1,1,1,0
-949,CRH Math Team,Peyton Li,2024,B,2,15.581,1,1,1,1,1,1,1,0
-861,Theta Math Club,Derrick Chen,2024,B,5,10.486,1,1,1,1,0,0,1,0
-2206,Individuals Team 162,Jacob Chung,2024,B,6,10.456,1,1,0,1,1,1,0,0
-2212,Big L,Andrew Zhou,2024,B,7,10.088,0,1,1,1,1,1,0,0
-2186,Sierra Canyon School,Thomas McCurley,2024,B,8,9.213,1,1,1,1,1,0,0,0
-1539,Ward Melville Math Team,Eric Zhong,2024,B,8,9.213,1,1,1,1,1,0,0,0
-354,Pirates B,Suhas Kondapalli,2024,B,10,8.825,1,0,1,1,0,0,1,0
-2250,Pingry White Team,Rhys Llewellyn-Jones,2024,B,11,8.713,1,1,1,0,0,0,1,0
-2251,Individuals Team 161,Nathan Lee,2024,B,12,8.582,1,0,1,0,1,1,0,0
-1084,PHS Apricot,Maiya Qiu,2024,B,13,8.315,0,1,1,0,1,1,0,0
-800,MathSchool 2,Nikhil Byrapuram,2024,B,14,8.164,1,1,0,1,0,1,0,0
-30,Individuals Team 161,Eric Dai,2024,B,15,7.653,1,1,0,1,1,0,0,0
-2233,Ward Melville Math Team,Yuming Su,2024,B,16,7.552,1,0,1,1,1,0,0,0
-1962,Sierra Canyon School,Atticus Masuzawa,2024,B,17,7.44,1,1,1,0,1,0,0,0
-2252,MathSchool 2,Harrison Chen,2024,B,18,7.286,0,1,1,1,1,0,0,0
-2248,Hotchkiss,Andrew Xie,2024,B,18,7.286,0,1,1,1,1,0,0,0
-2253,Millburn Mathematical Madpeople,Ayan Dalmia,2024,B,18,7.286,0,1,1,1,1,0,0,0
-844,Theta Math Club,Ryan Zhang,2024,B,21,6.921,1,1,1,1,0,0,0,0
-1470,Theta Math Club,Tianze Qiu,2024,B,21,6.921,1,1,1,1,0,0,0,0
-1081,Knights B,Jason Liu,2024,B,21,6.921,1,1,1,1,0,0,0,0
-1588,MathSchool 2,Emmett Chen,2024,B,21,6.921,1,1,1,1,0,0,0,0
-1456,Big L,Benjamin Sun,2024,B,21,6.921,1,1,1,1,0,0,0,0
-1484,MathSchool 2,April Sun,2024,B,21,6.921,1,1,1,1,0,0,0,0
-2146,PRISMS Young Falcons,Xinqi Jessie Wang,2024,B,21,6.921,1,1,1,1,0,0,0,0
-2232,PRISMS Young Falcons,Ziyi Kaya Yang,2024,B,28,6.136,0,0,1,1,0,1,0,0
-2254,PRISMS Young Falcons,Wenqing Eric Mao,2024,B,28,6.136,0,0,1,1,0,1,0,0
-1475,CRH Math Team,Hridaan Mehta,2024,B,30,5.726,0,1,0,1,1,0,0,0
+student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8,mcp_rank
+96,Sierra Canyon School,Qiao Zhang,2024,B,1,17.527,1,1,1,1,1,1,0,1,1
+2488,CRH Math Team,Alex Zhao,2024,B,2,15.581,1,1,1,1,1,1,1,0,3
+407,Pingry Blue,Elbert Ho,2024,B,2,15.581,1,1,1,1,1,1,1,0,3
+949,CRH Math Team,Peyton Li,2024,B,2,15.581,1,1,1,1,1,1,1,0,3
+861,Theta Math Club,Derrick Chen,2024,B,5,10.486,1,1,1,1,0,0,1,0,5
+2206,Individuals Team 162,Jacob Chung,2024,B,6,10.456,1,1,0,1,1,1,0,0,6
+2212,Big L,Andrew Zhou,2024,B,7,10.088,0,1,1,1,1,1,0,0,7
+2186,Sierra Canyon School,Thomas McCurley,2024,B,8,9.213,1,1,1,1,1,0,0,0,8.5
+1539,Ward Melville Math Team,Eric Zhong,2024,B,8,9.213,1,1,1,1,1,0,0,0,8.5
+354,Pirates B,Suhas Kondapalli,2024,B,10,8.825,1,0,1,1,0,0,1,0,10
+2250,Pingry White Team,Rhys Llewellyn-Jones,2024,B,11,8.713,1,1,1,0,0,0,1,0,11
+2251,Individuals Team 161,Nathan Lee,2024,B,12,8.582,1,0,1,0,1,1,0,0,12
+1084,PHS Apricot,Maiya Qiu,2024,B,13,8.315,0,1,1,0,1,1,0,0,13
+800,MathSchool 2,Nikhil Byrapuram,2024,B,14,8.164,1,1,0,1,0,1,0,0,14
+30,Individuals Team 161,Eric Dai,2024,B,15,7.653,1,1,0,1,1,0,0,0,15
+2233,Ward Melville Math Team,Yuming Su,2024,B,16,7.552,1,0,1,1,1,0,0,0,16
+1962,Sierra Canyon School,Atticus Masuzawa,2024,B,17,7.44,1,1,1,0,1,0,0,0,17
+2252,MathSchool 2,Harrison Chen,2024,B,18,7.286,0,1,1,1,1,0,0,0,19
+2248,Hotchkiss,Andrew Xie,2024,B,18,7.286,0,1,1,1,1,0,0,0,19
+2253,Millburn Mathematical Madpeople,Ayan Dalmia,2024,B,18,7.286,0,1,1,1,1,0,0,0,19
+844,Theta Math Club,Ryan Zhang,2024,B,21,6.921,1,1,1,1,0,0,0,0,24
+1470,Theta Math Club,Tianze Qiu,2024,B,21,6.921,1,1,1,1,0,0,0,0,24
+1081,Knights B,Jason Liu,2024,B,21,6.921,1,1,1,1,0,0,0,0,24
+1588,MathSchool 2,Emmett Chen,2024,B,21,6.921,1,1,1,1,0,0,0,0,24
+1456,Big L,Benjamin Sun,2024,B,21,6.921,1,1,1,1,0,0,0,0,24
+1484,MathSchool 2,April Sun,2024,B,21,6.921,1,1,1,1,0,0,0,0,24
+2146,PRISMS Young Falcons,Xinqi Jessie Wang,2024,B,21,6.921,1,1,1,1,0,0,0,0,24
+2232,PRISMS Young Falcons,Ziyi Kaya Yang,2024,B,28,6.136,0,0,1,1,0,1,0,0,28.5
+2254,PRISMS Young Falcons,Wenqing Eric Mao,2024,B,28,6.136,0,0,1,1,0,1,0,0,28.5
+1475,CRH Math Team,Hridaan Mehta,2024,B,30,5.726,0,1,0,1,1,0,0,0,30

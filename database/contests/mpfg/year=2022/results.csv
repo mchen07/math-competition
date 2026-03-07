@@ -1,55 +1,55 @@
-student_id,student_name,state,grade,school,place,year,score,prize
-93,Jessica Wan,Florida,11th,Florida Virtual School,1,2022,17,"$50,000"
-140,Isabella Zhu,Virginia,12th,Thomas Jefferson HSST,2,2022,15,"$20,000"
-1240,Ishani Agarwal,California,10th,Saratoga HS,3,2022,12,"$7000"
-81,Angela Liu,California,10th,Homeschool,4,2022,12,"$7000"
-337,Emily Yu,New York,10th,Mendon HS,5,2022,11,"$4000"
-275,Catherine Xu,Iowa,9th,Iowa City West SHS,6,2022,10,"$2000"
-107,Annabel Ge,Washington,11th,Lakeside School,7,2022,10,"$2000"
-444,Michelle Liang,California,11th,Canyon Crest Academy,8,2022,10,"$2000"
-1337,Yuhan Jennifer Xiao,California,12th,Saratoga HS,9,2022,10,"$2000"
-123,Vivian Loh,Pennsylvania,11th,Winchester Thurston School,10,2022,9,$300
-1293,Olivia Xu,California,11th,Harker School,11,2022,9,$300
-1227,Tina Li,Texas,11th,Clements HS,12,2022,9,$300
-1132,Heyang Ni,New Jersey,11th,PRISMS,13,2022,9,$300
-1338,Lisa Fung,California,12th,Saratoga HS,14,2022,9,$300
-1410,Sophia Chen,California,11th,Sage Hill School,15,2022,9,$300
-1339,Iris Xu,Maryland,11th,Glenelg HS,16,2022,9,$300
-439,Victoria Hu,California,11th,Saratoga HS,17,2022,9,$300
-544,Ivy Guo,Maryland,10th,Montgomery Blair HS,18,2022,8,Honorable Mention
-1372,Fenghuan Linda He,Massachusetts,12th,Commonwealth School,18,2022,8,Honorable Mention
-1127,Michelle Kang,Virginia,11th,Thomas Jefferson HSST,18,2022,8,Honorable Mention
-1335,Katherine Liu,Texas,10th,Clements HS,18,2022,8,Honorable Mention
-1370,Kelsey Morey,Florida,11th,Buchholz HS,18,2022,8,Honorable Mention
-1373,Saanvi Thummalapally,California,12th,Cupertino HS,18,2022,8,Honorable Mention
-448,Raina Wu,Washington,11th,Lakeside School,18,2022,8,Honorable Mention
-325,Amy Cui,Washington,9th,Lakeside School,25,2022,7,Honorable Mention
-303,Alansha Jiang,Washington,10th,Newport HS,25,2022,7,Honorable Mention
-1130,Catherine Li,California,11th,Harker School,25,2022,7,Honorable Mention
-1374,Hailey Lin,Florida,11th,Buchholz HS,25,2022,7,Honorable Mention
-418,Emily Liu,California,10th,Irvine HS,25,2022,7,Honorable Mention
-950,Kristine Lu,California,11th,University HS,25,2022,7,Honorable Mention
-1375,Annabel Ma,Illinois,12th,New Trier HS,25,2022,7,Honorable Mention
-426,Emily Ma,"Ontario, Canada",11th,Marc Garneau CI,25,2022,7,Honorable Mention
-1376,Keming Miao,New Jersey,12th,PRISMS,25,2022,7,Honorable Mention
-1377,Anne Mykland,Illinois,12th,U. Chicago Lab Schools,25,2022,7,Honorable Mention
-1336,Miranda Wang,New Jersey,11th,Kent Place School,25,2022,7,Honorable Mention
-1378,Himani Yarlagadda,Michigan,12th,Detroit Country Day School,25,2022,7,Honorable Mention
-1379,Angelina Berg,Pennsylvania,11th,Hershey HS,37,2022,6,one point shy of Honorable Mention
-1248,Victoria Fang,California,10th,University HS,37,2022,6,one point shy of Honorable Mention
-65,Selena Ge,Massachusetts,7th,Jonas Clarke MS,37,2022,6,one point shy of Honorable Mention
-1380,Riya Gupta,California,12th,Harker School,37,2022,6,one point shy of Honorable Mention
-1253,Joyce Huang,Washington,10th,Redmond HS,37,2022,6,one point shy of Honorable Mention
-1294,Mikayla Lin,New York,11th,Stuyvesant HS,37,2022,6,one point shy of Honorable Mention
-956,Kristie Sue,California,11th,Leland HS,37,2022,6,one point shy of Honorable Mention
-1381,Lillian Wang,Texas,12th,Texas Academy of Math and Science,37,2022,6,one point shy of Honorable Mention
-1382,Michelle Wei,California,11th,Harker School,37,2022,6,one point shy of Honorable Mention
-1357,Emma Wu,Texas,10th,Dulles HS,37,2022,6,one point shy of Honorable Mention
-1061,Julia Xiang,California,9th,Dougherty Valley HS,37,2022,6,one point shy of Honorable Mention
-582,Shirley Xiong,New York,10th,Ward Melville HS,37,2022,6,one point shy of Honorable Mention
-1383,Alina Yang,North Carolina,12th,NCSSM,37,2022,6,one point shy of Honorable Mention
-1384,Yaliang Janice Yuan,"Ontario, Canada",10th,Branksome Hall,37,2022,6,one point shy of Honorable Mention
-85,Sophia Zhang,New Jersey,9th,PRISMS,37,2022,6,one point shy of Honorable Mention
-1385,Alice Zhong,Texas,12th,Clements HS,37,2022,6,one point shy of Honorable Mention
-1386,Sophia Zhong,Texas,12th,Westwood HS,37,2022,6,one point shy of Honorable Mention
-1387,Sally Zhu,California,12th,Harker School,37,2022,6,one point shy of Honorable Mention
+student_id,student_name,state,grade,school,place,year,score,prize,mcp_rank
+93,Jessica Wan,Florida,11th,Florida Virtual School,1,2022,17,"$50,000",1
+140,Isabella Zhu,Virginia,12th,Thomas Jefferson HSST,2,2022,15,"$20,000",2
+1240,Ishani Agarwal,California,10th,Saratoga HS,3,2022,12,$7000,3
+81,Angela Liu,California,10th,Homeschool,4,2022,12,$7000,4
+337,Emily Yu,New York,10th,Mendon HS,5,2022,11,$4000,5
+275,Catherine Xu,Iowa,9th,Iowa City West SHS,6,2022,10,$2000,6
+107,Annabel Ge,Washington,11th,Lakeside School,7,2022,10,$2000,7
+444,Michelle Liang,California,11th,Canyon Crest Academy,8,2022,10,$2000,8
+1337,Yuhan Jennifer Xiao,California,12th,Saratoga HS,9,2022,10,$2000,9
+123,Vivian Loh,Pennsylvania,11th,Winchester Thurston School,10,2022,9,$300,10
+1293,Olivia Xu,California,11th,Harker School,11,2022,9,$300,11
+1227,Tina Li,Texas,11th,Clements HS,12,2022,9,$300,12
+1132,Heyang Ni,New Jersey,11th,PRISMS,13,2022,9,$300,13
+1338,Lisa Fung,California,12th,Saratoga HS,14,2022,9,$300,14
+1410,Sophia Chen,California,11th,Sage Hill School,15,2022,9,$300,15
+1339,Iris Xu,Maryland,11th,Glenelg HS,16,2022,9,$300,16
+439,Victoria Hu,California,11th,Saratoga HS,17,2022,9,$300,17
+544,Ivy Guo,Maryland,10th,Montgomery Blair HS,18,2022,8,Honorable Mention,21
+1372,Fenghuan Linda He,Massachusetts,12th,Commonwealth School,18,2022,8,Honorable Mention,21
+1127,Michelle Kang,Virginia,11th,Thomas Jefferson HSST,18,2022,8,Honorable Mention,21
+1335,Katherine Liu,Texas,10th,Clements HS,18,2022,8,Honorable Mention,21
+1370,Kelsey Morey,Florida,11th,Buchholz HS,18,2022,8,Honorable Mention,21
+1373,Saanvi Thummalapally,California,12th,Cupertino HS,18,2022,8,Honorable Mention,21
+448,Raina Wu,Washington,11th,Lakeside School,18,2022,8,Honorable Mention,21
+325,Amy Cui,Washington,9th,Lakeside School,25,2022,7,Honorable Mention,30.5
+303,Alansha Jiang,Washington,10th,Newport HS,25,2022,7,Honorable Mention,30.5
+1130,Catherine Li,California,11th,Harker School,25,2022,7,Honorable Mention,30.5
+1374,Hailey Lin,Florida,11th,Buchholz HS,25,2022,7,Honorable Mention,30.5
+418,Emily Liu,California,10th,Irvine HS,25,2022,7,Honorable Mention,30.5
+950,Kristine Lu,California,11th,University HS,25,2022,7,Honorable Mention,30.5
+1375,Annabel Ma,Illinois,12th,New Trier HS,25,2022,7,Honorable Mention,30.5
+426,Emily Ma,"Ontario, Canada",11th,Marc Garneau CI,25,2022,7,Honorable Mention,30.5
+1376,Keming Miao,New Jersey,12th,PRISMS,25,2022,7,Honorable Mention,30.5
+1377,Anne Mykland,Illinois,12th,U. Chicago Lab Schools,25,2022,7,Honorable Mention,30.5
+1336,Miranda Wang,New Jersey,11th,Kent Place School,25,2022,7,Honorable Mention,30.5
+1378,Himani Yarlagadda,Michigan,12th,Detroit Country Day School,25,2022,7,Honorable Mention,30.5
+1379,Angelina Berg,Pennsylvania,11th,Hershey HS,37,2022,6,one point shy of Honorable Mention,45.5
+1248,Victoria Fang,California,10th,University HS,37,2022,6,one point shy of Honorable Mention,45.5
+65,Selena Ge,Massachusetts,7th,Jonas Clarke MS,37,2022,6,one point shy of Honorable Mention,45.5
+1380,Riya Gupta,California,12th,Harker School,37,2022,6,one point shy of Honorable Mention,45.5
+1253,Joyce Huang,Washington,10th,Redmond HS,37,2022,6,one point shy of Honorable Mention,45.5
+1294,Mikayla Lin,New York,11th,Stuyvesant HS,37,2022,6,one point shy of Honorable Mention,45.5
+956,Kristie Sue,California,11th,Leland HS,37,2022,6,one point shy of Honorable Mention,45.5
+1381,Lillian Wang,Texas,12th,Texas Academy of Math and Science,37,2022,6,one point shy of Honorable Mention,45.5
+1382,Michelle Wei,California,11th,Harker School,37,2022,6,one point shy of Honorable Mention,45.5
+1357,Emma Wu,Texas,10th,Dulles HS,37,2022,6,one point shy of Honorable Mention,45.5
+1061,Julia Xiang,California,9th,Dougherty Valley HS,37,2022,6,one point shy of Honorable Mention,45.5
+582,Shirley Xiong,New York,10th,Ward Melville HS,37,2022,6,one point shy of Honorable Mention,45.5
+1383,Alina Yang,North Carolina,12th,NCSSM,37,2022,6,one point shy of Honorable Mention,45.5
+1384,Yaliang Janice Yuan,"Ontario, Canada",10th,Branksome Hall,37,2022,6,one point shy of Honorable Mention,45.5
+85,Sophia Zhang,New Jersey,9th,PRISMS,37,2022,6,one point shy of Honorable Mention,45.5
+1385,Alice Zhong,Texas,12th,Clements HS,37,2022,6,one point shy of Honorable Mention,45.5
+1386,Sophia Zhong,Texas,12th,Westwood HS,37,2022,6,one point shy of Honorable Mention,45.5
+1387,Sally Zhu,California,12th,Harker School,37,2022,6,one point shy of Honorable Mention,45.5

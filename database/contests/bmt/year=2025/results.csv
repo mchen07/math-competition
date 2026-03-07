@@ -1,11 +1,11 @@
-student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score
-1050,Jonathan Yu,2025,General,041C,Davidson Academy A,Davidson Academy,Top Scores,1,25
-2499,Zi-Jie(Thomas) Ni,2025,General,166D,AlphaStar Pluto (still beloved!),AlphaStar Academy,Top Scores,2,25
-2498,Bokai Yan,2025,General,120E,Think Again,Think Academy Online,Top Scores,3,24
-2497,Yuantao Tang,2025,General,220E,EDUBUS Pro,EDUBUS,Top Scores,4,24
-1723,Gilbert Jiang,2025,General,200D,BISV Team 2,BISV,Top Scores,5,24
-1826,Chloe So,2025,General,200B,BISV Team 2,BISV,Top Scores,6,24
-2496,Angela Chen,2025,General,166C,AlphaStar Pluto (still beloved!),AlphaStar Academy,Top Scores,7,24
-2357,Alexander Braun,2025,General,164B,AlphaStar Uranus,AlphaStar Academy,Top Scores,8,23
-2495,Edward Han,2025,General,200A,BISV Team 2,BISV,Top Scores,9,23
-2494,Sophia Fan,2025,General,244F,Lynbrook Matcha,Lynbrook High School,Top Scores,10,23
+student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score,mcp_rank
+1050,Jonathan Yu,2025,General,041C,Davidson Academy A,Davidson Academy,Top Scores,1,25,1
+2499,Zi-Jie(Thomas) Ni,2025,General,166D,AlphaStar Pluto (still beloved!),AlphaStar Academy,Top Scores,2,25,2
+2498,Bokai Yan,2025,General,120E,Think Again,Think Academy Online,Top Scores,3,24,3
+2497,Yuantao Tang,2025,General,220E,EDUBUS Pro,EDUBUS,Top Scores,4,24,4
+1723,Gilbert Jiang,2025,General,200D,BISV Team 2,BISV,Top Scores,5,24,5
+1826,Chloe So,2025,General,200B,BISV Team 2,BISV,Top Scores,6,24,6
+2496,Angela Chen,2025,General,166C,AlphaStar Pluto (still beloved!),AlphaStar Academy,Top Scores,7,24,7
+2357,Alexander Braun,2025,General,164B,AlphaStar Uranus,AlphaStar Academy,Top Scores,8,23,8
+2495,Edward Han,2025,General,200A,BISV Team 2,BISV,Top Scores,9,23,9
+2494,Sophia Fan,2025,General,244F,Lynbrook Matcha,Lynbrook High School,Top Scores,10,23,10

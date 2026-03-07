@@ -1,32 +1,32 @@
-student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8
-811,Greater Boston,Brandon Ni,2025,B,1,19.179,1,1,1,1,0,1,0,1
-30,Millburn Mathematical Madpeople,Eric Dai,2025,B,2,14.294,1,0,1,1,1,1,0,0
-2149,Pirates B,Monish Saravana Kumar,2025,B,3,14.260,0,1,1,1,1,1,0,0
-2154,Small L Club,Evan Goldman,2025,B,4,12.352,0,0,0,0,1,0,1,1
-1539,Ward Melville Math Team,Eric Zhong,2025,B,5,11.678,0,0,1,1,1,1,0,0
-2142,Ward Melville Math Team,Harry Gao,2025,B,6,10.508,1,0,1,1,1,0,0,0
-866,Individuals Team 190,Hayden Hughes,2025,B,6,10.508,1,1,1,1,0,0,0,0
-2148,BCA 2,Gabriele Herr,2025,B,6,10.508,1,0,1,1,1,0,0,0
-861,Individuals Team 189,Derrick Chen,2025,B,9,10.084,1,0,0,0,1,0,1,0
-2146,PRISMS Young Falcons,Xinqi Jessie Wang,2025,B,10,10.051,1,1,1,0,1,0,0,0
-2147,MH Math Knightmares,Arjun Pandey,2025,B,11,8.639,0,1,1,0,0,1,0,0
-2179,Individuals Team 189,Eric Yuan,2025,B,12,8.238,1,1,0,1,0,0,0,0
-2341,PHS Blueberry,Leo Schwarz,2025,B,12,8.238,1,1,0,1,0,0,0,0
-1471,Lexington Gamma,Jason Yang,2025,B,14,7.924,0,0,0,1,0,0,1,0
-2203,Lexington Gamma,Charles Zheng,2025,B,15,7.892,0,0,1,1,1,0,0,0
-2234,Big L Club,Akshay Gupta,2025,B,15,7.892,0,1,1,1,0,0,0,0
-2342,Ward Melville Math Team,Jason Yin,2025,B,15,7.892,0,0,1,1,1,0,0,0
-2343,EightTimesEpsilon,Arman Ayazi,2025,B,18,7.781,1,1,0,0,1,0,0,0
-1092,Individuals Team 190,Kyle Yang,2025,B,19,7.469,1,0,1,0,1,0,0,0
-2344,Pirates B,Erik Ji,2025,B,19,7.469,1,1,1,0,0,0,0,0
-850,Greater Boston,Eric Huang,2025,B,19,7.469,1,1,1,0,0,0,0,0
-798,Individuals Team 190,Samuel Ding,2025,B,19,7.469,1,0,1,0,1,0,0,0
-2201,Millburn Mathematical Madpeople,Florina Zhu,2025,B,19,7.469,1,0,1,0,1,0,0,0
-2345,Lexington Gamma,Raymond Xu,2025,B,24,7.467,0,0,0,0,1,0,0,1
-1456,Big L Club,Benjamin Sun,2025,B,25,7.435,0,1,1,0,1,0,0,0
-2254,PRISMS Young Falcons,Wenqing Eric Mao,2025,B,25,7.435,0,1,1,0,1,0,0,0
-2346,Individuals Team 190,Angela Ding,2025,B,27,6.403,1,0,0,0,0,1,0,0
-2347,Ward Melville Math Team,Gunes Sunar,2025,B,28,6.369,0,0,0,0,1,1,0,0
-1055,Pingry,Madeline Zhu,2025,B,29,5.655,1,0,0,1,0,0,0,0
-2348,Individuals Team 191,Sunny(Puguang) Zhao,2025,B,30,5.309,0,0,1,1,0,0,0,0
-2349,worse walrus,Jason Zeng,2025,B,30,5.309,0,0,1,1,0,0,0,0
+student_id,team_name,student_name,year,division,rank,score,p1,p2,p3,p4,p5,p6,p7,p8,mcp_rank
+811,Greater Boston,Brandon Ni,2025,B,1,19.179,1,1,1,1,0,1,0,1,1
+30,Millburn Mathematical Madpeople,Eric Dai,2025,B,2,14.294,1,0,1,1,1,1,0,0,2
+2149,Pirates B,Monish Saravana Kumar,2025,B,3,14.260,0,1,1,1,1,1,0,0,3
+2154,Small L Club,Evan Goldman,2025,B,4,12.352,0,0,0,0,1,0,1,1,4
+1539,Ward Melville Math Team,Eric Zhong,2025,B,5,11.678,0,0,1,1,1,1,0,0,5
+2142,Ward Melville Math Team,Harry Gao,2025,B,6,10.508,1,0,1,1,1,0,0,0,7
+866,Individuals Team 190,Hayden Hughes,2025,B,6,10.508,1,1,1,1,0,0,0,0,7
+2148,BCA 2,Gabriele Herr,2025,B,6,10.508,1,0,1,1,1,0,0,0,7
+861,Individuals Team 189,Derrick Chen,2025,B,9,10.084,1,0,0,0,1,0,1,0,9
+2146,PRISMS Young Falcons,Xinqi Jessie Wang,2025,B,10,10.051,1,1,1,0,1,0,0,0,10
+2147,MH Math Knightmares,Arjun Pandey,2025,B,11,8.639,0,1,1,0,0,1,0,0,11
+2179,Individuals Team 189,Eric Yuan,2025,B,12,8.238,1,1,0,1,0,0,0,0,12.5
+2341,PHS Blueberry,Leo Schwarz,2025,B,12,8.238,1,1,0,1,0,0,0,0,12.5
+1471,Lexington Gamma,Jason Yang,2025,B,14,7.924,0,0,0,1,0,0,1,0,14
+2203,Lexington Gamma,Charles Zheng,2025,B,15,7.892,0,0,1,1,1,0,0,0,16
+2234,Big L Club,Akshay Gupta,2025,B,15,7.892,0,1,1,1,0,0,0,0,16
+2342,Ward Melville Math Team,Jason Yin,2025,B,15,7.892,0,0,1,1,1,0,0,0,16
+2343,EightTimesEpsilon,Arman Ayazi,2025,B,18,7.781,1,1,0,0,1,0,0,0,18
+1092,Individuals Team 190,Kyle Yang,2025,B,19,7.469,1,0,1,0,1,0,0,0,21
+2344,Pirates B,Erik Ji,2025,B,19,7.469,1,1,1,0,0,0,0,0,21
+850,Greater Boston,Eric Huang,2025,B,19,7.469,1,1,1,0,0,0,0,0,21
+798,Individuals Team 190,Samuel Ding,2025,B,19,7.469,1,0,1,0,1,0,0,0,21
+2201,Millburn Mathematical Madpeople,Florina Zhu,2025,B,19,7.469,1,0,1,0,1,0,0,0,21
+2345,Lexington Gamma,Raymond Xu,2025,B,24,7.467,0,0,0,0,1,0,0,1,24
+1456,Big L Club,Benjamin Sun,2025,B,25,7.435,0,1,1,0,1,0,0,0,25.5
+2254,PRISMS Young Falcons,Wenqing Eric Mao,2025,B,25,7.435,0,1,1,0,1,0,0,0,25.5
+2346,Individuals Team 190,Angela Ding,2025,B,27,6.403,1,0,0,0,0,1,0,0,27
+2347,Ward Melville Math Team,Gunes Sunar,2025,B,28,6.369,0,0,0,0,1,1,0,0,28
+1055,Pingry,Madeline Zhu,2025,B,29,5.655,1,0,0,1,0,0,0,0,29
+2348,Individuals Team 191,Sunny(Puguang) Zhao,2025,B,30,5.309,0,0,1,1,0,0,0,0,30.5
+2349,worse walrus,Jason Zeng,2025,B,30,5.309,0,0,1,1,0,0,0,0,30.5

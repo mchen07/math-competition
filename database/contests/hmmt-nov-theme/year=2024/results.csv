@@ -1,72 +1,72 @@
-student_id,student_name,year,rank,score
-1598,Yichen Gong,2024,1,40.24
-1519,Leo Wu,2024,2,37.08
-895,Perry Dai,2024,2,37.08
-933,Alexander Zhang,2024,4,32.92
-1605,Aadish Jain,2024,5,32.67
-1599,Joanna Wu,2024,5,32.67
-18,Bowen Deng,2024,7,31.81
-1610,Jerry Zhang,2024,7,31.81
-809,Advait Joshi,2024,9,30.73
-1634,Yeyin Zhu,2024,9,30.73
-1521,Harry Haiwen Gao,2024,9,30.73
-1452,Anand Swaroop,2024,9,30.73
-1635,Andrew M Kalashnikov,2024,9,30.73
-1332,Yunong Wu,2024,14,30.59
-1005,Anji Wang,2024,14,30.59
-1042,Michael Sun,2024,14,30.59
-1354,Paige Zhu,2024,14,30.59
-810,Danyang Xu,2024,14,30.59
-1312,Aaron Zhu,2024,14,30.59
-1612,Daniel Yu,2024,14,30.59
-287,Siravit Hengsuvanich,2024,21,29.93
-584,Raymond Ge,2024,22,27.71
-545,Matthew Qian,2024,23,27.65
-1603,Xingguo Ding,2024,24,26.63
-905,Ryan Tang,2024,24,26.63
-1636,Tymon Sidor,2024,26,26.57
-1614,Sirawit Pipittanaban,2024,26,26.57
-1637,Casey Fong,2024,26,26.57
-575,Pratham Mukewar,2024,29,26.51
-1607,PengYu Wu,2024,30,26.49
-249,Samuel Tsui,2024,30,26.49
-1638,Tianxiang Zhang,2024,32,26.45
-1044,Colin Wei,2024,32,26.45
-1606,Zizhuang Chen,2024,34,26.43
-850,Eric Huang,2024,34,26.43
-1639,Henry Han,2024,36,26.37
-1640,Juncheng Zhu,2024,37,26.32
-1600,Peter Wang,2024,37,26.32
-770,Kevin Chen,2024,39,26.17
-1601,Dongyoon Shin,2024,39,26.17
-212,Nathan Lu,2024,39,26.17
-1393,Charlotte Younger,2024,39,26.17
-1641,Magdalena Pudełko,2024,43,24.6
-1642,Joseph Peter Girotto,2024,44,24.24
-1643,Justin Y. Yu,2024,44,24.24
-297,Christopher Lu,2024,44,24.24
-393,Adam Henry Smith,2024,44,24.24
-671,Kabir Goyal,2024,44,24.24
-1644,Hans Sihan Zhu,2024,44,24.24
-1604,Gavin Guojun Zhao,2024,44,24.24
-302,Kenneth Ren,2024,44,24.24
-1645,Zion Paul QU,2024,44,24.24
-1078,Jason Lian,2024,44,24.24
-392,Justin Guo,2024,44,24.24
-516,Bryan Li,2024,44,24.24
-1646,Aaron Yuqi Fan,2024,44,24.24
-1647,Andrew Ma,2024,44,24.24
-923,James Qiu,2024,44,24.24
-1613,Kaylyn Jinglin Zhang,2024,44,24.24
-1648,Andrew Wang,2024,44,24.24
-929,Nathan Ye,2024,44,24.24
-1561,Raymond Wang,2024,44,24.24
-1649,Victoria Sheung,2024,44,24.24
-1539,Eric Zhong,2024,44,24.24
-263,Jonathan Liu,2024,44,24.24
-265,James Wu,2024,44,24.24
-1510,Xinyi Guo,2024,44,24.24
-210,Eric P Zhu,2024,44,24.24
-1650,Isabella Li,2024,44,24.24
-1651,Xinye Zhang,2024,44,24.24
-1652,Lindsay Miao,2024,44,24.24
+student_id,student_name,year,rank,score,mcp_rank
+1598,Yichen Gong,2024,1,40.24,1
+1519,Leo Wu,2024,2,37.08,2.5
+895,Perry Dai,2024,2,37.08,2.5
+933,Alexander Zhang,2024,4,32.92,4
+1605,Aadish Jain,2024,5,32.67,5.5
+1599,Joanna Wu,2024,5,32.67,5.5
+18,Bowen Deng,2024,7,31.81,7.5
+1610,Jerry Zhang,2024,7,31.81,7.5
+809,Advait Joshi,2024,9,30.73,11
+1634,Yeyin Zhu,2024,9,30.73,11
+1521,Harry Haiwen Gao,2024,9,30.73,11
+1452,Anand Swaroop,2024,9,30.73,11
+1635,Andrew M Kalashnikov,2024,9,30.73,11
+1332,Yunong Wu,2024,14,30.59,17
+1005,Anji Wang,2024,14,30.59,17
+1042,Michael Sun,2024,14,30.59,17
+1354,Paige Zhu,2024,14,30.59,17
+810,Danyang Xu,2024,14,30.59,17
+1312,Aaron Zhu,2024,14,30.59,17
+1612,Daniel Yu,2024,14,30.59,17
+287,Siravit Hengsuvanich,2024,21,29.93,21
+584,Raymond Ge,2024,22,27.71,22
+545,Matthew Qian,2024,23,27.65,23
+1603,Xingguo Ding,2024,24,26.63,24.5
+905,Ryan Tang,2024,24,26.63,24.5
+1636,Tymon Sidor,2024,26,26.57,27
+1614,Sirawit Pipittanaban,2024,26,26.57,27
+1637,Casey Fong,2024,26,26.57,27
+575,Pratham Mukewar,2024,29,26.51,29
+1607,PengYu Wu,2024,30,26.49,30.5
+249,Samuel Tsui,2024,30,26.49,30.5
+1638,Tianxiang Zhang,2024,32,26.45,32.5
+1044,Colin Wei,2024,32,26.45,32.5
+1606,Zizhuang Chen,2024,34,26.43,34.5
+850,Eric Huang,2024,34,26.43,34.5
+1639,Henry Han,2024,36,26.37,36
+1640,Juncheng Zhu,2024,37,26.32,37.5
+1600,Peter Wang,2024,37,26.32,37.5
+770,Kevin Chen,2024,39,26.17,40.5
+1601,Dongyoon Shin,2024,39,26.17,40.5
+212,Nathan Lu,2024,39,26.17,40.5
+1393,Charlotte Younger,2024,39,26.17,40.5
+1641,Magdalena Pudełko,2024,43,24.6,43
+1642,Joseph Peter Girotto,2024,44,24.24,57.5
+1643,Justin Y. Yu,2024,44,24.24,57.5
+297,Christopher Lu,2024,44,24.24,57.5
+393,Adam Henry Smith,2024,44,24.24,57.5
+671,Kabir Goyal,2024,44,24.24,57.5
+1644,Hans Sihan Zhu,2024,44,24.24,57.5
+1604,Gavin Guojun Zhao,2024,44,24.24,57.5
+302,Kenneth Ren,2024,44,24.24,57.5
+1645,Zion Paul QU,2024,44,24.24,57.5
+1078,Jason Lian,2024,44,24.24,57.5
+392,Justin Guo,2024,44,24.24,57.5
+516,Bryan Li,2024,44,24.24,57.5
+1646,Aaron Yuqi Fan,2024,44,24.24,57.5
+1647,Andrew Ma,2024,44,24.24,57.5
+923,James Qiu,2024,44,24.24,57.5
+1613,Kaylyn Jinglin Zhang,2024,44,24.24,57.5
+1648,Andrew Wang,2024,44,24.24,57.5
+929,Nathan Ye,2024,44,24.24,57.5
+1561,Raymond Wang,2024,44,24.24,57.5
+1649,Victoria Sheung,2024,44,24.24,57.5
+1539,Eric Zhong,2024,44,24.24,57.5
+263,Jonathan Liu,2024,44,24.24,57.5
+265,James Wu,2024,44,24.24,57.5
+1510,Xinyi Guo,2024,44,24.24,57.5
+210,Eric P Zhu,2024,44,24.24,57.5
+1650,Isabella Li,2024,44,24.24,57.5
+1651,Xinye Zhang,2024,44,24.24,57.5
+1652,Lindsay Miao,2024,44,24.24,57.5

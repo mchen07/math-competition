@@ -1,11 +1,11 @@
-student_id,student_name,year,team_name,rank,total_score
-173,Luke Robitaille,2022,Texas Momentum A,1,87.79
-181,Raymond Feng,2022,Cowconuts,2,58.86
-2512,Gary Hu,2022,Math Advance Team C,3,58.2
-159,Karthik Vedula,2022,Florida Alligators,4,51.01
-2517,Qian Xu,2022,PRISMS Young Falcons,5,48.25
-878,Andrew Wen,2022,Cowconuts,5,48.25
-1154,Kevin Min,2022,iodgvypribdt,5,48.25
-175,Rishabh Das,2022,Tin Man,5,48.25
-1166,Albert Wang,2022,MA Boys,9,47.72
-1985,Sai Konkimalla,2022,Random Math - Team B,10,46.95
+student_id,student_name,year,team_name,rank,total_score,mcp_rank
+173,Luke Robitaille,2022,Texas Momentum A,1,87.79,1
+181,Raymond Feng,2022,Cowconuts,2,58.86,2
+2512,Gary Hu,2022,Math Advance Team C,3,58.2,3
+159,Karthik Vedula,2022,Florida Alligators,4,51.01,4
+2517,Qian Xu,2022,PRISMS Young Falcons,5,48.25,6.5
+878,Andrew Wen,2022,Cowconuts,5,48.25,6.5
+1154,Kevin Min,2022,iodgvypribdt,5,48.25,6.5
+175,Rishabh Das,2022,Tin Man,5,48.25,6.5
+1166,Albert Wang,2022,MA Boys,9,47.72,9
+1985,Sai Konkimalla,2022,Random Math - Team B,10,46.95,10

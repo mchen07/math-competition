@@ -1,51 +1,51 @@
-student_id,student_name,year,rank,score
-1528,Huanqi Zhang,2025,1,33.8
-1521,Harry Haiwen Gao,2025,2,31.73
-86,Vikram Sarkar,2025,2,31.73
-1279,Jack Whitney-Epstein,2025,4,31.67
-849,Aiden Yudong Wei,2025,4,31.67
-1520,Xuanyi Zhang,2025,6,30.59
-1460,Woojin Seong,2025,6,30.59
-1525,Aaron Xie,2025,8,27.54
-209,Hongming Allan Zhao,2025,8,27.54
-1582,Ray Huang Cui,2025,10,26.39
-516,Bryan Li,2025,10,26.39
-1519,Leo Wu,2025,12,26.31
-1583,Aaron Wu,2025,12,26.31
-1531,Yutong Zhao,2025,14,25.32
-844,Ryan Zhang,2025,14,25.32
-738,Liran Zhou,2025,14,25.32
-1538,yizhang Guo,2025,14,25.32
-1541,Tane Park,2025,14,25.32
-1353,Kristin Zhang,2025,19,24.24
-1584,Larry Lee,2025,19,24.24
-862,Ethan Shi,2025,19,24.24
-1332,Yunong Wu,2025,19,24.24
-1334,Sophie Zhang,2025,19,24.24
-850,Eric Huang,2025,24,24.17
-64,Michael Pok Hon Chen,2025,24,24.17
-280,Aaron Le,2025,24,24.17
-1523,JUNNING SHAO,2025,24,24.17
-1586,David Yoongeun Oh,2025,24,24.17
-1587,Alex Ren,2025,24,24.17
-1588,Emmett Chen,2025,24,24.17
-1055,Madeline Zhu,2025,24,24.17
-1589,Benjamin Taycher,2025,24,24.17
-1526,Patrick Liang,2025,24,24.17
-1590,Adrian Fong,2025,24,24.17
-1591,Max Lin,2025,24,24.17
-1592,Chaojie Lin,2025,24,24.17
-851,Soham Samanta,2025,37,22.26
-1481,Bohan Wang,2025,38,22.15
-1534,Girish Prasad,2025,38,22.15
-1593,Aaron Xu,2025,40,21.12
-1532,Sirui Wu,2025,41,21.03
-1537,Benjamin Li,2025,42,21.02
-1594,Eric Shi Chen,2025,43,20.08
-1545,Arda Eroz,2025,43,20.08
-1595,Yutong Wang,2025,43,20.08
-1529,Daniel Gong Li,2025,46,20.01
-1540,David Luo,2025,46,20.01
-1596,Alvin Fang,2025,46,20.01
-1547,Justin Lee,2025,46,20.01
-1548,Benjamin Huang,2025,46,20.01
+student_id,student_name,year,rank,score,mcp_rank
+1528,Huanqi Zhang,2025,1,33.8,1
+1521,Harry Haiwen Gao,2025,2,31.73,2.5
+86,Vikram Sarkar,2025,2,31.73,2.5
+1279,Jack Whitney-Epstein,2025,4,31.67,4.5
+849,Aiden Yudong Wei,2025,4,31.67,4.5
+1520,Xuanyi Zhang,2025,6,30.59,6.5
+1460,Woojin Seong,2025,6,30.59,6.5
+1525,Aaron Xie,2025,8,27.54,8.5
+209,Hongming Allan Zhao,2025,8,27.54,8.5
+1582,Ray Huang Cui,2025,10,26.39,10.5
+516,Bryan Li,2025,10,26.39,10.5
+1519,Leo Wu,2025,12,26.31,12.5
+1583,Aaron Wu,2025,12,26.31,12.5
+1531,Yutong Zhao,2025,14,25.32,16
+844,Ryan Zhang,2025,14,25.32,16
+738,Liran Zhou,2025,14,25.32,16
+1538,yizhang Guo,2025,14,25.32,16
+1541,Tane Park,2025,14,25.32,16
+1353,Kristin Zhang,2025,19,24.24,21
+1584,Larry Lee,2025,19,24.24,21
+862,Ethan Shi,2025,19,24.24,21
+1332,Yunong Wu,2025,19,24.24,21
+1334,Sophie Zhang,2025,19,24.24,21
+850,Eric Huang,2025,24,24.17,30
+64,Michael Pok Hon Chen,2025,24,24.17,30
+280,Aaron Le,2025,24,24.17,30
+1523,JUNNING SHAO,2025,24,24.17,30
+1586,David Yoongeun Oh,2025,24,24.17,30
+1587,Alex Ren,2025,24,24.17,30
+1588,Emmett Chen,2025,24,24.17,30
+1055,Madeline Zhu,2025,24,24.17,30
+1589,Benjamin Taycher,2025,24,24.17,30
+1526,Patrick Liang,2025,24,24.17,30
+1590,Adrian Fong,2025,24,24.17,30
+1591,Max Lin,2025,24,24.17,30
+1592,Chaojie Lin,2025,24,24.17,30
+851,Soham Samanta,2025,37,22.26,37
+1481,Bohan Wang,2025,38,22.15,38.5
+1534,Girish Prasad,2025,38,22.15,38.5
+1593,Aaron Xu,2025,40,21.12,40
+1532,Sirui Wu,2025,41,21.03,41
+1537,Benjamin Li,2025,42,21.02,42
+1594,Eric Shi Chen,2025,43,20.08,44
+1545,Arda Eroz,2025,43,20.08,44
+1595,Yutong Wang,2025,43,20.08,44
+1529,Daniel Gong Li,2025,46,20.01,48
+1540,David Luo,2025,46,20.01,48
+1596,Alvin Fang,2025,46,20.01,48
+1547,Justin Lee,2025,46,20.01,48
+1548,Benjamin Huang,2025,46,20.01,48

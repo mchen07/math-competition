@@ -1,57 +1,57 @@
-student_id,student_name,state,year,rank,grade
-92,Marvin Mao,New Jersey,2021,1,8
-640,Bohan Yao,Washington,2021,2,8
-4,Liam Reddy,Utah,2021,3,6
-1,Alexander Wang,New Jersey,2021,4,7
-73,Andrew Carratu,New York,2021,5,8
-466,Allan Yuan,Alabama,2021,6,7
-34,Jiahe Liu,Massachusetts,2021,7,7
-503,Stephen Yang,Georgia,2021,8,8
-542,Yunyi Ling,Maryland,2021,9,8
-487,Kyle Zhang,Connecticut,2021,10,8
-483,Lawson Wang,California,2021,11,7
-518,Nate Maydanchik,Illinois,2021,12,8
-59,Henry Jiang,Michigan,2021,13,8
-80,Lerchen Zhong,Texas,2021,14,7
-482,David Zhang,California,2021,15,8
-99,Rohan Bodke,California,2021,16,8
-638,Owen J Zhang,Washington,2021,17,8
-81,Angela Liu,California,2021,18,8
-474,Benjamin Jeter,Arizona,2021,19,8
-280,Aaron Le,Pennsylvania,2021,20,7
-91,Andrew Lin,New Jersey,2021,21,8
-10,Ruilin Wang,Virginia,2021,22,7
-62,Evan Fan,New Jersey,2021,23,7
-621,Sebastian Chase,State Department,2021,24,7
-128,Brian Zhang,Michigan,2021,25,8
-307,Steven Lou,New York,2021,26,8
-622,Josh Shin,State Department,2021,27,8
-48,Varun Gadi,Georgia,2021,28,6
-558,Aaron Lin,Missouri,2021,29,7
-548,Michael Lu,Michigan,2021,30,8
-641,Hongning Wang,Washington,2021,31,8
-613,Brandon Xu,South Carolina,2021,32,7
-275,Catherine Xu,Iowa,2021,33,7
-583,Rohan Sastry,New York,2021,34,8
-281,Andrew Xing,Florida,2021,35,8
-637,Angeline Zhao,Virginia,2021,36,8
-484,Abhinav Krishna,Colorado,2021,37,8
-524,Om Patel,Indiana,2021,38,8
-591,Devin Lim,Ohio,2021,39,8
-432,Aiden Wen,Texas,2021,40,7
-404,Guanjie Lu,Texas,2021,41,6
-70,Alexander Gu,Virginia,2021,42,8
-504,Samanyu Ganesh,Georgia,2021,43,7
-648,Jeremy Li,Wisconsin,2021,44,8
-476,Johnny Yu,Arizona,2021,45,8
-521,Michael Qian,Indiana,2021,46,8
-543,Jason Youm,Maryland,2021,47,8
-46,Ray Zhao,Texas,2021,48,7
-614,Anthony Zou,South Carolina,2021,49,6
-646,Kartik Ramachandrula,Wisconsin,2021,50,8
-370,Victor Chen,Illinois,2021,51,7
-72,Kevin Liu,Florida,2021,52,7
-12,Alan Cheng,North Carolina,2021,53,7
-592,Emir Naduvil,Ohio,2021,54,8
-515,Vishal Suresh,Idaho,2021,55,8
-639,Alon Ragoler,Washington,2021,56,8
+student_id,student_name,state,year,rank,grade,mcp_rank
+92,Marvin Mao,New Jersey,2021,1,8,1
+640,Bohan Yao,Washington,2021,2,8,2
+4,Liam Reddy,Utah,2021,3,6,3
+1,Alexander Wang,New Jersey,2021,4,7,4
+73,Andrew Carratu,New York,2021,5,8,5
+466,Allan Yuan,Alabama,2021,6,7,6
+34,Jiahe Liu,Massachusetts,2021,7,7,7
+503,Stephen Yang,Georgia,2021,8,8,8
+542,Yunyi Ling,Maryland,2021,9,8,9
+487,Kyle Zhang,Connecticut,2021,10,8,10
+483,Lawson Wang,California,2021,11,7,11
+518,Nate Maydanchik,Illinois,2021,12,8,12
+59,Henry Jiang,Michigan,2021,13,8,13
+80,Lerchen Zhong,Texas,2021,14,7,14
+482,David Zhang,California,2021,15,8,15
+99,Rohan Bodke,California,2021,16,8,16
+638,Owen J Zhang,Washington,2021,17,8,17
+81,Angela Liu,California,2021,18,8,18
+474,Benjamin Jeter,Arizona,2021,19,8,19
+280,Aaron Le,Pennsylvania,2021,20,7,20
+91,Andrew Lin,New Jersey,2021,21,8,21
+10,Ruilin Wang,Virginia,2021,22,7,22
+62,Evan Fan,New Jersey,2021,23,7,23
+621,Sebastian Chase,State Department,2021,24,7,24
+128,Brian Zhang,Michigan,2021,25,8,25
+307,Steven Lou,New York,2021,26,8,26
+622,Josh Shin,State Department,2021,27,8,27
+48,Varun Gadi,Georgia,2021,28,6,28
+558,Aaron Lin,Missouri,2021,29,7,29
+548,Michael Lu,Michigan,2021,30,8,30
+641,Hongning Wang,Washington,2021,31,8,31
+613,Brandon Xu,South Carolina,2021,32,7,32
+275,Catherine Xu,Iowa,2021,33,7,33
+583,Rohan Sastry,New York,2021,34,8,34
+281,Andrew Xing,Florida,2021,35,8,35
+637,Angeline Zhao,Virginia,2021,36,8,36
+484,Abhinav Krishna,Colorado,2021,37,8,37
+524,Om Patel,Indiana,2021,38,8,38
+591,Devin Lim,Ohio,2021,39,8,39
+432,Aiden Wen,Texas,2021,40,7,40
+404,Guanjie Lu,Texas,2021,41,6,41
+70,Alexander Gu,Virginia,2021,42,8,42
+504,Samanyu Ganesh,Georgia,2021,43,7,43
+648,Jeremy Li,Wisconsin,2021,44,8,44
+476,Johnny Yu,Arizona,2021,45,8,45
+521,Michael Qian,Indiana,2021,46,8,46
+543,Jason Youm,Maryland,2021,47,8,47
+46,Ray Zhao,Texas,2021,48,7,48
+614,Anthony Zou,South Carolina,2021,49,6,49
+646,Kartik Ramachandrula,Wisconsin,2021,50,8,50
+370,Victor Chen,Illinois,2021,51,7,51
+72,Kevin Liu,Florida,2021,52,7,52
+12,Alan Cheng,North Carolina,2021,53,7,53
+592,Emir Naduvil,Ohio,2021,54,8,54
+515,Vishal Suresh,Idaho,2021,55,8,55
+639,Alon Ragoler,Washington,2021,56,8,56

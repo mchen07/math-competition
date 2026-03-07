@@ -1,57 +1,57 @@
-student_id,student_name,year,rank,score
-118,Linus Tang,2024,1,28.54
-421,Yifan Kang,2024,2,27.31
-109,Ziyi Yang,2024,2,27.31
-102,Andrew Li,2024,4,25.33
-147,Zachary Jacob Perry,2024,5,25.17
-1,Alexander Wang,2024,5,25.17
-97,Eric Wang,2024,5,25.17
-113,Feodor Yevtushenko,2024,5,25.17
-107,Annabel Ge,2024,5,25.17
-638,Owen J Zhang,2024,5,25.17
-114,Vesselin Nikolaev Markovich,2024,5,25.17
-53,Xiaohan Zhang,2024,5,25.17
-80,Lerchen Zhong,2024,5,25.17
-90,Rohan Das,2024,5,25.17
-422,Ryan Bai,2024,5,25.17
-28,Rohan Nayak Mallick,2024,5,25.17
-92,Marvin Mao,2024,5,25.17
-201,Zani Xu,2024,5,25.17
-105,Myungbeen Choi,2024,5,25.17
-21,David Fox,2024,5,25.17
-55,Zongshu Wu,2024,21,22.96
-111,ERIC MINGHAO LIU,2024,22,22.12
-423,Elena Baskakova,2024,23,22.07
-89,Jordan Lefkowitz,2024,24,21.01
-308,Muztaba Syed,2024,25,20.95
-73,Andrew Carratu,2024,25,20.95
-125,Pavan Jayaraman,2024,25,20.95
-126,Weian Xie,2024,25,20.95
-81,Angela Liu,2024,29,20.82
-110,Wilbert Chu,2024,29,20.82
-362,Rithik Gumpu,2024,29,20.82
-252,Arnav Iyengar,2024,32,19.89
-23,Jeffrey Yin,2024,33,18.89
-424,Derek Zhao,2024,33,18.89
-273,Evin Liang,2024,33,18.89
-120,Jacob Xu,2024,33,18.89
-425,Andrew Tu,2024,33,18.89
-96,Qiao Zhang,2024,33,18.89
-329,Jiaxuan Gong,2024,33,18.89
-121,Srinivas Arun,2024,33,18.89
-117,Advaith Avadhanam,2024,33,18.89
-19,Vihaan Gupta,2024,33,18.89
-426,Emily Ma,2024,33,18.89
-205,Mingyue Yang,2024,33,18.89
-427,William Gvozdjak,2024,33,18.89
-106,Yunlang Zheng,2024,33,18.89
-32,Benjamin Jiang,2024,33,18.89
-122,David Jiahui Zhang,2024,33,18.89
-112,Jonathan He,2024,33,18.89
-98,Elliott Liu,2024,33,18.89
-428,Evan Luo,2024,33,18.89
-166,Roger Fan,2024,33,18.89
-429,Evan Ashoori,2024,33,18.89
-405,Rishi Rajesh,2024,33,18.89
-430,Henrick Rabinovitz,2024,33,18.89
-95,Razzi H. Masroor,2024,33,18.89
+student_id,student_name,year,rank,score,mcp_rank
+118,Linus Tang,2024,1,28.54,1
+421,Yifan Kang,2024,2,27.31,2.5
+109,Ziyi Yang,2024,2,27.31,2.5
+102,Andrew Li,2024,4,25.33,4
+147,Zachary Jacob Perry,2024,5,25.17,12.5
+1,Alexander Wang,2024,5,25.17,12.5
+97,Eric Wang,2024,5,25.17,12.5
+113,Feodor Yevtushenko,2024,5,25.17,12.5
+107,Annabel Ge,2024,5,25.17,12.5
+638,Owen J Zhang,2024,5,25.17,12.5
+114,Vesselin Nikolaev Markovich,2024,5,25.17,12.5
+53,Xiaohan Zhang,2024,5,25.17,12.5
+80,Lerchen Zhong,2024,5,25.17,12.5
+90,Rohan Das,2024,5,25.17,12.5
+422,Ryan Bai,2024,5,25.17,12.5
+28,Rohan Nayak Mallick,2024,5,25.17,12.5
+92,Marvin Mao,2024,5,25.17,12.5
+201,Zani Xu,2024,5,25.17,12.5
+105,Myungbeen Choi,2024,5,25.17,12.5
+21,David Fox,2024,5,25.17,12.5
+55,Zongshu Wu,2024,21,22.96,21
+111,ERIC MINGHAO LIU,2024,22,22.12,22
+423,Elena Baskakova,2024,23,22.07,23
+89,Jordan Lefkowitz,2024,24,21.01,24
+308,Muztaba Syed,2024,25,20.95,26.5
+73,Andrew Carratu,2024,25,20.95,26.5
+125,Pavan Jayaraman,2024,25,20.95,26.5
+126,Weian Xie,2024,25,20.95,26.5
+81,Angela Liu,2024,29,20.82,30
+110,Wilbert Chu,2024,29,20.82,30
+362,Rithik Gumpu,2024,29,20.82,30
+252,Arnav Iyengar,2024,32,19.89,32
+23,Jeffrey Yin,2024,33,18.89,44.5
+424,Derek Zhao,2024,33,18.89,44.5
+273,Evin Liang,2024,33,18.89,44.5
+120,Jacob Xu,2024,33,18.89,44.5
+425,Andrew Tu,2024,33,18.89,44.5
+96,Qiao Zhang,2024,33,18.89,44.5
+329,Jiaxuan Gong,2024,33,18.89,44.5
+121,Srinivas Arun,2024,33,18.89,44.5
+117,Advaith Avadhanam,2024,33,18.89,44.5
+19,Vihaan Gupta,2024,33,18.89,44.5
+426,Emily Ma,2024,33,18.89,44.5
+205,Mingyue Yang,2024,33,18.89,44.5
+427,William Gvozdjak,2024,33,18.89,44.5
+106,Yunlang Zheng,2024,33,18.89,44.5
+32,Benjamin Jiang,2024,33,18.89,44.5
+122,David Jiahui Zhang,2024,33,18.89,44.5
+112,Jonathan He,2024,33,18.89,44.5
+98,Elliott Liu,2024,33,18.89,44.5
+428,Evan Luo,2024,33,18.89,44.5
+166,Roger Fan,2024,33,18.89,44.5
+429,Evan Ashoori,2024,33,18.89,44.5
+405,Rishi Rajesh,2024,33,18.89,44.5
+430,Henrick Rabinovitz,2024,33,18.89,44.5
+95,Razzi H. Masroor,2024,33,18.89,44.5

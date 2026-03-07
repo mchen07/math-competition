@@ -1,124 +1,124 @@
-student_id,student_name,state,award
-1204,Arnav Adhikari,,Honors
-402,Christopher Bao,Nevada,Honors
-423,Elena Baskakova,,Honors
-1205,Brian Bi,,Honors
-99,Rohan Bodke,California,Honors
-1206,Aryan Bora,,Honors
-73,Andrew Carratu,New Hampshire,Honors
-215,Michael Chen,New Jersey,Honors
-959,Bryan Chen,New Hampshire,Honors
-12,Alan Cheng,North Carolina,Honors
-90,Rohan Das,California,Honors
-1207,Ryan Dong,,Honors
-462,Jackson Dryg,Colorado,Honors
-166,Roger Fan,California,Honors
-62,Evan Fan,New Hampshire,Honors
-107,Annabel Ge,Washington,Honors
-1208,Nikash Gupta,,Honors
-403,BRANDON JUNGWOO HAN,,Honors
-439,Victoria Hu,California,Honors
-1209,Luke Huang,,Honors
-125,Pavan Jayaraman,New Jersey,Honors
-474,Benjamin Jeter,Arizona,Honors
-59,Henry Jiang,Michigan,Honors
-1210,Brendon Jiang,,Honors
-1211,Minkyu Jo,,Honors
-421,Yifan Kang,Massachusetts,Honors
-1127,Michelle Kang,Virginia,Honors
-433,Aarush Khare,California,Honors
-970,Juni Kim,New Jersey,Honors
-1113,Ethan Lee,California,Honors
-89,Jordan Lefkowitz,Connecticut,Honors
-1212,Weijie-Jay Li,,Honors
-98,Elliott Liu,California,Honors
-123,Vivian Loh,Pennsylvania,Honors
-404,Guanjie Lu,Texas,Honors
-1213,Alan Lu,California,Honors
-780,Susie Lu,Washington,Honors
-1214,Ruiyang Luo,,Honors
-953,Tanishq Pauskar,Ohio,Honors
-1215,Rico Qi,,Honors
-430,Henrick Rabinovitz,Massachusetts,Honors
-76,Kiran Reddy,Nevada,Honors
-413,Jacopo Rizzo,California,Honors
-86,Vikram Sarkar,Connecticut,Honors
-1138,Lucas Tang,Washington,Honors
-1,Alexander Wang,New Jersey,Honors
-97,Eric Wang,New Jersey,Honors
-1216,Kevin Wang,,Honors
-103,Allen Wang,New Jersey,Honors
-1217,Daniel Wang,,Honors
-198,Eddie Wei,,Honors
-1118,Xiaoyang Wu,California,Honors
-448,Raina Wu,,Honors
-1218,Yingshan Xiao,"Ontario, Canada",Honors
-957,Larry Xing,California,Honors
-445,Jeffrey Xu,Massachusetts,Honors
-907,Brian Xue,California,Honors
-1093,Michael Yang,Washington,Honors
-113,Feodor Yevtushenko,California,Honors
-1120,Eric Zhan,Washington,Honors
-116,Justin Zhang,California,Honors
-638,Owen Zhang,Washington,Honors
-1219,Laura Zhang,,Honors
-78,William Zhao,California,Honors
-1220,Henry Zheng,,Honors
-1221,Yoobin Cha,Arizona,Honorable Mention
-621,Sebastian Chase,State Department,Honorable Mention
-370,Victor Chen,Illinois,Honorable Mention
-960,William Chen,California,Honorable Mention
-1123,Aaron Chen,California,Honorable Mention
-945,Alex Chen,California,Honorable Mention
-1222,Patrick Chu,,Honorable Mention
-79,Surya Dinesh,Texas,Honorable Mention
-399,Mingwen Duan,Connecticut,Honorable Mention
-458,Aidan Duncan,,Honorable Mention
-1223,Aiden Feyerherm,Virginia,Honorable Mention
-1072,Marvin Gao,Florida,Honorable Mention
-544,Ivy Guo,Maryland,Honorable Mention
-1224,Ethan Han,,Honorable Mention
-407,Elbert Ho,New Jersey,Honorable Mention
-1225,Alexander Jun,,Honorable Mention
-410,Jaemin Kim,New York,Honorable Mention
-888,Jian Kweon,California,Honorable Mention
-1112,Ray Law,California,Honorable Mention
-288,David Lee,California,Honorable Mention
-1226,Katherine Li,New York,Honorable Mention
-460,Peisong Li,,Honorable Mention
-971,Brian Li,California,Honorable Mention
-1227,Tina Li,,Honorable Mention
-418,Emily Liu,California,Honorable Mention
-34,Jiahe Liu,Ohio,Honorable Mention
-72,Kevin Liu,Florida,Honorable Mention
-1228,Bhaumik Mehta,,Honorable Mention
-1229,Vishal Nandakumar,,Honorable Mention
-954,Zachary Perry,Massachusetts,Honorable Mention
-1134,Sebastian Prasanna,Massachusetts,Honorable Mention
-646,Kartik Ramachandrula,Wisconsin,Honorable Mention
-1135,Pranav Shankar,New Jersey,Honorable Mention
-1230,Zian Shi,,Honorable Mention
-1116,Shreyas Singh,Illinois,Honorable Mention
-1231,Joseph Vulakh,,Honorable Mention
-641,Hongning Wang,Washington,Honorable Mention
-647,Joshua Wang,Wisconsin,Honorable Mention
-3,Oron Wang,New Hampshire,Honorable Mention
-483,Lawson Wang,California,Honorable Mention
-432,Aiden Wen,Texas,Honorable Mention
-1090,Immanuel Whang,Washington,Honorable Mention
-126,Weian Xie,Connecticut,Honorable Mention
-275,Catherine Xu,Iowa,Honorable Mention
-56,Channing Yang,Texas,Honorable Mention
-503,Stephen Yang,Georgia,Honorable Mention
-1232,Henry Yao,,Honorable Mention
-930,Bole Ying,Pennsylvania,Honorable Mention
-1201,David Zhang,Utah,Honorable Mention
-1233,Davido Zhang,,Honorable Mention
-1062,Jerry Zhang,California,Honorable Mention
-487,Kyle Zhang,Connecticut,Honorable Mention
-46,Ray Zhao,Texas,Honorable Mention
-424,Derek Zhao,Massachusetts,Honorable Mention
-1234,Andrew Zhao,,Honorable Mention
-1235,Alex Zheng,,Honorable Mention
-1148,Aaron Zhou,Texas,Honorable Mention
-614,Anthony Zou,South Carolina,Honorable Mention
+student_id,student_name,state,award,mcp_rank
+1204,Arnav Adhikari,,Honors,33
+402,Christopher Bao,Nevada,Honors,33
+423,Elena Baskakova,,Honors,33
+1205,Brian Bi,,Honors,33
+99,Rohan Bodke,California,Honors,33
+1206,Aryan Bora,,Honors,33
+73,Andrew Carratu,New Hampshire,Honors,33
+215,Michael Chen,New Jersey,Honors,33
+959,Bryan Chen,New Hampshire,Honors,33
+12,Alan Cheng,North Carolina,Honors,33
+90,Rohan Das,California,Honors,33
+1207,Ryan Dong,,Honors,33
+462,Jackson Dryg,Colorado,Honors,33
+166,Roger Fan,California,Honors,33
+62,Evan Fan,New Hampshire,Honors,33
+107,Annabel Ge,Washington,Honors,33
+1208,Nikash Gupta,,Honors,33
+403,BRANDON JUNGWOO HAN,,Honors,33
+439,Victoria Hu,California,Honors,33
+1209,Luke Huang,,Honors,33
+125,Pavan Jayaraman,New Jersey,Honors,33
+474,Benjamin Jeter,Arizona,Honors,33
+59,Henry Jiang,Michigan,Honors,33
+1210,Brendon Jiang,,Honors,33
+1211,Minkyu Jo,,Honors,33
+421,Yifan Kang,Massachusetts,Honors,33
+1127,Michelle Kang,Virginia,Honors,33
+433,Aarush Khare,California,Honors,33
+970,Juni Kim,New Jersey,Honors,33
+1113,Ethan Lee,California,Honors,33
+89,Jordan Lefkowitz,Connecticut,Honors,33
+1212,Weijie-Jay Li,,Honors,33
+98,Elliott Liu,California,Honors,33
+123,Vivian Loh,Pennsylvania,Honors,33
+404,Guanjie Lu,Texas,Honors,33
+1213,Alan Lu,California,Honors,33
+780,Susie Lu,Washington,Honors,33
+1214,Ruiyang Luo,,Honors,33
+953,Tanishq Pauskar,Ohio,Honors,33
+1215,Rico Qi,,Honors,33
+430,Henrick Rabinovitz,Massachusetts,Honors,33
+76,Kiran Reddy,Nevada,Honors,33
+413,Jacopo Rizzo,California,Honors,33
+86,Vikram Sarkar,Connecticut,Honors,33
+1138,Lucas Tang,Washington,Honors,33
+1,Alexander Wang,New Jersey,Honors,33
+97,Eric Wang,New Jersey,Honors,33
+1216,Kevin Wang,,Honors,33
+103,Allen Wang,New Jersey,Honors,33
+1217,Daniel Wang,,Honors,33
+198,Eddie Wei,,Honors,33
+1118,Xiaoyang Wu,California,Honors,33
+448,Raina Wu,,Honors,33
+1218,Yingshan Xiao,"Ontario, Canada",Honors,33
+957,Larry Xing,California,Honors,33
+445,Jeffrey Xu,Massachusetts,Honors,33
+907,Brian Xue,California,Honors,33
+1093,Michael Yang,Washington,Honors,33
+113,Feodor Yevtushenko,California,Honors,33
+1120,Eric Zhan,Washington,Honors,33
+116,Justin Zhang,California,Honors,33
+638,Owen Zhang,Washington,Honors,33
+1219,Laura Zhang,,Honors,33
+78,William Zhao,California,Honors,33
+1220,Henry Zheng,,Honors,33
+1221,Yoobin Cha,Arizona,Honorable Mention,94.5
+621,Sebastian Chase,State Department,Honorable Mention,94.5
+370,Victor Chen,Illinois,Honorable Mention,94.5
+960,William Chen,California,Honorable Mention,94.5
+1123,Aaron Chen,California,Honorable Mention,94.5
+945,Alex Chen,California,Honorable Mention,94.5
+1222,Patrick Chu,,Honorable Mention,94.5
+79,Surya Dinesh,Texas,Honorable Mention,94.5
+399,Mingwen Duan,Connecticut,Honorable Mention,94.5
+458,Aidan Duncan,,Honorable Mention,94.5
+1223,Aiden Feyerherm,Virginia,Honorable Mention,94.5
+1072,Marvin Gao,Florida,Honorable Mention,94.5
+544,Ivy Guo,Maryland,Honorable Mention,94.5
+1224,Ethan Han,,Honorable Mention,94.5
+407,Elbert Ho,New Jersey,Honorable Mention,94.5
+1225,Alexander Jun,,Honorable Mention,94.5
+410,Jaemin Kim,New York,Honorable Mention,94.5
+888,Jian Kweon,California,Honorable Mention,94.5
+1112,Ray Law,California,Honorable Mention,94.5
+288,David Lee,California,Honorable Mention,94.5
+1226,Katherine Li,New York,Honorable Mention,94.5
+460,Peisong Li,,Honorable Mention,94.5
+971,Brian Li,California,Honorable Mention,94.5
+1227,Tina Li,,Honorable Mention,94.5
+418,Emily Liu,California,Honorable Mention,94.5
+34,Jiahe Liu,Ohio,Honorable Mention,94.5
+72,Kevin Liu,Florida,Honorable Mention,94.5
+1228,Bhaumik Mehta,,Honorable Mention,94.5
+1229,Vishal Nandakumar,,Honorable Mention,94.5
+954,Zachary Perry,Massachusetts,Honorable Mention,94.5
+1134,Sebastian Prasanna,Massachusetts,Honorable Mention,94.5
+646,Kartik Ramachandrula,Wisconsin,Honorable Mention,94.5
+1135,Pranav Shankar,New Jersey,Honorable Mention,94.5
+1230,Zian Shi,,Honorable Mention,94.5
+1116,Shreyas Singh,Illinois,Honorable Mention,94.5
+1231,Joseph Vulakh,,Honorable Mention,94.5
+641,Hongning Wang,Washington,Honorable Mention,94.5
+647,Joshua Wang,Wisconsin,Honorable Mention,94.5
+3,Oron Wang,New Hampshire,Honorable Mention,94.5
+483,Lawson Wang,California,Honorable Mention,94.5
+432,Aiden Wen,Texas,Honorable Mention,94.5
+1090,Immanuel Whang,Washington,Honorable Mention,94.5
+126,Weian Xie,Connecticut,Honorable Mention,94.5
+275,Catherine Xu,Iowa,Honorable Mention,94.5
+56,Channing Yang,Texas,Honorable Mention,94.5
+503,Stephen Yang,Georgia,Honorable Mention,94.5
+1232,Henry Yao,,Honorable Mention,94.5
+930,Bole Ying,Pennsylvania,Honorable Mention,94.5
+1201,David Zhang,Utah,Honorable Mention,94.5
+1233,Davido Zhang,,Honorable Mention,94.5
+1062,Jerry Zhang,California,Honorable Mention,94.5
+487,Kyle Zhang,Connecticut,Honorable Mention,94.5
+46,Ray Zhao,Texas,Honorable Mention,94.5
+424,Derek Zhao,Massachusetts,Honorable Mention,94.5
+1234,Andrew Zhao,,Honorable Mention,94.5
+1235,Alex Zheng,,Honorable Mention,94.5
+1148,Aaron Zhou,Texas,Honorable Mention,94.5
+614,Anthony Zou,South Carolina,Honorable Mention,94.5

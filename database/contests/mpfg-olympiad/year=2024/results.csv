@@ -1,25 +1,25 @@
-student_id,student_name,state,grade,school,award
-325,Amy Cui,Washington,11th,Lakeside School,Gold
-1348,Haruka Kimura,Connecticut,10th,Homeschool,Gold
-1061,Julia Xiang,California,11th,Dougherty Valley HS,Gold
-666,Shruti Arun,Colorado,11th,Cherry Creek HS,Silver
-65,Selena Ge,Massachusetts,9th,Lexington HS,Silver
-544,Ivy Guo,Maryland,12th,Blair HS,Silver
-900,Katie He,Florida,12th,The Frazer School,Silver
-303,Alansha Jiang,Washington,12th,Newport HS,Silver
-1356,Kira Lewis,New York,12th,Horace Mann School,Silver
-1226,Katherine Li,New York,12th,Syosset HS,Silver
-81,Angela Liu,California,12th,Homeschool,Silver
-1360,Yifan Emma Tang,"Ontario, Canada",12th,University of Toronto Schools,Silver
-337,Emily Yu,New York,12th,Mendon HS,Silver
-85,Sophia Zhang,New Jersey,11th,PRISMS,Silver
-894,Kailua Cheng,California,11th,Amador Valley HS,Bronze
-58,Hannah Fox,California,12th,Proof School,Bronze
-279,Sophia Hou,Virginia,11th,Thomas Jefferson HSST,Bronze
-1253,Joyce Huang,Washington,12th,Redmond HS,Bronze
-227,Sylvia Lee,Massachusetts,10th,Lexington HS,Bronze
-1361,Lorraine Wang,California,11th,Laurel Springs School,Bronze
-1218,Yingshan Xiao,"Ontario, Canada",12th,Oakville Trafalgar HS,Bronze
-1270,Honjar Xing,"Ontario, Canada",12th,Stanford Online HS,Bronze
-275,Catherine Xu,Iowa,11th,Iowa City West SHS,Bronze
-637,Angeline Zhao,Massachusetts,12th,Phillips Academy Andover,Bronze
+student_id,student_name,state,grade,school,award,mcp_rank
+325,Amy Cui,Washington,11th,Lakeside School,Gold,2
+1348,Haruka Kimura,Connecticut,10th,Homeschool,Gold,2
+1061,Julia Xiang,California,11th,Dougherty Valley HS,Gold,2
+666,Shruti Arun,Colorado,11th,Cherry Creek HS,Silver,9
+65,Selena Ge,Massachusetts,9th,Lexington HS,Silver,9
+544,Ivy Guo,Maryland,12th,Blair HS,Silver,9
+900,Katie He,Florida,12th,The Frazer School,Silver,9
+303,Alansha Jiang,Washington,12th,Newport HS,Silver,9
+1356,Kira Lewis,New York,12th,Horace Mann School,Silver,9
+1226,Katherine Li,New York,12th,Syosset HS,Silver,9
+81,Angela Liu,California,12th,Homeschool,Silver,9
+1360,Yifan Emma Tang,"Ontario, Canada",12th,University of Toronto Schools,Silver,9
+337,Emily Yu,New York,12th,Mendon HS,Silver,9
+85,Sophia Zhang,New Jersey,11th,PRISMS,Silver,9
+894,Kailua Cheng,California,11th,Amador Valley HS,Bronze,19.5
+58,Hannah Fox,California,12th,Proof School,Bronze,19.5
+279,Sophia Hou,Virginia,11th,Thomas Jefferson HSST,Bronze,19.5
+1253,Joyce Huang,Washington,12th,Redmond HS,Bronze,19.5
+227,Sylvia Lee,Massachusetts,10th,Lexington HS,Bronze,19.5
+1361,Lorraine Wang,California,11th,Laurel Springs School,Bronze,19.5
+1218,Yingshan Xiao,"Ontario, Canada",12th,Oakville Trafalgar HS,Bronze,19.5
+1270,Honjar Xing,"Ontario, Canada",12th,Stanford Online HS,Bronze,19.5
+275,Catherine Xu,Iowa,11th,Iowa City West SHS,Bronze,19.5
+637,Angeline Zhao,Massachusetts,12th,Phillips Academy Andover,Bronze,19.5

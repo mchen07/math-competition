@@ -1,57 +1,57 @@
-student_id,student_name,state,year,rank,grade
-14,Nathan Liu,Texas,2025,1,8
-811,Brandon Ni,Massachusetts,2025,2,7
-204,Alexander Svoronos,Connecticut,2025,S (Semi-finalist),7
-809,Advait Joshi,New Jersey,2025,S (Semi-finalist),7
-838,Jason Bo,California,2025,Q (Quarter-finalist),7
-839,Victor Yang,New York,2025,Q (Quarter-finalist),7
-840,Andrew Du,Virginia,2025,Q (Quarter-finalist),8
-841,Shlok Mukund,Massachusetts,2025,Q (Quarter-finalist),7
-842,Justin Kim,California,2025,C (9-12),7
-394,Alexander Yang,Washington,2025,C (9-12),8
-843,Lucas Li,North Carolina,2025,C (9-12),8
-844,Ryan Zhang,New York,2025,C (9-12),8
-845,Edwin Gao,Florida,2025,13,8
-846,Roland Li,Indiana,2025,14,7
-266,Ethan Imanuel,New Jersey,2025,15,8
-248,Shaheem Samsudeen,Texas,2025,16,7
-847,Sophia Han,Oregon,2025,17,8
-1447,William Wu,Illinois,2025,18,7
-848,Arjun Raman,Indiana,2025,19,8
-818,Jonathan Wu,Utah,2025,20,8
-827,Easton Wei,New Jersey,2025,21,8
-232,Aashita Mandiwal,Utah,2025,22,8
-849,Aiden Wei,Georgia,2025,23,8
-206,Eric Xie,Maryland,2025,24,8
-797,Bowen Shan,Arizona,2025,25,8
-850,Eric Huang,Massachusetts,2025,26,8
-851,Soham Samanta,Massachusetts,2025,27,8
-852,Vivaan Mukherjee,Washington,2025,28,8
-801,Leo Hong,North Carolina,2025,29,8
-853,Andy Liu,California,2025,30,8
-834,Henry Lu,Ohio,2025,31,8
-854,Benjamin Lu,Pennsylvania,2025,32,8
-855,Arnav Bhatia,Florida,2025,33,8
-826,Max Tsai,Nevada,2025,34,8
-39,Maxwell Sun,New Hampshire,2025,35,8
-856,Roger Huang,Maryland,2025,36,8
-857,Jiyan Singh,Wisconsin,2025,37,7
-816,Vivek Kalyankar,Arkansas,2025,38,7
-16,James Stewart,Texas,2025,39,6
-323,Isaac Chan-Osborn,Illinois,2025,40,7
-858,Ian Shan,Arizona,2025,41,6
-859,Jay Wang,New Jersey,2025,42,7
-860,Saamik Agrawal,Washington,2025,43,8
-861,Derrick Chen,New York,2025,44,7
-862,Ethan Shi,Connecticut,2025,45,8
-863,William Xin,Washington,2025,46,8
-864,Adam Deng,Utah,2025,47,8
-865,Jason Zhou,Louisiana,2025,48,8
-866,Hayden Hughes,Connecticut,2025,49,8
-867,Leo Shen,Utah,2025,50,6
-868,Kevin Cheng,Oregon,2025,51,8
-869,Sophia Chen,Indiana,2025,52,7
-870,Shawn Bi,Virginia,2025,53,8
-871,Eric Jin,Michigan,2025,54,8
-872,Rananjay Parmar,Florida,2025,55,8
-873,Hrishabh Bhowmik,Indiana,2025,56,8
+student_id,student_name,state,year,rank,grade,mcp_rank
+14,Nathan Liu,Texas,2025,1,8,1
+811,Brandon Ni,Massachusetts,2025,2,7,2
+204,Alexander Svoronos,Connecticut,2025,S (Semi-finalist),7,3.5
+809,Advait Joshi,New Jersey,2025,S (Semi-finalist),7,3.5
+838,Jason Bo,California,2025,Q (Quarter-finalist),7,6.5
+839,Victor Yang,New York,2025,Q (Quarter-finalist),7,6.5
+840,Andrew Du,Virginia,2025,Q (Quarter-finalist),8,6.5
+841,Shlok Mukund,Massachusetts,2025,Q (Quarter-finalist),7,6.5
+842,Justin Kim,California,2025,C (9-12),7,10.5
+394,Alexander Yang,Washington,2025,C (9-12),8,10.5
+843,Lucas Li,North Carolina,2025,C (9-12),8,10.5
+844,Ryan Zhang,New York,2025,C (9-12),8,10.5
+845,Edwin Gao,Florida,2025,13,8,13
+846,Roland Li,Indiana,2025,14,7,14
+266,Ethan Imanuel,New Jersey,2025,15,8,15
+248,Shaheem Samsudeen,Texas,2025,16,7,16
+847,Sophia Han,Oregon,2025,17,8,17
+1447,William Wu,Illinois,2025,18,7,18
+848,Arjun Raman,Indiana,2025,19,8,19
+818,Jonathan Wu,Utah,2025,20,8,20
+827,Easton Wei,New Jersey,2025,21,8,21
+232,Aashita Mandiwal,Utah,2025,22,8,22
+849,Aiden Wei,Georgia,2025,23,8,23
+206,Eric Xie,Maryland,2025,24,8,24
+797,Bowen Shan,Arizona,2025,25,8,25
+850,Eric Huang,Massachusetts,2025,26,8,26
+851,Soham Samanta,Massachusetts,2025,27,8,27
+852,Vivaan Mukherjee,Washington,2025,28,8,28
+801,Leo Hong,North Carolina,2025,29,8,29
+853,Andy Liu,California,2025,30,8,30
+834,Henry Lu,Ohio,2025,31,8,31
+854,Benjamin Lu,Pennsylvania,2025,32,8,32
+855,Arnav Bhatia,Florida,2025,33,8,33
+826,Max Tsai,Nevada,2025,34,8,34
+39,Maxwell Sun,New Hampshire,2025,35,8,35
+856,Roger Huang,Maryland,2025,36,8,36
+857,Jiyan Singh,Wisconsin,2025,37,7,37
+816,Vivek Kalyankar,Arkansas,2025,38,7,38
+16,James Stewart,Texas,2025,39,6,39
+323,Isaac Chan-Osborn,Illinois,2025,40,7,40
+858,Ian Shan,Arizona,2025,41,6,41
+859,Jay Wang,New Jersey,2025,42,7,42
+860,Saamik Agrawal,Washington,2025,43,8,43
+861,Derrick Chen,New York,2025,44,7,44
+862,Ethan Shi,Connecticut,2025,45,8,45
+863,William Xin,Washington,2025,46,8,46
+864,Adam Deng,Utah,2025,47,8,47
+865,Jason Zhou,Louisiana,2025,48,8,48
+866,Hayden Hughes,Connecticut,2025,49,8,49
+867,Leo Shen,Utah,2025,50,6,50
+868,Kevin Cheng,Oregon,2025,51,8,51
+869,Sophia Chen,Indiana,2025,52,7,52
+870,Shawn Bi,Virginia,2025,53,8,53
+871,Eric Jin,Michigan,2025,54,8,54
+872,Rananjay Parmar,Florida,2025,55,8,55
+873,Hrishabh Bhowmik,Indiana,2025,56,8,56

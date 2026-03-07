@@ -1,57 +1,57 @@
-student_id,student_name,state,year,rank,grade
-56,Channing Yang,Texas,2023,1,7
-3,Oron Wang,New Jersey,2023,2,8
-20,Ashvin Sinha,Florida,2023,S (Semi-finalist),8
-522,Edward Chen,Indiana,2023,S (Semi-finalist),8
-4,Liam Reddy,Nevada,2023,Q (Quarter-finalist),8
-319,Seabert Mao,California,2023,Q (Quarter-finalist),8
-48,Varun Gadi,Georgia,2023,Q (Quarter-finalist),8
-65,Selena Ge,Massachusetts,2023,Q (Quarter-finalist),7
-33,Roger Zhen,Texas,2023,C (9-12),7
-242,Adam Ge,Massachusetts,2023,C (9-12),8
-229,Alex Sun,Texas,2023,C (9-12),8
-343,Jason Lee,North Carolina,2023,C (9-12),7
-32,Ben Jiang,Florida,2023,13,7
-38,Andy Lu,California,2023,14,8
-77,Shunyao Yan,Virginia,2023,15,7
-687,Sola Murakami,Hawaii,2023,16,8
-729,Julian Kuang,Nevada,2023,17,7
-210,Eric Zhu,North Carolina,2023,18,8
-41,Eddy Zhang,Pennsylvania,2023,19,7
-770,Kevin Chen,Texas,2023,20,8
-37,Grant Blitz,Illinois,2023,21,8
-783,Sami El-Hajjar,Wisconsin,2023,22,8
-792,Roger He,Florida,2023,23,8
-793,Christopher Cheng,Massachusetts,2023,24,8
-357,Ryan Bansal,California,2023,25,8
-22,Ian Rui,Washington,2023,26,8
-794,Zizhan Wang,Georgia,2023,27,8
-550,Austin Wang,Minnesota,2023,28,8
-703,Samuel Henderson,Kentucky,2023,29,7
-795,Eric Gao,Florida,2023,30,8
-6,Jefferson Zhou,Minnesota,2023,31,7
-797,Bowen Shan,Arizona,2023,32,6
-798,Samuel Ding,Oregon,2023,33,8
-701,Solon Xia,Kansas,2023,34,8
-392,Justin Guo,Tennessee,2023,35,8
-371,Akshaj Arora,Georgia,2023,36,7
-799,Kesav Kalanidhi,North Carolina,2023,37,8
-445,Jeffrey Xu,Wisconsin,2023,38,7
-800,Nikhil Byrapuram,Massachusetts,2023,39,8
-801,Leo Hong,North Carolina,2023,40,6
-802,Arush Krisp,Ohio,2023,41,7
-284,Alex Liu,Virginia,2023,42,7
-804,Leon Xie,Iowa,2023,43,8
-389,Keshav Karumbunathan,Oregon,2023,44,7
-246,Vincent Pirozzo,Michigan,2023,45,7
-694,Christopher Sakaliyski,Illinois,2023,46,7
-805,Shining Sun,New Jersey,2023,47,8
-806,Simon Deng,Ohio,2023,48,8
-252,Arnav Iyengar,District of Columbia,2023,49,8
-485,Joshua Liu,Colorado,2023,50,7
-807,Jonah Wang,Colorado,2023,51,8
-365,Harish Loghashankar,California,2023,52,8
-1446,Edward Li,Washington,2023,53,8
-30,Eric Dai,New Jersey,2023,54,8
-320,Jeremy Yang,Maryland,2023,55,8
-808,Miguel Shim,South Carolina,2023,56,8
+student_id,student_name,state,year,rank,grade,mcp_rank
+56,Channing Yang,Texas,2023,1,7,1
+3,Oron Wang,New Jersey,2023,2,8,2
+20,Ashvin Sinha,Florida,2023,S (Semi-finalist),8,3.5
+522,Edward Chen,Indiana,2023,S (Semi-finalist),8,3.5
+4,Liam Reddy,Nevada,2023,Q (Quarter-finalist),8,6.5
+319,Seabert Mao,California,2023,Q (Quarter-finalist),8,6.5
+48,Varun Gadi,Georgia,2023,Q (Quarter-finalist),8,6.5
+65,Selena Ge,Massachusetts,2023,Q (Quarter-finalist),7,6.5
+33,Roger Zhen,Texas,2023,C (9-12),7,10.5
+242,Adam Ge,Massachusetts,2023,C (9-12),8,10.5
+229,Alex Sun,Texas,2023,C (9-12),8,10.5
+343,Jason Lee,North Carolina,2023,C (9-12),7,10.5
+32,Ben Jiang,Florida,2023,13,7,13
+38,Andy Lu,California,2023,14,8,14
+77,Shunyao Yan,Virginia,2023,15,7,15
+687,Sola Murakami,Hawaii,2023,16,8,16
+729,Julian Kuang,Nevada,2023,17,7,17
+210,Eric Zhu,North Carolina,2023,18,8,18
+41,Eddy Zhang,Pennsylvania,2023,19,7,19
+770,Kevin Chen,Texas,2023,20,8,20
+37,Grant Blitz,Illinois,2023,21,8,21
+783,Sami El-Hajjar,Wisconsin,2023,22,8,22
+792,Roger He,Florida,2023,23,8,23
+793,Christopher Cheng,Massachusetts,2023,24,8,24
+357,Ryan Bansal,California,2023,25,8,25
+22,Ian Rui,Washington,2023,26,8,26
+794,Zizhan Wang,Georgia,2023,27,8,27
+550,Austin Wang,Minnesota,2023,28,8,28
+703,Samuel Henderson,Kentucky,2023,29,7,29
+795,Eric Gao,Florida,2023,30,8,30
+6,Jefferson Zhou,Minnesota,2023,31,7,31
+797,Bowen Shan,Arizona,2023,32,6,32
+798,Samuel Ding,Oregon,2023,33,8,33
+701,Solon Xia,Kansas,2023,34,8,34
+392,Justin Guo,Tennessee,2023,35,8,35
+371,Akshaj Arora,Georgia,2023,36,7,36
+799,Kesav Kalanidhi,North Carolina,2023,37,8,37
+445,Jeffrey Xu,Wisconsin,2023,38,7,38
+800,Nikhil Byrapuram,Massachusetts,2023,39,8,39
+801,Leo Hong,North Carolina,2023,40,6,40
+802,Arush Krisp,Ohio,2023,41,7,41
+284,Alex Liu,Virginia,2023,42,7,42
+804,Leon Xie,Iowa,2023,43,8,43
+389,Keshav Karumbunathan,Oregon,2023,44,7,44
+246,Vincent Pirozzo,Michigan,2023,45,7,45
+694,Christopher Sakaliyski,Illinois,2023,46,7,46
+805,Shining Sun,New Jersey,2023,47,8,47
+806,Simon Deng,Ohio,2023,48,8,48
+252,Arnav Iyengar,District of Columbia,2023,49,8,49
+485,Joshua Liu,Colorado,2023,50,7,50
+807,Jonah Wang,Colorado,2023,51,8,51
+365,Harish Loghashankar,California,2023,52,8,52
+1446,Edward Li,Washington,2023,53,8,53
+30,Eric Dai,New Jersey,2023,54,8,54
+320,Jeremy Yang,Maryland,2023,55,8,55
+808,Miguel Shim,South Carolina,2023,56,8,56

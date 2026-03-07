@@ -1,64 +1,64 @@
-student_id,student_name,state,grade,school,place,year,score,prize
-666,Shruti Arun,Colorado,11th,Cherry Creek HS,1,2024,15,"$15,000"
-81,Angela Liu,California,12th,Homeschool,2,2024,15,"$15,000"
-279,Sophia Hou,Virginia,11th,Thomas Jefferson HSST,3,2024,15,"$15,000"
-780,Susie Lu,Washington,11th,Stanford Online HS,4,2024,15,"$15,000"
-900,Katie He,Florida,12th,The Frazer School,5,2024,15,"$15,000"
-1335,Katherine Liu,Texas,12th,Clements HS,6,2024,15,"$15,000"
-520,Angela Ho,Illinois,11th,Stevenson HS,7,2024,14,$1000
-58,Hannah Fox,California,12th,Proof School,8,2024,14,$1000
-65,Selena Ge,Massachusetts,9th,Lexington HS,9,2024,14,$1000
-303,Alansha Jiang,Washington,12th,Newport HS,10,2024,14,$1000
-383,Laura Wang,Washington,9th,Lakeside School,11,2024,14,$1000
-961,Alyssa Chu,New York,12th,Rye Country Day School,12,2024,14,$1000
-337,Emily Yu,New York,12th,Mendon HS,13,2024,14,$1000
-544,Ivy Guo,Maryland,12th,Blair HS,14,2024,14,$1000
-1073,Angie Huang,Minnesota,11th,East Ridge HS,15,2024,14,Honorable Mention
-227,Sylvia Lee,Massachusetts,10th,Lexington HS,15,2024,14,Honorable Mention
-1084,Maiya Qiu,New Jersey,10th,Princeton HS,15,2024,14,Honorable Mention
-894,Kailua Cheng,California,11th,Amador Valley HS,18,2024,13,Honorable Mention
-1226,Katherine Li,New York,12th,Syosset HS,18,2024,13,Honorable Mention
-1349,Grace Lu,New York,11th,Syosset HS,18,2024,13,Honorable Mention
-1218,Yingshan Xiao,"Ontario, Canada",12th,Oakville Trafalgar HS,18,2024,13,Honorable Mention
-275,Catherine Xu,Iowa,11th,Iowa City West SHS,18,2024,13,Honorable Mention
-85,Sophia Zhang,New Jersey,11th,PRISMS,18,2024,13,Honorable Mention
-396,Elena Ahn Beckman,California,9th,Dos Pueblos HS,24,2024,12,Honorable Mention
-1010,Erin Bian,Washington,9th,Lakeside School,24,2024,12,Honorable Mention
-1355,Fiona Chen,New Jersey,11th,Livingston HS,24,2024,12,Honorable Mention
-325,Amy Cui,Washington,11th,Lakeside School,24,2024,12,Honorable Mention
-523,Jennifer Hu,Indiana,11th,Carmel HS,24,2024,12,Honorable Mention
-1356,Kira Lewis,New York,12th,Horace Mann School,24,2024,12,Honorable Mention
-1077,Xinyi Li,Texas,9th,Stanford Online HS,24,2024,12,Honorable Mention
-216,Lingfei Tang,North Carolina,10th,Cary Academy,24,2024,12,Honorable Mention
-1357,Emma Wu,Texas,12th,Dulles HS,24,2024,12,Honorable Mention
-711,Alyssa Yu,Maryland,11th,Poolesville HS,24,2024,12,Honorable Mention
-1240,Ishani Agarwal,California,12th,Saratoga HS,34,2024,11,Honorable Mention
-1065,Amelia Chen,California,11th,Proof School,34,2024,11,Honorable Mention
-1358,Olivia Guo,Maryland,12th,Montgomery Blair HS,34,2024,11,Honorable Mention
-1253,Joyce Huang,Washington,12th,Redmond HS,34,2024,11,Honorable Mention
-1348,Haruka Kimura,Connecticut,10th,Homeschool,34,2024,11,Honorable Mention
-1359,Alena Kutsuk,California,10th,Mountain View HS,34,2024,11,Honorable Mention
-1360,Yifan Emma Tang,"Ontario, Canada",12th,University of Toronto Schools,34,2024,11,Honorable Mention
-1043,Heather Wang,California,10th,Harker School,34,2024,11,Honorable Mention
-1361,Lorraine Wang,California,11th,Laurel Springs School,34,2024,11,Honorable Mention
-1332,Yunong Wu,New York,9th,Rye Country Day School,34,2024,11,Honorable Mention
-1061,Julia Xiang,California,11th,Dougherty Valley HS,34,2024,11,Honorable Mention
-1270,Honjar Xing,"Ontario, Canada",12th,Stanford Online HS,34,2024,11,Honorable Mention
-1014,Lanie Deng,Missouri,9th,Central HS,46,2024,9,one point shy of Honorable Mention
-1362,Michelle Gao,Maryland,12th,Montgomery Blair HS,46,2024,9,one point shy of Honorable Mention
-551,Sneha Kundu,Minnesota,11th,Wayzata HS,46,2024,9,one point shy of Honorable Mention
-921,Alicia Li,New Hampshire,11th,Horace Mann School,46,2024,9,one point shy of Honorable Mention
-1363,Diana Lin,Washington,11th,Overlake School,46,2024,9,one point shy of Honorable Mention
-338,Katrina Liu,California,10th,Canyon Crest Academy,46,2024,9,one point shy of Honorable Mention
-1364,Grace Luo,North Carolina,12th,NCSSM,46,2024,9,one point shy of Honorable Mention
-1059,Gloria Ma,California,11th,Valley Christian HS,46,2024,9,one point shy of Honorable Mention
-1260,Tatiana Medved,North Carolina,12th,NCSSM,46,2024,9,one point shy of Honorable Mention
-1086,Greta Qu,"Ontario, Canada",10th,Woodlands Secondary School,46,2024,9,one point shy of Honorable Mention
-1365,Audrey Sun,Georgia,11th,Innovation Academy,46,2024,9,one point shy of Honorable Mention
-1366,Jessie Wang,Texas,12th,Allen HS,46,2024,9,one point shy of Honorable Mention
-1088,Kallie Wang,California,11th,Harker School,46,2024,9,one point shy of Honorable Mention
-1367,Anlan Xu,Florida,12th,Berkeley Preparatory School,46,2024,9,one point shy of Honorable Mention
-1008,Vivian Zhong,California,10th,Saratoga HS,46,2024,9,one point shy of Honorable Mention
-1271,Anna Zhou,Maryland,10th,Poolesville HS,46,2024,9,one point shy of Honorable Mention
-457,Ashley Zhu,New York,12th,Hunter College HS,46,2024,9,one point shy of Honorable Mention
-1055,Madeline Zhu,New Jersey,9th,Pingry School,46,2024,9,one point shy of Honorable Mention
+student_id,student_name,state,grade,school,place,year,score,prize,mcp_rank
+666,Shruti Arun,Colorado,11th,Cherry Creek HS,1,2024,15,"$15,000",1
+81,Angela Liu,California,12th,Homeschool,2,2024,15,"$15,000",2
+279,Sophia Hou,Virginia,11th,Thomas Jefferson HSST,3,2024,15,"$15,000",3
+780,Susie Lu,Washington,11th,Stanford Online HS,4,2024,15,"$15,000",4
+900,Katie He,Florida,12th,The Frazer School,5,2024,15,"$15,000",5
+1335,Katherine Liu,Texas,12th,Clements HS,6,2024,15,"$15,000",6
+520,Angela Ho,Illinois,11th,Stevenson HS,7,2024,14,$1000,7
+58,Hannah Fox,California,12th,Proof School,8,2024,14,$1000,8
+65,Selena Ge,Massachusetts,9th,Lexington HS,9,2024,14,$1000,9
+303,Alansha Jiang,Washington,12th,Newport HS,10,2024,14,$1000,10
+383,Laura Wang,Washington,9th,Lakeside School,11,2024,14,$1000,11
+961,Alyssa Chu,New York,12th,Rye Country Day School,12,2024,14,$1000,12
+337,Emily Yu,New York,12th,Mendon HS,13,2024,14,$1000,13
+544,Ivy Guo,Maryland,12th,Blair HS,14,2024,14,$1000,14
+1073,Angie Huang,Minnesota,11th,East Ridge HS,15,2024,14,Honorable Mention,16
+227,Sylvia Lee,Massachusetts,10th,Lexington HS,15,2024,14,Honorable Mention,16
+1084,Maiya Qiu,New Jersey,10th,Princeton HS,15,2024,14,Honorable Mention,16
+894,Kailua Cheng,California,11th,Amador Valley HS,18,2024,13,Honorable Mention,20.5
+1226,Katherine Li,New York,12th,Syosset HS,18,2024,13,Honorable Mention,20.5
+1349,Grace Lu,New York,11th,Syosset HS,18,2024,13,Honorable Mention,20.5
+1218,Yingshan Xiao,"Ontario, Canada",12th,Oakville Trafalgar HS,18,2024,13,Honorable Mention,20.5
+275,Catherine Xu,Iowa,11th,Iowa City West SHS,18,2024,13,Honorable Mention,20.5
+85,Sophia Zhang,New Jersey,11th,PRISMS,18,2024,13,Honorable Mention,20.5
+396,Elena Ahn Beckman,California,9th,Dos Pueblos HS,24,2024,12,Honorable Mention,28.5
+1010,Erin Bian,Washington,9th,Lakeside School,24,2024,12,Honorable Mention,28.5
+1355,Fiona Chen,New Jersey,11th,Livingston HS,24,2024,12,Honorable Mention,28.5
+325,Amy Cui,Washington,11th,Lakeside School,24,2024,12,Honorable Mention,28.5
+523,Jennifer Hu,Indiana,11th,Carmel HS,24,2024,12,Honorable Mention,28.5
+1356,Kira Lewis,New York,12th,Horace Mann School,24,2024,12,Honorable Mention,28.5
+1077,Xinyi Li,Texas,9th,Stanford Online HS,24,2024,12,Honorable Mention,28.5
+216,Lingfei Tang,North Carolina,10th,Cary Academy,24,2024,12,Honorable Mention,28.5
+1357,Emma Wu,Texas,12th,Dulles HS,24,2024,12,Honorable Mention,28.5
+711,Alyssa Yu,Maryland,11th,Poolesville HS,24,2024,12,Honorable Mention,28.5
+1240,Ishani Agarwal,California,12th,Saratoga HS,34,2024,11,Honorable Mention,39.5
+1065,Amelia Chen,California,11th,Proof School,34,2024,11,Honorable Mention,39.5
+1358,Olivia Guo,Maryland,12th,Montgomery Blair HS,34,2024,11,Honorable Mention,39.5
+1253,Joyce Huang,Washington,12th,Redmond HS,34,2024,11,Honorable Mention,39.5
+1348,Haruka Kimura,Connecticut,10th,Homeschool,34,2024,11,Honorable Mention,39.5
+1359,Alena Kutsuk,California,10th,Mountain View HS,34,2024,11,Honorable Mention,39.5
+1360,Yifan Emma Tang,"Ontario, Canada",12th,University of Toronto Schools,34,2024,11,Honorable Mention,39.5
+1043,Heather Wang,California,10th,Harker School,34,2024,11,Honorable Mention,39.5
+1361,Lorraine Wang,California,11th,Laurel Springs School,34,2024,11,Honorable Mention,39.5
+1332,Yunong Wu,New York,9th,Rye Country Day School,34,2024,11,Honorable Mention,39.5
+1061,Julia Xiang,California,11th,Dougherty Valley HS,34,2024,11,Honorable Mention,39.5
+1270,Honjar Xing,"Ontario, Canada",12th,Stanford Online HS,34,2024,11,Honorable Mention,39.5
+1014,Lanie Deng,Missouri,9th,Central HS,46,2024,9,one point shy of Honorable Mention,54.5
+1362,Michelle Gao,Maryland,12th,Montgomery Blair HS,46,2024,9,one point shy of Honorable Mention,54.5
+551,Sneha Kundu,Minnesota,11th,Wayzata HS,46,2024,9,one point shy of Honorable Mention,54.5
+921,Alicia Li,New Hampshire,11th,Horace Mann School,46,2024,9,one point shy of Honorable Mention,54.5
+1363,Diana Lin,Washington,11th,Overlake School,46,2024,9,one point shy of Honorable Mention,54.5
+338,Katrina Liu,California,10th,Canyon Crest Academy,46,2024,9,one point shy of Honorable Mention,54.5
+1364,Grace Luo,North Carolina,12th,NCSSM,46,2024,9,one point shy of Honorable Mention,54.5
+1059,Gloria Ma,California,11th,Valley Christian HS,46,2024,9,one point shy of Honorable Mention,54.5
+1260,Tatiana Medved,North Carolina,12th,NCSSM,46,2024,9,one point shy of Honorable Mention,54.5
+1086,Greta Qu,"Ontario, Canada",10th,Woodlands Secondary School,46,2024,9,one point shy of Honorable Mention,54.5
+1365,Audrey Sun,Georgia,11th,Innovation Academy,46,2024,9,one point shy of Honorable Mention,54.5
+1366,Jessie Wang,Texas,12th,Allen HS,46,2024,9,one point shy of Honorable Mention,54.5
+1088,Kallie Wang,California,11th,Harker School,46,2024,9,one point shy of Honorable Mention,54.5
+1367,Anlan Xu,Florida,12th,Berkeley Preparatory School,46,2024,9,one point shy of Honorable Mention,54.5
+1008,Vivian Zhong,California,10th,Saratoga HS,46,2024,9,one point shy of Honorable Mention,54.5
+1271,Anna Zhou,Maryland,10th,Poolesville HS,46,2024,9,one point shy of Honorable Mention,54.5
+457,Ashley Zhu,New York,12th,Hunter College HS,46,2024,9,one point shy of Honorable Mention,54.5
+1055,Madeline Zhu,New Jersey,9th,Pingry School,46,2024,9,one point shy of Honorable Mention,54.5

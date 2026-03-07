@@ -1,11 +1,11 @@
-student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score
-1734,Sohum Uttamchandani,2025,Discrete,242C,Lynbrook Wasabi,Lynbrook High School,Top Scores,1,9
-1726,Mittansh Bhatia,2025,Discrete,199B,BISV Team 1,BISV,Top Scores,2,8
-21,David Fox,2025,Discrete,092B,,,Top Scores,3,8
-357,Ryan Bansal,2025,Discrete,165B,AlphaStar Saturn,AlphaStar Academy,Top Scores,4,8
-396,Elena Ahn Beckman,2025,Discrete,011C,Areteem Institute,Areteem Institute,Top Scores,5,8
-322,Andrew Shi,2025,Discrete,177A,Harker Omicron,The Harker School,Top Scores,6,8
-211,Chenghao Hu,2025,Discrete,236A,Monta Vista Team A,Monta Vista High School Math and Science Club,Top Scores,7,8
-1770,Bosman Botha,2025,Discrete,167F,AlphaStar Mars,AlphaStar Academy,Top Scores,8,8
-387,Royce Yao,2025,Discrete,092A,,,Top Scores,9,7
-2507,Zhoulei (Charlie) Huang,2025,Discrete,086F,Pakgods,The King's Academy,Top Scores,9,7
+student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score,mcp_rank
+1734,Sohum Uttamchandani,2025,Discrete,242C,Lynbrook Wasabi,Lynbrook High School,Top Scores,1,9,1
+1726,Mittansh Bhatia,2025,Discrete,199B,BISV Team 1,BISV,Top Scores,2,8,2
+21,David Fox,2025,Discrete,092B,,,Top Scores,3,8,3
+357,Ryan Bansal,2025,Discrete,165B,AlphaStar Saturn,AlphaStar Academy,Top Scores,4,8,4
+396,Elena Ahn Beckman,2025,Discrete,011C,Areteem Institute,Areteem Institute,Top Scores,5,8,5
+322,Andrew Shi,2025,Discrete,177A,Harker Omicron,The Harker School,Top Scores,6,8,6
+211,Chenghao Hu,2025,Discrete,236A,Monta Vista Team A,Monta Vista High School Math and Science Club,Top Scores,7,8,7
+1770,Bosman Botha,2025,Discrete,167F,AlphaStar Mars,AlphaStar Academy,Top Scores,8,8,8
+387,Royce Yao,2025,Discrete,092A,,,Top Scores,9,7,9.5
+2507,Zhoulei (Charlie) Huang,2025,Discrete,086F,Pakgods,The King's Academy,Top Scores,9,7,9.5

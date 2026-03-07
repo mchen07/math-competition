@@ -1,33 +1,33 @@
-student_id,student_name,state,grade,school,award
-1011,Krittika Chandra,California,10th,Palo Alto HS,Gold
-227,Sylvia Lee,Massachusetts,11th,Lexington HS,Gold
-1077,Xinyi Li,Texas,10th,Stanford Online HS,Gold
-1342,Tianlin Jessica Liu,California,10th,Lynbrook HS,Gold
-1043,Heather Wang,California,11th,Harker School,Gold
-383,Laura Wang,Washington,10th,Lakeside School,Gold
-275,Catherine Xu,Iowa,12th,Iowa City West SHS,Gold
-1344,Jiayang Celina Chen,China,10th,Shanghai Foreign Language School,Silver
-65,Selena Ge,Massachusetts,10th,Lexington HS,Silver
-1333,Shuyin Liu,Washington,9th,Newport HS,Silver
-1343,Elaine Wu,Texas,10th,Clements HS,Silver
-1028,Jane Xie,New York,11th,Hunter College HS,Silver
-666,Shruti Arun,Colorado,12th,Cherry Creek HS,Bronze
-1010,Erin Bian,Washington,10th,Lakeside School,Bronze
-869,Sophia Chen,Indiana,8th,Davidson Academy Online,Bronze
-894,Kailua Cheng,California,12th,Amador Valley HS,Bronze
-1341,Hwiseo Irene Choi,Massachusetts,12th,Lexington HS,Bronze
-325,Amy Cui,Washington,12th,Lakeside School,Bronze
-1345,Anna Deng,California,12th,BASIS Independent Silicon Valley,Bronze
-1014,Lanie Deng,Missouri,10th,Central HS,Bronze
-1346,Adya Garg,Virginia,11th,Briar Woods HS,Bronze
-1347,Sophie Hong,Illinois,12th,Walter Payton College Prep,Bronze
-279,Sophia Hou,Virginia,12th,Thomas Jefferson HSST,Bronze
-1348,Haruka Kimura,Connecticut,10th,Darien HS,Bronze
-1331,Olivia Laido,New Jersey,9th,High Technology HS,Bronze
-232,Aashita Mandiwal,Utah,9th,West HS,Bronze
-1351,Annabel Rong,Georgia,11th,Fulton Science Academy,Bronze
-1332,Yunong Wu,New York,10th,Rye Country Day School,Bronze
-1278,Kaylyn Zhang,"Ontario, Canada",10th,University of Toronto Schools,Bronze
-1334,Sophie Zhang,"Ontario, Canada",12th,Havergal College,Bronze
-1271,Anna Zhou,Maryland,11th,Poolesville HS,Bronze
-1354,Paige Zhu,Massachusetts,11th,Phillips Academy Andover,Bronze
+student_id,student_name,state,grade,school,award,mcp_rank
+1011,Krittika Chandra,California,10th,Palo Alto HS,Gold,4
+227,Sylvia Lee,Massachusetts,11th,Lexington HS,Gold,4
+1077,Xinyi Li,Texas,10th,Stanford Online HS,Gold,4
+1342,Tianlin Jessica Liu,California,10th,Lynbrook HS,Gold,4
+1043,Heather Wang,California,11th,Harker School,Gold,4
+383,Laura Wang,Washington,10th,Lakeside School,Gold,4
+275,Catherine Xu,Iowa,12th,Iowa City West SHS,Gold,4
+1344,Jiayang Celina Chen,China,10th,Shanghai Foreign Language School,Silver,10
+65,Selena Ge,Massachusetts,10th,Lexington HS,Silver,10
+1333,Shuyin Liu,Washington,9th,Newport HS,Silver,10
+1343,Elaine Wu,Texas,10th,Clements HS,Silver,10
+1028,Jane Xie,New York,11th,Hunter College HS,Silver,10
+666,Shruti Arun,Colorado,12th,Cherry Creek HS,Bronze,22.5
+1010,Erin Bian,Washington,10th,Lakeside School,Bronze,22.5
+869,Sophia Chen,Indiana,8th,Davidson Academy Online,Bronze,22.5
+894,Kailua Cheng,California,12th,Amador Valley HS,Bronze,22.5
+1341,Hwiseo Irene Choi,Massachusetts,12th,Lexington HS,Bronze,22.5
+325,Amy Cui,Washington,12th,Lakeside School,Bronze,22.5
+1345,Anna Deng,California,12th,BASIS Independent Silicon Valley,Bronze,22.5
+1014,Lanie Deng,Missouri,10th,Central HS,Bronze,22.5
+1346,Adya Garg,Virginia,11th,Briar Woods HS,Bronze,22.5
+1347,Sophie Hong,Illinois,12th,Walter Payton College Prep,Bronze,22.5
+279,Sophia Hou,Virginia,12th,Thomas Jefferson HSST,Bronze,22.5
+1348,Haruka Kimura,Connecticut,10th,Darien HS,Bronze,22.5
+1331,Olivia Laido,New Jersey,9th,High Technology HS,Bronze,22.5
+232,Aashita Mandiwal,Utah,9th,West HS,Bronze,22.5
+1351,Annabel Rong,Georgia,11th,Fulton Science Academy,Bronze,22.5
+1332,Yunong Wu,New York,10th,Rye Country Day School,Bronze,22.5
+1278,Kaylyn Zhang,"Ontario, Canada",10th,University of Toronto Schools,Bronze,22.5
+1334,Sophie Zhang,"Ontario, Canada",12th,Havergal College,Bronze,22.5
+1271,Anna Zhou,Maryland,11th,Poolesville HS,Bronze,22.5
+1354,Paige Zhu,Massachusetts,11th,Phillips Academy Andover,Bronze,22.5

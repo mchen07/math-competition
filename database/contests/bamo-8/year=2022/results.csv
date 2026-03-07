@@ -1,36 +1,36 @@
-student_id,student_name,school,year,rank,score
-1061,Julia Xiang,Diablo Vista Middle School,2022,1,35
-2468,Taras Abakumov,Stella Schola Middle School,2022,2,34
-894,Kailua Cheng,Pleasanton MS,2022,2,34
-1761,Thomas Della Vigna,Prospect Sierra,2022,2,34
-9,Jonathan Du,Bullis Charter School,2022,5,33
-2449,Kyle Wan,Proof School,2022,6,31
-2413,Kieran Callahan,Synapse School,2022,7,30
-1065,Amelia Chen,Proof School,2022,7,30
-1913,Ryan Fu,Harvest Park MS,2022,7,30
-2469,Vinci Ho,Edna Brewer Middle School,2022,7,30
-2470,Ryan Lee,Fallon Middle School,2022,7,30
-2429,Lily Shi,The Harker School,2022,7,30
-1874,Julian Stockton,Proof School,2022,7,30
-1916,Nicholas Weng,Proof School,2022,7,30
-2471,Anju Aoi,Proof School,2022,Honorable Mention,
-1841,Asher Ding,Harvest Park MS,2022,Honorable Mention,
-2472,Kaison Fong,Davidson Academy Online,2022,Honorable Mention,
-2473,Justin Fu,Fallon Middle School,2022,Honorable Mention,
-25,Rohan Garg,Harvest Park MS,2022,Honorable Mention,
-2415,Minghao Guo,Portola Highly Gifted Magnet,2022,Honorable Mention,
-2474,Rithwik Gupta,Horner Middle School,2022,Honorable Mention,
-2475,Connor Huh,Proof School,2022,Honorable Mention,
-1935,Neil Kolekar,Proof School,2022,Honorable Mention,
-1359,Alena Kutsuk,Graham Middle School,2022,Honorable Mention,
-2476,Helen Law,Greene Middle School,2022,Honorable Mention,
-2477,Alexander Maresov,Tyee Middle School,2022,Honorable Mention,
-1914,Daniel Nie,Harvest Park MS,2022,Honorable Mention,
-2478,Ibrahim Piri,Los Angeles Center for Enriched Studies,2022,Honorable Mention,
-1862,Caden Ruan,The Harker School,2022,Honorable Mention,
-2479,Axel Szolusha,The Harker School,2022,Honorable Mention,
-1361,Lorraine Wang,Basis Independent Silicon Valley,2022,Honorable Mention,
-1467,Lucas Wang,Ellen Fletcher Middle School,2022,Honorable Mention,
-2480,Bryant Wang,Valley Christian Jr High School,2022,Honorable Mention,
-1088,Kallie Wang,The Harker School,2022,Honorable Mention,
-2451,Graham Zhang,Proof School,2022,Honorable Mention,
+student_id,student_name,school,year,rank,score,mcp_rank
+1061,Julia Xiang,Diablo Vista Middle School,2022,1,35,1
+2468,Taras Abakumov,Stella Schola Middle School,2022,2,34,3
+894,Kailua Cheng,Pleasanton MS,2022,2,34,3
+1761,Thomas Della Vigna,Prospect Sierra,2022,2,34,3
+9,Jonathan Du,Bullis Charter School,2022,5,33,5
+2449,Kyle Wan,Proof School,2022,6,31,6
+2413,Kieran Callahan,Synapse School,2022,7,30,10.5
+1065,Amelia Chen,Proof School,2022,7,30,10.5
+1913,Ryan Fu,Harvest Park MS,2022,7,30,10.5
+2469,Vinci Ho,Edna Brewer Middle School,2022,7,30,10.5
+2470,Ryan Lee,Fallon Middle School,2022,7,30,10.5
+2429,Lily Shi,The Harker School,2022,7,30,10.5
+1874,Julian Stockton,Proof School,2022,7,30,10.5
+1916,Nicholas Weng,Proof School,2022,7,30,10.5
+2471,Anju Aoi,Proof School,2022,Honorable Mention,,25
+1841,Asher Ding,Harvest Park MS,2022,Honorable Mention,,25
+2472,Kaison Fong,Davidson Academy Online,2022,Honorable Mention,,25
+2473,Justin Fu,Fallon Middle School,2022,Honorable Mention,,25
+25,Rohan Garg,Harvest Park MS,2022,Honorable Mention,,25
+2415,Minghao Guo,Portola Highly Gifted Magnet,2022,Honorable Mention,,25
+2474,Rithwik Gupta,Horner Middle School,2022,Honorable Mention,,25
+2475,Connor Huh,Proof School,2022,Honorable Mention,,25
+1935,Neil Kolekar,Proof School,2022,Honorable Mention,,25
+1359,Alena Kutsuk,Graham Middle School,2022,Honorable Mention,,25
+2476,Helen Law,Greene Middle School,2022,Honorable Mention,,25
+2477,Alexander Maresov,Tyee Middle School,2022,Honorable Mention,,25
+1914,Daniel Nie,Harvest Park MS,2022,Honorable Mention,,25
+2478,Ibrahim Piri,Los Angeles Center for Enriched Studies,2022,Honorable Mention,,25
+1862,Caden Ruan,The Harker School,2022,Honorable Mention,,25
+2479,Axel Szolusha,The Harker School,2022,Honorable Mention,,25
+1361,Lorraine Wang,Basis Independent Silicon Valley,2022,Honorable Mention,,25
+1467,Lucas Wang,Ellen Fletcher Middle School,2022,Honorable Mention,,25
+2480,Bryant Wang,Valley Christian Jr High School,2022,Honorable Mention,,25
+1088,Kallie Wang,The Harker School,2022,Honorable Mention,,25
+2451,Graham Zhang,Proof School,2022,Honorable Mention,,25

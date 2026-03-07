@@ -1,23 +1,23 @@
-student_id,student_name,state,grade,school,award
-123,Vivian Loh,Pennsylvania,11th,Winchester Thurston School,Gold
-93,Jessica Wan,Florida,11th,Florida Virtual School,Gold
-107,Annabel Ge,Washington,11th,Lakeside School,Silver
-544,Ivy Guo,Maryland,10th,Montgomery Blair HS,Silver
-444,Michelle Liang,California,11th,Canyon Crest Academy,Silver
-81,Angela Liu,California,10th,Homeschool,Silver
-1335,Katherine Liu,Texas,10th,Clements HS,Silver
-1132,Heyang Ni,New Jersey,11th,PRISMS,Silver
-1373,Saanvi Thummalapally,California,12th,Cupertino HS,Silver
-337,Emily Yu,New York,10th,Mendon HS,Silver
-140,Isabella Zhu,Virginia,12th,Thomas Jefferson HSST,Silver
-325,Amy Cui,Washington,9th,Lakeside School,Bronze
-1372,Fenghuan Linda He,Massachusetts,12th,Commonwealth School,Bronze
-439,Victoria Hu,California,11th,Saratoga HS,Bronze
-303,Alansha Jiang,Washington,10th,Newport HS,Bronze
-1127,Michelle Kang,Virginia,11th,Thomas Jefferson HSST,Bronze
-950,Kristine Lu,California,11th,University HS,Bronze
-1375,Annabel Ma,Illinois,12th,New Trier HS,Bronze
-426,Emily Ma,"Ontario, Canada",11th,Marc Garneau CI,Bronze
-448,Raina Wu,Washington,11th,Lakeside School,Bronze
-1337,Yuhan Jennifer Xiao,California,12th,Saratoga HS,Bronze
-1293,Olivia Xu,California,11th,Harker School,Bronze
+student_id,student_name,state,grade,school,award,mcp_rank
+123,Vivian Loh,Pennsylvania,11th,Winchester Thurston School,Gold,1.5
+93,Jessica Wan,Florida,11th,Florida Virtual School,Gold,1.5
+107,Annabel Ge,Washington,11th,Lakeside School,Silver,7
+544,Ivy Guo,Maryland,10th,Montgomery Blair HS,Silver,7
+444,Michelle Liang,California,11th,Canyon Crest Academy,Silver,7
+81,Angela Liu,California,10th,Homeschool,Silver,7
+1335,Katherine Liu,Texas,10th,Clements HS,Silver,7
+1132,Heyang Ni,New Jersey,11th,PRISMS,Silver,7
+1373,Saanvi Thummalapally,California,12th,Cupertino HS,Silver,7
+337,Emily Yu,New York,10th,Mendon HS,Silver,7
+140,Isabella Zhu,Virginia,12th,Thomas Jefferson HSST,Silver,7
+325,Amy Cui,Washington,9th,Lakeside School,Bronze,17
+1372,Fenghuan Linda He,Massachusetts,12th,Commonwealth School,Bronze,17
+439,Victoria Hu,California,11th,Saratoga HS,Bronze,17
+303,Alansha Jiang,Washington,10th,Newport HS,Bronze,17
+1127,Michelle Kang,Virginia,11th,Thomas Jefferson HSST,Bronze,17
+950,Kristine Lu,California,11th,University HS,Bronze,17
+1375,Annabel Ma,Illinois,12th,New Trier HS,Bronze,17
+426,Emily Ma,"Ontario, Canada",11th,Marc Garneau CI,Bronze,17
+448,Raina Wu,Washington,11th,Lakeside School,Bronze,17
+1337,Yuhan Jennifer Xiao,California,12th,Saratoga HS,Bronze,17
+1293,Olivia Xu,California,11th,Harker School,Bronze,17

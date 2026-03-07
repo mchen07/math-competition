@@ -1,13 +1,13 @@
-student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score
-2511,Rohan Mallick,2025,Geometry,054D,CCA Conspiracy,Canyon Crest Academy Math Team,Top Scores,1,8
-911,Eric Zou,2025,Geometry,117A,Think Overthinker,Think Academy Online,Top Scores,2,8
-372,Eric Shu,2025,Geometry,161C,AlphaStar Jupiter,AlphaStar Academy,Top Scores,3,8
-2510,Rutvik Arora,2025,Geometry,110C,MSJ Jupiter,Mission San Jose High School,Top Scores,4,8
-884,Shihan Kanungo,2025,Geometry,165A,AlphaStar Saturn,AlphaStar Academy,Top Scores,5,7
-1810,Edward Zeng,2025,Geometry,110F,MSJ Jupiter,Mission San Jose High School,Top Scores,6,7
-1002,Alexander Ruan,2025,Geometry,206E,Folsom High School,Folsom High School,Top Scores,7,7
-912,Brett Chang,2025,Geometry,013A,Rhombicosidodecahedron,Rhombicosidodecahedron,Top Scores,8,7
-1076,Kevin Li,2025,Geometry,097C,Carlmont Team Hatsune Miku,Carlmont High School,Top Scores,8,7
-7,Benjamin Fu,2025,Geometry,144F,Washington Gold,Seattle Infinity Math Circle,Top Scores,8,7
-2509,Kennan Suen,2025,Geometry,169E,AlphaStar Venus,AlphaStar Academy,Top Scores,8,7
-2508,Ben Oh,2025,Geometry,242B,Lynbrook Wasabi,Lynbrook High School,Top Scores,8,7
+student_id,student_name,year,subject,bmt_student_id,team_name,school,award,rank,score,mcp_rank
+2511,Rohan Mallick,2025,Geometry,054D,CCA Conspiracy,Canyon Crest Academy Math Team,Top Scores,1,8,1
+911,Eric Zou,2025,Geometry,117A,Think Overthinker,Think Academy Online,Top Scores,2,8,2
+372,Eric Shu,2025,Geometry,161C,AlphaStar Jupiter,AlphaStar Academy,Top Scores,3,8,3
+2510,Rutvik Arora,2025,Geometry,110C,MSJ Jupiter,Mission San Jose High School,Top Scores,4,8,4
+884,Shihan Kanungo,2025,Geometry,165A,AlphaStar Saturn,AlphaStar Academy,Top Scores,5,7,5
+1810,Edward Zeng,2025,Geometry,110F,MSJ Jupiter,Mission San Jose High School,Top Scores,6,7,6
+1002,Alexander Ruan,2025,Geometry,206E,Folsom High School,Folsom High School,Top Scores,7,7,7
+912,Brett Chang,2025,Geometry,013A,Rhombicosidodecahedron,Rhombicosidodecahedron,Top Scores,8,7,10
+1076,Kevin Li,2025,Geometry,097C,Carlmont Team Hatsune Miku,Carlmont High School,Top Scores,8,7,10
+7,Benjamin Fu,2025,Geometry,144F,Washington Gold,Seattle Infinity Math Circle,Top Scores,8,7,10
+2509,Kennan Suen,2025,Geometry,169E,AlphaStar Venus,AlphaStar Academy,Top Scores,8,7,10
+2508,Ben Oh,2025,Geometry,242B,Lynbrook Wasabi,Lynbrook High School,Top Scores,8,7,10

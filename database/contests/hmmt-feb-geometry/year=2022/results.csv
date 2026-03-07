@@ -1,51 +1,51 @@
-student_id,student_name,year,rank,score
-173,Luke Robitaille,2022,1,53.81
-174,Dylan Yu,2022,2,43.08
-135,Eric Shen,2022,3,29.31
-159,Karthik Vedula,2022,3,29.31
-180,Andrew Gu,2022,5,28.24
-57,Christopher Qiu,2022,6,27.17
-59,Henry Jiang,2022,6,27.17
-149,Suyash Pandit,2022,6,27.17
-155,Derek Liu,2022,6,27.17
-151,Aaron Guo,2022,6,27.17
-140,Isabella Zhu,2022,6,27.17
-178,Andrew Lee,2022,6,27.17
-184,Kevin Zhao,2022,13,25.21
-187,Kenneth Ang Chen,2022,14,24.08
-1138,Lucas Tang,2022,15,23.01
-456,Joseph Othman,2022,15,23.01
-198,Eddie Wei,2022,15,23.01
-132,Jason Mao,2022,18,21.95
-1457,Ben Li,2022,18,21.95
-81,Angela Liu,2022,18,21.95
-98,Elliott Liu,2022,18,21.95
-116,Justin Zhang,2022,18,21.95
-1513,Xuezhi Wang,2022,18,21.95
-93,Jessica Wan,2022,18,21.95
-145,Alex Li,2022,18,21.95
-115,Aaron Hu,2022,18,21.95
-154,Boris Tsvetanov Gachevski,2022,18,21.95
-1373,Saanvi Thummalapally,2022,18,21.95
-1,Alexander Wang,2022,29,21.89
-183,Johan Ko,2022,29,21.89
-197,Karthik Seetharaman,2022,29,21.89
-139,Skyler Le,2022,32,20.82
-1293,Olivia Xu,2022,32,20.82
-95,Razzi H. Masroor,2022,32,20.82
-1162,Justin Lee,2022,32,20.82
-122,David Jiahui Zhang,2022,32,20.82
-1514,Jerry Liang,2022,32,20.82
-123,Vivian Loh,2022,32,20.82
-1515,Nicholas Song,2022,32,20.82
-1516,Justin Li,2022,32,20.82
-202,Akash Madiraju,2022,32,20.82
-191,Rowechen Zhong,2022,32,20.82
-110,Wilbert Chu,2022,32,20.82
-1517,Chengcheng Qian,2022,44,19.93
-128,Brian Zhang,2022,44,19.93
-1165,Adam Tang,2022,46,17.79
-1497,Brandon Lou,2022,46,17.79
-1518,Matthew Ji Chen,2022,46,17.79
-434,Sargam Mondal,2022,46,17.79
-1187,Daeho Lee,2022,50,17.73
+student_id,student_name,year,rank,score,mcp_rank
+173,Luke Robitaille,2022,1,53.81,1
+174,Dylan Yu,2022,2,43.08,2
+135,Eric Shen,2022,3,29.31,3.5
+159,Karthik Vedula,2022,3,29.31,3.5
+180,Andrew Gu,2022,5,28.24,5
+57,Christopher Qiu,2022,6,27.17,9
+59,Henry Jiang,2022,6,27.17,9
+149,Suyash Pandit,2022,6,27.17,9
+155,Derek Liu,2022,6,27.17,9
+151,Aaron Guo,2022,6,27.17,9
+140,Isabella Zhu,2022,6,27.17,9
+178,Andrew Lee,2022,6,27.17,9
+184,Kevin Zhao,2022,13,25.21,13
+187,Kenneth Ang Chen,2022,14,24.08,14
+1138,Lucas Tang,2022,15,23.01,16
+456,Joseph Othman,2022,15,23.01,16
+198,Eddie Wei,2022,15,23.01,16
+132,Jason Mao,2022,18,21.95,23
+1457,Ben Li,2022,18,21.95,23
+81,Angela Liu,2022,18,21.95,23
+98,Elliott Liu,2022,18,21.95,23
+116,Justin Zhang,2022,18,21.95,23
+1513,Xuezhi Wang,2022,18,21.95,23
+93,Jessica Wan,2022,18,21.95,23
+145,Alex Li,2022,18,21.95,23
+115,Aaron Hu,2022,18,21.95,23
+154,Boris Tsvetanov Gachevski,2022,18,21.95,23
+1373,Saanvi Thummalapally,2022,18,21.95,23
+1,Alexander Wang,2022,29,21.89,30
+183,Johan Ko,2022,29,21.89,30
+197,Karthik Seetharaman,2022,29,21.89,30
+139,Skyler Le,2022,32,20.82,37.5
+1293,Olivia Xu,2022,32,20.82,37.5
+95,Razzi H. Masroor,2022,32,20.82,37.5
+1162,Justin Lee,2022,32,20.82,37.5
+122,David Jiahui Zhang,2022,32,20.82,37.5
+1514,Jerry Liang,2022,32,20.82,37.5
+123,Vivian Loh,2022,32,20.82,37.5
+1515,Nicholas Song,2022,32,20.82,37.5
+1516,Justin Li,2022,32,20.82,37.5
+202,Akash Madiraju,2022,32,20.82,37.5
+191,Rowechen Zhong,2022,32,20.82,37.5
+110,Wilbert Chu,2022,32,20.82,37.5
+1517,Chengcheng Qian,2022,44,19.93,44.5
+128,Brian Zhang,2022,44,19.93,44.5
+1165,Adam Tang,2022,46,17.79,47.5
+1497,Brandon Lou,2022,46,17.79,47.5
+1518,Matthew Ji Chen,2022,46,17.79,47.5
+434,Sargam Mondal,2022,46,17.79,47.5
+1187,Daeho Lee,2022,50,17.73,50

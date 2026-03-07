@@ -1,55 +1,55 @@
-student_id,student_name,year,rank,score
-52,Aiden Yuchan Jung,2025,,39.23
-57,Christopher Qiu,2025,1,39.23
-1,Alexander Wang,2025,2,37.08
-2,Bryan Sicheng Guo,2025,2,37.08
-54,HyunWoo Choi,2025,,37.08
-56,Channing Yang,2025,4,34.03
-67,Andrew Shen,2025,5,32.86
-68,Xilong Lin,2025,6,30.67
-53,Xiaohan Zhang,2025,7,29.64
-60,Haotian Zhou,2025,8,29.59
-61,Kailin Yang,2025,8,29.59
-55,Zongshu Wu,2025,8,29.59
-34,Jiahe Liu,2025,8,29.59
-10,Ruilin Wang,2025,8,29.59
-338,Katrina Liu,2025,8,29.59
-339,Ruoqing Yang,2025,14,27.61
-83,Skyler Mao,2025,15,26.49
-340,Vincent Loh,2025,16,26.39
-341,Alex Zhan,2025,17,25.37
-307,Steven Lou,2025,18,24.51
-132,Jason Mao,2025,19,24.24
-82,Edward Li,2025,19,24.24
-342,Christopher Kirilov Sakaliyski,2025,19,24.24
-272,Karn Chutinan,2025,19,24.24
-46,Ray Zhao,2025,19,24.24
-343,Jason Lee,2025,24,23.17
-344,Brandon Cai,2025,24,23.17
-345,Soham Dam,2025,24,23.17
-262,Aryan Raj,2025,24,23.17
-97,Eric Wang,2025,24,23.17
-62,Evan Fan,2025,24,23.17
-73,Andrew Carratu,2025,24,23.17
-35,William Hua,2025,24,23.17
-308,Muztaba Syed,2025,24,23.17
-346,RUIQI SHI,2025,24,23.17
-347,Shihan,2025,24,23.17
-78,William Zhao,2025,24,23.17
-22,Ian Rui,2025,24,23.17
-348,Kyle Liao,2025,24,23.17
-349,Tianxin Liu,2025,24,23.17
-19,Vihaan Gupta,2025,24,23.17
-28,Rohan Nayak Mallick,2025,24,23.17
-90,Rohan Das,2025,24,23.17
-9,Jonathan Du,2025,24,23.17
-69,Connor Leong,2025,24,23.17
-79,Surya Dinesh,2025,24,23.17
-14,Nathan Liu,2025,24,23.17
-71,Samuel J. Kretzschmar,2025,24,23.17
-70,Alexander Gu,2025,24,23.17
-279,Sophia Hou,2025,24,23.17
-29,Patrick Du,2025,24,23.17
-299,Xuzhou Ren,2025,24,23.17
-20,Ashvin Sinha,2025,24,23.17
-244,Jacob Ronan Khohayting,2025,24,23.17
+student_id,student_name,year,rank,score,mcp_rank
+52,Aiden Yuchan Jung,2025,,39.23,
+57,Christopher Qiu,2025,1,39.23,1
+1,Alexander Wang,2025,2,37.08,2.5
+2,Bryan Sicheng Guo,2025,2,37.08,2.5
+54,HyunWoo Choi,2025,,37.08,
+56,Channing Yang,2025,4,34.03,4
+67,Andrew Shen,2025,5,32.86,5
+68,Xilong Lin,2025,6,30.67,6
+53,Xiaohan Zhang,2025,7,29.64,7
+60,Haotian Zhou,2025,8,29.59,10.5
+61,Kailin Yang,2025,8,29.59,10.5
+55,Zongshu Wu,2025,8,29.59,10.5
+34,Jiahe Liu,2025,8,29.59,10.5
+10,Ruilin Wang,2025,8,29.59,10.5
+338,Katrina Liu,2025,8,29.59,10.5
+339,Ruoqing Yang,2025,14,27.61,14
+83,Skyler Mao,2025,15,26.49,15
+340,Vincent Loh,2025,16,26.39,16
+341,Alex Zhan,2025,17,25.37,17
+307,Steven Lou,2025,18,24.51,18
+132,Jason Mao,2025,19,24.24,21
+82,Edward Li,2025,19,24.24,21
+342,Christopher Kirilov Sakaliyski,2025,19,24.24,21
+272,Karn Chutinan,2025,19,24.24,21
+46,Ray Zhao,2025,19,24.24,21
+343,Jason Lee,2025,24,23.17,38
+344,Brandon Cai,2025,24,23.17,38
+345,Soham Dam,2025,24,23.17,38
+262,Aryan Raj,2025,24,23.17,38
+97,Eric Wang,2025,24,23.17,38
+62,Evan Fan,2025,24,23.17,38
+73,Andrew Carratu,2025,24,23.17,38
+35,William Hua,2025,24,23.17,38
+308,Muztaba Syed,2025,24,23.17,38
+346,RUIQI SHI,2025,24,23.17,38
+347,Shihan,2025,24,23.17,38
+78,William Zhao,2025,24,23.17,38
+22,Ian Rui,2025,24,23.17,38
+348,Kyle Liao,2025,24,23.17,38
+349,Tianxin Liu,2025,24,23.17,38
+19,Vihaan Gupta,2025,24,23.17,38
+28,Rohan Nayak Mallick,2025,24,23.17,38
+90,Rohan Das,2025,24,23.17,38
+9,Jonathan Du,2025,24,23.17,38
+69,Connor Leong,2025,24,23.17,38
+79,Surya Dinesh,2025,24,23.17,38
+14,Nathan Liu,2025,24,23.17,38
+71,Samuel J. Kretzschmar,2025,24,23.17,38
+70,Alexander Gu,2025,24,23.17,38
+279,Sophia Hou,2025,24,23.17,38
+29,Patrick Du,2025,24,23.17,38
+299,Xuzhou Ren,2025,24,23.17,38
+20,Ashvin Sinha,2025,24,23.17,38
+244,Jacob Ronan Khohayting,2025,24,23.17,38

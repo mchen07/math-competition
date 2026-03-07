@@ -1,26 +1,26 @@
-student_id,student_name,school,year,rank,score
-58,Hannah Fox,Proof School,2025,1,35
-328,Aryan Agrawal,Interlake HS,2025,2,28
-12,Alan Cheng,North Carolina School of Science and Math,2025,2,28
-897,Dylan Frake,Cupertino HS,2025,2,28
-19,Vihaan Gupta,The Harker School,2025,2,28
-331,Ritwin Narra,Silver Creek HS,2025,2,28
-482,David Zhang,Dougherty Valley HS,2025,2,28
-906,Ryan Wang,Granada HS,2025,8,27
-1446,Edward Li,Mercer Island HS,2025,9,26
-327,Hengrui Liang,The Harker School,2025,9,26
-1065,Amelia Chen,Proof School,2025,Honorable Mention,
-893,Hugh Cheng,Harvard-Westlake,2025,Honorable Mention,
-894,Kailua Cheng,Amador Valley HS,2025,Honorable Mention,
-1761,Thomas Della Vigna,Proof School,2025,Honorable Mention,
-21,David Fox,Proof School,2025,Honorable Mention,
-25,Rohan Garg,Amador Valley HS,2025,Honorable Mention,
-884,Shihan Kanungo,Homeschool,2025,Honorable Mention,
-348,Kyle Liao,Islander MS,2025,Honorable Mention,
-1019,Ishaan Mittal,Lynbrook HS,2025,Honorable Mention,
-665,Sohil Rathi,Lynbrook HS,2025,Honorable Mention,
-2407,Cooper Salts,Davidson Academy Online,2025,Honorable Mention,
-1029,Atticus Stewart,Geffen Academy,2025,Honorable Mention,
-1795,Alex Tsagaan,Gunn HS,2025,Honorable Mention,
-2408,Owen Xu,Berkeley Math Circle,2025,Honorable Mention,
-341,Alex Zhan,BASIS Independent Silicon Valley,2025,Honorable Mention,
+student_id,student_name,school,year,rank,score,mcp_rank
+58,Hannah Fox,Proof School,2025,1,35,1
+328,Aryan Agrawal,Interlake HS,2025,2,28,4.5
+12,Alan Cheng,North Carolina School of Science and Math,2025,2,28,4.5
+897,Dylan Frake,Cupertino HS,2025,2,28,4.5
+19,Vihaan Gupta,The Harker School,2025,2,28,4.5
+331,Ritwin Narra,Silver Creek HS,2025,2,28,4.5
+482,David Zhang,Dougherty Valley HS,2025,2,28,4.5
+906,Ryan Wang,Granada HS,2025,8,27,8
+1446,Edward Li,Mercer Island HS,2025,9,26,9.5
+327,Hengrui Liang,The Harker School,2025,9,26,9.5
+1065,Amelia Chen,Proof School,2025,Honorable Mention,,18
+893,Hugh Cheng,Harvard-Westlake,2025,Honorable Mention,,18
+894,Kailua Cheng,Amador Valley HS,2025,Honorable Mention,,18
+1761,Thomas Della Vigna,Proof School,2025,Honorable Mention,,18
+21,David Fox,Proof School,2025,Honorable Mention,,18
+25,Rohan Garg,Amador Valley HS,2025,Honorable Mention,,18
+884,Shihan Kanungo,Homeschool,2025,Honorable Mention,,18
+348,Kyle Liao,Islander MS,2025,Honorable Mention,,18
+1019,Ishaan Mittal,Lynbrook HS,2025,Honorable Mention,,18
+665,Sohil Rathi,Lynbrook HS,2025,Honorable Mention,,18
+2407,Cooper Salts,Davidson Academy Online,2025,Honorable Mention,,18
+1029,Atticus Stewart,Geffen Academy,2025,Honorable Mention,,18
+1795,Alex Tsagaan,Gunn HS,2025,Honorable Mention,,18
+2408,Owen Xu,Berkeley Math Circle,2025,Honorable Mention,,18
+341,Alex Zhan,BASIS Independent Silicon Valley,2025,Honorable Mention,,18

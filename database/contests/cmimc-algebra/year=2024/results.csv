@@ -1,11 +1,11 @@
-student_id,student_name,year,rank,score
-268,Kevin Yang,2024,1,40.86
-125,Pavan Jayaraman,2024,2,38.8
-40,Darsh Patel,2024,3,36.73
-132,Jason Mao,2024,4,33.37
-25,Rohan Garg,2024,5,31.38
-89,Jordan Lefkowitz,2024,6,30.45
-115,Aaron Hu,2024,6,30.45
-65,Selena Ge,2024,8,29.32
-877,Heyang Felicity Ni,2024,9,29.24
-326,Sicheng Zhou,2024,9,29.24
+student_id,student_name,year,rank,score,mcp_rank
+268,Kevin Yang,2024,1,40.86,1
+125,Pavan Jayaraman,2024,2,38.8,2
+40,Darsh Patel,2024,3,36.73,3
+132,Jason Mao,2024,4,33.37,4
+25,Rohan Garg,2024,5,31.38,5
+89,Jordan Lefkowitz,2024,6,30.45,6.5
+115,Aaron Hu,2024,6,30.45,6.5
+65,Selena Ge,2024,8,29.32,8
+877,Heyang Felicity Ni,2024,9,29.24,9.5
+326,Sicheng Zhou,2024,9,29.24,9.5
