@@ -42,12 +42,12 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 41,Eddy Zhang,Pennsylvania,1|32|73,,male,10
 42,Benjamin Song,New York,29|318,Ben Song,male,10
 43,Christopher Peng,Washington,7|89,,male,11
-44,Krithik Manoharan,Texas,24|86|110,,male,
+44,Krithik Manoharan,Texas,24|86|110,,male,9
 45,Aaryan Vaishya,Florida,19|291,,male,12
 46,Ray Zhao,Texas,8,,male,12
 47,Shaohuan Zhang,Michigan,30|34|298,,male,
 48,Varun Gadi,Georgia,31,,male,11
-49,Amogh Akella,Texas,24|110,,male,
+49,Amogh Akella,Texas,24|110,,male,12
 50,Yunzhe Bai,Massachusetts,26,,male,
 52,Aiden Yuchan Jung,,33|62,,male,
 53,Xiaohan Zhang,China,17|44,,male,
@@ -73,7 +73,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 76,Kiran Reddy,Nevada,4,,male,13
 77,Shunyao Yan,Virginia,10|72|85|292,,male,10
 78,William Zhao,California,40,,male,
-79,Surya Dinesh,Texas,13,,male,
+79,Surya Dinesh,Texas,13,,male,13
 80,Lerchen Zhong,Texas,24,,male,12
 81,Angela Liu,California,9|16,,female,13
 82,Edward Li,Iowa,41|89|113,,male,12
@@ -155,7 +155,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 171,Evan Chang,New Jersey,1,,male,
 172,Sumedh Vangara,,68,,male,
 173,Luke Robitaille,Texas,24,,male,16
-174,Dylan Yu,Texas,24,,male,
+174,Dylan Yu,Texas,24,,male,15
 175,Rishabh Das,New York,49,,male,
 177,Reagan Choi,Michigan,75,,male,
 178,Andrew Lee,,76,,male,
@@ -186,7 +186,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 210,Eric Zhu,North Carolina,92|109,Eric P Zhu,male,11
 211,Chenghao Hu,California,93|112,,male,
 212,Nathan Lu,Maryland,95|144,,male,11
-213,Darren Han,Texas,86,,male,
+213,Darren Han,Texas,86,,male,11
 214,Eric Guo,New Jersey,32|73|317,,male,
 215,Michael Chen,New Jersey,42,,male,11
 216,Lingfei Tang,North Carolina,92|109,,female,11
@@ -226,7 +226,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 251,Joshua Khohayting,California,19,,male,
 252,Arnav Iyengar,District of Columbia,83|251,,male,11
 253,Jaeho Lee,Texas,106,,male,
-254,Tarun Rapaka,Texas,86,,male,
+254,Tarun Rapaka,Texas,86,,male,11
 255,Todd Vijayakumar,,101,,male,
 256,Kylan Huang,New York,96|123,,male,12
 257,Daniel Ge,Washington,89|304,,male,12
@@ -938,7 +938,7 @@ student_id,student_name,state,team_ids,alias,gender,grade_in_2026
 984,Yoll Feng,Massachusetts,,,male,
 986,Kyle Lin,Texas,,,male,
 988,Kevin Long,New Jersey,,,male,
-989,Richard Wang,Texas,,,male,
+989,Richard Wang,Texas,,,male,11
 990,Leo Wu,"Ontario, Canada",,,male,
 991,Haofang Zhu,California,,,male,
 992,Aidan Bai,California,,,male,
