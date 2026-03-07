@@ -25,9 +25,9 @@
           <input type="text" id="reported-name" name="name" class="form-input" required placeholder="Full name as it appears in contest results">
         </div>
         <div class="form-field">
-          <label for="reported-state" class="form-label">State</label>
-          <select id="reported-state" name="state" class="form-select">
-            <option value="">Select state (optional)</option>
+          <label for="reported-state" class="form-label">State <span class="required">*</span></label>
+          <select id="reported-state" name="state" class="form-select" required>
+            <option value="">Select state</option>
             <option value="Alabama">Alabama</option>
             <option value="Alaska">Alaska</option>
             <option value="Arizona">Arizona</option>
@@ -87,8 +87,8 @@
           <input type="text" id="reported-contest" name="contest" class="form-input" required placeholder="e.g. AMC 10, MATHCOUNTS State, HMMT Feb 2025">
         </div>
         <div class="form-field">
-          <label for="reported-description" class="form-label">Description</label>
-          <textarea id="reported-description" name="description" class="form-textarea" rows="4" placeholder="Describe the concern and share a link to any evidence (e.g. screenshots, documents) uploaded to Google Drive, Dropbox, or other cloud storage."></textarea>
+          <label for="reported-description" class="form-label">Description <span class="required">*</span></label>
+          <textarea id="reported-description" name="description" class="form-textarea" rows="4" required placeholder="Describe the concern and share a link to any evidence (e.g. screenshots, documents) uploaded to Google Drive, Dropbox, or other cloud storage."></textarea>
         </div>
         <!-- Honeypot for bots -->
         <div class="form-field" style="position:absolute;left:-9999px" aria-hidden="true">

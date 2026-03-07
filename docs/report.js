@@ -35,7 +35,7 @@ form.addEventListener('submit', async (e) => {
     description: document.getElementById('reported-description').value.trim(),
   };
 
-  if (!data.name || !data.contest) {
+  if (!data.name || !data.state || !data.contest || !data.description) {
     showStatus('Please fill in the required fields.', 'error');
     return;
   }
