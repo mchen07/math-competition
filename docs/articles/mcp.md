@@ -99,7 +99,7 @@ Before computing points, all results are normalized to a single numeric `mcp_ran
 
 Every `mcp_rank` is converted to points via **geometric interpolation** between a maximum and a floor:
 
-$$\text{mcp{\_}points}(r) = \text{round}\left(\text{max{\_}pts} \times \left(\frac{\text{min{\_}pts}}{\text{max{\_}pts}}\right)^{\frac{r-1}{N-1}}\right)$$
+$$\text{mcp}\_\text{points}(r) = \text{round}\left(\text{max}\_\text{pts} \times \left(\frac{\text{min}\_\text{pts}}{\text{max}\_\text{pts}}\right)^{\frac{r-1}{N-1}}\right)$$
 
 where:
 - `r` = the student's `mcp_rank` (can be fractional for ties)
@@ -117,7 +117,7 @@ Between these anchors, points decay by a **constant percentage per rank**, produ
 
 The decay rate adapts automatically to the field size:
 
-$$\text{Decay ratio} = \left(\frac{\text{min{\_}pts}}{\text{max{\_}pts}}\right)^{\frac{1}{N-1}}$$
+$$\text{Decay ratio} = \left(\frac{\text{min}\_\text{pts}}{\text{max}\_\text{pts}}\right)^{\frac{1}{N-1}}$$
 
 | Competition | Tier | N | Decay per rank |
 |---|---|---|---|
@@ -240,11 +240,11 @@ The **Math Prize for Girls (MPFG)** and **MPFG-Olympiad** are Tier 500 competiti
 
 A student's **MCP** is the sum of their effective (decay-weighted) points across all eligible competitions:
 
-$$\text{MCP} = \sum_{c \in \text{competitions}} \sum_{y=0}^{3} \text{mcp{\_}points}(c, y) \times \left(\frac{1}{2}\right)^y$$
+$$\text{MCP} = \sum_{c \in \text{competitions}} \sum_{y=0}^{3} \text{mcp}\_\text{points}(c, y) \times \left(\frac{1}{2}\right)^y$$
 
 with the exception of MathCounts, which uses:
 
-$$\text{MCP}_{\text{MathCounts}} = \sum_{y \in \text{all years}} \text{mcp{\_}points}(\text{MathCounts}, y) \times 1.0$$
+$$\text{MCP}\_{\text{MathCounts}} = \sum_{y \in \text{all years}} \text{mcp}\_\text{points}(\text{MathCounts}, y) \times 1.0$$
 
 There is **no cap** on the number of competitions counted. A student who competes broadly and performs well everywhere will be rewarded, just as in tennis.
 
@@ -256,7 +256,7 @@ Only `mcp_rank` is stored in the competition CSV files. `mcp_points` is computed
 
 ### MCP-W (for female students)
 
-$$\text{MCP-W} = \text{MCP} + \sum_{c \in \lbrace\text{MPFG, MPFG-Olympiad}\rbrace} \sum_{y=0}^{3} \text{mcp{\_}points}(c, y) \times \left(\frac{1}{2}\right)^y$$
+$$\text{MCP-W} = \text{MCP} + \sum_{c \in \lbrace\text{MPFG, MPFG-Olympiad}\rbrace} \sum_{y=0}^{3} \text{mcp}\_\text{points}(c, y) \times \left(\frac{1}{2}\right)^y$$
 
 ---
 
