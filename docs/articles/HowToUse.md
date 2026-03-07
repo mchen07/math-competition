@@ -20,11 +20,17 @@ This database focuses on competitions with strong integrity controls:
 
 | Contest | Why It's Here |
 |---|---|
-| USAMO / USJMO | Proof-based, expert-graded, nearly impossible to fake |
-| IMO | International Olympiad — the gold standard |
-| HMMT (February) | In-person at Harvard/MIT, strict proctoring |
+| USAMO / USAJMO | Proof-based, expert-graded, nearly impossible to fake |
+| IMO, EGMO, RMM | International olympiads — official results, strong proctoring |
+| HMMT (February & November) | In-person at Harvard/MIT, strict proctoring |
 | CMIMC | In-person at CMU, strong proctoring |
 | MathCounts National | Nationally administered, tight venue control |
+| PUMaC | In-person at Princeton, controlled university venue |
+| ARML | In-person at regional sites, supervised team and relay rounds |
+| DMM | In-person at Duke with strong proctoring |
+| CMM | In-person at Caltech with strong proctoring |
+| MPFG | In-person at MIT for top female high school students |
+| BAMO | Proof-based, in-person Bay Area olympiad |
 
 ## Using the Website
 
